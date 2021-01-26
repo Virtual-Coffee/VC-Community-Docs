@@ -27,10 +27,3 @@ jobs:
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/2'
         column_name: 'Unassigned'
-    - name: "Assign issues with `Lightning Talk: Individual Talk` label to mentor project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Lightning Talk: Individual Talk')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/3'
-        column_name: 'Unassigned'
