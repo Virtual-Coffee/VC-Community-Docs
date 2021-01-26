@@ -2,7 +2,7 @@
 name: 'Lightning Talks: Individual Talk'
 about: Track tasks and collect information for an individual talk
 title: ''
-labels: 'Lightning Talk 02-2021, Lightning Talk: Individual Talk'
+labels: 'Lightning Talk: Individual Talk'
 assignees: ''
 
 ---
@@ -18,8 +18,19 @@ assignees: ''
 - [ ] Schedule
 - [ ] Add to channel
 - [ ] Sound/AV check
-- [ ] Check-in week before
+- [ ] Check-in week before -  get final length of time for talk, and final talk description
 - [ ] Check-in the day of
 - [ ] Create intro slide (template in #5)
 
 # Info from form:
+
+# Notes
+## For info collected from speakers, add to the issue with the following template:
+
+## {Speaker Name} - {time scheduled}
+{Twitter Handle} 
+- Topic Title: {add title}
+
+- Bio: {bio}
+- Talk Description:  {Add description}
+- Slides Link: {Add slides link}
