@@ -24,3 +24,10 @@ Thank you so much for all your support. We want to make sure that we're supporti
 - You have support too! Reach out to other mentors in the #lightning-talk-mentor channel or to anyone on the lightning-talk team.
 - Life happens and sometimes we need to back out of volunteer opportunities. That's ok. Just let your coordinator know ASAP, and don't feel obligated to give a reason.
 - Please don't speak negatively about the speakers or anyone on the team. If you're having an issue, speak with one of the lightning-talk team leaders.
+- A mentor can provide a gentle reminder that you're available.
+- Ask if they have a specific topic/area they want to discuss or work on, but be prepared with 1-2 items if they're not sure.
+- Spend a little time rapport building, trust takes time (my suggestion is to display a little vulnerability, describing a mistake that you learned from as an example)
+- Set clear boundaries when it comes to your time right up front (1 mtg per week 30 minutes, for example)
+## Specific to the presentation topic:
+- Physical note cards for attempting to organize topics are useful
+- If synchronizing schedules is difficult, have them record a presentation for you to review at your pace
