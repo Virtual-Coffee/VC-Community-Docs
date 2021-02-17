@@ -2,6 +2,10 @@
 
 Welcome to the Coffee docs! Thank you all for supporting Virtual Coffee!
 
+Being a room leader/notetaker shouldn't be something that stresses you out. Every person in the room has the opportunity to contribute to the conversation and/or to add notes. 
+
+The goal for T/R coffees is to be part of a community and not to distance ourselves from it. These docs are to written with the intention of supporting our wonderful volunteers.
+
 ## HOSTS:
 https://github.com/Virtual-Coffee/VC-Events/tree/main/coffees/hosts
 
