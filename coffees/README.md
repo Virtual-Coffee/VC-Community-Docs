@@ -1,8 +1,8 @@
 # Coffee Chats
 
-Welcome to the Coffee docs! Thank you all for supporting Virtual Coffee!
+Welcome to the Coffee docs! **Thank you all for supporting Virtual Coffee!**
 
-Just a friendly reminder that being a room leader/notetaker shouldn't be something that stresses you out. Every person in the room has the opportunity to contribute to the conversation and/or to add notes.
+> :triangular_flag_on_post: Hey - Just a friendly reminder that being a room leader/notetaker shouldn't be something that stresses you out. Every person in the room has the opportunity to contribute to the conversation and/or to add notes.
 
 The goal for Coffees is to be part of a community and not to distance ourselves from it. These docs are to written with the intention of supporting our wonderful volunteers.
 
