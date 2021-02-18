@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: 'Lightning Talks: Questions/Ideas/Feedback'
     url: 'https://github.com/orgs/Virtual-Coffee/teams/lightning-talk-team/discussions'
