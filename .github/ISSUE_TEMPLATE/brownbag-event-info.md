@@ -1,8 +1,8 @@
 ---
-name: 'Brownbag Session'
+name: Brownbag Session
 about: Track tasks and collect information for a brownbag session
 title: ''
-labels: 'Brownbag Event'
+labels: Brownbag
 assignees: ''
 
 ---
@@ -16,7 +16,6 @@ assignees: ''
 - MC/Moderator
 - Host
 - Comms 
-- Host
 - Video Editor
 
 ## Timeline of events
@@ -73,9 +72,3 @@ assignees: ''
 - [ ] Video Editor prepares the video for release on youtube
 - [ ] Video editor lets comms know the video is ready and provides details
 - [ ] Comms shares video details in relevant channels and adds info to upcoming newsletter
-
-
-
-
-
-
