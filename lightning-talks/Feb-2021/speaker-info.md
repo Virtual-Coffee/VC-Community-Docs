@@ -34,6 +34,14 @@ https://drive.google.com/file/d/1cSOjaa05dRXIpGIFia38eT_8USF5ePnK/view?usp=shari
 # Time: 11:15 - 11:35
 # Speaker: @Rafi
 
+## Bio:
+I’m a developer who works mostly in Javascript. I build things, talk tech and write things. I do love learning human languages :slightly_smiling_face:
+
+## Social:
+* https://twitter.com/approxhuman
+* https://dev.to/rafi993
+* https://rafi993.me/
+
 
 # Time: 11:35 - 11:45
 # Speaker: @Vic
