@@ -48,6 +48,18 @@ I’m a developer who works mostly in Javascript. I build things, talk tech and 
 # Time: 11:35 - 11:45
 # Speaker: @Vic
 
+## Topic Title: 
+## Bio: 
+Vic is a principal software engineer at Research Square, a preprint platform. When he’s not at his day job he works on his bootstrapped startup Everyoak - a school management system. Vic is addicted to building things.
+## Social:
+* VicVijayakumar.com
+* http://twitter.com/vicvijayakumar
+## Talk Description:
+## Slides Link: None.
+## Photo
+![Headshot](https://user-images.githubusercontent.com/26224873/108761454-c9478480-7546-11eb-93d0-8223d04f90d9.jpeg)
+
+
 # Time: 11:45 - 11:50
 # Speaker: @Barbara
 
@@ -121,6 +133,9 @@ My journey from independent contributor to engineering manager
 https://glenmccallum.com/
 https://twitter.com/glenmccallumcan
 glen.mccallum@protonmail.com
+
+## Glen headshot:
+![Headshot](https://user-images.githubusercontent.com/26224873/108110459-2f399500-708b-11eb-9e4e-c484495f0eeb.png)
 
 # Time 12:55 - 1:10
 ## Speaker: @Marie
