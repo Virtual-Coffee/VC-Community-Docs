@@ -144,8 +144,8 @@ glen.mccallum@protonmail.com
 Marie Antons, from Cedar Rapids Iowa. I changed careers from the culinary industry to software development in 2020 after living in Bermuda for four years. I work for a small start-up called STRATAFOLIO located in Cedar Rapids,Iowa. In my free time I enjoy exploring new places, sailing, and continuing my passion for cooking. 
 
 ## Contact:
-https://twitter.com/MarieAntons
-https://www.linkedin.com/in/marieantons/
+* https://twitter.com/MarieAntons
+* https://www.linkedin.com/in/marieantons/
 
 
 # Time 1:10 - 1:30
