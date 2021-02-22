@@ -1,8 +1,19 @@
+---------
+## Template
+# Speaker: @
 
+## Topic Title: 
+## Bio: 
+## Social:
+## Talk Description: 
+## Slides Link: {Add slides link}
+## Photo
+--------
+
+# Time: 11:05 - 11:15
 # Speaker: @BekahHW
 
-## Topic Title: You have what they don't: Leveraging your non-traditional background
-
+## Topic Title: The Joy of Dev Life: A Bob Ross Approach
 ## Bio: 
 Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then she has started a consultancy specializing in front-end development, created a developer community called Virtual Coffee, stayed active on Twitter and in tech-related slack groups, spoke on podcasts and at conferences, and has continued to mom her four kids. Prior to tech, she spent 10 years teaching college English, three years organizing events and community, and fully embraces being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
 
@@ -12,12 +23,28 @@ Bekah graduated from the Flatiron School Software Engineering program in May of 
 - Virtual Coffee: https://virtualcoffee.io
 
 ## Talk Description: 
-We all bring something to the table, a different perspective, a different experience, an opportunity to allow other people to grow by sharing our own perspectives, a skillset. And when we share our own experiences, when we leverage our backgrounds, not only do we offer others an opportunity to grow by understanding our perspective, but we also invite them to share their own perspectives so we can grow. And the depth created by approaching a problem from multiple perspectives is the growth and development we all should strive for.
-Talking about taking non-tradition experiences, work-related or otherwise, and using that to gain confidence in learning to code and applying for jobs
+Bob Ross once said "[Coders] are a different breed of people. We’re a happy bunch.” Ok, well that's not what he said. He really said, “We artists are a different breed of people. We’re a happy bunch.” But it would be nice if we all were a happy bunch, right? So let's take some of that Bob Ross wisdom and apply it to dev life. And then maybe we, too, can be a happy bunch.
 
 ## Slides Link: {Add slides link}
+https://docs.google.com/presentation/d/1APdg8PRbMOek5mNto5vO6tEZVxaxc2tmNh77UfUnhYs/edit#slide=id.gaf319132fd_0_9
+
+## Photo
+https://drive.google.com/file/d/1cSOjaa05dRXIpGIFia38eT_8USF5ePnK/view?usp=sharing
+
+# Time: 11:15 - 11:35
+# Speaker: @Rafi
 
 
+# Time: 11:35 - 11:45
+# Speaker: @Vic
+
+# Time: 11:45 - 11:50
+# Speaker: @Barbara
+
+# Time: 11:50 - 12:00
+# Speaker: @Mike Rogers
+
+# Time: 12:00-12:10
 # Speaker: Chris Demars
 
 ## Topic Title: A11Y
@@ -37,8 +64,76 @@ Twitch: https://www.twitch.tv/saltnburnem313
 ## Headshot
 ![New-Headshot](https://user-images.githubusercontent.com/12350042/108100207-9e939280-7053-11eb-8278-9007df8480c9.png)
 
-## Speaker
-Todd Libby
+
+# INTERMISSION
+
+# Time 12:20-12:35
+## Speaker: @Kirk
+
+### Bio
+- A full stack developer in the Caribbean interested in Functional Programming, Domain Driven Development, and Security
+
+### Social
+- @KirkCodes on Twitter
+
+### Headshot: 
+![A7274D2A-A157-4300-985A-BEF6328E1DCA](https://user-images.githubusercontent.com/4391491/107452826-8bdb0400-6b0f-11eb-8f14-c058aa6ee4ee.jpeg)
+
+# Time 12:35 - 12:45
+# Speaker: Courtney Landau
+
+## Topic Title: Breaking down coding problems in interviews
+
+## Bio: 
+Courtney is a software engineer currently working at an early-stage startup in the Education Technology space. Previously in the medical imaging field, she’s been working in the industry since 2019 after obtaining her Master’s in Information Sciences. She works on full-stack web applications using primarily TypeScript and JavaScript, built on a cloud platform. For fun she likes to run, play board games with her family, and (when safe) patronize local independent restaurants and breweries. 
+
+## Social:
+- Twitter: https://twitter.com/sosuperc
+- Website: https://celandau.com
+
+## Talk Description: 
+
+
+## Slides Link: {Add slides link}
+
+# Time 12:45 - 12:55
+## Speaker: @Glen
+## Glen bio:
+
+Glen McCallum is a builder of things, sometimes software, with a Masters in Computer Science. A true INFJ, he likes helping people without drawing attention to himself. He works as an Engineering Manager for Independent Publishers Group. Ex-Oracle. Herder of goats. Proud owner of an artificial pancreas.
+
+## Glen title:
+
+My journey from independent contributor to engineering manager
+
+## Glen links:
+
+https://glenmccallum.com/
+https://twitter.com/glenmccallumcan
+glen.mccallum@protonmail.com
+
+# Time 12:55 - 1:10
+## Speaker: @Marie
+
+
+# Time 1:10 - 1:30
+## Speaker: @Nerando
+## BIO :     
+
+This is Nerando, he enjoys using programming to solve problems. Nerando has been a community organizer for freeCodeCamp Atlanta for over the last two - three years. Most recently, he recently completed the Flatiron School's FullStack Software Engineering Immersive (completed Sept 2019) and has been a QA/ Jnr Software Engineer at WarnerMedia. He like to cook and collect Legoes.  
+
+## Contact Links : 
+
+Twitter : https://twitter.com/nerajno
+Email: Iamnerandojohnson@gmail.com
+
+## Headshot:
+
+![nerajno](https://user-images.githubusercontent.com/26224873/108532302-9d6e9980-72cf-11eb-9f32-7f9315d7f799.png)
+
+
+# Time 1:30-1:40
+## Speaker: @Todd Libby
 ## Topic Title
 Start your A11y Journey: How to Become an Accessibility Advocate
 ## Bio
@@ -65,17 +160,8 @@ https://drive.google.com/file/d/1llbuL__Gu9uworXXSTdyKw1LMrctIblg/view?usp=shari
 ## Photo
 ![128218051_149166026950600_1903796421533337629_n](https://user-images.githubusercontent.com/12350042/108007193-5b8ddc80-6fcb-11eb-98b0-f3f6fba614cb.jpg)
 
+# Time 1:40-1:40
+## Speaker: @Dan Ott
 
-## Glen bio:
 
-Glen McCallum is a builder of things, sometimes software, with a Masters in Computer Science. A true INFJ, he likes helping people without drawing attention to himself. He works as an Engineering Manager for Independent Publishers Group. Ex-Oracle. Herder of goats. Proud owner of an artificial pancreas.
 
-## Glen title:
-
-My journey from independent contributor to engineering manager
-
-## Glen links:
-
-https://glenmccallum.com/
-https://twitter.com/glenmccallumcan
-glen.mccallum@protonmail.com
