@@ -152,6 +152,9 @@ This is Nerando, he enjoys using programming to solve problems. Nerando has been
 Twitter : https://twitter.com/nerajno
 Email: Iamnerandojohnson@gmail.com
 
+## Slides:
+Has confirmed he will have slides, hopefully in by end of Monday.
+
 ## Headshot:
 
 ![nerajno](https://user-images.githubusercontent.com/26224873/108532302-9d6e9980-72cf-11eb-9f32-7f9315d7f799.png)
