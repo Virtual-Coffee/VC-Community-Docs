@@ -1,5 +1,3 @@
-> A template script for the Lightning Talk MC to follow.
-
 # INTRO
 - Welcome everyone! We're getting started on time, we just want to give people a couple of minutes to come in and get settled.  
 
