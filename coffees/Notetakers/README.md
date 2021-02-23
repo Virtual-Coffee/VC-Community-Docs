@@ -10,7 +10,7 @@ _Initial Conversation here tends to be random and lighthearted, so this section 
 ### {Breakout room} - Minutes for {Day} {date} {Month} {year} edition of Virtual Coffee!*
 
 #### ICEBREAKER TOPIC: {Insert Question/theme of day here}
-###### RESPONSES
+##### RESPONSES
 - Record Question Responses and make note of any new persons -- names can be recorded here}
 ##### MAIN CONVERSATION: {Insert topic here, if there is one.}
 - Note highlights, advice, experiences
