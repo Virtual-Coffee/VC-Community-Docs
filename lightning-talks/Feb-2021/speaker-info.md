@@ -213,8 +213,19 @@ https://drive.google.com/file/d/1llbuL__Gu9uworXXSTdyKw1LMrctIblg/view?usp=shari
 ## Photo
 ![128218051_149166026950600_1903796421533337629_n](https://user-images.githubusercontent.com/12350042/108007193-5b8ddc80-6fcb-11eb-98b0-f3f6fba614cb.jpg)
 
-# Time 1:40-1:40
-## Speaker: @Dan Ott
+# Time 1:40-2:10
+# Speaker: @DanOtt
+
+## Topic Title: Graceful Solutions to Tricky Layouts w/ CSS Grid
+## Bio: 
+Dan is your friendly neighborhood co-organizer of Cleveland React. Front-end developer, maintainer at https://VirtualCoffee.io, and father to two ridiculous little boys.
+## Social: 
+Web: https://dtott.com Twitter: https://twitter.com/danieltott
+## Talk Description: 
+Layout on web pages has always been a bit of a hack. The first web pages were simply documents, and so HTML (and later, CSS) had tools simply for enhancing the look and feel of a document, as opposed to placing elements in certain areas on a page. At some point designers started trying to make web pages that looked more like magazine articles or computer applications, but had to work with document-related tools to do so. Table layouts, CSS positioning, floats, even flexbox - none of these technologies were initially meant for page layout. CSS Grid is that tool. CSS Grid is powerful and complex, and introduces syntax and concepts to CSS that have not been seen before. This can make getting started with it seem overwhelming even for an experienced developer! In this Lightning Talk, I'm going to concentrate on a small chunk of the CSS Grid spec, and show some examples of how CSS Grid can solve some common-but-annoying layouts with just a few lines of CSS, and if we have time, maybe look at some cool tricks along the way.
+## Slides Link: n/a
+## Photo ![dan 2021 s](https://user-images.githubusercontent.com/360261/108754534-0b0b0780-7514-11eb-8916-e9fbd2c988b2.jpg)
+
 
 
 
