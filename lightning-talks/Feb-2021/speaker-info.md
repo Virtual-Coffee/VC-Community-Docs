@@ -220,7 +220,7 @@ https://drive.google.com/file/d/1llbuL__Gu9uworXXSTdyKw1LMrctIblg/view?usp=shari
 
 ## Topic Title: Graceful Solutions to Tricky Layouts w/ CSS Grid
 ## Bio: 
-Dan is your friendly neighborhood co-organizer of Cleveland React. Front-end developer, maintainer at https://VirtualCoffee.io, and father to two ridiculous little boys.
+Dan Ott has been an independent front-end designer and developer for over 15 years. He is a maintainer at Virtual Coffee, co-founder/organizer of Cleveland React, and father to two ridiculous little boys.
 ## Social: 
 Web: https://dtott.com Twitter: https://twitter.com/danieltott
 ## Talk Description: 
