@@ -45,6 +45,8 @@ I’m a developer who works mostly in Javascript. I build things, talk tech and 
 ## Photo:
 ![signal-2021-02-22-192851](https://user-images.githubusercontent.com/12350042/108725437-61684e00-74f4-11eb-9bea-88fe5e8beb06.jpg)
 
+## Slides Link: [ipfs.pdf](https://github.com/Virtual-Coffee/VC-Events/files/6030602/ipfs.pdf)
+
 # Time: 11:35 - 11:45
 # Speaker: @Vic
 
