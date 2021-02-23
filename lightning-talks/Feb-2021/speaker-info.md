@@ -63,6 +63,24 @@ Vic is a principal software engineer at Research Square, a preprint platform. Wh
 # Time: 11:45 - 11:50
 # Speaker: @Barbara
 
+## Topic Title: Coding Challenges - not just for whiteboarding
+
+## Bio: 
+Barbara is currently transitioning into a new career as a full-stack developer from life as a stay-at-home parent to two wild little ones. When she's not solving coding challenges or building clients' sites she enjoys reading all the books, learning spoken languages, and picking up random hobbies like balloon animal twisting.
+
+## Social:
+* https://twitter.com/BlawblawLaw 
+* https://barbaralaw.me/ 
+* https://www.linkedin.com/in/lawbarbara/ 
+
+## Talk Description: 
+I'm a beginner and want to share how particpaiin coding challenges like Advent of Code, Scrimba weekly challenges, and codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
+
+## Slides Link: {Add slides link}
+
+## Photo
+![headshot](https://user-images.githubusercontent.com/12350042/108842900-f4ae8b80-75a7-11eb-8dea-bbf46afaac2c.jpg)
+
 # Time: 11:50 - 12:00
 # Speaker: @Mike Rogers
 
