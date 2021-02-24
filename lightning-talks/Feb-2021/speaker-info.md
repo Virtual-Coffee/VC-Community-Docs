@@ -130,13 +130,19 @@ Twitch: https://www.twitch.tv/saltnburnem313
 # Time 12:20-12:35
 ## Speaker: @Kirk
 
-### Bio
+## Topic Title: Fuzz-Testing in Typescript
+
+## Bio
 - A full stack developer in the Caribbean interested in Functional Programming, Domain Driven Development, and Security
 
-### Social
+## Social
 - @KirkCodes on Twitter
 
-### Headshot: 
+## Talk Description: 
+
+## Slides Link: {Add slides link}
+
+## Headshot: 
 ![A7274D2A-A157-4300-985A-BEF6328E1DCA](https://user-images.githubusercontent.com/4391491/107452826-8bdb0400-6b0f-11eb-8f14-c058aa6ee4ee.jpeg)
 
 # Time 12:35 - 12:45
