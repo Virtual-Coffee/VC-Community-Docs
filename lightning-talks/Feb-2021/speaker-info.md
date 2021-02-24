@@ -76,7 +76,7 @@ Barbara is currently transitioning into a new career as a full-stack developer f
 * https://www.linkedin.com/in/lawbarbara/ 
 
 ## Talk Description: 
-I'm a beginner and want to share how particpaiin coding challenges like Advent of Code, Scrimba weekly challenges, and codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
+I'm a beginner and want to share how participating in coding challenges like Advent of Code, Scrimba weekly challenges, and codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
 
 ## Slides Link: {Add slides link}
 
@@ -85,6 +85,24 @@ I'm a beginner and want to share how particpaiin coding challenges like Advent o
 
 # Time: 11:50 - 12:00
 # Speaker: @Mike Rogers
+
+## Topic Title: Docker For Developer Happiness
+
+## Bio: 
+Independent Founder & YouTuber from in the UK, who primarily works with Ruby on Rails.
+
+## Social:
+* https://mikerogers.io/
+* https://twitter.com/mikerogers0
+* https://www.youtube.com/c/MikeRogers0
+
+## Talk Description: 
+Docker allowed me to extract lots of my apps complexity by reducing the amount of dependencies I had to install. I want to share information about how to get up & going, with enough working knowledge to have fun :D
+
+## Slides Link: {Add slides link}
+
+## Photo
+![headshot](https://user-images.githubusercontent.com/4391491/108928693-34a55b00-7608-11eb-910e-74ccc41a3939.jpg)
 
 # Time: 12:00-12:10
 # Speaker: Chris Demars
