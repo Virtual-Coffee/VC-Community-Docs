@@ -34,13 +34,18 @@ jobs:
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/5'
         column_name: 'Inbox'
-    - name: "Assign issues with `Brownbag: Post-production` label to brownbag post-production project"
+    - name: "Assign issues with `Brownbag` and `Brownbag: Post-production` label to brownbag post-production project"
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
-        contains(github.event.issue.labels.*.name, 'Brownbag: Post-production')
+        github.event == 'issue' &&
+        (
+          github.event.action == 'opened' &&
+          contains(github.event.issue.labels.*.name, 'Brownbag') ||
+          contains(github.event.issue.labels.*.name, 'Brownbag: Post-production')
+        )
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/6'
-        column_name: 'Awaiting Info'
+        column_name: 'Inbox'
         
         
         
