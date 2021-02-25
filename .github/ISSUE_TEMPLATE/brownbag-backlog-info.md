@@ -3,7 +3,6 @@ name: Brownbag Backlog Issue Template
 about: Contains info for the backlogged brownbag videos
 title: "[TALK TITLE] by [SPEAKER NAME]"
 labels: "Brownbag, Brownbag: TODO, Brownbag: Post-production"
-assignees: "@Virtual-Coffee/audio-visual-team"
 ---
 
 Below is the info at hand for this brownbag event. Check the comments and project board status for any missing information. Items marked with an asterisk are required before publishing the final video.
