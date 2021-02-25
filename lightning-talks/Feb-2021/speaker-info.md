@@ -205,8 +205,7 @@ Twitter : https://twitter.com/nerajno
 Email: Iamnerandojohnson@gmail.com
 
 ## Slides:
-Link: ![Slides](https://docs.google.com/presentation/d/1H9bTRHR56l_kYZP6Y-yiCVwkZrSbR0dloDehZcX8VQk/edit?usp=sharing)
-Need to resolve access.
+Link: ![Slides](https://docs.google.com/presentation/d/1KIRZr4dLWEAvhisi_wMdhjrWx2gwtzSYd1LH63l2838/edit?usp=sharing)
 
 ## Headshot:
 
