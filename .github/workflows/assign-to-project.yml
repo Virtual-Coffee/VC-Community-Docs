@@ -27,10 +27,10 @@ jobs:
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/2'
         column_name: 'Unassigned'
-    - name: "Assign issues with `Brownbag Event` label to brownbag planning project"
+    - name: "Assign issues with `Brownbag` label to brownbag planning project"
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
-        contains(github.event.issue.labels.*.name, 'Brownbag Event')
+        contains(github.event.issue.labels.*.name, 'Brownbag')
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/5'
         column_name: 'Inbox'
