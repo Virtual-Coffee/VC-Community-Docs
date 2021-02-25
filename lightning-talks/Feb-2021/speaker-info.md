@@ -205,7 +205,8 @@ Twitter : https://twitter.com/nerajno
 Email: Iamnerandojohnson@gmail.com
 
 ## Slides:
-Has confirmed he will have slides, hopefully in by end of Monday.
+Link: ![Slides](https://docs.google.com/presentation/d/1H9bTRHR56l_kYZP6Y-yiCVwkZrSbR0dloDehZcX8VQk/edit?usp=sharing)
+Need to resolve access.
 
 ## Headshot:
 
