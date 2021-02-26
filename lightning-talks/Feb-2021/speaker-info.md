@@ -99,7 +99,8 @@ Independent Founder & YouTuber from in the UK, who primarily works with Ruby on 
 ## Talk Description: 
 Docker allowed me to extract lots of my apps complexity by reducing the amount of dependencies I had to install. I want to share information about how to get up & going, with enough working knowledge to have fun :D
 
-## Slides Link: {Add slides link}
+## Slides Link: 
+https://talks.mikerogers.io/docker-for-developer-happiness/
 
 ## Photo
 ![headshot](https://user-images.githubusercontent.com/4391491/108928693-34a55b00-7608-11eb-910e-74ccc41a3939.jpg)
