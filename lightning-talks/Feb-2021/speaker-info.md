@@ -76,9 +76,10 @@ Barbara is currently transitioning into a new career as a full-stack developer f
 * https://www.linkedin.com/in/lawbarbara/ 
 
 ## Talk Description: 
-I'm a beginner and want to share how participating in coding challenges like Advent of Code, Scrimba weekly challenges, and codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
+I'm a beginner and want to share how participating in coding challenges like Advent of Code, Scrimba weekly challenges, and Codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
 
-## Slides Link: {Add slides link}
+## Slides Link: 
+https://slides.com/blawblawlaw/deck
 
 ## Photo
 ![headshot](https://user-images.githubusercontent.com/12350042/108842900-f4ae8b80-75a7-11eb-8dea-bbf46afaac2c.jpg)
