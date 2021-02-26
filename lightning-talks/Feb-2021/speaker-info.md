@@ -161,10 +161,13 @@ Courtney is a software engineer currently working at an early-stage startup in t
 - Twitter: https://twitter.com/sosuperc
 - Website: https://celandau.com
 
-## Talk Description: 
+## Talk Description:
+Courtney will discuss the steps she uses to break down a coding problem during an interview. 
 
+## Slides Link: https://docs.google.com/presentation/d/1rYkA9jQvsStPP4Ht9Gw4fVMD4rBBLW6r941QDs7dYIY/edit?usp=sharing
 
-## Slides Link: {Add slides link}
+## headshot
+
 
 # Time 12:45 - 12:55
 ## Speaker: @Glen
