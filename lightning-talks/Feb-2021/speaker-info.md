@@ -142,7 +142,8 @@ Twitch: https://www.twitch.tv/saltnburnem313
 ## Talk Description: 
 This talk is a brief introduction to property-based testing by showing examples of the fast-check testing framework in JavaScript. We cover introducing both general and property based tests to a small react application.
 
-## Slides Link: {Add slides link}
+## Slides Link: 
+![Slides](https://github.com/Virtual-Coffee/VC-Events/files/6047397/property-based-tests.pdf)
 
 ## Headshot: 
 ![A7274D2A-A157-4300-985A-BEF6328E1DCA](https://user-images.githubusercontent.com/4391491/107452826-8bdb0400-6b0f-11eb-8f14-c058aa6ee4ee.jpeg)
