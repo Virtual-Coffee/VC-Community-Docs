@@ -27,6 +27,13 @@ jobs:
       with:
         project: 'https://github.com/Virtual-Coffee/VC-Events/projects/2'
         column_name: 'Unassigned'
+    - name: "Assign issues with `Lightning Talks: Post-production` label to post production project"
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: |
+        contains(github.event.issue.labels.*.name, 'Lightning Talks: Post-production')
+      with:
+        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/6'
+        column_name: 'Inbox'
     - name: "Assign issues with `Brownbag: Event` label to brownbag planning project"
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
