@@ -54,7 +54,7 @@ We also have a COC violation submission form, which I dropped with the links. Th
 
 We want to welcome all of our new friends here. If you would like to become a member, which includes access to our slack and member-only events, please fill out the New Member Form I dropped in the chat.
 
-We'll be moving into breakout rooms in a minute. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, what you do, and answer today's random question. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
+We'll be moving into breakout rooms in a minute, for more intimate conversation. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, what you do, and answer today's random question. We're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
 
 ### Introductions & discussion - done in breakout rooms
