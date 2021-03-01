@@ -1,11 +1,16 @@
 # Virtual Coffee Events
 Management and coordination for Virtual Coffee events
 
-## Table of Contents:
+## Quick Links:
 
 - [How to use this repo](#how-to-use-this-repo)
-- [Lightning talks Feb 2021](#lightning-talks-feb-2021)
-- [Coffees](#coffees)
+- [Brownbags](./brownbags) - docs and reference for managing Brownbag events
+- [Coffees](./coffees) - docs and reference for our team managing weekly Coffees
+- [Lightning Talks](./lightning-talks) - docs and reference for helping out with Lightning Talks
+- [Monthly Challenges](./monthly-challenges) - docs and reference for managing Monthly Challenges
+- [Procedures](./procedures) - Miscellaneous procedures for various Virtual Coffee tasks
+  - [YouTube](./procedures/youtube.md) - steps for posting to YouTube
+  - [Streaming](./procedures/streaming.md) - steps for streaming from Zoom to YouTube Live
 
 ## How to use this repo:
 
@@ -17,10 +22,3 @@ If you have a question or general observation, either the [Contributors team dis
 
 > :warning: If you'd like to help improve the docs, please submit an issue or a pull request with your suggestions - the Contributors team has write access but we would like to avoid anyone committing changes directly to `main`.
 
-## Lightning talks Feb 2021:
-
-Check out our [lightning talk home base](./lightning-talks) for docs and reference for helping out with Lightning Talks!
-
-## Coffees:
-
-[Docs and resources](./coffees) for our team managing weekly Coffees.
