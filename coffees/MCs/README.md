@@ -52,7 +52,7 @@ That said, we do have a Code of Conduct that we take seriously. We expect everyo
 
 We also have a COC violation submission form, which I dropped with the links. This is another option that allows you to stay anonymous when you report any violations.
 
-We want to welcome all of our new friends here. If you would like to become a member, which includes access to our slack and member-only events, please fill out the New Member Form I dropped in the chat.
+We want to welcome all of our new friends here. If you would like to become a member, which includes access to our slack and member-only events, please fill out the New Member Form I dropped in the chat. After you submit the form, you'll get an email with some things you can do as a community member and an invite to slack.
 
 We'll be moving into breakout rooms in a minute, for more intimate conversation. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, what you do, and answer today's random question. We're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
