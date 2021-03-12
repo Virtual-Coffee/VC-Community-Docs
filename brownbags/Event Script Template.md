@@ -1,37 +1,25 @@
-# INTRO
-- Welcome everyone! We're getting started on time, we just want to give people a couple of minutes to come in and get settled.  
+# Brownbag Event Script
 
-- Hello and welcome to Virtual Coffee: Brownbag edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone To find our code of conduct, events, or to learn more, you can check out our website virtualcoffee.io. 
+## Intro
 
- - We just wrapped up [whatever event], and now we have some great things coming up: [list events]
+Welcome everyone! We'll get started shortly, we just want to give people a couple of minutes to come in and get settled.
 
-- We're really glad to have you all here with us today, and I especially want to thank our presenter for being here. We love doing these brownbags. If you have a topic you'd like to see, please feel free to post it in the #brownbags channel. If you would like to lead a brownbag, I'll post a link to the submission form in the chat. https://virtualcoffee.io/brownbag-idea/
+---
 
-- Today's event will be (options)
-    - part of a series/ collaborative / conf talk style / Q&A style
-    - recorded/not recorded
-    - posted/not posted    
-    - added as a link to the spreadsheet in the #brownbags channel after it's uploaded
+Hello and welcome to Virtual Coffee: Brownbag edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. To find our code of conduct, events, or to learn more, you can check out our website [virtualcoffee.io](https://virtualcoffee.io/).
 
-- For today's event (options)
-    - the speaker will be on video/the gallery / no one but the presenter
-    - questions will be taken throughout/ at the end / through the moderator via chat (zoom and/or youtube)
-    
+We just wrapped up [RECENT EVENT], and we have some great things coming up: [LIST EVENTS].
 
-- (Intro presenter)
+We're really glad to have you all here with us today, and I especially want to thank our Speaker, [SPEAKER NAME], for being here. We love doing these Brownbags, so if there's a topic you'd like to see, feel free to post it in the #brownbags channel in our Slack. If you would like to lead a Brownbag, please submit your idea through our online form which I'll post in the chat now: [https://virtualcoffee.io/brownbag-idea/](https://virtualcoffee.io/brownbag-idea/).
 
+[INTRODUCE SPEAKER]
 
+## Outro
 
-# OUTRO
-- A special thank you to our speaker for being here, and for all of you here. 
+A special thank you to our speaker for being here, and to all of you for attending. We look forward to keeping this discussion going in the #brownbag channel in Slack.
 
-- We look forward to (options)
-    - keeping this discussion going in slack/github issues/ VC coffee chat
-    - posting this video online
-    - hosting the next [whatever in our series]
-    
-- If you have questions or comments, please feel free to reach out to the leadership team- Bekah, Sara, Dan, Bryan, or Kirk. We're always here to support you and to answer any question. 
+If you have questions or comments, please feel free to reach out to the leadership team: Bekah, Sara, Dan, Bryan, and Kirk. We're always here to support you and to answer any questions.
 
-- Thanks again for everyone who participated in [last event]. We're looking forward to [whatever project/ brownbags /events] that are happening next. For descriptions of those, feel free to check out our [where? should we list our monthly projects on the events page so it doesn't get lost in slack?]
+Thanks again for everyone who participated in [LAST EVENT]. We're looking forward to [LIST UPCOMING EVENTS]. For more info on those, feel free to check out our events page at: [https://virtualcoffee.io/events/](https://virtualcoffee.io/events/).
 
-- Have a great day, everyone!
+Have a great day, everyone!
