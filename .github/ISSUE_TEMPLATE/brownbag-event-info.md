@@ -8,6 +8,7 @@ labels: "Brownbag: Event"
 ## Roles
 
 - Speaker
+- Data Wrangler (DW)
 - Logistics Coordinator (LC)
 - Marketing
 - Moderator
@@ -20,40 +21,104 @@ One person can take on multiple roles.
 
 ## Workflow Timeline
 
-### Scheduling a Talk
+### Scheduling a Brownbag
 
-#### Brownbag Talk Request Is Submitted
+#### Brownbag Session Request Is Submitted
 
 - [ ] **KICK-OFF ACTION:** The Speaker fills out a Brownbag request form.
 - [ ] A message of confirmation of submission is automatically sent to the Speaker.
-  - It informs the Speaker that their request was sent and they should receive a response within 3(?) business days.
+  - It informs the Speaker that their request was sent and they should receive a response within 3 business days.
 
-#### Brownbag Talk Request Is Received
+#### Brownbag Session Request Is Received
 
-- [ ] 1. The LC receives the form submission.
-- [ ] 2. The LC checks the calendar for availability in order of the Speaker's preferred dates.
+- [ ] The LC and DW receive the form submission.
+- [ ] The DW opens up a PR using the Brownbag Session Pull Request template.
 
-  - a. If any of the Speaker's suggested time slots are available, continue to next step.
-  - b. If none of the Speaker's suggested time slots are available, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
+##### Scheduling Workflow
 
-    [LINK NEW TIME SLOTS EMAIL TEMPLATE]
+1. The LC checks the calendar for availability in order of the Speaker's preferred dates.
 
-    Go back to Step 2. Iterate until the Speaker submits a time slot that's listed as available on the calendar.
+   a. If any of the Speaker's suggested time slots are available, continue to next step.
+   b. If none of the Speaker's suggested time slots are available, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
 
-- [ ] 3. The LC confirms availability of a leadership team member to act as the Host.
-- [ ] 4. The LC confirms availability of an Moderator.
+   [LINK NEW TIME SLOTS EMAIL TEMPLATE] <!-- TODO -->
 
-  - a. If one of the Speaker's suggested time slots has been agreed on by both the Host and Moderator, the LC sends a follow-up email to the Speaker:
+   Go back to Step 1. Iterate until the Speaker submits a time slot that's listed as available on the calendar.
 
-    [LINK EMAIL FOLLOW-UP TEMPLATE]
+2. The LC confirms availability of a leadership team member to act as the Host.
+3. The LC confirms availability of an Moderator.
 
-  - b. If none of the Speaker's suggested time slots work for the Host and/or Moderator, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
+   a. If one of the Speaker's suggested time slots has been agreed on by both the Host and Moderator, the LC sends a follow-up email to the Speaker:
 
-    [LINK NEW TIME SLOTS EMAIL TEMPLATE]
+   [LINK EMAIL FOLLOW-UP TEMPLATE] <!-- TODO -->
 
-    Go back to Step 2. Iterate these steps until a time slot is agreed upon.
+   b. If none of the Speaker's suggested time slots work for the Host and/or Moderator, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
 
-- [ ] 5. The LC adds the Brownbag to the Virtual Coffee calendar.
+   [LINK NEW TIME SLOTS EMAIL TEMPLATE] <!-- TODO -->
+
+   Go back to Step 1. Iterate these steps until a time slot is agreed upon.
+
+4. The LC adds the Brownbag to the Virtual Coffee calendar.
+
+The DW adds the information the Speaker submitted via the Brownbag form to the PR and adjusts instructions throughout for roles depending on recording and privacy settings.
+
+### Brownbag Session Info & Options
+
+In the case of multiple choice selections, delete the options which are selected and check the parent to signify that the task is complete.
+
+#### Session Info
+
+- [ ] Title:
+- [ ] Description:
+- [ ] Date:
+- [ ] Format:
+  - Q&A/AMA
+  - Conference
+  - Collaborative
+  - Series
+
+#### Recording Options
+
+- [ ] To be recorded?
+  - Yes
+  - No
+- [ ] YouTube privacy/visibility setting:
+  - Published publicly
+  - Published as unlisted
+  - Published privately
+- [ ] Display setting:
+  - [ ] While sharing your screen:
+    - Zoom's "Shared screen with active speaker view" which displays the screenshare and a thumbnail of the current speaker in the top right corner of the screen.
+    - Zoom's "Shared screen without active speaker or gallery view" which only displays the screenshare.
+  - [ ] While not sharing your screen:
+    - Zoom's "Active speaker view" which highlights the participant who is currently speaking and displays other participants in thumbnail views.
+    - Zoom's "Gallery view" which displays all participants in a grid pattern in windows of equal size.
+
+#### Speaker Info
+
+- [ ] Speaker name:
+- [ ] Speaker headshot:
+- [ ] Speaker bio:
+- [ ] Speaker contact info:
+  - [ ] Email address:
+  - [ ] Website:
+  - [ ] LinkedIn:
+  - [ ] GitHub:
+  - [ ] Twitter:
+  - [ ] Other:
+
+#### Logistics
+
+- [ ] Slides?
+  - Yes
+  - No
+- [ ] Demonstration? (i.e. live coding, software, tool, etc.)
+  - Yes
+  - No
+- [ ] Handling participant questions:
+  - Feel free to interrupt me with questions at any time!
+  - I will build breaks into my talk to pause for questions.
+  - Please have everyone hold their questions until the end of the talk.
 
 ### Pre-Brownbag Timeline
 
@@ -62,17 +127,17 @@ One person can take on multiple roles.
 - [ ] Marketing adds Brownbag to the monthly newsletter.
 - [ ] Marketing adds Brownbag to scheduled Slack/social media posts.
 - [ ] Marketing adds Brownbag to Tuesday/Thursday announcement script.
-- [ ] The Host sets up recordable Zoom meeting.
+- [ ] The Host sets up recordable Zoom meeting with the preferred display settings (if applicable).
 - [ ] The LC does a check-in with the Speaker 24—72 hours prior to the Brownbag.
 - [ ] The LC lets the Speaker know that the Moderator will watch the chat and voice any questions that come through.
 - [ ] The LC requests the Speaker's slides 24 hours prior to the Brownbag (if applicable).
 
-#### Day of the Talk
+#### Day of the Brownbag
 
 - [ ] The LC does a second check-in with the Speaker the morning of the Brownbag.
 - [ ] The LC posts the Zoom link to the event approximately 1 hour before the start time.
 
-### During the Talk
+### During the Session
 
 - [ ] The Moderator and the Speaker arrive 15 minutes prior to the scheduled start time to check equipment and settle in.
 - [ ] The Host allows 5 minutes for attendees to arrive.
@@ -84,7 +149,7 @@ One person can take on multiple roles.
 - [ ] The Moderator gives the official sign off using [the Brownbag event script template](/brownbags/event-script-template.md#outro).
 - [ ] The Host stops the recording.
 
-### Post-Talk
+### Post-Brownbag
 
 - [ ] The LC thanks the Speaker for giving their Brownbag.
 - [ ] The Post-production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](/procedures/youtube.md).
