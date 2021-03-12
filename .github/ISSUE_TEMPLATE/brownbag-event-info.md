@@ -1,7 +1,7 @@
 ---
 name: Brownbag Session
-about: Track tasks and collect information for a brownbag session
-title: "[TALK TITLE] by [SPEAKER NAME]"
+about: Track tasks and collect information for a Brownbag session
+title: "[BROWNBAG TITLE] by [SPEAKER NAME]"
 labels: "Brownbag: Event"
 ---
 
@@ -18,64 +18,81 @@ labels: "Brownbag: Event"
 
 One person can take on multiple roles.
 
-## Timeline of Events
+## Workflow Timeline
 
-### Requesting/Scheduling Talk
+### Scheduling a Talk
 
-- [ ] Speaker fills out brownbag submission form.
-- [ ] The LC looks over form and sends response either confirming or asking for follow-up.
-  - [ ] The LC confirms with Speaker that submission is received.
-  - [ ] The LC checks calendar for availability for suggested date.
-  - [ ] The LC confirms availability of a leadership member to host.
-  - [ ] The LC confirms availability of a Moderator.
-  - [ ] If the LC approves, brownbag issue is created/updated.
-- [ ] Once time has been agreed on, the LC emails with follow-up for the following information:
+#### Brownbag Talk Request Is Submitted
 
-  - [ ] Speaker headshot (pixel preference?)
-  - [ ] Speaker blurb
-  - [ ] Speaker contact/social handles
-  - [ ] Talk title
+- [ ] **KICK-OFF ACTION:** The Speaker fills out a Brownbag request form.
+- [ ] A message of confirmation of submission is automatically sent to the Speaker.
+  - It informs the Speaker that their request was sent and they should receive a response within 3(?) business days.
 
-  #### Will Event Be:
+#### Brownbag Talk Request Is Received
 
-  - [ ] Part of a series / collaborative / conf talk style / Q&A style
-  - [ ] Recorded / not recorded
-  - [ ] Posted / not posted
-  - [ ] Added as a link to the spreadsheet in the #brownbags channel after it's uploaded
+- [ ] 1. The LC receives the form submission.
+- [ ] 2. The LC checks the calendar for availability in order of the Speaker's preferred dates.
 
-  #### Event Option:
+  - a. If any of the Speaker's suggested time slots are available, continue to next step.
+  - b. If none of the Speaker's suggested time slots are available, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
 
-  - [ ] The Speaker will be on video / the gallery / no one but the Speaker
-  - [ ] Questions will be taken throughout / at the end / through the moderator via chat (Zoom and/or YouTube)
+    [LINK NEW TIME SLOTS EMAIL TEMPLATE]
 
-- [ ] The LC lets Marketing know about the details of the talk for inclusion in newsletter/scheduled posts.
-- [ ] The LC lets the Speaker know that the Moderator will moderate the chat and that they shouldn't have the chat on their shared screen.
+    Go back to Step 2. Iterate until the Speaker submits a time slot that's listed as available on the calendar.
 
-### Leading Up to Talk
+- [ ] 3. The LC confirms availability of a leadership team member to act as the Host.
+- [ ] 4. The LC confirms availability of an Moderator.
 
-- [ ] Marketing adds brownbag to relevant newsletter.
-- [ ] Marketing adds notes of event to additional notes for Zoom meetings.
-- [ ] The Host configures recordable Zoom meeting at some time before talk date.
-- [ ] The LC does first check in with the Speaker (24 - 72 hrs prior to talk).
-- [ ] The LC requests the Speaker's slides 24 hrs prior to talk (if slides needed).
-- [ ] The LC does second check in with the Speaker the morning of talk.
-- [ ] The LC posts link to meeting approx 1 hour before the event is due to start.
+  - a. If one of the Speaker's suggested time slots has been agreed on by both the Host and Moderator, the LC sends a follow-up email to the Speaker:
+
+    [LINK EMAIL FOLLOW-UP TEMPLATE]
+
+  - b. If none of the Speaker's suggested time slots work for the Host and/or Moderator, the LC reaches out to the Speaker to ask for additional time slot options or to postpone the Brownbag until a later date:
+
+    [LINK NEW TIME SLOTS EMAIL TEMPLATE]
+
+    Go back to Step 2. Iterate these steps until a time slot is agreed upon.
+
+- [ ] 5. The LC adds the Brownbag to the Virtual Coffee calendar.
+
+### Pre-Brownbag Timeline
+
+#### Confirmation Through the Day Before the Brownbag
+
+- [ ] Marketing adds Brownbag to the monthly newsletter.
+- [ ] Marketing adds Brownbag to scheduled Slack/social media posts.
+- [ ] Marketing adds Brownbag to Tuesday/Thursday announcement script.
+- [ ] The Host sets up recordable Zoom meeting.
+- [ ] The LC does a check-in with the Speaker 24—72 hours prior to the Brownbag.
+- [ ] The LC lets the Speaker know that the Moderator will watch the chat and voice any questions that come through.
+- [ ] The LC requests the Speaker's slides 24 hours prior to the Brownbag (if applicable).
+
+#### Day of the Talk
+
+- [ ] The LC does a second check-in with the Speaker the morning of the Brownbag.
+- [ ] The LC posts the Zoom link to the event approximately 1 hour before the start time.
 
 ### During the Talk
 
-- [ ] The Moderator and Speaker arrive 15 minutes prior to the scheduled talk time to check equipment and settle in.
-- [ ] The Host allows 5 minutes for attendees to come in and get ready.
-- [ ] The Moderator lets host know they're ready and the Host hits record.
-- [ ] The Moderator does introduction of Speaker.
-- [ ] Speaker does their thing.
-- [ ] Moderator observes chat, acts as their voice, etc.
-- [ ] Speaker finishes of presentation and Q&A.
-- [ ] The Moderator does official sign off.
-- [ ] The Host stops recording.
+- [ ] The Moderator and the Speaker arrive 15 minutes prior to the scheduled start time to check equipment and settle in.
+- [ ] The Host allows 5 minutes for attendees to arrive.
+- [ ] The Moderator lets the Host know when to start the recording.
+- [ ] The Moderator introduces the Speaker.
 
-## Post Talk
+  [LINK TALK INTRO TEMPLATE]
 
-- [ ] The LC thanks Speaker for talk.
-- [ ] Video Editor prepares the video for release on YouTube.
-- [ ] Video Editor lets Marketing know the video is ready and provides details.
-- [ ] Marketing shares the video details in relevant channels and adds info to the upcoming newsletter.
+- [ ] The Speaker gives their Brownbag.
+- [ ] The Moderator observes the chat and asks questions for non-vocal participants.
+- [ ] Once the Speaker finishes their presentation, the Moderator gives a verbal transition into Q&A (unless the Speaker does it themself).
+- [ ] The Moderator gives the official sign off.
+
+  [LINK TALK OUTRO TEMPLATE]
+
+- [ ] The Host stops the recording.
+
+### Post-Talk
+
+- [ ] The LC thanks the Speaker for giving their Brownbag.
+- [ ] The Post-production Team starts processing the video footage for YouTube (if applicable).
+
+  [LINK YOUTUBE PROCEDURE]
