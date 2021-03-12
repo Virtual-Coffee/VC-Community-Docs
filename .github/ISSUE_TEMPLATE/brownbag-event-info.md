@@ -77,22 +77,14 @@ One person can take on multiple roles.
 - [ ] The Moderator and the Speaker arrive 15 minutes prior to the scheduled start time to check equipment and settle in.
 - [ ] The Host allows 5 minutes for attendees to arrive.
 - [ ] The Moderator lets the Host know when to start the recording.
-- [ ] The Moderator introduces the Speaker.
-
-  [LINK TALK INTRO TEMPLATE]
-
+- [ ] The Moderator kicks off the Brownbag and introduces the Speaker using [the Brownbag event script template](/brownbags/event-script-template.md#intro).
 - [ ] The Speaker gives their Brownbag.
 - [ ] The Moderator observes the chat and asks questions for non-vocal participants.
 - [ ] Once the Speaker finishes their presentation, the Moderator gives a verbal transition into Q&A (unless the Speaker does it themself).
-- [ ] The Moderator gives the official sign off.
-
-  [LINK TALK OUTRO TEMPLATE]
-
+- [ ] The Moderator gives the official sign off using [the Brownbag event script template](/brownbags/event-script-template.md#outro).
 - [ ] The Host stops the recording.
 
 ### Post-Talk
 
 - [ ] The LC thanks the Speaker for giving their Brownbag.
-- [ ] The Post-production Team starts processing the video footage for YouTube (if applicable).
-
-  [LINK YOUTUBE PROCEDURE]
+- [ ] The Post-production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](/procedures/youtube.md).
