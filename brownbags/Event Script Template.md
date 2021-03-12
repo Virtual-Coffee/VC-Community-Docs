@@ -12,18 +12,6 @@ We just wrapped up [RECENT EVENT], and we have some great things coming up: [LIS
 
 We're really glad to have you all here with us today, and I especially want to thank our Speaker, [SPEAKER NAME], for being here. We love doing these Brownbags, so if there's a topic you'd like to see, feel free to post it in the #brownbags channel in our Slack. If you would like to lead a Brownbag, please submit your idea through our online form which I'll post in the chat now: [https://virtualcoffee.io/brownbag-idea/](https://virtualcoffee.io/brownbag-idea/).
 
-- Today's event will be (options)
-
-  - part of a series/ collaborative / conf talk style / Q&A style
-  - recorded/not recorded
-  - posted/not posted
-  - added as a link to the spreadsheet in the #brownbags channel after it's uploaded
-
-- For today's event (options)
-
-  - the speaker will be on video/the gallery / no one but the presenter
-  - questions will be taken throughout/ at the end / through the moderator via chat (zoom and/or youtube)
-
 [INTRODUCE SPEAKER]
 
 ## Outro
