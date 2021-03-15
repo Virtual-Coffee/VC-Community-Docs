@@ -14,7 +14,8 @@
   },
   "homepage": "https://github.com/Virtual-Coffee/VC-Events#readme",
   "scripts": {
-    "clean": "prettier --write ."
+    "lint": "prettier --write .",
+    "check": "prettier --check ."
   },
   "husky": {
     "hooks": {
@@ -22,7 +23,7 @@
     }
   },
   "lint-staged": {
-    "*": "prettier --write ."
+    "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {},
   "devDependencies": {
