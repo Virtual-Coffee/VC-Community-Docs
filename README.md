@@ -4,14 +4,14 @@ Management and coordination for Virtual Coffee events
 
 ## Quick Links
 
--   [How to Use This Repo](#how-to-use-this-repo)
--   [Brownbags](./brownbags): Docs and reference for managing Brownbag events
--   [Coffees](./coffees): Docs and reference for managing weekly Coffees
--   [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
--   [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
--   [Procedures](./procedures): Procedures for various Virtual Coffee tasks
-    -   [YouTube](./procedures/youtube.md): Steps for posting to YouTube
-    -   [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
+- [How to Use This Repo](#how-to-use-this-repo)
+- [Brownbags](./brownbags): Docs and reference for managing Brownbag events
+- [Coffees](./coffees): Docs and reference for managing weekly Coffees
+- [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
+- [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
+- [Procedures](./procedures): Procedures for various Virtual Coffee tasks
+  - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
+  - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
 
 ## How to Use This Repo
 

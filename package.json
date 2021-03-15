@@ -1,34 +1,32 @@
 {
-    "name": "vc-events",
-    "version": "1.0.0",
-    "description": "Management and coordination for Virtual Coffee events",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Virtual-Coffee/VC-Events.git"
-    },
-    "author": "",
-    "license": "UNLICENSED",
-    "bugs": {
-        "url": "https://github.com/Virtual-Coffee/VC-Events/issues"
-    },
-    "homepage": "https://github.com/Virtual-Coffee/VC-Events#readme",
-    "scripts": {
-        "format": "prettier --ignore-path `.gitignore` --write .",
-        "check": "prettier --ignore-path `.gitignore` --check ."
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "lint-staged"
-        }
-    },
-    "lint-staged": {
-        "**/*": "prettier --ignore-path `.gitignore` --write"
-    },
-    "dependencies": {},
-    "devDependencies": {
-        "husky": "^5.1.3",
-        "lint-staged": "^10.5.4",
-        "prettier": "^2.2.1"
+  "name": "vc-events",
+  "version": "1.0.0",
+  "description": "Management and coordination for Virtual Coffee events",
+  "main": "index.js",
+  "repository": "git+https://github.com/Virtual-Coffee/VC-Events.git",
+  "author": "Meg Gutshall <meghan.gutshall@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Virtual-Coffee/VC-Events/issues"
+  },
+  "homepage": "https://github.com/Virtual-Coffee/VC-Events#readme",
+  "scripts": {
+    "format": "prettier --ignore-path `.gitignore` --write .",
+    "check": "prettier --ignore-path `.gitignore` --check ."
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "**/*": "prettier --ignore-path `.gitignore` --write"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^5.1.3",
+    "lint-staged": "^10.5.4",
+    "prettier": "2.2.1"
+  },
+  "private": true
 }
