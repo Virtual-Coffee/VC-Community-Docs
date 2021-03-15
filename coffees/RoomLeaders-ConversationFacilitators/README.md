@@ -4,10 +4,22 @@ Thank you for volunteering to be a room leader! We know it can be difficult to b
 
 As a room leader, your primary job is to ensure that the room is a safe and welcoming space. We want to give everyone a chance to participate, whether through talking or through zoom chat. As a room leader, here are some guidelines and considerations.
 
+## Creating a welcoming space for everyone
+### Discussion
+_To make this a welcoming space, it's important that as room leaders, you take care of the people in the room, and avoid situations of "getting too into the conversation" and excluding people. If there's jargon being used, ask the speaker to explain it and drop a link in the chat if possible as an additional resource._
+
+#### Coffee Table or PacMan method:
+- Coffee Table Method: I love @Glen McCallum’s description: it’s like you’re sitting around a coffee table talking with friends. That means you want to engage everyone in conversation as much as possible.
+- [The Pacman Method](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/): in conferences and meetups, you always leave room in the circle for someone else to join the conversation. And the same thing should happen in your room. 
+
 ## Guidelines once in the room
 ### Intros:
 - Give a reminder for hand raising:
 - We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. The moderators will try to keep track of this, but also feel free to point out if someone has raised their hand and the moderator missed it. To access the hand raise button, click on either the participants tab or the reactions options--depending on your zoom version. Just a reminder, you have to lower your hand manually.
+- It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off; we want this to be a welcoming space and for people to participate in ways that feel comfortable.
+- The chat is also a great place to ask questions if that's a more comfortable space.
+    - _If a question is asked in the chat: summarize the question, mention their name to verbally bring them into the chat. For example: "Dan had a great question, 'How do you get started with github as a beginner?' Who has thoughts about this to give Dan a great starting place."_
+
 - Ask for a note-taker if one isn’t assigned
 ### Introduce yourself and give instructions: 
 - We always start with introductions, so say your name, if you want: where you’re from, what you do, and then your answer to {random question}
