@@ -1,5 +1,4 @@
 ---
-
 ## Template
 
 # Speaker: @
@@ -15,7 +14,6 @@
 ## Slides Link: {Add slides link}
 
 ## Photo
-
 ---
 
 # Time: 11:05 - 11:15
