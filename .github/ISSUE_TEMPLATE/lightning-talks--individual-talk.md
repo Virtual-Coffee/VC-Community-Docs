@@ -29,7 +29,7 @@ assignees: ""
 
 ## {Speaker Name} - {time scheduled}
 
-{Twitter Handle}
+- {Twitter Handle}
 
 - Topic Title: {add title}
 
