@@ -13,48 +13,45 @@ jobs:
     runs-on: ubuntu-latest
     name: Assign to One Project
     steps:
-    - name: "Assign issues with `Lightning Talks: TODO` label to TODO project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Lightning Talks: TODO')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/1'
-        column_name: 'To do'
-    - name: "Assign issues with `Lightning Talk: Individual Talk` label to planning project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Lightning Talk: Individual Talk')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/2'
-        column_name: 'Unassigned'
-    - name: "Assign issues with `Lightning Talks: Post-production` label to post production project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Lightning Talks: Post-production')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/6'
-        column_name: 'Inbox'
-    - name: "Assign issues with `Brownbag: Event` label to brownbag planning project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Brownbag: Event')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/5'
-        column_name: 'Inbox'
-    - name: "Assign issues with `Brownbag: Post-production` label to brownbag post-production project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.issue.labels.*.name, 'Brownbag: Post-production')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/6'
-        column_name: 'Inbox'
-    - name: "Assign pull requests with `Brownbag: Post-production` label to brownbag post-production project"
-      uses: srggrs/assign-one-project-github-action@1.2.0
-      if: |
-        contains(github.event.pull_request.labels.*.name, 'Brownbag: Post-production')
-      with:
-        project: 'https://github.com/Virtual-Coffee/VC-Events/projects/6'
-        column_name: 'Inbox'
-        
-        
-        
+      - name: "Assign issues with `Lightning Talks: TODO` label to TODO project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'Lightning Talks: TODO')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/1"
+          column_name: "To do"
+      - name: "Assign issues with `Lightning Talk: Individual Talk` label to planning project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'Lightning Talk: Individual Talk')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/2"
+          column_name: "Unassigned"
+      - name: "Assign issues with `Lightning Talks: Post-production` label to post production project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'Lightning Talks: Post-production')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/6"
+          column_name: "Inbox"
+      - name: "Assign issues with `Brownbag: Event` label to brownbag planning project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'Brownbag: Event')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/5"
+          column_name: "Inbox"
+      - name: "Assign issues with `Brownbag: Post-production` label to brownbag post-production project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.issue.labels.*.name, 'Brownbag: Post-production')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/6"
+          column_name: "Inbox"
+      - name: "Assign pull requests with `Brownbag: Post-production` label to brownbag post-production project"
+        uses: srggrs/assign-one-project-github-action@1.2.0
+        if: |
+          contains(github.event.pull_request.labels.*.name, 'Brownbag: Post-production')
+        with:
+          project: "https://github.com/Virtual-Coffee/VC-Events/projects/6"
+          column_name: "Inbox"
