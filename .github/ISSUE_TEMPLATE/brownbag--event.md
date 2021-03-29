@@ -1,5 +1,5 @@
 ---
-name: Brownbag Session
+name: 'Brownbag: Event'
 about: Track tasks and collect information for a Brownbag session
 title: '[BROWNBAG TITLE] by [SPEAKER NAME]'
 labels: 'Brownbag: Event'
