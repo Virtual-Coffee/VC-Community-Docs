@@ -1,5 +1,5 @@
 - speaker name
 - Topic Title
-- Bio 
+- Bio
 - Talk Description
 - link to slides

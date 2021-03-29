@@ -1,6 +1,6 @@
 Heyyyy `<username>`!!
 
-There are four (!!!!) more days until VC Lightning Talks and we usually do a technical check-up with the speakers a few days before the event. I know we are spending a lot of time on Zoom and everything is usually working, but we would like like to check-up on a few things just to be sure everyone will see/hear you clearly on Friday! If you have 10-15 minutes this week, please schedule the check-up so we can go through all the technical aspects together. 
+There are four (!!!!) more days until VC Lightning Talks and we usually do a technical check-up with the speakers a few days before the event. I know we are spending a lot of time on Zoom and everything is usually working, but we would like like to check-up on a few things just to be sure everyone will see/hear you clearly on Friday! If you have 10-15 minutes this week, please schedule the check-up so we can go through all the technical aspects together.
 
 `<schedule link>`
 

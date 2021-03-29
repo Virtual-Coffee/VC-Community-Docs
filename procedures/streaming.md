@@ -9,6 +9,7 @@ Note - these instructions copied from [this link](https://it.umn.edu/services-te
 ## Scheduled stream:
 
 ### Setting up the stream:
+
 - Go to our [youtube streaming management page](https://studio.youtube.com/channel/UCc0579aGEy7jTAgRglR4J0g/livestreaming/manage) and choose "schedule stream" to create the scheduled stream
 - After the stream is created, leave the tab open and in a new tab go to the meeting in zoom and scroll to the bottom of the page to the Live Streaming section
 - Choose "configure live stream settings"
@@ -26,9 +27,11 @@ Note - these instructions copied from [this link](https://it.umn.edu/services-te
 ## Instant stream:
 
 ### Setting up the stream:
+
 - No additional setup needed
 
 ### To start the stream:
+
 - Start the Zoom call
 - Select the `More...` button on the Zoom meeting control toolbar
 - Choose `Live on YouTube`
