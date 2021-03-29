@@ -13,7 +13,9 @@ _To make this a welcoming space, it's important that as room leaders, you take c
 - [The Pacman Method](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/): in conferences and meetups, you always leave room in the circle for someone else to join the conversation. And the same thing should happen in your room. 
 
 ## Guidelines once in the room
+
 ### Intros:
+
 - Give a reminder for hand raising:
 - We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. The moderators will try to keep track of this, but also feel free to point out if someone has raised their hand and the moderator missed it. To access the hand raise button, click on either the participants tab or the reactions options--depending on your zoom version. Just a reminder, you have to lower your hand manually.
 - It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off; we want this to be a welcoming space and for people to participate in ways that feel comfortable.
@@ -21,16 +23,20 @@ _To make this a welcoming space, it's important that as room leaders, you take c
     - _If a question is asked in the chat: summarize the question, mention their name to verbally bring them into the chat. For example: "Dan had a great question, 'How do you get started with github as a beginner?' Who has thoughts about this to give Dan a great starting place."_
 
 - Ask for a note-taker if one isn’t assigned
-### Introduce yourself and give instructions: 
+
+### Introduce yourself and give instructions:
+
 - We always start with introductions, so say your name, if you want: where you’re from, what you do, and then your answer to {random question}
 - If the group is small, you can popcorn or call on participants - your call.
 
 ### After intros
-Encourage members to bring up a topic--doesn’t have to be tech related--they’re  interested in or ask any questions they have; this is a safe space.
+
+Encourage members to bring up a topic--doesn’t have to be tech related--they’re interested in or ask any questions they have; this is a safe space.
 If no one has anything (and that includes you), bring up the pre-picked topic
 
 ### Considerations
-- Members who are late might be assigned to your room. Send them a zoom message about the topic 
+
+- Members who are late might be assigned to your room. Send them a zoom message about the topic
 - Watch for handraises
 - Try to keep track of the zoom chat or ask someone else to
 - Some members may take longer than others to make a point and that’s okay. However, if you notice someone may be monopolizing the conversation, as kindly as possible, you may need to jump in and allow others to speak.
@@ -39,4 +45,3 @@ If no one has anything (and that includes you), bring up the pre-picked topic
 - Removing members is up to your discretion. If you think they’re creating an unsafe space, it is reasonable to remove them
 - It is also reasonable to DM them on zoom to give a warning or to ask for something to stop
 - If there is an issue, please report it to the #vc-room-leaders-notetakers--this can be done after the coffee
-

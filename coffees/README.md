@@ -14,21 +14,25 @@ The goal for Coffees is to be part of a community and not to distance ourselves 
 ## Roles:
 
 ### Hosts:
+
 The host controls the role assignments and the breakout rooms. They monitor for members who show up late, and control when the rooms are opened and closed.
 
 - [Host docs](./Hosts)
 
 ### MCs:
+
 The MC gives the opening announcements and drops the important links into the chat.
 
 - [MC docs](./MCs)
 
 ### Room Leaders:
+
 The Room Leaders are the conversation facilitators of the breakout rooms. They give some instructions (handraise function), run the introductions, and make sure everyone is being heard. If no one has a topic, the room leader brings up the "backpocket" topic of choice.
 
 - [Room Leader docs](./RoomLeaders-ConversationFacilitators)
 
 ### Note Takers:
+
 Notetakers take notes on the conversation in the breakout rooms, grab the links that are dropped, and post the notes to slack after Coffee.
 
 - [Notetaker docs](./Notetakers)
