@@ -45,6 +45,9 @@ We appreciate everyone’s efforts, and want to ensure that our communication is
 
 #### Creating a Pull Request:
 
+- You can propose changes using GitHub's web interface, or by forking this repository and cloning it locally.
+  - Follow [these steps](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) to create a fork of this repository and clone it to your local machine.
+  - After cloning, install the dependencies by navigating to the working directory and running the command `yarn`
 - Try to keep the pull requests small. A pull request should try its very best to address only a single concern.
 - For work in progress pull requests, please use [the Draft PR feature](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
 - When applicable, document your reasoning behind the changes. Explain why you wrote the code in the way you did. The code should explain what it does.
