@@ -53,6 +53,7 @@ We appreciate everyone’s efforts, and want to ensure that our communication is
 - For work in progress pull requests, please use [the Draft PR feature](https://github.blog/2019-02-14-introducing-draft-pull-requests/). You may even want to add "WIP" to the beginning of your pull request title, just don't forget to remove it before you submit your PR!
 - When applicable, document your reasoning behind the changes. Explain why you wrote the code in the way you did. The code should explain what it does.
 - If there's an existing issue, reference to it by adding something like `References/Closes/Fixes/Resolves #123`, where 123 is the issue number. [More info here](https://github.com/blog/1506-closing-issues-via-pull-requests).
+- We encourage you to pair program with others in the VC community when working on pull requests. GitHub has enabled contributors to add multiple authors to their PRs so everyone involved can be properly attributed. [Learn more here](https://docs.github.com/en/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors).
 
 ## Reviewing
 
