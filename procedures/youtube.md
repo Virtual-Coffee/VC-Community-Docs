@@ -2,7 +2,7 @@
 
 ## MVP Edit
 
-The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Published" column](https://github.com/Virtual-Coffee/VC-Events/projects/6#column-13081364) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Events/projects/6).
+The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Published" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081364) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
 
 - [ ] Upload raw footage to YouTube.
 - [ ] Trim raw footage from beginning/end using YouTube Studio's editing UI.
@@ -31,7 +31,7 @@ The following tasks will get the video to MVP publishing status where you can mo
 
 ## Final Edit
 
-The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Completed" column](https://github.com/Virtual-Coffee/VC-Events/projects/6#column-13081363) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Events/projects/6).
+The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Completed" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081363) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
 
 - [ ] Select the "Subtitles" tab to add the video subtitles.
   - [ ] English should already be listed as a language. Click the "DUPLICATE AND EDIT" link in the rightmost column. Accept the warning that your current subtitles will be overwritten.
