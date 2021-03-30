@@ -1,6 +1,6 @@
-# Virtual Coffee Events
+# Virtual Coffee Contributors
 
-Management and coordination for Virtual Coffee events
+Management and coordination for Virtual Coffee Contributors
 
 ## Quick Links
 
@@ -15,7 +15,7 @@ Management and coordination for Virtual Coffee events
 
 ## How to Use This Repo
 
-This repo is meant to help facilitate communication and coordination for Virtual Coffee events.
+This repo is meant to help facilitate communication and coordination for Virtual Coffee Contributors.
 
 In general, there will be an entire docs section (as well as issue templates, project boards, etc.) for each area of responsibility.
 
