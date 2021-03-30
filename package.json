@@ -1,10 +1,10 @@
 {
   "name": "vc-contributors",
   "version": "1.0.0",
-  "description": "Management and coordination for Virtual Coffee events",
+  "description": "Management and coordination for Virtual Coffee Contributors",
   "main": "index.js",
   "repository": "git+https://github.com/Virtual-Coffee/VC-Contributors.git",
-  "author": "Meg Gutshall <meghan.gutshall@gmail.com>",
+  "author": "Virtual Coffee",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Virtual-Coffee/VC-Contributors/issues"
