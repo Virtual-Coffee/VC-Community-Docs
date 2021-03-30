@@ -49,6 +49,7 @@ We appreciate everyone’s efforts, and want to ensure that our communication is
   - Follow [these steps](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) to create a fork (a copy for your own GitHub account) of this repository and clone it to your local machine.
   - After cloning, install the dependencies by navigating to the working directory and running the command `yarn`.
 - Try to keep the pull requests small. A pull request should try its very best to address only a single concern.
+  - Do the same for your commit messages. It is good practice to commit your work often. If your commit message contains the word "and", the changes should be broken into two commits.
 - For work in progress pull requests, please use [the Draft PR feature](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
 - When applicable, document your reasoning behind the changes. Explain why you wrote the code in the way you did. The code should explain what it does.
 - If there's an existing issue, reference to it by adding something like `References/Closes/Fixes/Resolves #123`, where 123 is the issue number. [More info here](https://github.com/blog/1506-closing-issues-via-pull-requests).
