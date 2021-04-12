@@ -4,6 +4,8 @@ Thanks for being a notetaker! We know it can be challenging to take notes and pa
 
 You will find a copy of the Notes Template below at [this link in Google Docs format](insert link here). Please make a copy of the template by navigating to 'File' and selecting 'Make a copy' which will prompt you to save the newly created copy to your own Google Drive. From there, you can rename the file and adjust the template however needed.
 
+Feel free to share your notes document with your Room Leader by clicking the 'Share' button in the top right corner and adjusting the settings to "Anyone on the internet with this link can edit." Doing this can help both you and the Room Leader keep track of the conversation and fill in notes or links that might have been missed. Some Room Leaders may choose to concentrate fully on the conversation in the breakout room and not use the notes doc. This is fine! Everyone has a unique process when faced with different tasks and our community understands and embraces that.
+
 ## Special Note
 
 - Although we assume these coffees and the contributions are covered by the "Friend-DA," we realize that there's a difference between saying something to a group of friends and having a written record. To preserve the privacy of our members and to encourage honesty and vulnerability, we ask that you **DO NOT record the names of members during the conversation portion of Virtual Coffee**, unless there's an agreement. For example, if someone says "I'm always up to pair on Elm issues," ask the member if you can reference their name in the notes so the VC community knows who they should contact.
