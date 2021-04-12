@@ -2,6 +2,8 @@
 
 Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted.
 
+You will find a copy of the Notes Template below at [this link in Google Docs format](insert link here). Please make a copy of the template by navigating to 'File' and selecting 'Make a copy' which will prompt you to save the newly created copy to your own Google Drive. From there, you can rename the file and adjust the template however needed.
+
 ## Special Note
 
 - Although we assume these coffees and the contributions are covered by the "Friend-DA," we realize that there's a difference between saying something to a group of friends and having a written record. To preserve the privacy of our members and to encourage honesty and vulnerability, we ask that you **DO NOT record the names of members during the conversation portion of Virtual Coffee**, unless there's an agreement. For example, if someone says "I'm always up to pair on Elm issues," ask the member if you can reference their name in the notes so the VC community knows who they should contact.
@@ -32,4 +34,4 @@ _Note any links to external sites here._
 
 ## After Coffee
 
-Post the notes in the #general channel on Slack at your earliest convenience!
+Copy the notes from my Google Doc and post them in the #general channel on Slack at your earliest convenience!
