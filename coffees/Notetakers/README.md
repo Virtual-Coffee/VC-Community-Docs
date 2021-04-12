@@ -1,6 +1,6 @@
 # Notetaker's Guide
 
-_Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted._
+Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted.
 
 ## Special Note
 
@@ -8,19 +8,19 @@ _Thanks for being a notetaker! We know it can be challenging to take notes and p
 
 ## Notes Template
 
-_Initial Conversation here tends to be random and lighthearted, so this section can be skipped. Maybe a notable line or two at the most._
-
 ### {Room Leader} and {Notetaker}'s Breakout Room - Minutes for {Tuesday/Thursday}, {Date} {Month} {2021}, {Morning/Afternoon} edition of Virtual Coffee!
+
+_Initial conversation in the main room tends to be random and lighthearted, so this section can be skipped. Maybe a notable line or two at the most._
 
 #### ICEBREAKER: {Insert question of the day here.}
 
-- Record Question Responses and make note of any new persons -- names can be recorded here}
+_Record icebreaker responses and make note of any new persons. Names can be recorded in this section and tagged later when posted in Slack. Example:_
+
+- Name: **FIRST TIMER!** Answer
 
 #### TOPIC #1: {Insert topic here.}
 
-- Note highlights, advice, experiences
-- You can capture as much as works for you. This could be a summary, or individual notes.
-- Add any reminders, news, or special events
+_Note highlights, advice, experiences, etc. You can capture as much or as little as works for you. This could be a summary, bullet points, or detailed notes. **REMEMBER: Keep these notes anonymized unless expressly given permission by the participant you are quoting.**_
 
 #### TOPIC #2: {Insert topic here.}
 
@@ -28,8 +28,8 @@ _Initial Conversation here tends to be random and lighthearted, so this section 
 
 #### ARTICLES AND RESOURCES
 
-- {Note any links to external sites here}
+_Note any links to external sites here._
 
 ## After Coffee
 
-- Post the notes in the general channel at your earliest convenience!
+Post the notes in the #general channel on Slack at your earliest convenience!
