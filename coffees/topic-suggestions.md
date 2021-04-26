@@ -67,3 +67,10 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - What are some ways you’ve been motivated by others?
 - What are things that de-motivate you?
 - How could we help motivate you today?
+
+### Being Ready
+- How do you know when you're "done" learning and ready to code? 
+- Does this change over time? 
+- What things give you confidence that you are "ready"?
+- What's the difference between learning about a new framework, for example, and using it?
+- What advice do you have for people who feel "stuck"?
