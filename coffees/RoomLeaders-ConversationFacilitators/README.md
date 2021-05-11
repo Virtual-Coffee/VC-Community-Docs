@@ -17,21 +17,21 @@ _To make this a welcoming space, it's important that as room leaders, you take c
 
 ## Guidelines once in the room
 
-### Intros:
+### Intro Script:
+#### Introduce yourself and give instructions:
 
-- Give a reminder for hand raising:
-- We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. The moderators will try to keep track of this, but also feel free to point out if someone has raised their hand and the moderator missed it. To access the hand raise button, click on either the participants tab or the reactions options--depending on your zoom version. Just a reminder, you have to lower your hand manually.
-- It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off; we want this to be a welcoming space and for people to participate in ways that feel comfortable.
+- Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. We always start with introductions, so you'll say your name, and if you want: where you’re from, what you do, and then your answer to {random question}
+
+- _If the group is small, you can popcorn or call on participants - your call._
+
+- While you're thinking about the answer to our random question, I'll go over some of the considerations for our small group conversation. We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. I'll try to keep track of this, but also feel free to point out if someone has raised their hand and I missed it. To access the handraise button, click on either the participants tab or the reactions options--depending on your zoom version. Just a reminder, you have to lower your hand manually.
+- We want this to be a welcoming space and for everyone to participate in the ways that are most comfortable for them. It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off.
 - The chat is also a great place to ask questions if that's a more comfortable space.
 
   - _If a question is asked in the chat: summarize the question, mention their name to verbally bring them into the chat. For example: "Dan had a great question, 'How do you get started with github as a beginner?' Who has thoughts about this to give Dan a great starting place."_
 
-- Ask for a note-taker if one isn’t assigned
+- Ask for a note-taker if one isn’t assigned.
 
-### Introduce yourself and give instructions:
-
-- We always start with introductions, so say your name, if you want: where you’re from, what you do, and then your answer to {random question}
-- If the group is small, you can popcorn or call on participants - your call.
 
 ### After intros
 
@@ -40,7 +40,7 @@ If no one has anything (and that includes you), bring up the pre-picked topic
 
 ### Considerations
 
-- Members who are late might be assigned to your room. Send them a zoom message about the topic
+- Members who are late might be assigned to your room. Drop the intro instructions in the chat.
 - Watch for handraises
 - Try to keep track of the zoom chat or ask someone else to
 - Some members may take longer than others to make a point and that’s okay. However, if you notice someone may be monopolizing the conversation, as kindly as possible, you may need to jump in and allow others to speak.
@@ -49,3 +49,4 @@ If no one has anything (and that includes you), bring up the pre-picked topic
 - Removing members is up to your discretion. If you think they’re creating an unsafe space, it is reasonable to remove them
 - It is also reasonable to DM them on zoom to give a warning or to ask for something to stop
 - If there is an issue, please report it to the #vc-room-leaders-notetakers--this can be done after the coffee
+- Check out [Tom’s Tips, Tricks, Tactics, and Techniques for Totally Terrific Room Leaders](https://docs.google.com/document/d/151KzNhtEahTWf6xMH8aC4mZ5QxKIFNzVEJSfMUyw3gU/edit?usp=sharing) bc it is amazing.
