@@ -2,13 +2,15 @@
 
 Thank you for volunteering to be a room leader! We know it can be difficult to both keep track of the conversation and participate, so we appreciate all you’re doing.
 
-As a room leader, your primary job is to ensure that the room is a safe and welcoming space. We want to give everyone a chance to participate, whether through talking or through zoom chat. As a room leader, here are some guidelines and considerations.
+Our goal for coffees is to ensure that each breakout room is a safe space that can have its own personality, but can also come back as part of the larger, Virtual Coffee community, through the connections built in those rooms.
+
+As a room leader, your primary job is to ensure that the room is a safe and welcoming space. We want to give everyone a chance to participate, whether through talking or through zoom chat. To help with this, we have some guidelines and considerations for you.
 
 ## Creating a welcoming space for everyone
 
 ### Discussion
 
-_To make this a welcoming space, it's important that as room leaders, you take care of the people in the room, and avoid situations of "getting too into the conversation" and excluding people. If there's jargon being used, ask the speaker to explain it and drop a link in the chat if possible as an additional resource._
+_To make this a welcoming space, it's important that as room leaders, you take care of the people in the room, and avoid situations of "getting too into the conversation" and excluding people. If there's jargon being used, ask the speaker to explain it and drop a link in the chat if possible as an additional resource. Be prepared to redirect conversation, politely move on to another speaker, etc._
 
 #### Coffee Table or PacMan method:
 
@@ -16,6 +18,8 @@ _To make this a welcoming space, it's important that as room leaders, you take c
 - [The Pacman Method](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/): in conferences and meetups, you always leave room in the circle for someone else to join the conversation. And the same thing should happen in your room.
 
 ## Guidelines once in the room
+In order to create a safe space, we ask that our room leaders always follow the structure and script for the breakout rooms and initiate the process shortly after breakout rooms open. This structure creates a recognizable space. It allows our new and old guests to sit down around the coffee table and to know what to expect. It invites them to share and participate in ways that make them comfortable. 
+We’re invested in making sure that everyone can participate in the ways they are most comfortable. That’s why it’s important to explain the hand raise function and other modes of participation.  
 
 ### Intro Script:
 #### Introduce yourself and give instructions:
