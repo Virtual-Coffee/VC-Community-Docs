@@ -74,3 +74,11 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - What things give you confidence that you are "ready"?
 - What's the difference between learning about a new framework, for example, and using it?
 - What advice do you have for people who feel "stuck"?
+
+### Conferences
+- What makes a good conference or meetup?
+- What are some strategies to make them successful?
+- What is your main goal when you go to a conf/meetup?
+- Long-term impacts of attending?
+- What's the difference between in-person and virtual events?
+- What have made/could make the best ones?
