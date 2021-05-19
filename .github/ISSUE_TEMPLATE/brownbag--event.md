@@ -7,6 +7,8 @@ labels: 'Brownbag: Event'
 
 ## Roles
 
+_**NOTE:** One person can take on multiple roles._
+
 - Speaker
 - Data Wrangler (DW)
 - Logistics Coordinator (LC)
@@ -16,8 +18,6 @@ labels: 'Brownbag: Event'
 - Post-production Team:
   - Editor(s)
   - Graphics Coordinator (GC)
-
-One person can take on multiple roles.
 
 ## Workflow Timeline
 
@@ -58,9 +58,12 @@ One person can take on multiple roles.
 
    Go back to Step 1. Iterate these steps until a time slot is agreed upon.
 
-4. The LC adds the Brownbag to the Virtual Coffee calendar.
+4. The LC adds the Brownbag to the Virtual Coffee Google calendar and invites both the Moderator and the Speaker.
+5. The LC adds the Brownbag event on [meetingplace.io](https://meetingplace.io/virtual-coffee/events).
 
-The DW adds the information the Speaker submitted via the Brownbag form to the PR and adjusts instructions throughout for roles depending on recording and privacy settings.
+### Creating a New Brownbag Issue
+
+Once the Brownbag is confirmed and scheduled, the DW adds the information the Speaker submitted via the Brownbag form to the PR and adjusts instructions per role throughout the rest of this template, depending on recording and privacy settings. The DW assigns the Moderator to this Brownbag issue and the Moderator is responsible for moving the issue card through the project board.
 
 ### Brownbag Session Info & Options
 
@@ -139,6 +142,8 @@ In the case of multiple choice selections, delete the options which are selected
 
 ### During the Session
 
+_**NOTE:** The Moderator and the Host can be the same person._
+
 - [ ] The Moderator and the Speaker arrive 15 minutes prior to the scheduled start time to check equipment and settle in.
 - [ ] The Host allows 5 minutes for attendees to arrive.
 - [ ] The Moderator lets the Host know when to start the recording.
@@ -151,5 +156,5 @@ In the case of multiple choice selections, delete the options which are selected
 
 ### Post-Brownbag
 
-- [ ] The LC thanks the Speaker for giving their Brownbag.
+- [ ] The Moderator posts a thank you message to the Speaker in Slack's #brownbag channel, which also gets posted to Twitter.
 - [ ] The Post-production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](/procedures/youtube.md).
