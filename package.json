@@ -1,15 +1,15 @@
 {
-  "name": "vc-events",
+  "name": "vc-contributors",
   "version": "1.0.0",
-  "description": "Management and coordination for Virtual Coffee events",
+  "description": "Management and coordination for Virtual Coffee Contributors",
   "main": "index.js",
-  "repository": "git+https://github.com/Virtual-Coffee/VC-Events.git",
-  "author": "Meg Gutshall <meghan.gutshall@gmail.com>",
+  "repository": "git+https://github.com/Virtual-Coffee/VC-Contributors.git",
+  "author": "Virtual Coffee",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Virtual-Coffee/VC-Events/issues"
+    "url": "https://github.com/Virtual-Coffee/VC-Contributors/issues"
   },
-  "homepage": "https://github.com/Virtual-Coffee/VC-Events#readme",
+  "homepage": "https://github.com/Virtual-Coffee/VC-Contributors#readme",
   "scripts": {
     "format": "prettier --ignore-path '.gitignore' --write .",
     "check": "prettier --ignore-path '.gitignore' --check ."
