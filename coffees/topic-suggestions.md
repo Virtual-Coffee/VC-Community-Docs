@@ -22,6 +22,8 @@ _Virtual Coffee started out of a need for community, out of a need for conversat
 - accessibility
 - design
 - open source
+- physical wellness
+- ergonomics
 
 Please feel free to use these as back-pocket topics at any time. And talk about what feels comfortable to you.
 
