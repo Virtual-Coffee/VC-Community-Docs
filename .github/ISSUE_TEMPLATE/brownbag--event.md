@@ -58,8 +58,8 @@ _**NOTE:** One person can take on multiple roles._
 
    Go back to Step 1. Iterate these steps until a time slot is agreed upon.
 
-4. The LC adds the Brownbag to the Virtual Coffee Google calendar and invites both the Moderator and the Speaker.
-5. The LC adds the Brownbag event on [meetingplace.io](https://meetingplace.io/virtual-coffee/events).
+4. The LC adds the Brownbag to the Virtual Coffee Google calendar and invites the Moderator, the Host, and the Speaker.
+5. The Host adds the Brownbag event on [meetingplace.io](https://meetingplace.io/virtual-coffee/events).
 
 ### Creating a New Brownbag Issue
 
