@@ -84,3 +84,9 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - Long-term impacts of attending?
 - What's the difference between in-person and virtual events?
 - What have made/could make the best ones?
+
+### Project-Induced Anxiety
+- How do you deal with anxiety caused by a project?
+- How do you communicate your anxiety to your supervisors
+- What do you do when dealing with the project interferes with team progress?
+- How do you problem solve when the whole team recognizes that the codebase is a challenging mess?
