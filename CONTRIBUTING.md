@@ -23,6 +23,8 @@ For questions, comments, or other discussion topics that don’t have a clear ac
 
 For example, if you want to ask “Should we do…” or “How do I do…”, you’ll start in the discussion board. This allows a whole-group conversation, and we can integrate the answer into docs or issues as necessary.
 
+If you're starting a discussion for a specific team, it's useful to notify the team by using @Virtual-Coffee/{team name}
+
 ### :beetle: Issues
 
 We use [GitHub Issues](https://docs.github.com/en/github/managing-your-work-on-github/about-issues) to track our projects and the tasks we’re working on. Often, some tasks are connected or may rely on another issue being completed first. We also label issues that are just for VC Maintainers, which are for the Virtual Coffee Maintainers. We use labels and project boards to help organize issues. Some important labels to be aware of:
