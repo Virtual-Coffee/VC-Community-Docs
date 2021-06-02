@@ -37,4 +37,4 @@ Notetakers take notes on the conversation in the breakout rooms, grab the links 
 
 - [Notetaker docs](./Notetakers)
 
-If you have any questions, feel free to ask in the slack channel or in the [COFFEE TALK TEAM](https://github.com/orgs/Virtual-Coffee/teams/coffee-talk-team) discussion board.
+If you have any questions, feel free to ask in the slack channel or on the [discussion board](https://github.com/Virtual-Coffee/VC-Contributors/discussions). Since this is a discussion board for all teams, make sure to use the ☕ category and use @Virtual-Coffee/coffee-talk-team to notify the team in your post.
