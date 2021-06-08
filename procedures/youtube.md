@@ -8,9 +8,17 @@ The following tasks will get the video to MVP publishing status where you can mo
 - [ ] Trim raw footage from beginning/end using YouTube Studio's editing UI.
 - [ ] Select the newly uploaded video and complete the "Video details" fields which include:
   - [ ] Title
-  - [ ] Description, including:
-    - [ ] The talk description
-    - [ ] The speaker bio
+    > `<talk title>` – `<speaker name>` – Virtual Coffee Brownbag
+  - [ ] Description
+    > `<talk description>`
+    > 
+    > `<speaker bio>`
+    > `<speaker social as URLs>`
+    > 
+    > Talk recorded on `<date>` as part of Virtual Coffee Lightning Talks online event.
+    > https://virtualcoffee.io/
+    > https://twitter.com/VirtualCoffeeIO
+    > https://instagram.com/virtualcoffee.io/
   - [ ] Thumbnail
     - Upload the intro card file, or choose an appropriate frame from the video.
   - [ ] Set the video privacy as appropriate.
@@ -41,3 +49,21 @@ The following tasks will get the video to MVP publishing status where you can mo
   - More on [YouTube chapters](https://www.tubics.com/blog/youtube-chapters/) and how they work.
 - [ ] Add links to the Speaker's slides, resources, and other shared materials in the talk description.
 - [ ] Add the YouTube video link to the main GitHub issue for the brownbag talk.
+
+## Examples
+
+- Title: 
+  > Using a Person-centered approach in tech – BekahHW – Virtual Coffee Brownbag
+- Description: 
+  > Tech can be so detached from people. We have users and developers and titles. And sometimes, we forget that there are human beings with complex lives behind those titles. This talk both acknowledges that and focuses on the importance of community, psychological safety, being open to growing as part of every experience.
+  > 
+  > Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then she has started a consultancy specializing in front-end development, created a developer community called Virtual Coffee, stayed active on Twitter and in tech-related slack groups, spoke on podcasts and at conferences, and has continued to mom her four kids. Prior to tech, she spent 10 years teaching college English, three years organizing events and community, and fully embraces being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
+  > https://twitter.com/BekahHW
+  > https://bekahhw.github.io
+  > 
+  > Talk recorded on 09 April 2021 as part of Virtual Coffee Lightning Talks online event.
+  > https://virtualcoffee.io/
+  > https://twitter.com/VirtualCoffeeIO
+  > https://instagram.com/virtualcoffee.io/
+
+- URL: https://youtu.be/Uvl6YKXLKYc
