@@ -14,23 +14,23 @@ The idea is to learn to communicate around a project as you demo it, show the fi
 
 ## How it works
 
-The month will consist of 4 parts:
+There a four steps to this challenge:
 
-1. Define and set goals: decide what you want to share, define what is the scope and the result you want to reach at the end of the month.
-2. Start working: Once your demo project is defined you can start considering your demo plans. Share and celebrate your progress.
-3. Reach your goal: Can you present to a group in VC? Would you prefer to pre-record it? Pick your demo method and make a commitment for the final week.
+1. Define and set goals: Let's focus on one project for this month. Decide what you want to share, define the scope and the result you want to reach at the end of the month. Share that in #monthly-challenge channel.
+2. Start working: Once your demo project is defined you can start considering your demo plans. We'll do weekly goals and check-ins, and at the end of the month, we'll share and celebrate your progress.
+3. Reach your goal: Let's demo in VC public! Want to pre-record it? No problem. Want to do it live? We've got you covered. Pick your demo method and make a commitment for the final week.
 4. Present: Synchronously or async. See explanation below.
 
 ### Weekly check-ins: are you hitting your goals?
 
-Monday of each week, set the goals for that week and by Friday review/check-in with those goals. We will be using the slack channel for this purpose.
+Each Monday, set the goals for that week in our #monthly-challenge channel check-in and by Friday review/check-in with those goals. We'll do both async and sync check-ins
 
 ### Demo Days (Final Week)
 
 There will be two ways for participants to demo their projects:
 
-1. **Synchronously** - A Zoom meetup will be held for members who wish to demo their project to the VC community. You will need to register by the end of week 3 with the monthly challenge team .
-2. **Async** - You will be able to share your pre-recorded demos on the #monthly-challenge Slack channel, using Loom for example.
+1. **Synchronously** - A Zoom meetup will be held for members who wish to demo their project to the VC community. You will need to register by the end of week 3 with the monthly challenge team. More details to follow.
+2. **Async** - Share your pre-recorded demos on the #monthly-challenge Slack channel! You can use Loom or any other screen recording tool. And if you need help getting started, just ask for help in the #help-and-pairing channel.
 
 ---
 
@@ -43,16 +43,16 @@ This challenge can be done alone or in a group.
 
 ### How to share my progress?
 
-Share your progress in the #monthly-challenge channel in Slack. While no other platform is imposed, it can be a good idea to also share on social media for more reach
-but only if you are comfortable to do so (Twitter using -or not- the hashtag #VCMonthlyChallenge, a personal blog, a post on [DEV.to](https://dev.to/), you get the idea).
+Share your progress in the #monthly-challenge channel in Slack. While no other platform is imposed, it can be a good idea to also share on social media for more reach, but only if you are comfortable to do so (Twitter using -or not- the hashtag #VCMonthlyChallenge, a personal blog, a post on [DEV.to](https://dev.to/), you get the idea).
 
 Sharing every time some work is added is a good idea, small progress is still progress. No need to write a detailed blog post: a 140 characters Tweet can be enough.
 For example: "Today I added some styling. I used Bootstrap and implemented some cards to display the users in the home page".
 
 ### What if I need help?
 
-You can ask a question in the #help-and-pairing VC channel, get 1:1 help during Office Hours (check #office-hours channel), join the VC co-working room...
-Asking for help is part of the process.
+You can ask a question in the #help-and-pairing VC channel, get 1:1 help during Office Hours (check #office-hours channel), join the VC co-working room (#co-working-room)...
+
+Asking for help is part of the process :)
 
 ## Resources
 
