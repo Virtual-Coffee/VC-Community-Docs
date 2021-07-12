@@ -10,9 +10,10 @@
 
 - Click the breakout room icon,
 - Select the number of rooms according to the number of leaders
-- Choose assign automatically
+- Choose assign manually
 - Pair each co-host with a notetaker
 - Change the name of the breakout room to the co-host/notetaker pair
+- Assign members into rooms as they come in
 - Once rooms are paired and opening remarks are done, click "Open All Rooms"
   _Note: The host has to assign themselves to a room_
 
