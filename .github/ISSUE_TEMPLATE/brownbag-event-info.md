@@ -4,6 +4,7 @@ about: Track tasks and collect information for a brownbag session
 title: ''
 labels: 'Brownbag: Event'
 assignees: ''
+
 ---
 
 # Brownbag Info
