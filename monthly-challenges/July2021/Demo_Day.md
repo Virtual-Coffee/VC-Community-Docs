@@ -33,7 +33,7 @@
 - A simple rubric for the check ins.
 
 ### When and how do we communicate event details
-- Members should be able to fill out form details for presenting by Tuesday 20th, July 2021.
+- Form for participants should be ready by Tuesday 20th, July 2021.
 - We will do explicit calls for form fill out on coffees during the week of 19th to 23rd
 - Call should go out in slack by Tuesday 20th July 2021 for folks who want to mentor/support demo-ers in listening and preparing.
 - At all coffees from the 19th to the day de la demo we need to remind members to save the date.
