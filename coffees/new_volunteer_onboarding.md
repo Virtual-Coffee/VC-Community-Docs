@@ -34,7 +34,7 @@ documentation especially. That should provide a decent start to understanding yo
 ### Reviews and Changes
 
 Once you've read the docs, the next step should be making note of any lingering questions, concerns, or notes you have about the process and bringing them up to a maintainer. No question is
-to simple, or silly, and the VC maintainers Love an opportunity to provide more clarity for members. At the end of this discussion, the next step may be for you to add
+too simple, or silly, and the VC maintainers Love an opportunity to provide more clarity for members. At the end of this discussion, the next step may be for you to add
 those answers to the docs, so the next person who views them gets to benefit from the knowledge you've gained. It's by this process that we make our documentation more
 helpful, thorough, and complete. So we really really do welcome as much feedback as you'd like to share. It makes us all better.
 
