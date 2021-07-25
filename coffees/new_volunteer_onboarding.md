@@ -73,7 +73,7 @@ Two things we believe it's important to remember during this process:
 
 ## Your first solo room lead
 
-One _you_ feel ready for solo leading you can begin volunteering for room leading by yourself (still with a designated note taker of course). 
+Once _you_ feel ready for solo leading you can begin volunteering for room leading by yourself (still with a designated note taker of course). 
 At this point, you should be fully familiar with the process and the host will try as much as possible to keep some familiar faces in your room for additional support and encouragement.
 
 ## Final notes
