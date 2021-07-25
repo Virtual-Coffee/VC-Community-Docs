@@ -43,7 +43,7 @@ helpful, thorough, and complete. So we really really do welcome as much feedback
 Once you've read through the documentation and suggested some changes, you're ready to take the plunge into choosing a role. The most important thing to remember is, 
 _you never **have** to volunteer_. Never feel guilt, shame, or stress over not being able to take on a role on a particular day, 
 even if you notice there aren't many volunteers for that day. We do appreciate the time and effort everyone makes to help around here, but this isn't a job. We
-do what we can, when we have the bandwidth. This should be **fun** , and it's hard to have fun when you feel like you're forced.
+do what we can, when we have the bandwidth. This should be **fun**, and it's hard to have fun when you feel like you're forced.
 
 As for the practicals of volunteering, every Monday a post is made in the `#room-leaders-note-takers` channel in the slack asking folks to indicate with emojis, 
 whether they're available for room leading, note-taking, both, or neither. On Monday and Wednesday afternoon the first draft of the roster will be posted. This
