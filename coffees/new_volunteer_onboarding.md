@@ -7,7 +7,7 @@ regularly scheduled weekly coffees! Welcome!! :)
 This article serves as a living document for getting you all set up for feeling confident and secure in your new role. 
 While you are always welcome to ask a community maintainer or more experienced volunteer for advice,
 we know folks get a lot of value from having an official source that they can refer to. So without further ado, here are our recommended steps for getting the most 
-out of your onbaording experience.
+out of your onboarding experience.
 
 **Table of Contents**
 - [The Documentation](#the-documentation)
