@@ -24,6 +24,8 @@ _Virtual Coffee started out of a need for community, out of a need for conversat
 - open source
 - physical wellness
 - ergonomics
+- social equity
+- core competency and stretch competency
 
 Please feel free to use these as back-pocket topics at any time. And talk about what feels comfortable to you.
 
@@ -90,3 +92,5 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - How do you communicate your anxiety to your supervisors
 - What do you do when dealing with the project interferes with team progress?
 - How do you problem solve when the whole team recognizes that the codebase is a challenging mess?
+
+
