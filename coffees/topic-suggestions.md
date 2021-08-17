@@ -93,4 +93,13 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - What do you do when dealing with the project interferes with team progress?
 - How do you problem solve when the whole team recognizes that the codebase is a challenging mess?
 
+### Healthy Habits, Happy Devs
+- How do you recharge and recover? This month's challenge is all about nourishing our bodies, minds, and spirits so that we can become healthier developers. Let's talk about the things we do to become healthier devs.
+- What are some habits that make you a healthier dev? This can be mind and body centered (drink, move, read, meditate, rearrange your work station) or code centered (review your ReadMe, clean your code, refresh your GitHub repo) or both.
+
+### Learning
+- How do you decide what topics to learn deeply or projects to focus on? 
+- Do you have a process? 
+- How do you avoid doing a lot of things shallowly?
+
 
