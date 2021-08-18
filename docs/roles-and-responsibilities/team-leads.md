@@ -25,3 +25,22 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 - Track and manage post-production tasks for events
 - Coordinate with team members in completing tasks
 - Assist with managing and moderating the YouTube Channel 
+
+
+### Monthly Challenge
+
+- Create or update documentation for challenges
+- Evaluate the success of the challenge when it's completed and note any changes that need to be made
+- Facilitate planning and/or organizing the next month's challenge
+- Identify facilitators for each month (2/challenge is recommended)
+- Get the documentation for the challenge in this repo and the site docs on the VCIO site by the first Monday of the month.
+- Coordinate with team members and reply to communication in a timely manner
+
+### Lightning Talks
+
+- Coordinate with team members and reply to communication in a timely manner
+- Create or update documentation
+- Facilitate planning and/or organizing 
+- Check-in with team members to support them and ensure things are on schedule
+- Communicate with AV Team Lead for support
+
