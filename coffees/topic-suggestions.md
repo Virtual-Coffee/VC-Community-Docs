@@ -102,4 +102,8 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - Do you have a process? 
 - How do you avoid doing a lot of things shallowly?
 
+### Interviewing people
+- how do you prepare, 
+- do you have a list of go-to questions, 
+- how do you prepare the test you'll give (whatever the kind of test)
 
