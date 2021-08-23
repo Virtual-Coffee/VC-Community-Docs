@@ -64,6 +64,8 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - How to be a good interviewer
 - How to “study” for the interview
 - Tips for interviewing
+- Do you need to unwind or decompress after an interview? What are your favorite go-tos to recover?
+
 
 ### Motivation 
 - What motivates you?
@@ -107,3 +109,30 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - do you have a list of go-to questions, 
 - how do you prepare the test you'll give (whatever the kind of test)
 
+### Mental Models
+*inspired by Just JavaScript*, ch. 1
+> These approximations of how something works in your head are known as “mental models.”
+- How do you develop mental models?
+- Do you notice them as you're coding?
+- Do you ever have to rethink and recalibrate your mental models? If so, how do you reinforce the changes?
+
+
+### Trends
+- What trends in technology are you skeptical or uncertain of?
+- How do you stay up to date on technology trends? 
+- What are your favorite sources?
+
+
+### Career Motivation
+What motivated you to pursue a career in technology?  Is it the same thing that keeps you motivated now?
+
+### Transferable Skills
+- what are some transferrable skills you bring to tech, either from a previous career or from other parts of your life?”
+
+### Growth
+- How do you know when you’ve outgrown a role?” “How do you create opportunities for growth for yourself?” “How do you know when a job will really offer you opportunities to grow?”
+- What's your favorite non tech topic to study or learn? Has it helped you in your tech career?
+
+### Industry
+What are the most painful barriers to entry for being "in tech"? What should we do to reduce these blockers?
+Does having close family or friends in tech help or hinder you in your tech journey?
