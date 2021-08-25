@@ -5,7 +5,7 @@ Management and coordination for Virtual Coffee Contributors
 ## Quick Links
 
 - [How to Use This Repo](#how-to-use-this-repo)
-- [Brownbags](./brownbags): Docs and reference for managing Brownbag events
+- [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
