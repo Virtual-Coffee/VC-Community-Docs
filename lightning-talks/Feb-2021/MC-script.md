@@ -10,7 +10,7 @@
 
 - Today's event will be livestreamed, recorded, and posted online as individual talks.
 
-- Because lightning talks are an introduction into a topic, and here at Virtual Coffee a good way to ease into speaking or gauge interest for a brownbag topic, we won't be taking questions as part of the event, but I'll be tagging the speaker and their topic in the #event-chat channel in slack so please feel free to add questions, comments, or general positivity there.
+- Because lightning talks are an introduction into a topic, and here at Virtual Coffee a good way to ease into speaking or gauge interest for a Lunch & Learn topic, we won't be taking questions as part of the event, but I'll be tagging the speaker and their topic in the #event-chat channel in slack so please feel free to add questions, comments, or general positivity there.
 
 I'm very excited for this, and we're going to kick it off with my talk: The Joy of Dev Life: A Bob Ross Approach.
 

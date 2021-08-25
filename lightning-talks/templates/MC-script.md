@@ -12,7 +12,7 @@
 
 - Today's event will be livestreamed, recorded, and posted online.
 
-- Because lightning talks are an introduction into a topic, and here at Virtual Coffee a good way to ease into speaking or gauge interest for a brownbag topic, we won't be taking questions as part of the event, but I'll be tagging the speaker and their topic in the #event-chat channel in slack so please feel free to add questions, comments, or general positivity there.
+- Because lightning talks are an introduction into a topic, and here at Virtual Coffee a good way to ease into speaking or gauge interest for a Lunch & Learn topic, we won't be taking questions as part of the event, but I'll be tagging the speaker and their topic in the #event-chat channel in slack so please feel free to add questions, comments, or general positivity there.
   - Some of the speakers will be asking questions, so feel free to respond through chat.
 
 I'm very excited about our talks, so now I'm going to introduce our first speaker.
@@ -30,6 +30,6 @@ I'm very excited about our talks, so now I'm going to introduce our first speake
 - Just a reminder, we're running a monthly-challenge right now. So if you're interested in {monthly challenge info}, please {do whatever we're doing.}
 - As always if you have questions or comments, please feel free to reach out. We're always here to support you and to answer any question. You can ping us in slack, on Twitter @VirtualCoffeeIO or email us at hello@VirtualCoffee.io
 
-- Thanks again for everyone who participated in [last event]. We're looking forward to [whatever project/ brownbags /events] that are happening next--I know I'd love to see each of these speakers expand these ideas into a brownbag.
+- Thanks again for everyone who participated in [last event]. We're looking forward to [whatever project/ Lunch & Learns /events] that are happening next--I know I'd love to see each of these speakers expand these ideas into a Lunch & Learn.
 
 - Have a great day, everyone!
