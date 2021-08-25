@@ -34,24 +34,24 @@ jobs:
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Contributors/projects/6'
           column_name: 'Inbox'
-      - name: 'Assign issues with `Brownbag: Event` label to brownbag planning project'
+      - name: 'Assign issues with `Lunch & Learn: Event` label to Lunch & Learn planning project'
         uses: srggrs/assign-one-project-github-action@1.2.0
         if: |
-          contains(github.event.issue.labels.*.name, 'Brownbag: Event')
+          contains(github.event.issue.labels.*.name, 'Lunch & Learn: Event')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Contributors/projects/5'
           column_name: 'Inbox'
-      - name: 'Assign issues with `Brownbag: Post-production` label to brownbag post-production project'
+      - name: 'Assign issues with `Lunch & Learn: Post-production` label to post-production project'
         uses: srggrs/assign-one-project-github-action@1.2.0
         if: |
-          contains(github.event.issue.labels.*.name, 'Brownbag: Post-production')
+          contains(github.event.issue.labels.*.name, 'Lunch & Learn: Post-production')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Contributors/projects/6'
           column_name: 'Inbox'
-      - name: 'Assign pull requests with `Brownbag: Post-production` label to brownbag post-production project'
+      - name: 'Assign pull requests with `Lunch & Learn: Post-production` label to post-production project'
         uses: srggrs/assign-one-project-github-action@1.2.0
         if: |
-          contains(github.event.pull_request.labels.*.name, 'Brownbag: Post-production')
+          contains(github.event.pull_request.labels.*.name, 'Lunch & Learn: Post-production')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Contributors/projects/6'
           column_name: 'Inbox'
