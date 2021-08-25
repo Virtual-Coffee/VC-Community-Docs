@@ -8,6 +8,7 @@ _Thanks for taking time this month to volunteer to facilitate this month's chall
 
 - If you know members who would be interested or good at channel-level mentorship, reach out and ask them
 - If anyone agrees to mentor or support the members, add them to the #monthly-challenge-team channel for team communication
+- Create a Facilitator-Guide.md file in the folder for that month.
 
 #### The First of the Month
 
@@ -23,6 +24,8 @@ _Thanks for taking time this month to volunteer to facilitate this month's chall
 - Check-in with the mentors.
 - Drop any links to resources that could help and/or encourage members to do the same.
 - Ask the members how they'd like to collect their finished products at the end of the month (slack, posted to the site, other)
+- Update the Facilitator-Guide.md with the things you've done during the month, the support you needed, and even things you think you think would be nice to have next time. 
+     - Be as specific as possible (this will serve as the guide for the next time we run the challenge). For example, you might have a task that says "Create a slackbot reminder that says "Reminder: Check out our Demos doc (bookmarked at the top of this channel) for all of our members pre-recorded demoes!"  And then give a link or instructions on how to create a slack reminder.  
 
 #### Tips
 

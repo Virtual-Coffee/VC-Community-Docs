@@ -22,6 +22,10 @@ _Virtual Coffee started out of a need for community, out of a need for conversat
 - accessibility
 - design
 - open source
+- physical wellness
+- ergonomics
+- social equity
+- core competency and stretch competency
 
 Please feel free to use these as back-pocket topics at any time. And talk about what feels comfortable to you.
 
@@ -60,6 +64,8 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - How to be a good interviewer
 - How to “study” for the interview
 - Tips for interviewing
+- Do you need to unwind or decompress after an interview? What are your favorite go-tos to recover?
+
 
 ### Motivation 
 - What motivates you?
@@ -82,3 +88,51 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - Long-term impacts of attending?
 - What's the difference between in-person and virtual events?
 - What have made/could make the best ones?
+
+### Project-Induced Anxiety
+- How do you deal with anxiety caused by a project?
+- How do you communicate your anxiety to your supervisors
+- What do you do when dealing with the project interferes with team progress?
+- How do you problem solve when the whole team recognizes that the codebase is a challenging mess?
+
+### Healthy Habits, Happy Devs
+- How do you recharge and recover? This month's challenge is all about nourishing our bodies, minds, and spirits so that we can become healthier developers. Let's talk about the things we do to become healthier devs.
+- What are some habits that make you a healthier dev? This can be mind and body centered (drink, move, read, meditate, rearrange your work station) or code centered (review your ReadMe, clean your code, refresh your GitHub repo) or both.
+
+### Learning
+- How do you decide what topics to learn deeply or projects to focus on? 
+- Do you have a process? 
+- How do you avoid doing a lot of things shallowly?
+
+### Interviewing people
+- how do you prepare, 
+- do you have a list of go-to questions, 
+- how do you prepare the test you'll give (whatever the kind of test)
+
+### Mental Models
+*inspired by Just JavaScript*, ch. 1
+> These approximations of how something works in your head are known as “mental models.”
+- How do you develop mental models?
+- Do you notice them as you're coding?
+- Do you ever have to rethink and recalibrate your mental models? If so, how do you reinforce the changes?
+
+
+### Trends
+- What trends in technology are you skeptical or uncertain of?
+- How do you stay up to date on technology trends? 
+- What are your favorite sources?
+
+
+### Career Motivation
+What motivated you to pursue a career in technology?  Is it the same thing that keeps you motivated now?
+
+### Transferable Skills
+- what are some transferrable skills you bring to tech, either from a previous career or from other parts of your life?”
+
+### Growth
+- How do you know when you’ve outgrown a role?” “How do you create opportunities for growth for yourself?” “How do you know when a job will really offer you opportunities to grow?”
+- What's your favorite non tech topic to study or learn? Has it helped you in your tech career?
+
+### Industry
+What are the most painful barriers to entry for being "in tech"? What should we do to reduce these blockers?
+Does having close family or friends in tech help or hinder you in your tech journey?
