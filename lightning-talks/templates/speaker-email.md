@@ -8,7 +8,7 @@ We're so excited to hear your talk on {topic} this week. If you could do us a fa
 - Slides (if applicable, as a back-up)
 - Talk length
 
-Since this is a lightning talk session, we're not going to be taking questions. However, we're encouraging participants to ask questions by tagging you in the #event-chat channel. We encourage you to answer the questions as you're available or to consider submitting a [brownbag idea](https://virtualcoffee.io/brownbag-idea/) and letting the participants know that you're planning on developing your topic.
+Since this is a lightning talk session, we're not going to be taking questions. However, we're encouraging participants to ask questions by tagging you in the #event-chat channel. We encourage you to answer the questions as you're available or to consider submitting a [lunch & learn idea](https://virtualcoffee.io/lunch-and-learn-idea/) and letting the participants know that you're planning on developing your topic.
 
 The talks will be on {day} between {time} EST. Please let us know if there are times after that that you prefer. We will do our best to accommodate everyone.
 

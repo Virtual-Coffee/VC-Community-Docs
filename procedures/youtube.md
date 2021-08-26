@@ -2,23 +2,20 @@
 
 ## MVP Edit
 
-The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Published" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081364) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
+The following tasks will get the video to MVP publishing status where you can move the lunch & learn issue to [the "Published" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081364) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
 
 - [ ] Upload raw footage to YouTube.
 - [ ] Trim raw footage from beginning/end using YouTube Studio's editing UI.
 - [ ] Select the newly uploaded video and complete the "Video details" fields which include:
   - [ ] Title
-    > `<talk title>` – `<speaker name>` – Virtual Coffee Brownbag
+    > `<talk title>` – `<speaker name>` – Virtual Coffee Lunch & Learn
   - [ ] Description
     > `<talk description>`
-    > 
-    > `<speaker bio>`
-    > `<speaker social as URLs>`
-    > 
+    >
+    > `<speaker bio>` > `<speaker social as URLs>`
+    >
     > Talk recorded on `<date>` as part of Virtual Coffee Lightning Talks online event.
-    > https://virtualcoffee.io/
-    > https://twitter.com/VirtualCoffeeIO
-    > https://instagram.com/virtualcoffee.io/
+    > https://virtualcoffee.io/ > https://twitter.com/VirtualCoffeeIO > https://instagram.com/virtualcoffee.io/
   - [ ] Thumbnail
     - Upload the intro card file, or choose an appropriate frame from the video.
   - [ ] Set the video privacy as appropriate.
@@ -35,11 +32,11 @@ The following tasks will get the video to MVP publishing status where you can mo
     - [ ] Comment visibility: Hold potentially inappropriate comments for review
     - [ ] Sort by: Top
     - [ ] Check "Show how many viewers like and dislike this video"
-- [ ] Add the YouTube video link to the main GitHub issue for the brownbag talk.
+- [ ] Add the YouTube video link to the main GitHub issue for the Lunch & Learn talk.
 
 ## Final Edit
 
-The following tasks will get the video to MVP publishing status where you can move the brownbag issue to [the "Completed" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081363) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
+The following tasks will get the video to MVP publishing status where you can move the Lunch & Learn issue to [the "Completed" column](https://github.com/Virtual-Coffee/VC-Contributors/projects/6#column-13081363) in [the "Post-Production" project board](https://github.com/Virtual-Coffee/VC-Contributors/projects/6).
 
 - [ ] Select the "Subtitles" tab to add the video subtitles.
   - [ ] English should already be listed as a language. Click the "DUPLICATE AND EDIT" link in the rightmost column. Accept the warning that your current subtitles will be overwritten.
@@ -48,22 +45,20 @@ The following tasks will get the video to MVP publishing status where you can mo
 - [ ] Note time points in the talk where there are natural breaks/transitions between topics so they can be converted into Youtube chapters for easy viewer access.
   - More on [YouTube chapters](https://www.tubics.com/blog/youtube-chapters/) and how they work.
 - [ ] Add links to the Speaker's slides, resources, and other shared materials in the talk description.
-- [ ] Add the YouTube video link to the main GitHub issue for the brownbag talk.
+- [ ] Add the YouTube video link to the main GitHub issue for the Lunch & Learn talk.
 
 ## Examples
 
-- Title: 
-  > Using a Person-centered approach in tech – BekahHW – Virtual Coffee Brownbag
-- Description: 
+- Title:
+  > Using a Person-centered approach in tech – BekahHW – Virtual Coffee Lunch & Learn
+- Description:
+
   > Tech can be so detached from people. We have users and developers and titles. And sometimes, we forget that there are human beings with complex lives behind those titles. This talk both acknowledges that and focuses on the importance of community, psychological safety, being open to growing as part of every experience.
-  > 
+  >
   > Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then she has started a consultancy specializing in front-end development, created a developer community called Virtual Coffee, stayed active on Twitter and in tech-related slack groups, spoke on podcasts and at conferences, and has continued to mom her four kids. Prior to tech, she spent 10 years teaching college English, three years organizing events and community, and fully embraces being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
-  > https://twitter.com/BekahHW
-  > https://bekahhw.github.io
-  > 
+  > https://twitter.com/BekahHW > https://bekahhw.github.io
+  >
   > Talk recorded on 09 April 2021 as part of Virtual Coffee Lightning Talks online event.
-  > https://virtualcoffee.io/
-  > https://twitter.com/VirtualCoffeeIO
-  > https://instagram.com/virtualcoffee.io/
+  > https://virtualcoffee.io/ > https://twitter.com/VirtualCoffeeIO > https://instagram.com/virtualcoffee.io/
 
 - URL: https://youtu.be/Uvl6YKXLKYc
