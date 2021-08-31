@@ -36,6 +36,9 @@ Please feel free to use these as back-pocket topics at any time. And talk about 
 - What happens when you get stuck?
 - What have you learned from it and been able to apply in other situations?
 
+### Documentation.
+- Why is documentation important? What makes good documentation? Do you have any examples of good documentation? How do you think companies/products can improve documentation?
+
 
 ### Education
 - How did you learn to code
@@ -136,3 +139,7 @@ What motivated you to pursue a career in technology?  Is it the same thing that 
 ### Industry
 What are the most painful barriers to entry for being "in tech"? What should we do to reduce these blockers?
 Does having close family or friends in tech help or hinder you in your tech journey?
+
+
+### User experiences. 
+- As developers, we create technologies, but in our daily lives, we're consumers like everyone else. What user experiences online frustrate/baffle you, and how do those inform your decisions as a developer? Conversely, have you ever experience a UI/UX that brought joy or relief?
