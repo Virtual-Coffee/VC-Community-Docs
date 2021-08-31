@@ -8,6 +8,8 @@ We try to keep Lunch & Learns to Fridays at 12pm Eastern. Members can submit an 
 
 - ### [Process Docs](./process-docs.md)
   Docs detailing processes for Lunch & Learns
+- ### [Event Script Template](./event-script-template.md)
+  A template that can be used when MCing a Lunch & Learn event.
 - ### [L&L Idea Form](https://virtualcoffee.io/lunch-and-learn-idea/)
   Form members can use to submit a new idea
 - ### [Events board (Lunch & Learn view)](https://github.com/orgs/Virtual-Coffee/projects/6/views/4)
