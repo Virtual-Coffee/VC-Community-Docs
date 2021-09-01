@@ -50,4 +50,4 @@ There are _many_ other things that can help make a repository feel more welcomin
 
 ## Additional Resources
 [The Guide to Building Open Source Communities](https://opensource.guide/building-community/)
-[Introduction to Open Source](Introduction to Open Source)
+[Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
