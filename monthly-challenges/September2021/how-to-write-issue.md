@@ -32,3 +32,25 @@ Also, a suggested solution can be a good thing, especially to help the contribut
 experience. It is not the most relevant thing to have though since often many other solutions can 
 work too.
 
+## How to write an issue?
+
+Like said above, there is not only one way to do it.
+
+The first thing to check is if there is an available template and/or rules for it. You can find this 
+information in the ReadMe of the repository.
+In repos that are used to get a lot of traffic and issues, there is often an automatic template that 
+appears when you create the issue. In that case, follow exactly the steps and requirements.
+It is also good to remember that a lot of repos have a now Code of Conduct (CoC) to follow and we 
+encourage you to read it. Absence of CoC is regretted but doesn't mean people can have a disrespectful 
+behavior, even if the issue is "super frustrating".
+
+If there is no specific rules, here is a list of what's good to share in an issue:
+- [ ] A title that is clear enough to identify in few words what the problem is about.
+- [ ] Screenshots if the issue is in the UI, logs if it's a performance issue... anything that proves
+the existence of the problem.
+- [ ] Your setup: type of device and OS version, type of browser and version, any kind of setup
+that can help reproducing the problem.
+- [ ] Description of how to reproduce the bug / behavior (the buttons you clicked, the request you've 
+made, ...)
+- [ ] If you think of a solution to solve the problem, you can suggest something. Remember that your 
+solution may not be the best solution for that specific issue / techno / repo...
