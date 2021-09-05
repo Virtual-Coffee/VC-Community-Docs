@@ -37,38 +37,40 @@ experience. When you're writing issues on a repository that isn't your own, you 
 - Check the Code of Conduct (COC) to make sure you participate in a way that's consistent with the organizations guidelines. Absence of a COC is unfortunate but doesn't mean people should be rude or disrespectful, even if the issue is "super frustrating."
 
 ## How to write an issue?
-
 Remember, there is not only one way to do it. We're going to walk you through how to create an issue, and reference the Virtual Coffee repository as an example.
 
-1. Go to a repository. Let's check out [VirtualCoffee.io repository](https://github.com/Virtual-Coffee/virtualcoffee.io/)]
+1. Go to a repository. Let's check out [VirtualCoffee.io repository](https://github.com/Virtual-Coffee/virtualcoffee.io/)
 2. Navigate to the [Issue Tab](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/)
 3. Check is if there is an [available template](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/new/choose). You can find this by clicking the New Issue button on a repository. 
       - In repos that are used to get a lot of traffic and issues, there is often an automatic template that 
         appears when you create the issue. In that case, follow exactly the steps and requirements.
 4. If there are no specific rules, here is a list of what's good to share in different types of issues:
+
 **Bug Issue**:
-      - [ ] A title that is clear enough to identify in few words what the problem is about.
-      - [ ] Screenshots of the issue is in the UI, logs if it's a performance issue, or anything that proves
+- [ ] A title that is clear enough to identify in few words what the problem is about.
+- [ ] Screenshots of the issue is in the UI, logs if it's a performance issue, or anything that proves
       the existence of the problem.
-      - [ ] Your setup: type of device and OS version, type of browser and version, any kind of setup
+- [ ] Your setup: type of device and OS version, type of browser and version, any kind of setup
       that can help reproducing the problem.
-      - [ ] Description of how to reproduce the bug / behavior (the buttons you clicked, the request you've 
-      made, ...)
-      - [ ] If you think of a solution to solve the problem, you can suggest something. Remember that your 
-      solution may not be the best solution for that specific issue / techno / repo...
-      - [ ] Links to any issue or discussion that relates to this issue
+- [ ] Description of how to reproduce the bug / behavior (the buttons you clicked, the request you've 
+     made, ...)
+- [ ] If you think of a solution to solve the problem, you can suggest something. Remember that your 
+ solution may not be the best solution for that specific issue / techno / repo...
+- [ ] Links to any issue or discussion that relates to this issue
 
 **Feature Issue**:
-      - [ ] A title that is clear enough to identify in few words what the problem is about.
-      - [ ] Context for the issue: Describe the feature request.
-      - [ ] Proposed Solution: What do you think the solution should be and why? If you don't have a suggestion, that's fine too!
-      - [ ] Alternatives Considered: If you have thought about other solutions, what have you thought about and why did you think they weren't the best solution to the request? 
-      - [ ] Links to any issue or discussion that relates to this issue
+- [ ] A title that is clear enough to identify in few words what the problem is about.
+- [ ] Context for the issue: Describe the feature request.
+- [ ] Proposed Solution: What do you think the solution should be and why? If you don't have a suggestion, that's fine too!
+- [ ] Alternatives Considered: If you have thought about other solutions, what have you thought about and why did you think they weren't the best solution to the request? 
+- [ ] Links to any issue or discussion that relates to this issue
 
 **Doumentation Change**
-      - [ ] A title that is clear enough to identify in few words what the problem is about.
-      - [ ] Context for the issue: Describe the documentation request.
+- [ ] A title that is clear enough to identify in few words what the problem is about.
+- [ ] Context for the issue: Describe the documentation request.
           - For example, "I noticed an unclear explanation of how to install the software. I encountered an some issues myself."
-      - [ ] Proposed Solution: What do you think the solution should be and why? If you don't have a suggestion, that's fine too!
+- [ ] Proposed Solution: What do you think the solution should be and why? If you don't have a suggestion, that's fine too!
 
-
+##Other Resources
+- GitHub [Issue documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+- GitLab [Issue documentation](https://docs.gitlab.com/ee/user/project/issues/)
