@@ -5,16 +5,15 @@
 
 Issues are a way to list and keep track all the tasks that need to be done in a GitHub repository.
 Whether they identify a bug, or announce a project of feature, issues can be created by anybody. 
-Although, they are managed by the repository maintainer (aka the person or group in charge).
+Although they are managed by the repository maintainer (aka the person or group in charge), they can be created by contributors and non-team members. And contributors don't need to have the answer! You only need to give a clear description of the bug, feature request, or the purpose of the issue..
 
 2 quick examples:
-- I am a maintainer, I know my app needs an update button in the profile page. I will
+- As a maintainer, I know my app needs an update button in the profile page. I will
 create an issue to remember it, and it will help me plan my next deployment.
-- I am a user, I love the app, and I think it would be even better without this annoying 
-bug when I log in. I will create an issue to let the maintainer know about this problem that
-they probably don't know about.
+- As a user, I love/use the app, and I think it would be even better without this annoying 
+bug when I log in. I will create an issue to let the maintainer know about this problem.
 
-Anybody can create issues in a repo, only the maintainers can manage them.
+Anybody can create issues in a repo--whether you have a suggested solution or not--but only the maintainers can manage them.
 
 ## Important things to know
 There is not one good way to write issues. But there are things we want to avoid that
