@@ -5,6 +5,7 @@ This document is a short and simple guide to help you determine if a GitHub repo
 This also doubles as our very own guide for Virtual Coffee-endorsed Open Source projects.
 
 ## Name, Description, Tags
+
 We'll start with the natural beginning for evalutating an OSS project: The descriptive fields that github provides.
 - It should have a relvant name.
 - It should have a clear description that tells you what the project does and what it's for.
@@ -13,6 +14,8 @@ We'll start with the natural beginning for evalutating an OSS project: The descr
 You may find this trivial, but these are first and most straightforward way github uses to recommend your content to potential contributors.*
 
 * Also, if you're looking to particpate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), adding the `Hacktoberfest` tag to your repo description is one especially important way to indicate that.
+
+![A good open source description](https://user-images.githubusercontent.com/13292886/132138464-242c7d64-8b64-4595-b045-8bf028638b43.png)
 
 ## Docs, Docs, Docs,
 
@@ -30,6 +33,8 @@ At the end of the day, all we know of a project before we start it is what we sa
     - How to communicate with maintainers? How often should you expect interactions/reviews and through what mediums.
  - **A License** - There are many [popular and vetted open source licenses](https://opensource.org/licenses) that make it easy and safe for people to contribute to a particular project. It is not advised to work on a project without that doesnt have a license, or is not using one of these.
  - **Issue and Pull Request templates** - These are templates that provide a guide for potential contributors on make issue and pull requests respectively to the project. They remove a lot of burden from the maintainer and the contributor one trying to guess the appropriate procedure for these contributions.
+
+![Templates](https://user-images.githubusercontent.com/13292886/132138524-0a38d35c-305e-4804-ba36-e7adfa73e09d.png)
 
 ## Beginner Friendliness
 Ultimately, if you're looking for a repository/project that is beginner friendly, they should have some indication in the documentation and processes that highlights that. 
