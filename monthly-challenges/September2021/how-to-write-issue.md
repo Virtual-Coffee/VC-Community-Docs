@@ -70,6 +70,6 @@ Remember, there is not only one way to do it. We're going to walk you through ho
           - For example, "I noticed an unclear explanation of how to install the software. I encountered an some issues myself."
 - [ ] Proposed Solution: What do you think the solution should be and why? If you don't have a suggestion, that's fine too!
 
-##Other Resources
+## Other Resources
 - GitHub [Issue documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 - GitLab [Issue documentation](https://docs.gitlab.com/ee/user/project/issues/)
