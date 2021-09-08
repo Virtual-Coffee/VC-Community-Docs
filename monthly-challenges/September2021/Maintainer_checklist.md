@@ -52,7 +52,7 @@ There are _many_ other things that can help make a repository feel more welcomin
 ## The Official Checklist
 Here's the checklist in plain form based on the guide above. It isn't necessary for a project in the wild to have *all* of these things, but it should at least have most of them.
 
-- [ ] It should have a relvant name.
+- [ ] It should have a relevant name.
 - [ ] It should have a clear description that tells you what the project does and what it's for.
 - [ ] It should have relevant tags highlighting its scope/stack/field etc.
 - [ ] Also, if particpating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), the `hacktoberfest` topic should be placed in the project description, or the `hacktoberfest-accepted` label added to accepted pull requests
