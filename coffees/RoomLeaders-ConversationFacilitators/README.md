@@ -34,8 +34,10 @@ We’re invested in making sure that everyone can participate in the ways they a
 
   - _If a question is asked in the chat: summarize the question, mention their name to verbally bring them into the chat. For example: "Dan had a great question, 'How do you get started with github as a beginner?' Who has thoughts about this to give Dan a great starting place."_
 
-- Ask for a note-taker if one isn’t assigned.
-
+- *Ask for a note-taker if one isn’t assigned and onboard them by giving directions while giving the intro*.
+ 
+**Onboarding volunteer notetakers**
+- {name} is going to take notes for us today. {Pronouns} will record your intro with your name and your answer, and after that {pronouns} won't record names as part of the larger discussion to allow for open sharing.
 
 ### After intros
 
