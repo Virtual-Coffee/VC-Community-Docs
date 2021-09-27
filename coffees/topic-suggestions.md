@@ -143,3 +143,6 @@ Does having close family or friends in tech help or hinder you in your tech jour
 
 ### User experiences. 
 - As developers, we create technologies, but in our daily lives, we're consumers like everyone else. What user experiences online frustrate/baffle you, and how do those inform your decisions as a developer? Conversely, have you ever experience a UI/UX that brought joy or relief?
+
+### OSS
+- What are the most painful barriers to entry for open source contributions? What should we do to reduce these blockers? What have been your favorite OSS repos to contribute to?
