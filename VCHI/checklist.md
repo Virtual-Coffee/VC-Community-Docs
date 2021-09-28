@@ -20,3 +20,4 @@
 
 ### Communication with participants
 - [x] Create Channel for mentors and maintainers
+- [ ] Notify mentors and mentees of their pairings
