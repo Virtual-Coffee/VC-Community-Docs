@@ -46,9 +46,9 @@ Podcast: https://virtualcoffee.io/podcast/
 
 Sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
 
-Always assume positive intent. We're an international group and sometimes things can be lost in translation.
+We are an international community, and sometimes things get lost in translation. Let's lead with kindness, and recognize that the impact of our words matters. If things feel uncomfortable in any way reach our or use a COC violation form.
 
-That said, we do have a Code of Conduct that we take seriously. We expect everyone to abide by the COC, whether that's during an event, in slack, or in DMs.
+We take our Code of Conduct seriously. We expect everyone to abide by the COC, whether that's during an event, in slack, or in DMs.
 
 We also have a COC violation submission form, which I dropped with the links. This is another option that allows you to stay anonymous when you report any violations.
 
