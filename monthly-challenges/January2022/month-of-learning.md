@@ -12,7 +12,7 @@ Entire month of January
 Four, week-long sprints
 
 ### Goals
-Our goal is to learn something new, share what we've learned, and gather recommendations and resources to share with the community.
+Our goal is to learn something new, share what we've learned, and [gather recommendations and resources](https://github.com/Virtual-Coffee/virtualcoffee.io/discussions/496) to share with the community.
 
 ### How it works
 This challenge can be done individually, in self-organized teams, a mixture of both, or some hybrid.
@@ -23,12 +23,11 @@ Share also if you are willing to learn individually, or if you wish to have budd
 We suggest this type of sharing for the first week:
 Define -> What's the topic?
 Reference -> Resource you used.
-Cohort type -> How do you want to learn (alone, with people)? and/or The name of your learning buddies.
+Cohort type -> How do you want to learn (alone, with people)? and/or the name of your learning buddies. If you want to learn together, check out our #learning-together channel in slack and [these tips](https://github.com/Virtual-Coffee/virtualcoffee.io/discussions/493) for starting your own cohort.
 Set goals -> 1h / week, 10h / week? Write an article, a lightning talk, a conference talk? Sky is the limit!
 
-Each week on Friday, we will organise a live check-in (details in Slack).
+Each week on Friday, we will organize a live check-in (details in Slack).
 It's a good way to reassess your resources, find someone to help, and share your progress.
-
 
 At the end of the month, we'll collect recommendations of the best tools, guides, and resources we found as we explored our topics for this month's challenge and share it with the whole community.
 
