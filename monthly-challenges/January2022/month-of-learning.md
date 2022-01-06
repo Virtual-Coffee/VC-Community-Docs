@@ -2,7 +2,7 @@
 
 It's a new year and time for learning new things! During this month, we'll work on learning new dev-related things. You might deep-dive into one topic, start a small-group that focuses on community learning, focus on a new topic every week, or do a little bit of everything.
 
-If you're inspired by what you learn and want to share more, we encourage you to give a lightning talk in February!
+If you're inspired by what you learn and want to share more, we encourage you to give a Lunch & Learn in February or get ready for our Lightning Talks in March!
 
 ### Theme
 Month of learning challenge
