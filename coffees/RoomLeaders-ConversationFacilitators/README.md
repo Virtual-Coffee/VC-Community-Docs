@@ -28,7 +28,7 @@ We’re invested in making sure that everyone can participate in the ways they a
 
 - _If the group is small, you can popcorn or call on participants - your call._
 
-- While you're thinking about the answer to our random question, I'll go over some of the considerations for our small group conversation. We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. I'll try to keep track of this, but also feel free to point out if someone has raised their hand and I missed it. To access the handraise button, click on either the participants tab or the reactions options--depending on your zoom version. Just a reminder, you have to lower your hand manually.
+- While you're thinking about the answer to our random question, I'll go over some of the considerations for our small group conversation. We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. I'll try to keep track of this, but also feel free to point out if someone has raised their hand and I missed it. To access the handraise button, click on either the participants tab or the reactions options--depending on your zoom version. Or you can use the keyboard shortcut: ALT/Option + Y. Just a reminder, you have to lower your hand manually.
 - We want this to be a welcoming space and for everyone to participate in the ways that are most comfortable for them. It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off.
 - The chat is also a great place to ask questions if that's a more comfortable space.
 
