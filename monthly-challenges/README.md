@@ -15,4 +15,19 @@ This should build off of the monthly theme, but have a goal to work towards. The
 
 We have developers at all stages and in many different roles, so we want to make sure that anyone can participate in these challenges.
 
-### [Past Monthy Challenges](https://virtualcoffee.io/monthlychallenges/)
+## Monthly Needs
+We need volunteers in the following roles:
+
+### Next month's prep
+- Ask community for what they want from this challenge :question:
+- Update facilitator docs on VC-Contributors to document the support we'll need, resources, any feedback :hand:
+- Add the new challenge to our VCIO site :computer:
+
+### Current month's facilitation
+- Synchronous check-ins lead (makes announcement about when and where and leads the check-in)
+- Async check-ins/channel hype person :boom:
+    - Do either a Monday goal setting post or a Wednesday check-in or both.
+    - Make a mid-month announcement in the monthly challenge channel about what’s happening next month.
+
+### [Past Monthly Challenges](https://virtualcoffee.io/monthlychallenges/)
+
