@@ -31,6 +31,7 @@ _Thanks for taking time this month to volunteer to facilitate this month's chall
 
 - Share. Sometimes it takes seeing the team lead sharing to make other people comfortable.
 - Ask questions.
+- Schedule posts or use /reminder in slack to update team and give calls for help.
 
 #### Post month
 
