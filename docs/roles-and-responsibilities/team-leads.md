@@ -44,3 +44,9 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 - Check-in with team members to support them and ensure things are on schedule
 - Communicate with AV Team Lead for support
 
+### Documentation Team Lead
+
+- Create/Maintain a list of VC properties that are documented, need to be documented, and/or can be improved
+- Update or identify VC member who can update VC documentation as needed
+- Create issues on VC repos for documentation issues
+- Identify documentation projects that can be collaborated on by VC members
