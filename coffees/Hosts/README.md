@@ -2,16 +2,15 @@
 
 ## Initial Actions
 
-- Start zoom session
+- Ask the MC (or a maintainer present) to give you host permissions if you don't have them already.
 - Create co-hosts for those doing room leadership/conversation facilitation by clicking on their image card in Zoom and assign co-host
-- Start breakout rooms
 
 ### Create breakout rooms
-
 - Click the breakout room icon,
-- Select the number of rooms according to the number of potential rooms. For example, if we know we need four rooms, with a possible of five, select five rooms. You can leave a room empty, but you can't add a room after you've selected the number.
+- Select the number of rooms according to the number of potential rooms. You will be able to add rooms later if necessary.
 - Choose assign **manually** (This is really important. It allows you to add people after they join.)
 - Check Slack for any messages about how many rooms we need.
+- We try to keep **less than 10 persons** per room. Having enough room leaders should be prioritized over having enough notetakers.
 - Pair each co-host with their notetaker
 - Change the name of the breakout room to the co-host/notetaker pair
 - Assign members into rooms as they come in
@@ -23,4 +22,5 @@
 
 - If a person joins late, a notification shows up in Breakout Rooms. Assign new attendees to a room (try to keep all about the same size).
 - When there's about 7 minutes left, send a message to all rooms that we'll be rejoining the group in about two minutes
-- At five minutes to the hour, close all breakout rooms
+- At **ten minutes to the hour**, use the broadcast button in the Participants tab to let everyone know the rooms will be closing in 5 minutes.
+- At **Five minutes to the hour**, hit the close rooms button.
