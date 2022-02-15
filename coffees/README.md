@@ -78,4 +78,6 @@ Later that day the MC or Host for the week will post a list of Room Leader / Not
 
 Life happens and this community is here to support each other, so all we ask is that you communicate as your availability changes. 
 
-If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) as soon as you know so that the other volunteers can work out substitutions and coverage.
+If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) and with a direct @ to the host as soon as you know so that the other volunteers can work out substitutions and coverage. For example, if Kirk is the host, post in the channel `@Kirk, something came up and I can't make today.`
+
+If you are assigned as a room leader if needed, then the host may assign you to host a room without sending you a message. Things often get chaotic with last minute attendees coming in and the need to add a room quickly. If you want to double-check to make sure that it is, in fact, your room, the host has added a title to each of the rooms, which will appear at the top of the zoom screen.
