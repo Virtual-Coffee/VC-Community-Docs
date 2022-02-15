@@ -41,7 +41,7 @@ If you have any questions, feel free to ask in the slack channel or on the [disc
 
 ## Weekly Process
 
-Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET a slackbot makes an `@channel` announcement in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) slack channel (times below are in North American Central Time):
+Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET / 2pm UTC a slackbot makes an `@channel` announcement in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) Slack channel (times below are in North American Central Time):
 
 ```
 Slackbot  8:00 AM
@@ -61,8 +61,8 @@ Reminder: Thursday thread.
 1. If you know for sure that you cannot make a session add a `:x:` ❌
 
 NOTE:
-- for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET
-- for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET
+- for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
+- for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 
 This gives the Hosts time to plan the rooms and assign volunteers to roles for each day.
 
@@ -80,4 +80,4 @@ Life happens and this community is here to support each other, so all we ask is 
 
 If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) and with a direct @ to the host as soon as you know so that the other volunteers can work out substitutions and coverage. For example, if Kirk is the host, post in the channel `@Kirk, something came up and I can't make today.`
 
-If you are assigned as a room leader if needed, then the host may assign you to host a room without sending you a message. Things often get chaotic with last minute attendees coming in and the need to add a room quickly. If you want to double-check to make sure that it is, in fact, your room, the host has added a title to each of the rooms, which will appear at the top of the zoom screen.
+If you are assigned as a room leader if needed, then the host may assign you to host a room without sending you a message. Things often get chaotic with last minute attendees coming in and the need to add a room quickly. If you want to double-check to make sure that it is, in fact, your room, the host has added a title to each of the rooms, which will appear at the top of the Zoom screen.
