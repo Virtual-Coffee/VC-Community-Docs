@@ -2,16 +2,21 @@
 
 Management and coordination for Virtual Coffee Contributors
 
-## Quick Links
+## Quick Links & Team Leads
 
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
+     - **Lead**: Sara   
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
+     - **Leads**: Core Maintainers
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
+     - **Leads**: Aurelie Verrot & Andrew Bush
 - [Procedures](./procedures): Procedures for various Virtual Coffee tasks
+     - **Lead**: Bogdan 
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
+- [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
 
 ## How to Use This Repo
 
