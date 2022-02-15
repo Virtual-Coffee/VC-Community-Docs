@@ -16,7 +16,7 @@ Management and coordination for Virtual Coffee Contributors
      - **Lead**: Bogdan 
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
-- [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
+- [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead) - Ayu
 
 ## How to Use This Repo
 
