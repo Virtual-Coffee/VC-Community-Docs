@@ -38,3 +38,44 @@ Notetakers take notes on the conversation in the breakout rooms, grab the links 
 - [Notetaker docs](./Notetakers)
 
 If you have any questions, feel free to ask in the slack channel or on the [discussion board](https://github.com/Virtual-Coffee/VC-Contributors/discussions). Since this is a discussion board for all teams, make sure to use the ☕ category and use @Virtual-Coffee/coffee-talk-team to notify the team in your post.
+
+## Weekly Process
+
+Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET a slackbot makes an `@channel` announcement in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) slack channel (times below are in North American Central Time):
+
+```
+Slackbot  8:00 AM
+Reminder: @channel Hey friends,  who's available this week and is up for leading or taking notes? Both days posted below. Click :memo: for notetaker, a :speech_balloon: for room leader--feel free to click both--or an :x: if you aren't available or up for it.
+
+8:01
+Reminder: Tuesday thread.
+
+8:02
+Reminder: Thursday thread.
+```
+
+1. If you are available and willing to lead a room on either of those days add a  `:speech_bubble:` 💬
+
+1. If you are available and willing to lead a room on either of those days add a  `:memo:` 📝
+
+1. If you know for sure that you cannot make a session add a `:x:` ❌
+
+NOTE:
+- for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET
+- for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET
+
+This gives the Hosts time to plan the rooms and assign volunteers to roles for each day.
+
+Once we have volunteered for a slot it will look something like this in slack:
+
+<p align="center">
+<img src="./example_volunteer_poll.png"/>
+</p>
+
+Later that day the MC or Host for the week will post a list of Room Leader / Notetaker pairings.
+
+### What happens if I am assigned a role and I can't make it?
+
+Life happens and this community is here to support each other, so all we ask is that you communicate as your availability changes. 
+
+If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) as soon as you know so that the other volunteers can work out substitutions and coverage.
