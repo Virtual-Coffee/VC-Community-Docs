@@ -12,8 +12,8 @@
 
 ## Timeline 
 - Set Date
-- Call for Volunteers
 - CFP
+- Call for Volunteers
 - Speaker times assigned
 - Speaker forms due
 - Speaker coordinators check-in with speakers
