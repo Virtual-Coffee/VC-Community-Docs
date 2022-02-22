@@ -1,8 +1,14 @@
 Past Monthly Challenges
 
-January 2022: Month of Learning
-October 2021: VC Hacktoberfest
-September 2021: Prep-tember
-August 2021: Healthy Habits
-July 2021: Demo Days
-June 2021: Build In Public
+2022:
+    - January: Month of Learning
+    - February: Month of Pairing
+    - March: Create AV Content
+
+2021:
+    - October: VC Hacktoberfest
+    - September: Prep-tember
+    - August: Healthy Habits
+    - July: Demo Days 
+    - June: Build In Public
+    - February: Create AV Content
