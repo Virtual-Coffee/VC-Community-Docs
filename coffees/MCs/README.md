@@ -16,6 +16,20 @@ Podcast: https://virtualcoffee.io/podcast/
 
 - Topic generator: https://checkin.daresay.io/
 
+## Temporary Link Reference (during non-new member events)
+
+Code of Conduct: https://virtualcoffee.io/code-of-conduct/
+
+COC Violation Form: https://virtualcoffee.io/report-coc-violation/
+
+Store: https://store.virtualcoffee.io/
+
+Newsletter: https://virtualcoffee.io/newsletter/
+
+Podcast: https://virtualcoffee.io/podcast/
+
+- Topic generator: https://checkin.daresay.io/
+
 ## Before Breakout Rooms
 
 ### Pre-Chat
