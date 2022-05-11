@@ -14,8 +14,6 @@ Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
 
-- Topic generator: https://checkin.daresay.io/
-
 ## Temporary Link Reference (during non-new member events)
 
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
@@ -28,7 +26,6 @@ Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
 
-- Topic generator: https://checkin.daresay.io/
 
 ## Before Breakout Rooms
 
@@ -38,7 +35,7 @@ Welcome all new faces via chat and let them know we will get started and will be
 
 Pre-chat chaos.
 
-### Welcome
+### Membership Open Welcome
 
 _While the welcome is happening, the zoom host of the day creates the breakout rooms_
 
@@ -70,6 +67,30 @@ We want to welcome all of our new friends here. If you would like to become a me
 
 We'll be moving into breakout rooms in a minute, for more intimate conversation. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, what you do, and answer today's random question. We're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
+### Closed Membership Welcome
+
+_While the welcome is happening, the zoom host of the day creates the breakout rooms_
+
+Hello everyone, and welcome back to Virtual Coffee, where our mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. 
+
+Don't forget that you can find all our events and learn more at virtualcoffee.io.
+
+Just some quick reminders for us, please be considerate of everyone in the group, we’re all equals here. I'm going to drop some links in the chat now and talk about them for a minute 
+
+
+_this is the time drop the appropriate links from above in the zoom chat_
+
+
+Remember, sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
+
+We are an international community, and sometimes things get lost in translation. Let's lead with kindness, and recognize that the impact of our words matters. If things feel uncomfortable in any way reach our or use a COC violation form.
+
+We take our Code of Conduct seriously. We expect everyone to abide by the COC, whether that's during an event, in slack, or in DMs.
+
+We also have the COC violation submission form, which I dropped with the links. This is another option that allows you to stay anonymous when you report any violations.
+
+As always, we'll be moving into breakout rooms in a minute, for more intimate conversation. Look to your room leader to start the day's introductions and facilitate conversation. We're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. I'll see you all back in the main room at about five minutes to the hour for some closing announcements.
+
 ### Introductions & discussion - done in breakout rooms
 
 ## Outro / Closing
@@ -87,3 +108,7 @@ If you have questions or comments, please feel free to reach out to us at hello@
 For other announcements check out our newsletter page: virtualcoffee.io/newsletter and if you want to hear more about our awesome community members, definitely check out the podcast!
 
 Have a great day, everyone!
+
+## Extra resources (these are not said/posted during live events)
+
+- Topic generator: https://checkin.daresay.io/
