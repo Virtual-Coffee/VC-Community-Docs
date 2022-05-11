@@ -14,6 +14,10 @@ Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
 
+How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
+
+HANDRAISE SHORTCUT: Opt/Alt+Y
+
 ## Temporary Link Reference (during non-new member events)
 
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
@@ -25,6 +29,10 @@ Store: https://store.virtualcoffee.io/
 Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
+
+How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
+
+HANDRAISE SHORTCUT: Opt/Alt+Y
 
 
 ## Before Breakout Rooms
