@@ -99,7 +99,8 @@ _Details for these announcements can be found in the [newsletter](https://virtua
 
 We want to be respectful of everyone's time, so we've got a couple of announcements before we leave. Thank you all for being here and welcome all our new friends. The notes will be posted in slack soon!
 
-I want to drop the form for new members in the slack again now in case you missed it before: [https://virtualcoffee.io/membership/{meetingid}]
+## If membership is open
+- I want to drop the form for new members in the slack again now in case you missed it before: [https://virtualcoffee.io/membership/{meetingid}]
 
 We just wrapped up [whatever event], and now we have some great things coming up: [list events].
 
