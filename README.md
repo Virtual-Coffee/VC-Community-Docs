@@ -12,6 +12,8 @@ Management and coordination for Virtual Coffee Contributors
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
      - **Leads**: Aurelie Verrot & Andrew Bush
+- [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
+     - **Lead**: Abbey 
 - [Procedures](./procedures): Procedures for various Virtual Coffee tasks
      - **Lead**: Bogdan 
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
