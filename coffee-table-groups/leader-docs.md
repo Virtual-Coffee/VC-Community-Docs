@@ -31,8 +31,8 @@ Each Coffee Table Group will have its own approach and personality, but it's imp
 - Are there expectations for communication among the group members? Where will you be communicating? (slack channel, only in zoom, etc.).
 - Are there expectations for communicating in a video chat (for example, using the hand raise function, doing an intro, etc.)?
 - Please provide the following links in video meetings:
-  - Code of Conduct: https://virtualcoffee.io/code-of-conduct/
-  - COC Violation Form: https://virtualcoffee.io/report-coc-violation/
+  - [Code of Conduct](https://virtualcoffee.io/code-of-conduct/)
+  - [COC Violation Form](https://virtualcoffee.io/report-coc-violation/)
 
 ### Ending a Group
 
