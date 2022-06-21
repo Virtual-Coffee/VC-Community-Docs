@@ -6,7 +6,7 @@ Management and coordination for Virtual Coffee Contributors
 
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
-  - **Lead**: Sara
+  - **Lead**: Shelley McHardy
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
   - **Leads**: Core Maintainers
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
