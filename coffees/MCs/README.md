@@ -59,8 +59,6 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-New Member Form: https://virtualcoffee.io/membership/{meetingid}
-
 Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
