@@ -22,19 +22,18 @@ In order to create a safe space, we ask that our room leaders always follow the 
 We’re invested in making sure that everyone can participate in the ways they are most comfortable. That’s why it’s important to explain the hand raise function and other modes of participation.  
 
 ### Intro Script:
-#### Introduce yourself and give instructions:
+Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. Our notetaker will take your name down for introductions, but will leave notes for the rest of the conversation anonymous in the notes to make sure everyone is comfortable sharing. 
 
-- Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. We always start with introductions, so you'll say your name, and if you want: where you’re from, what you do, and then your answer to {random question}
+Please feel free to participate in a way that is comfortable for you. If you want to keep your camera off, stay muted, or participate in the chat, we’ll do our best to make this a welcoming and inclusive space for everyone. We always start with introductions, so you'll say your name, and if you want: where you’re from, what you do, and then your answer to {random question}. If you’re new here, please share your first and last name in your intro and let us know so we can welcome you and get you a link to join our slack.
+ 
+I’m going to ask everyone to start by using the handraise function, which is ALT or Option Y, or you can find it in the zoom reactions tab. Once you’ve completed your intro, you can popcorn to someone else on the screen whose hand is still raised and then put your hand down. 
+ 
+While you're thinking about the answer to our random question, I'll go over some of the considerations for our small group conversation. We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. I'll try to keep track of this, but also feel free to point out if someone has raised their hand and I missed it. 
+ 
+We want this to be a welcoming space and for everyone to participate in the ways that are most comfortable for them. It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off.
+ 
+The chat is also a great place to ask questions if that's a more comfortable space.
 
-- _If the group is small, you can popcorn or call on participants - your call._
-
-- While you're thinking about the answer to our random question, I'll go over some of the considerations for our small group conversation. We love the conversation here. If no one else is talking we encourage you to participate. If the conversation is energized, use the hand raise option to let us know that you want to go next. I'll try to keep track of this, but also feel free to point out if someone has raised their hand and I missed it. To access the handraise button, click on either the participants tab or the reactions options--depending on your zoom version. Or you can use the keyboard shortcut: ALT/Option + Y. Just a reminder, you have to lower your hand manually.
-- We want this to be a welcoming space and for everyone to participate in the ways that are most comfortable for them. It's perfectly acceptable to be quiet, to be more a listener, to keep your camera off.
-- The chat is also a great place to ask questions if that's a more comfortable space.
-
-  - _If a question is asked in the chat: summarize the question, mention their name to verbally bring them into the chat. For example: "Dan had a great question, 'How do you get started with github as a beginner?' Who has thoughts about this to give Dan a great starting place."_
-
-- *Ask for a note-taker if one isn’t assigned and onboard them by giving directions while giving the intro*.
  
 **Onboarding volunteer notetakers**
 - {name} is going to take notes for us today. {Pronouns} will record your intro with your name and your answer, and after that {pronouns} won't record names as part of the larger discussion to allow for open sharing.
