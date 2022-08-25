@@ -22,7 +22,7 @@ In order to create a safe space, we ask that our room leaders always follow the 
 We’re invested in making sure that everyone can participate in the ways they are most comfortable. That’s why it’s important to explain the hand raise function and other modes of participation.  
 
 ### Intro Script:
-Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. Our notetaker will take your name down for introductions, but will leave notes for the rest of the conversation anonymous in the notes to make sure everyone is comfortable sharing. 
+Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. Our notetaker will take your name down for introductions, but will leave notes for the rest of the conversation anonymous to make sure everyone is comfortable sharing. 
 
 Please feel free to participate in a way that is comfortable for you. If you want to keep your camera off, stay muted, or participate in the chat, we’ll do our best to make this a welcoming and inclusive space for everyone. We always start with introductions, so you'll say your name, and if you want: where you’re from, what you do, and then your answer to {random question}. If you’re new here, please share your first and last name in your intro and let us know so we can welcome you and get you a link to join our slack.
  
