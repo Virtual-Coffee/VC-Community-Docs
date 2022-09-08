@@ -4,6 +4,7 @@
 
 _Make sure to update the meeting id before dropping the links_
 
+```
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
@@ -15,6 +16,7 @@ Newsletter: https://virtualcoffee.io/newsletter/
 Podcast: https://virtualcoffee.io/podcast/
 
 How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
+```
 
 HANDRAISE SHORTCUT: Opt/Alt+Y
 
@@ -68,6 +70,7 @@ We're excited to be sponsored by Common Room. Common Room is the intelligent com
 
 Just some quick reminders, be considerate of everyone in the group, we’re all equals here. I'm going to drop some links in the chat now and talk about them for a minute:
 
+```
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
@@ -79,6 +82,7 @@ Newsletter: https://virtualcoffee.io/newsletter/
 Podcast: https://virtualcoffee.io/podcast/
 
 How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
+```
 
 Sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
 
@@ -118,7 +122,7 @@ I'd like to extend a special welcome to any new members. If you're a new member,
 
 Just some quick reminders for us, please be considerate of everyone in the group, we’re all equals here. I'm going to drop some links in the chat now and talk about them for a minute. 
 
-
+```
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
@@ -130,7 +134,7 @@ Newsletter: https://virtualcoffee.io/newsletter/
 Podcast: https://virtualcoffee.io/podcast/
 
 How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
-
+```
 
 Remember, sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
 
