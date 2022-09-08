@@ -110,6 +110,8 @@ Hello everyone, and welcome back to Virtual Coffee, where our mission is to be a
 
 Don't forget that you can find all our events and learn more at virtualcoffee.io and in the #announcements channel in slack.
 
+We're excited to be sponsored by Common Room. Common Room is the intelligent community growth and management platform that helps you activate your community. With Common Room, you can nurture and serve your members in real-time, create internal advocacy for community investment, drive business impact, and build products and experiences people love, together. DevRel and community teams at Asana, Atlassian, Grafana, Temporal, and Webflow love us (and we, them).
+
 Just some quick reminders for us, please be considerate of everyone in the group, we’re all equals here. I'm going to drop some links in the chat now and talk about them for a minute. 
 
 
