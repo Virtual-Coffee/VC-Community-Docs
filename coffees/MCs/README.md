@@ -72,11 +72,13 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-New Member Form: https://virtualcoffee.io/membership/{meetingid}
+Store: https://store.virtualcoffee.io/
 
 Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
+
+How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
 
 Sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
 
@@ -121,11 +123,13 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
+Store: https://store.virtualcoffee.io/
+
 Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
 
-Get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
+How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
 
 
 Remember, sometimes what seems like an awkward silence might be an opportunity for someone else to express their thoughts.
