@@ -60,7 +60,8 @@ Reminder: Thursday thread.
 
 1. If you know for sure that you cannot make a session add a `:x:` ❌
 
-NOTE:
+NOTES:
+- Choose as many roles as you like. You won't be assigned both room leader and notetaker or both MC and host, but other roles can be combined.
 - for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 - for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 
