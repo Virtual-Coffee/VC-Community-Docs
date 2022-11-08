@@ -2,7 +2,6 @@
 
 ## Quick Link Reference
 
-_Make sure to update the meeting id before dropping the links_
 
 ```
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
