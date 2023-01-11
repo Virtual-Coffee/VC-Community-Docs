@@ -2,11 +2,13 @@
 
 ## Accountabilibuddies
 
-### Frequency: Twice a week
+### Frequency: 2–3 times a week
 
-### Leader: Meg
+### Leaders: Meg, Lillian, Raynald, & Sadie
 
-You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule! Drop into our twice weekly sessions whenever and for however long your schedule allows. No matter the goal, you’ll find encouragement and support alongside your accountabilibuddies!
+You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
+
+Drop into our sessions whenever and for however long your schedule allows. Our Tuesday sessions occur weekly from 7:00–9:00 PM ET, our Thursday sessions occur weekly from 9:00–11:40 AM ET, and our Sunday sessions occur bi-weekly from 1:00–3:00 PM ET. No matter the goal, you’ll find encouragement and support alongside your accountabilibuddies!
 
 ## Tech Interview Study Group
 
