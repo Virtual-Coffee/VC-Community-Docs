@@ -26,14 +26,6 @@ Interested? Join the #tech-interview-study-group slack channel!
 
 On the 1st and 3rd Wednesday of every month, join us for an hour of presentation and conversation about all things JavaScript. This event is for people of any experience level and provides a space to deepen our understanding of the most commonly used language in web development.
 
-## VC Public Speaking Support Group
-
-### Leader: Ray Deck
-
-### Frequency: Every two weeks
-
-Let's get you talking. We are a supportive community of people who want to help each other start speaking. One of us gives a talk each week. We record so you have your own "game film." Get feedback, hear others talk, and get encouraged to mount the stage yourself. Lift your voice!
-
 ## Indie Startup Hacker Meetup
 
 ### Leader: Ray Deck
@@ -46,6 +38,14 @@ Interested? Join the #indie-startup-hackers slack channel!
 
 ## Virtual Coffee Book Club
 
-### Leaders: Tom and Karen
+### Leader: Tom
 
-Interested? Join the #book-club slack channel!
+Read, study, and discuss 2-3 books each year with fellow VC readers. Use the questions in the GitHub discussions to go at your own pace for any past books. Feel free to gather a group of friends and start your own read through for a book. Just join the #book-club slack channel!
+
+## Frontend Friday Folks
+
+### Leader: Jörn Bernhardt
+
+### Frequency: Every Friday
+
+Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the Co-Working-Room during this time. Feel free to join us and learn more about CSS!
