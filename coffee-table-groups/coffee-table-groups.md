@@ -20,14 +20,6 @@ Weekly discussion of job search & interview-related topics. Mini mock-interviews
 
 Interested? Join the #tech-interview-study-group slack channel!
 
-## JavaScript Meetup (formerly React)
-
-### Frequency: 1st and 3rd Wednesday of every month
-
-### Leader: Travis
-
-On the 1st and 3rd Wednesday of every month, join us for an hour of presentation and conversation about all things JavaScript. This event is for people of any experience level and provides a space to deepen our understanding of the most commonly used language in web development.
-
 ## Indie Startup Hacker Meetup
 
 ### Leader: Ray Deck
