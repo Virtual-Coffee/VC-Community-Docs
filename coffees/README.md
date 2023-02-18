@@ -56,7 +56,7 @@ Reminder: Thursday thread.
 
 1. If you are available and willing to lead a room on either of those days add a  `:speech_bubble:` 💬
 
-1. If you are available and willing to lead a room on either of those days add a  `:memo:` 📝
+1. If you are available and willing to take notes on either of those days add a  `:memo:` 📝
 
 1. If you know for sure that you cannot make a session add a `:x:` ❌
 
