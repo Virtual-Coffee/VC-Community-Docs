@@ -22,9 +22,9 @@ Interested? Join the #tech-interview-study-group slack channel!
 
 ## Indie Startup Hacker Meetup
 
-### Leader: Ray Deck
-
 ### Frequency: Every two weeks
+
+### Leader: Ray Deck
 
 Running a company? Thinking of starting? We support each other and discuss the issues that can make us better at the business of technology. Hack commerce!
 
@@ -38,8 +38,16 @@ Read, study, and discuss 2-3 books each year with fellow VC readers. Use the que
 
 ## Frontend Friday Folks
 
+### Frequency: Every Friday
+
 ### Leader: Jörn Bernhardt
+
+Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the Co-Working-Room during this time. Feel free to join us and learn more about CSS!
+
+## Feelings Friday
 
 ### Frequency: Every Friday
 
-Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the Co-Working-Room during this time. Feel free to join us and learn more about CSS!
+### Leader: Ethan Freire
+
+Feelings Friday was started at the Flatiron School coding boot camp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a safe space to share what's that’s on your mind and hold space for others. It's a great way to unwind at the end of the week!
