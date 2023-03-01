@@ -46,10 +46,10 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 
 ### Breakout Room Time
 
-- As soon as the MC is done with the intro and asks if rooms as ready, open up all rooms
+- As soon as the MC is done with the intro and asks if rooms are ready, open up all rooms.
 - _Note: The host has to assign themselves to a room_.
 - If a person joins late, a notification shows up in Breakout Rooms. Assign new attendees to a room (try to keep all about the same size).
-- When there's about 7 minutes left, send a message to all rooms that we'll be rejoining the group in about two minutes
+- When there's about 7 minutes left, send a message to all rooms that we'll be rejoining the group in about two minutes.
 - At **ten minutes to the hour**, use the broadcast button in the Participants tab to let everyone know the rooms will be closing in 5 minutes.
 - At **Five minutes to the hour**, hit the close rooms button.
 - Try as best as you can not to delay closing the rooms, as it burdens the MC to squeeze all the final annoucements in on time.
