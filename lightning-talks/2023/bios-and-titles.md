@@ -1,6 +1,5 @@
+
 ## Gant Laborde
-
-
 
 
 ## Taiwo
@@ -11,12 +10,15 @@ Self-Assessment: A Growth Pointer" is a talk that focuses on the importance of s
 ### Bio
 Taiwo is a Nigerian-based software engineer. He works at Grace Health. He studied electronics engineering in university but hasn't practiced for a day. He is a huge community person, loves Open-Source and cats. 
 
+
 ## Matt McInnis
 ### Talk
 ChatGPT for Developers
 ### Description 
+```html
 <h1>ChatGPT for Fun and Profit</h1>
 <p>Network error. Please login.</p>
+```
 ### BIO
 Full-stack developer (Rails+React) at Typist based in Toronto, Canada. Former artificial intelligence lead at IBM and Microsoft, mathematics professor at Centennial College and Saskatchewan Polytechnic. I really love brunch. 
 
@@ -36,7 +38,9 @@ Regular Expressions for Great Good
 Regular Expressions: Some hate them, some love them, some learn to live with them.  But regular expressions can make your life easier if you let them.  Let me show you how.
 ### BIO
 Amy is a Senior Software Engineer currently working at MURAL.  She loves information, human interaction, solving problems, helping people, and cats - not in that order.  She spends most of her free time lately learning Spanish, practicing calligraphy, singing, writing parody songs, and crocheting.
-12:05-12:15  break
+
+
+## 12:05-12:15  break
 
 ## Meg Gutshall
 ### Talk Title
