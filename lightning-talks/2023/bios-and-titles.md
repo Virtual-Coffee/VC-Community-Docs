@@ -37,7 +37,8 @@
 <dd>Full-stack developer (Rails+React) at Typist based in Toronto, Canada. Former artificial intelligence lead at IBM and Microsoft, mathematics professor at Centennial College and Saskatchewan Polytechnic. I really love brunch. </dd>
 
 </dl>
-![Matt McInnis Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228590336-c30b936a-7c69-4b71-9a86-0713a2a6a68c.png)
+![Matt McInnis Lightning Talk VC Cover (1)](https://user-images.githubusercontent.com/34313413/228611101-0259d55a-732c-473b-a71f-791b6f3725ff.png)
+
 
 ## Roger Gentry
 <dl>
