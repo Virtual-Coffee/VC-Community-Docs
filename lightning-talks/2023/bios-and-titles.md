@@ -62,7 +62,10 @@
 <dt>BIO</dt>
 <dd>Amy is a Senior Software Engineer currently working at MURAL.  She loves information, human interaction, solving problems, helping people, and cats - not in that order.  She spends most of her free time lately learning Spanish, practicing calligraphy, singing, writing parody songs, and crocheting.</dd>
 
-</dl>![Amy S  Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228591359-f9c934fa-ccb0-4c0a-9a8f-1b446d919a1b.png)
+</dl>
+
+![Amy S  Lightning Talk VC Cover (1)](https://user-images.githubusercontent.com/34313413/228875716-ecce4f4f-dca6-4363-a614-ca33e7443ad8.png)
+
 
 
 ## 12:05-12:15  break
