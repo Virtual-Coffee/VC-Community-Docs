@@ -143,15 +143,22 @@ https://brianmeeker.me/
 ## Dan Ott
 <dl>
 <dt>Talk Title</dt>
+ <dd>Look for the Holes: Surviving Survivor Bias</dd>
 <dd><dt>Description</dt></dd>
 <dd><dt>Bio</dt></dd>
 <dd>Independent front-end designer and developer, father, #ADHD person, and Clevelander. He/himIndependent front-end designer and developer, father, #ADHD person, and Clevelander. He/Him</dd>
 </dl>
+![Dan Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228949359-1c7f0286-4f29-4683-8376-cfaacdb63e51.png)
 
 ## Josh
 <dl>
 <dt>Talk Title</dt>
+ <dd>What's a Linter</dd>
 <dd><dt>Description</dt></dd>
+<dd>This comes up a lot for me in day-to-day work because I work on linter tooling. I learned a lot of devs don't know what ESLint is vs. a formatter (Prettier), language (TypeScript), or other tooling. It'd be cool to go over the stuff a linter (e.g. ESLint) can or can't do. At the least:
+* Differences between what a formatter vs. linter vs. type checker are
+* Stylistic rules vs. bug-catching
+* Why you would (or wouldn't) want to use one</dd>
 <dd><dt>Bio</dt></dd>
 <dd>Hi, I’m Josh! I’m an independent full time open source developer. I work on projects in the TypeScript ecosystem, most notably typescript-eslint: the tooling that enables ESLint and Prettier to run on TypeScript code. I’m also the author of the O’Reilly Learning TypeScript book, a Microsoft MVP for developer technologies, and an active conference speaker. </dd>
 </dl>
