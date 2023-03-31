@@ -69,6 +69,15 @@
 
 
 ## 12:05-12:15  break
+## Dan Ott
+<dl>
+<dt>Talk Title</dt>
+ <dd>Look for the Holes: Surviving Survivor Bias</dd>
+<dd><dt>Description</dt></dd>
+<dd><dt>Bio</dt></dd>
+<dd>Independent front-end designer and developer, father, #ADHD person, and Clevelander. He/himIndependent front-end designer and developer, father, #ADHD person, and Clevelander. He/Him</dd>
+</dl>
+![Dan Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228949359-1c7f0286-4f29-4683-8376-cfaacdb63e51.png)
 
 
 ## Meg Gutshall
@@ -130,25 +139,7 @@ Along the way, she has learned a lot about a lot of things, including the Python
 https://hachyderm.io/@brianmeeker
 https://brianmeeker.me/
 
-## Adam Abundis
-<dl>
-<dt>Talk Title</dt>
-<dd>Key takeaways from "The Unicorn Project" by Eugene Kim</dd>
-<dt>Description</dt>
-<dd>Some key takeaways from the story to help individual contributors, managers, and teams. The book deals with technical debt, complexity, and productivity. This should be helpful for new developers, experienced developers, and managers.</dd>
-<dt>BIO</dt>
-<dd></dd>
-</dl>
 
-## Dan Ott
-<dl>
-<dt>Talk Title</dt>
- <dd>Look for the Holes: Surviving Survivor Bias</dd>
-<dd><dt>Description</dt></dd>
-<dd><dt>Bio</dt></dd>
-<dd>Independent front-end designer and developer, father, #ADHD person, and Clevelander. He/himIndependent front-end designer and developer, father, #ADHD person, and Clevelander. He/Him</dd>
-</dl>
-![Dan Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228949359-1c7f0286-4f29-4683-8376-cfaacdb63e51.png)
 
 ## Josh
 <dl>
