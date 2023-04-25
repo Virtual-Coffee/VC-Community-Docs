@@ -51,3 +51,11 @@ Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the C
 ### Leader: Ethan Freire
 
 Feelings Friday was started at the Flatiron School coding boot camp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a safe space to share what's that’s on your mind and hold space for others. It's a great way to unwind at the end of the week!
+
+## The Pack Hunt
+
+### Frequency: Every Wednesday
+
+### Leader: Rad Turkin
+
+Job Hunting as a collective :  An Accountability session exclusively for job hunting, share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll linkedin for leads. "Hunt with the pack, arwoooo..."
