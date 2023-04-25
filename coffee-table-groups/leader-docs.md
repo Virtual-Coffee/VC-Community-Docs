@@ -6,7 +6,8 @@ A Coffee Table Group Leader creates a space and context for conversation. Curren
 
 ## Guidelines
 
-- If using the VC-events CMS, have 1-2 group leaders willing to schedule and communicate with VC maintainers
+- If using the VC-events CMS, have 1-2 group leaders willing to keep the CMS up to date and communicate with the Coffee Table Groups Lead.
+- If there are any major changes, like descriptions, frequency, etc. communicate with the Coffee Table Groups Lead to keep the site and documentation up to date.
 - Adherence to the [Code of Conduct](https://virtualcoffee.io/code-of-conduct)
 - Use the [COC violation form](https://virtualcoffee.io/report-coc-violation/) rather than trying to take care of Code of Conduct violations yourself.
 - Clearly relate any guidelines or requirements to members of your group. For example let them know if they must commit to leading a session, have a specific experience level, etc.
@@ -36,4 +37,4 @@ Each Coffee Table Group will have its own approach and personality, but it's imp
 
 ### Ending a Group
 
-If your group is an ongoing group, you may find that you don't have the time or energy to continue hosting. That's ok. It's really important that all volunteers (and leading a coffee table group is definitely an act of volunteering) know that it is always okay to prioritize their mental and physical health. Rather than discontinuing the group by not scheduling a new one, see if anyone in the group or the larger VC community is willing to take on the responsibility. Communicate with your Coffee Table Group about the need for a new host. If you're unable to do so, let the maintainers know.
+If your group is an ongoing group, you may find that you don't have the time or energy to continue hosting. That's ok. It's really important that all volunteers (and leading a coffee table group is definitely an act of volunteering) know that it is always okay to prioritize their mental and physical health. Rather than discontinuing the group by not scheduling a new one, see if anyone in the group or the larger VC community is willing to take on the responsibility. Communicate with your Coffee Table Group about the need for a new host. If you're unable to do so, let the Coffee Table Groups Lead know.
