@@ -64,6 +64,6 @@ Job Hunting as a collective :  An Accountability session exclusively for job hun
 
 ### Frequency: Every two weeks
 
-### Leader: Kai Katschthaler
+### Leader: Kai Katschthaler (they/them)
 
 A Coffee Table Group for all trans, nonbinary, gender-divergent, and gender-questioning folks. We want to provide a safe space for trans vents, trans joy, and any and all trans-related topics that are on your mind. Share your experience, ask for advice, or just come to hang out with other non-cis folks for an hour. Trigger warnings before sharing about heavy topics are strongly encouraged! (If you have any questions at all about whether this group is right for you, get in touch with Kai.)
