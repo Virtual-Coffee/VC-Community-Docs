@@ -2,7 +2,7 @@
 
 ## Definition
 
-A Coffee Table Group Leader creates a space and context for conversation. Current leaders describe the role as a [Virtual Coffee Room Leader](/VC-Contributors/tree/main/coffees/RoomLeaders-ConversationFacilitators), but with a content focus. A Leader hosts events on a consistent schedule, comes up with topics to discuss for each event, and encourages attendess. They also set expectations for attendees via clear communication about scheduling and giving new members context when they join.
+A Coffee Table Group Leader creates a space and context for conversation. Current leaders describe the role as a [Virtual Coffee Room Leader](/VC-Contributors/tree/main/coffees/RoomLeaders-ConversationFacilitators.md), but with a content focus. A Leader hosts events on a consistent schedule, comes up with topics to discuss for each event, and encourages attendess. They also set expectations for attendees via clear communication about scheduling and giving new members context when they join.
 
 ## Guidelines
 
