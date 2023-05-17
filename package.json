@@ -6,25 +6,21 @@
   "repository": "git+https://github.com/Virtual-Coffee/VC-Contributors.git",
   "author": "Virtual Coffee",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "18.16"
+  },
+  "packageManager": "yarn@1.22.19",
   "bugs": {
     "url": "https://github.com/Virtual-Coffee/VC-Contributors/issues"
   },
   "homepage": "https://github.com/Virtual-Coffee/VC-Contributors#readme",
   "scripts": {
-    "format": "prettier --ignore-path '.gitignore' --write .",
-    "check": "prettier --ignore-path '.gitignore' --check ."
-  },
-  "lint-staged": {
-    "*": "prettier --ignore-path '.gitignore' --write"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "npx lint-staged"
+    "format": "prettier --ignore-unknown --write .",
+    "check": "prettier --ignore-unknown --check ."
   },
   "dependencies": {},
   "devDependencies": {
-    "lint-staged": "^10.5.4",
-    "prettier": "2.2.1",
-    "simple-git-hooks": ">=2.0.3"
+    "prettier": "^2.2.1"
   },
   "private": true
 }

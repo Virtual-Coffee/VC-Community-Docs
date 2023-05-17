@@ -2,13 +2,13 @@
 
 Just a couple of announcements (OPTION: before I hit record).
 
-- Apr 14 Radical Candor bookclub wrap up--A member's only event* 
-- Apr 16 Brownbag: Tell your Story: A guide to public speaking and presentations -- A members-only event 
-- Apr 23 Brownbag: Patch-Package : Fix Bugs in Packager Before They're Released-- A members-only event 
+- Apr 14 Radical Candor bookclub wrap up--A member's only event\*
+- Apr 16 Brownbag: Tell your Story: A guide to public speaking and presentations -- A members-only event
+- Apr 23 Brownbag: Patch-Package : Fix Bugs in Packager Before They're Released-- A members-only event
 
 Today's event will be (options)
 
-  - recorded and posted on youtube
+- recorded and posted on youtube
 
 - For today's event (options)
 
@@ -20,7 +20,7 @@ In a second, I'll (OPTION: hit record and) introduce the speaker. Please mute yo
 
 - Hello and welcome to Virtual Coffee: Brownbag edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. To find our code of conduct, events, or to learn more, you can check out our site virtualcoffee.io.
 
-- We're really glad to have you all here with us today, and I especially want to thank our presenter for being here. 
+- We're really glad to have you all here with us today, and I especially want to thank our presenter for being here.
 
 - Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then she has started a consultancy specializing in front-end development, created a developer community called Virtual Coffee, stayed active on Twitter and in tech-related slack groups, spoke on podcasts and at conferences, and has continued to mom her four kids. Prior to tech, she spent 10 years teaching college English, three years organizing events and community, and fully embraces being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
 

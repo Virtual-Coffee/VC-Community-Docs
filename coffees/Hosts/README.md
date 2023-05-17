@@ -5,6 +5,7 @@ Welcome! Thank you for your interesting in being a host for our Virtual Coffee z
 ## What is the Host role?
 
 The host role in VC is responsible for:
+
 - Creating the breakout rooms we use in the virtual coffee sessions
 - Assigning members to those breakout rooms, including volunteer room leaders and note-takers
 - Managing incoming members throughout the zoom session
@@ -13,6 +14,7 @@ The host role in VC is responsible for:
 ## What are the details of the host role?
 
 A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
+
 - Pre Coffee Chat (Before the MC starts official introduction of the session)
 - Breakout room time (the majority of the zoom time, everyone should be in a breakout room)
 - Wrap up and announcements (discussions are done, folks are back in the main zoom session)
@@ -24,6 +26,7 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 - We recommended starting host and room prep as soon as you have host authority
 
 #### Create breakout rooms
+
 - Click the breakout room icon,
 
 - Select the number of rooms according to the number of potential rooms. You will be able to add rooms later if necessary.
@@ -32,17 +35,16 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 
 - Check Slack for any messages about how many rooms we need. **Please do coordinate** with the volunteers in the slack channel as sometimes plans need to be adjusted based on number of participants
 
-- We try to keep **less than 10 persons** per room. Having enough room leaders should be prioritized over having enough notetakers. It is typically advised to pull a notetaker to a roomleader position (with their permission) if the alternative would be rooms with more than 10 people. But it's important that *everyone who is placed as a room leader volunteered to do so*, either by indication in the official volunteer request earlier in the week or on the day of the meeting.
+- We try to keep **less than 10 persons** per room. Having enough room leaders should be prioritized over having enough notetakers. It is typically advised to pull a notetaker to a roomleader position (with their permission) if the alternative would be rooms with more than 10 people. But it's important that _everyone who is placed as a room leader volunteered to do so_, either by indication in the official volunteer request earlier in the week or on the day of the meeting.
 
-- Pair each co-host with their notetaker. 
+- Pair each co-host with their notetaker.
 
 - _Note_: Sometimes, if the room leader is a VC Maintainer/zoom account owner, you may not see them on the list of attendees to be assigned. This is fine. So long as they're in the meeting, they can join their breakout room themselves.
 
 - Change the name of the breakout room to the co-host/notetaker pair
 
 - Assign members into rooms as they come in
-  -  Do your best to create breakout rooms that include a variety of participant types. For example, if you know there are members who will keep the conversation going, assign them to different rooms. If there are new folks, try not to put them all in the same room. If there's a newer room leader, try to add someone to their room that could support them if they need it. The goal is to have well-balanced rooms when possible. It won't ever be perfect for every room, but the goal is to try to balance participant types.
-
+  - Do your best to create breakout rooms that include a variety of participant types. For example, if you know there are members who will keep the conversation going, assign them to different rooms. If there are new folks, try not to put them all in the same room. If there's a newer room leader, try to add someone to their room that could support them if they need it. The goal is to have well-balanced rooms when possible. It won't ever be perfect for every room, but the goal is to try to balance participant types.
 
 ### Breakout Room Time
 
@@ -55,4 +57,5 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 - Try as best as you can not to delay closing the rooms, as it burdens the MC to squeeze all the final annoucements in on time.
 
 ### Final Annoucements
+
 - As the host, the zoom does not officially end until you close it. You can close as soon as the MC completes their annoucements and we do our usual group goodbye and wave :)

@@ -54,13 +54,14 @@ Reminder: Tuesday thread.
 Reminder: Thursday thread.
 ```
 
-1. If you are available and willing to lead a room on either of those days add a  `:speech_bubble:` 💬
+1. If you are available and willing to lead a room on either of those days add a `:speech_bubble:` 💬
 
-1. If you are available and willing to take notes on either of those days add a  `:memo:` 📝
+1. If you are available and willing to take notes on either of those days add a `:memo:` 📝
 
 1. If you know for sure that you cannot make a session add a `:x:` ❌
 
 NOTES:
+
 - Choose as many roles as you like. You won't be assigned both room leader and notetaker or both MC and host, but other roles can be combined.
 - for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 - for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
@@ -77,7 +78,7 @@ Later that day the MC or Host for the week will post a list of Room Leader / Not
 
 ### What happens if I am assigned a role and I can't make it?
 
-Life happens and this community is here to support each other, so all we ask is that you communicate as your availability changes. 
+Life happens and this community is here to support each other, so all we ask is that you communicate as your availability changes.
 
 If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) and with a direct @ to the host as soon as you know so that the other volunteers can work out substitutions and coverage. For example, if Kirk is the host, post in the channel `@Kirk, something came up and I can't make today.`
 

@@ -29,4 +29,5 @@ _Initial Conversation here tends to be random and lighthearted, so this section 
 - {Note any links to external sites here}
 
 ### After Coffee
+
 - Post the notes in the general channel at your earliest convenience!

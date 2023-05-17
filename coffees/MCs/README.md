@@ -18,7 +18,6 @@ How to get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-invol
 HANDRAISE SHORTCUT: Opt/Alt+Y
 ```
 
-
 ## Before Breakout Rooms
 
 ### Pre-Chat
@@ -26,8 +25,6 @@ HANDRAISE SHORTCUT: Opt/Alt+Y
 Welcome all new faces via chat and let them know we will get started and will be generally chatting for about 5 minutes to let everyone get settled.
 
 Pre-chat chaos.
-
-
 
 ### Welcome
 
@@ -72,7 +69,6 @@ If you have questions or comments, please feel free to reach out to us at hello@
 For other announcements check out our newsletter page: virtualcoffee.io/newsletter and if you want to hear more about our awesome community members, definitely check out the podcast!
 
 Have a great day, everyone!
-
 
 ## Outro / Closing
 

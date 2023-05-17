@@ -11,12 +11,11 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 - Maintains clear paths of communication with team members and stays up to date on discussions
 - Checks in with team members to ensure support and to provide frequent opportunities for feedback
 - Help facilitate project by identifying and working with other members interested in the project
-- Coordinate with team members in completing tasks 
+- Coordinate with team members in completing tasks
 - Assist in or take responsibility for organizing, planning, and directing the completion of the project
 - Take notes and track progress
 - Apply the documented processes for various tasks
 - Suggest changes to the documented processes if needed
-
 
 ## Specific Team Lead responsibilities:
 
@@ -24,8 +23,7 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 
 - Track and manage post-production tasks for events
 - Coordinate with team members in completing tasks
-- Assist with managing and moderating the YouTube Channel 
-
+- Assist with managing and moderating the YouTube Channel
 
 ### Monthly Challenge
 
@@ -40,7 +38,7 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 
 - Coordinate with team members and reply to communication in a timely manner
 - Create or update documentation
-- Facilitate planning and/or organizing 
+- Facilitate planning and/or organizing
 - Check-in with team members to support them and ensure things are on schedule
 - Communicate with AV Team Lead for support
 

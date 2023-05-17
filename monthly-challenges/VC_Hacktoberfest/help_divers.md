@@ -9,5 +9,5 @@ Python / Good first issues: https://github.com/search?q=label%3AHacktoberfest+la
 Ruby / Good first issues: https://github.com/search?q=label%3AHacktoberfest+label%3A%22Good+first+issue%22+language%3ARuby+state%3Aopen+language%3ARuby&type=Issues&ref=advsearch&l=Ruby&l=Ruby
 
 ## Recordings
-See Youtube Channel
 
+See Youtube Channel

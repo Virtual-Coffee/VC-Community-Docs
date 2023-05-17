@@ -19,7 +19,7 @@ In a second, I'll hit record and introduce Meryl. Please mute your microphones u
 
 - Hello and welcome to Virtual Coffee: Brownbag edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. To find our code of conduct, events, or to learn more, you can check out our site virtualcoffee.io.
 
-- We're really glad to have you all here with us today, and I especially want to thank our presenter, Meryl, for being here. 
+- We're really glad to have you all here with us today, and I especially want to thank our presenter, Meryl, for being here.
 
 Meryl Dominguez is an opera singer and budding software engineer, soon to complete Springboard’s full stack engineering program. Drawn to solving real world problems with elegant tech solutions she is working on a props management app for OperaHack 2.0 and is looking forward to making the theater world a more equitable, diverse, and accessible place.
 

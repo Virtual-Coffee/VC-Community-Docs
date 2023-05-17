@@ -1,5 +1,5 @@
-
 ## Gant Laborde
+
 <dl>
 <dt>Talk Title</dt>
 <dd>Fearless and Fabulous: Conquering Your Stage One Laugh at a Time</dd>
@@ -9,6 +9,7 @@
 </dl>
 
 ## Taiwo
+
 <dl>
  <dt>Talk Title</dt>
  <dd>Self-Assessment: A Growth Pointer</dd>
@@ -21,6 +22,7 @@
 ![Taiwo Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228589846-2cb6bf5b-10fc-49dc-9e84-c116f6b24253.png)
 
 ## Matt McInnis
+
 <dl>
 <dt>Talk</dt>
 <dd>ChatGPT for Developers</dd>
@@ -39,8 +41,8 @@
 </dl>
 ![Matt McInnis Lightning Talk VC Cover (1)](https://user-images.githubusercontent.com/34313413/228611101-0259d55a-732c-473b-a71f-791b6f3725ff.png)
 
-
 ## Roger Gentry
+
 <dl>
 <dt>BIO</dt>
 <dd>Roger has managed the security and compliance for clients across the United States. Providing CTO/CSO level consulting to a variety of industries, Roger has worked with customers to achieve successful compliance certifications from PCI, ISO, SOC, and more.</dd>
@@ -52,8 +54,8 @@
 
 ![Roger Gentry Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228590829-e7502d67-531f-4091-9b15-17dd88bfbb3b.png)
 
-
 ## Amy Shackles
+
 <dl>
 <dt>Talk Title</dt>
 <dd>Regular Expressions for Great Good</dd>
@@ -66,10 +68,10 @@
 
 ![Amy S  Lightning Talk VC Cover (1)](https://user-images.githubusercontent.com/34313413/228875716-ecce4f4f-dca6-4363-a614-ca33e7443ad8.png)
 
+## 12:05-12:15 break
 
-
-## 12:05-12:15  break
 ## Dan Ott
+
 <dl>
 <dt>Talk Title</dt>
  <dd>Look for the Holes: Surviving Survivor Bias</dd>
@@ -79,8 +81,8 @@
 </dl>
 ![Dan Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228949359-1c7f0286-4f29-4683-8376-cfaacdb63e51.png)
 
-
 ## Meg Gutshall
+
 <dl>
 <dt>Talk Title</dt>
 <dd>Low-Key Stalking for the Job Seeker</dd>
@@ -90,40 +92,41 @@
 <dd>Meg is a Ruby on Rails developer with a passion for open source and tech for good. She's always smiling, continuously learning, and quick to strike up a conversation. She takes her advice with a grain of salt & a shot of tequila.</dd>
 </dl>![Meg Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228592607-064ec97a-b5f4-4fc1-b017-94a53c812668.png)
 
-
 ## Julia
+
 <dl>
 <dt>Talk Title</dt>
 <dd>A Great First Chapter: New Employee Growth & Your Content Pipeline</dd>
 <dt>Description</dt>
 <dd>
-I am proposing a new model for using technical blogging, friction logs, and other informal types of technical writing as a required part of a new-hire onboarding experience. 
+I am proposing a new model for using technical blogging, friction logs, and other informal types of technical writing as a required part of a new-hire onboarding experience.
 
-I'll present an outline of how this plan would work in practice and explain the benefits to all parties. New hires learn more deeply, product engineering teams gain greater insight into UX/DX, new employees have a deliverable product during those nebulous early weeks of onboarding, and companies build a stronger content pipeline by identifying and nurturing strong writers. Everyone wins! 
+I'll present an outline of how this plan would work in practice and explain the benefits to all parties. New hires learn more deeply, product engineering teams gain greater insight into UX/DX, new employees have a deliverable product during those nebulous early weeks of onboarding, and companies build a stronger content pipeline by identifying and nurturing strong writers. Everyone wins!
 
 If I were to go into private consulting, I think this model would be part of my 'unique value prop'. This talk is the start of working out the details in my proposal and getting feedback on the idea.
+
 </dd>
 
 <dt>BIO</dt>
 <dd>Julia Seidman is a technical marketing consultant and developer in the Seattle area. She has 2 terrific kids and a wonderful partner, and her family cos-plays as a “normal” family.
 
-Julia is a believer in the careen, rather than the career. 
+Julia is a believer in the careen, rather than the career.
 
 After studying anthropology and writing a senior thesis on the ethics of museum collections of human skeletal remains, she took the job she could get, which was fundraising for a hospital.
 
-From there, she became a financial analyst and employee educator for 401(k) and pension plans. After that, she got a Master’s in Teaching, and taught high school English, ESL and Debate for most of a decade. 
+From there, she became a financial analyst and employee educator for 401(k) and pension plans. After that, she got a Master’s in Teaching, and taught high school English, ESL and Debate for most of a decade.
 
 Now, she works as a freelance technical writer and software developer, specializing in technical content marketing.
 
 Along the way, she has learned a lot about a lot of things, including the Python ecosystem.
+
 </dd>
 
 </dl>
 ![Julia Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228588590-82a9a464-6f2a-45fb-8e0a-859731980e33.png)
 
-
-
 ## Brian Meeker
+
 <dl>
 <dt>Talk Title</dt>
 <dd>Taming Personal Knowledge Management With Obsidian and Dataview</dd>
@@ -139,9 +142,8 @@ Along the way, she has learned a lot about a lot of things, including the Python
 https://hachyderm.io/@brianmeeker
 https://brianmeeker.me/
 
-
-
 ## Josh
+
 <dl>
 <dt>Talk Title</dt>
  <dd>What's a Linter</dd>
@@ -160,8 +162,8 @@ https://fosstodon.org/@JoshuaKGoldberg
 
 ![Josh Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228586572-c29b8977-eb67-47b1-8c49-8ed994383ce1.png)
 
-
 ## BekahHW
+
 <dl>
 <dt>Talk Title</dt>
 <dd>The Power of Storytelling</dd>
@@ -173,4 +175,3 @@ https://fosstodon.org/@JoshuaKGoldberg
 </dl>
 
 ![BekahHW Lightning Talk VC Cover](https://user-images.githubusercontent.com/34313413/228592075-4059c277-ca99-4c26-b0e1-a0f7799596e5.png)
-

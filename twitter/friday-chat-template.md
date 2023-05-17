@@ -10,9 +10,9 @@ We've got you covered with an async session if you missed Virtual Coffee! Just s
 
 ---
 
-We start every Coffee with a random check-in question. 
+We start every Coffee with a random check-in question.
 
-We'll go with {Day}day's question: 
+We'll go with {Day}day's question:
 
 #VirtualCoffeeIO
 
@@ -34,7 +34,7 @@ Can have 3 or 4 questions, optional
 
 ---
 
-It's Friday, and at Virtual Coffee, we do a gratitude check-in. 
+It's Friday, and at Virtual Coffee, we do a gratitude check-in.
 
 Let's end this chat with some gratitude. What are you grateful for this week?
 

@@ -17,7 +17,6 @@
 - [Email notifications](#email-notifications)
 - [Feedback](#feedback)
 
-
 Hey, welcome to being a member of the Virtual Coffee contributors community! As part of this community, you have access to [**Discussion Boards**](https://github.com/Virtual-Coffee/VC-Contributors/discussions); message boards here on GitHub where the majority of our communications take place. To help you get the most out of discussion boards we wanted to create a short guide.
 
 ## Why did we choose to use discussion boards?
