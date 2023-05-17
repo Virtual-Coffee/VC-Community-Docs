@@ -30,4 +30,6 @@ In general, there will be an entire docs section (as well as issue templates, pr
 
 If you have a question or general observation, the [Contributors team discussion board on GitHub](https://github.com/Virtual-Coffee/VC-Contributors/discussions) would be a great place to start.
 
+Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
+
 > ⚠️ **Heads up!** If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](./CONTRIBUTING.md) for more info.
