@@ -6,6 +6,10 @@
   "repository": "git+https://github.com/Virtual-Coffee/VC-Contributors.git",
   "author": "Virtual Coffee",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "18.16"
+  },
+  "packageManager": "yarn@1.22.19",
   "bugs": {
     "url": "https://github.com/Virtual-Coffee/VC-Contributors/issues"
   },
