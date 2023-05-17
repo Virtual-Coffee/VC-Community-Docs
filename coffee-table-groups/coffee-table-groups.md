@@ -58,7 +58,7 @@ Feelings Friday was started at the Flatiron School coding boot camp by its found
 
 ### Leader: Rad Turkin
 
-Job Hunting as a collective :  An Accountability session exclusively for job hunting, share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll linkedin for leads. "Hunt with the pack, arwoooo..."
+Job Hunting as a collective : An Accountability session exclusively for job hunting, share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll linkedin for leads. "Hunt with the pack, arwoooo..."
 
 ## Transcending the CisTem
 

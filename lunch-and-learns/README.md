@@ -18,6 +18,3 @@ We try to keep Lunch & Learns to Fridays at 12pm Eastern. Members can submit an 
   A list of speaker bios we have so far. The list includes links to update the data - if a speaker would like to update their bio, they can use the linked form.
 - ### [New Bio Form](https://airtable.com/shrnXiExU1OvUcDBL)
   If we don't have a bio for a speaker, send them this form!
-
-
-

@@ -4,7 +4,6 @@ about: Track tasks and collect information for an individual talk
 title: ''
 labels: 'Lightning Talk: Individual Talk'
 assignees: ''
-
 ---
 
 # Tasks:

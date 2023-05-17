@@ -1,6 +1,7 @@
 # Roles and Timeline (WIP)
 
 ## Roles
+
 - speakers
 - mentors
 - AV team (sound and video checks)
@@ -9,8 +10,8 @@
 - host
 - Dan
 
+## Timeline
 
-## Timeline 
 - Set Date
 - CFP
 - Call for Volunteers
