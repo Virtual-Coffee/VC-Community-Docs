@@ -15,13 +15,12 @@
   },
   "homepage": "https://github.com/Virtual-Coffee/VC-Contributors#readme",
   "scripts": {
-    "format": "prettier --write .",
-    "check": "prettier --check .",
+    "format": "prettier --ignore-unknown --write .",
+    "check": "prettier --ignore-unknown --check .",
     "prepare": "husky install"
   },
   "lint-staged": {
-    "*": "prettier --write",
-    "*.{js,css,md}": "prettier --write"
+    "*": "prettier --ignore-unknown --write"
   },
   "dependencies": {},
   "devDependencies": {
