@@ -25,4 +25,4 @@ jobs:
         with:
           # This part is also where you can pass other options, for example:
           prettier_options: --ignore-unknown --write **/*
-          only_changed: True
+          only_changed: true
