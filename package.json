@@ -16,16 +16,10 @@
   "homepage": "https://github.com/Virtual-Coffee/VC-Contributors#readme",
   "scripts": {
     "format": "prettier --ignore-unknown --write .",
-    "check": "prettier --ignore-unknown --check .",
-    "prepare": "husky install"
-  },
-  "lint-staged": {
-    "*": "prettier --ignore-unknown --write"
+    "check": "prettier --ignore-unknown --check ."
   },
   "dependencies": {},
   "devDependencies": {
-    "husky": ">=6",
-    "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
   },
   "private": true
