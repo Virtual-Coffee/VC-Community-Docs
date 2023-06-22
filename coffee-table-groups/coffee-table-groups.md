@@ -4,7 +4,7 @@
 
 ### Frequency: 2–3 times a week
 
-### Leaders: Meg, Lillian, Raynald, & Sadie
+### Leaders: Meg, Joe, Lillian, Raynald, & Sadie
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
