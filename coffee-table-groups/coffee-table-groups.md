@@ -2,9 +2,9 @@
 
 ## Accountabilibuddies
 
-### Frequency: 2–3 times a week
+### Frequency: Tuesdays, Thursdays, and every other Sunday
 
-### Leaders: Meg, Joe, Lillian, Raynald, & Sadie
+### Leaders: <br> Tuesdays: Lillian Chan, Sadie Jay | Thursdays: Meg Gutshall, Joe Karow | Sundays: Raynald Mirville
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
@@ -12,9 +12,9 @@ Drop into our sessions whenever and for however long your schedule allows. Our T
 
 ## Tech Interview Study Group
 
-### Frequency: Once a week
+### Frequency: Mondays
 
-### Leaders: Julia and Marie
+### Leaders: Julia Seidman, Marie Antons
 
 Weekly discussion of job search & interview-related topics. Mini mock-interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search welcome.
 
@@ -22,7 +22,7 @@ Interested? Join the #tech-interview-study-group slack channel!
 
 ## Indie Startup Hacker Meetup
 
-### Frequency: Every two weeks
+### Frequency: Every other Wednesday
 
 ### Leader: Ray Deck
 
@@ -32,21 +32,21 @@ Interested? Join the #indie-startup-hackers slack channel!
 
 ## Virtual Coffee Book Club
 
-### Leader: Tom
+### Leader: Tom Cudd
 
 Read, study, and discuss 2-3 books each year with fellow VC readers. Use the questions in the GitHub discussions to go at your own pace for any past books. Feel free to gather a group of friends and start your own read through for a book. Just join the #book-club slack channel!
 
 ## Frontend Friday Folks
 
-### Frequency: Every Friday
+### Frequency: Fridays and Saturdays
 
-### Leader: Jörn Bernhardt
+### Leader: <br> Fridays: Jörn Bernhardt | Saturdays: Aishwarya Mali
 
-Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the Co-Working-Room during this time. Feel free to join us and learn more about CSS!
+We first started Frontend Friday Folks every Friday. But now, we also have a session on Saturdays: Savvy Saturday Stylers Slaying CSSBattle! We work on a puzzle at [CSSBattle](https://cssbattle.dev/), and we're taking over the `#co-working-room` channel during this time. Feel free to join us and learn more about CSS!
 
 ## Feelings Friday
 
-### Frequency: Every Friday
+### Frequency: Fridays
 
 ### Leader: Ethan Freire
 
@@ -54,7 +54,7 @@ Feelings Friday was started at the Flatiron School coding boot camp by its found
 
 ## The Pack Hunt
 
-### Frequency: Every Wednesday
+### Frequency: Wednesdays
 
 ### Leader: Rad Turkin
 
