@@ -32,7 +32,7 @@ Interested? Join the #indie-startup-hackers slack channel!
 
 ## Virtual Coffee Book Club
 
-### Leader: Tom Cudd
+### Leader: Tom Cudd <br> _(or contact our Coffee Table Group Coordinator, Abbey Perini)_
 
 Read, study, and discuss 2-3 books each year with fellow VC readers. Use the questions in the GitHub discussions to go at your own pace for any past books. Feel free to gather a group of friends and start your own read through for a book. Just join the #book-club slack channel!
 
