@@ -4,7 +4,7 @@
 
 ### Frequency: Tuesdays, Thursdays, and every other Sunday
 
-### Leaders: <br> Tuesdays: Lillian Chan, Sadie Jay | Thursdays: Meg Gutshall, Joe Karow | Sundays: Raynald Mirville
+### Leaders: <br> Tuesdays: Lillian Chan, Sadie Jay | Thursdays: Meg Gutshall, Joe Karow | Sundays: Ethan Freire
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
