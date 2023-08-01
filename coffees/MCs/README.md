@@ -1,4 +1,4 @@
-# Virtual Coffee Zoom Tue/Thurs Intro/Outra
+# Virtual Coffee Zoom Tue/Thurs Intro/Outro
 
 ## Quick Link Reference
 
