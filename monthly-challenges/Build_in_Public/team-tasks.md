@@ -1,25 +1,35 @@
 # Build in Public
 
-## Month
+In this challenge, we're working on creating a habit of talking about the things we're working on, a plan for continuing progress, and creating a demo for the Virtual Coffee community.
+
+The goal of Build in Public challenge is to learn to communicate around a project, show the development process, give confidence, and learn to be proud of any progress made.
+
+## Table of Contents
+
+- [Month of the Challenge](#month-of-the-challenge)
+- [Team Preparation and Tasks](#team-preparation-and-tasks)
+    - [Before the Challenge](#before-the-challenge)
+        - [Ask for Members' Opinions and Help](#ask-for-members-opinions-and-help)
+        - [Blog Post](#blog-post)
+        - [Challenge Page on the Website](#challenge-page-on-the-website)
+    - [During the Challenge](#during-the-challenge)
+        - [Announcement](#announcement)
+        - [Async Check-Ins](#async-check-ins)
+        - [Demo Day](#demo-day)
+- [Slack Channels](#slack-channels)
+
+## Month of the Challenge
 
 - July 2023
 - July 2022
 - July 2021
 - June 2021
 
-## Description
-
-In this challenge, we're working on creating a habit of talking about the things we're working on, a plan for continuing progress, and creating a demo for the Virtual Coffee community.
-
-## Goals
-
-The idea is to learn to communicate around a project, show the development process, give confidence, and learn to be proud of any progress made.
-
 ## Team Preparation and Tasks
 
 ---
 
-- There is no dedicated person in charge of a task. So, whoever is available to do a task is welcome. Let us know your availability in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
+- There is no dedicated person in charge of a task. So, whoever is available to do a task is welcome. Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
 - Async script templates are provided here. We can always modify the scripts based on needs. So, let's record the script when there are changes for our reference.
 
 ---
@@ -28,7 +38,9 @@ The idea is to learn to communicate around a project, show the development proce
 
 #### Ask for Members' Opinions and Help
 
-**Time**: Two weeks before the challenge starts.
+**Timeline**: Two weeks before the challenge starts.
+
+**Tasks**:
 
 When we need more support, ask these questions in the `#announcement` channel in Slack:
 
@@ -47,14 +59,22 @@ When we need more support, ask these questions in the `#announcement` channel in
 
 #### Blog Post
 
-**Time**: On the 1st day of the challenge.
+---
+
+A blog post is not mandatory, but promoting and introducing our challenge to the public and members would be great.
+
+---
+
+**Timeline**: On the 1st day of the challenge.
+
+**Tasks**:
 
 - A blog post about the challenge that drops on the 1st day of the challenge at [DEV](https://dev.to/virtualcoffee).
 - Check-in blog posts that are published on Fridays during the month.
 
-Blog posts can be scheduled on DEV.
+**Note**:
 
-A blog post is not mandatory, but promoting and introducing our challenge to the public and members would be great.
+- Blog posts can be scheduled on DEV.
 
 **Previous Posts**
 
@@ -65,9 +85,11 @@ A blog post is not mandatory, but promoting and introducing our challenge to the
 - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
 - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
 
-#### Website
+#### Challenge Page on the Website
 
-**Time**: Before the challenge starts.
+**Timeline**: Before the challenge starts.
+
+**Tasks**:
 
 - Change and adjust the challenge page on the website to the current challenge.
 - Create a PR.
@@ -76,9 +98,11 @@ A blog post is not mandatory, but promoting and introducing our challenge to the
 
 #### Announcement
 
-**Time**: On the 1st day of the challenge. 
+**Timeline**: On the 1st day of the challenge.
 
-Announce the challenge in the `#announcements` and crosspost to `#monthly-challenge`.
+**Tasks**:
+
+Announce the challenge in the `#announcements` and crosspost to `#monthly-challenge` channel on Slack.
 
 **Script Template**
 
@@ -86,7 +110,9 @@ TBA
 
 #### Async Check-Ins
 
-**Time**: Every morning ET during the challenge.
+**Timeline**: Every morning ET during the challenge.
+
+**Tasks**:
 
 Set up a daily reminder bot in the `#monthly-challenge` channel on Slack.
 
@@ -102,9 +128,11 @@ Share your progress with us! 🙌
 
 #### Demo Day
 
-**Time**: On the last Friday of the month.
+**Timeline**: On the last Friday of the month.
 
-On Monday, in the last week of the challenge, propose members for a demo day in the `#monthly-challenge` channel.
+**Tasks**:
+
+On Monday, in the last week of the challenge, propose members for a demo day in the `#monthly-challenge` channel on Slack.
 
 The demo day is typically conducted as a Lunch & Learn session.
 
@@ -117,6 +145,8 @@ It’s usually a short 5-10 minute demo, and your project doesn’t have to be c
 If you'd rather do some feedback session, we can work on that too.
 
 ## Slack Channels
+
+Slack public channels that we use for the challenge:
 
 - `#announcement`
     - Initial announcement.
