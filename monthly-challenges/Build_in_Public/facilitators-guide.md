@@ -125,7 +125,7 @@ TBA
 
 **Tasks**:
 
-Create a daily Slackbot reminder in the `#monthly-challenge` channel on Slack.
+Create a daily [Slackbot reminder](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack) in the `#monthly-challenge` channel on Slack.
 
 **Script Template**
 
