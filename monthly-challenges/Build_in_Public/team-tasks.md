@@ -8,14 +8,14 @@ The goal of Build in Public challenge is to learn to communicate around a projec
 
 - [Month of the Challenge](#month-of-the-challenge)
 - [Team Preparation and Tasks](#team-preparation-and-tasks)
-    - [Before the Challenge](#before-the-challenge)
-        - [Ask for Members' Opinions and Help](#ask-for-members-opinions-and-help)
-        - [Blog Post](#blog-post)
-        - [Challenge Page on the Website](#challenge-page-on-the-website)
-    - [During the Challenge](#during-the-challenge)
-        - [Announcement](#announcement)
-        - [Async Check-Ins](#async-check-ins)
-        - [Demo Day](#demo-day)
+  - [Before the Challenge](#before-the-challenge)
+    - [Ask for Members' Opinions and Help](#ask-for-members-opinions-and-help)
+    - [Blog Post](#blog-post)
+    - [Challenge Page on the Website](#challenge-page-on-the-website)
+  - [During the Challenge](#during-the-challenge)
+    - [Announcement](#announcement)
+    - [Async Check-Ins](#async-check-ins)
+    - [Demo Day](#demo-day)
 - [Slack Channels](#slack-channels)
 
 ## Month of the Challenge
