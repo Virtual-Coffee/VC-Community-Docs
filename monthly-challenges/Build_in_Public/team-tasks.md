@@ -53,9 +53,10 @@ When we need more support, ask these questions in the `#announcement` channel in
 **2023**
 
 > Hi friends! We’re looking for some support on the monthly challenge team, especially for next month. <br> Here’s what we’re specifically working on right now. If you’re up for supporting next months challenge, please let us know and we’ll get you added in.
+>
 > 1. Do we want to use the [challenge name] challenge again?
-2. Does anyone want to write a blog post for Dev for this month's challenge?
-3. What updates should we make?
+> 2. Does anyone want to write a blog post for Dev for this month's challenge?
+> 3. What updates should we make?
 
 #### Blog Post
 
@@ -121,7 +122,8 @@ Set up a daily reminder bot in the `#monthly-challenge` channel on Slack.
 **2023**
 
 > Hi friends, it's time for the daily check-in! <br>
-Share your progress with us! 🙌
+> Share your progress with us! 🙌
+>
 > - What did you do yesterday?
 > - What are you doing today?
 > - Do you have any blockers?
@@ -140,18 +142,18 @@ The demo day is typically conducted as a Lunch & Learn session.
 
 **2023**
 
-> Hey friends! In the past, we’ve done a demo day on the last Friday of the month. If you’re interested, respond with a ✋ <br> 
-It’s usually a short 5-10 minute demo, and your project doesn’t have to be complete. We can put them up on YT if you’re comfortable with that, but we don’t need to. <br> 
-If you'd rather do some feedback session, we can work on that too.
+> Hey friends! In the past, we’ve done a demo day on the last Friday of the month. If you’re interested, respond with a ✋ <br>
+> It’s usually a short 5-10 minute demo, and your project doesn’t have to be complete. We can put them up on YT if you’re comfortable with that, but we don’t need to. <br>
+> If you'd rather do some feedback session, we can work on that too.
 
 ## Slack Channels
 
 Slack public channels that we use for the challenge:
 
 - `#announcement`
-    - Initial announcement.
+  - Initial announcement.
 - `#monthly-challenge`
-    - Challenge announcements.
-    - Daily progress tracking.
+  - Challenge announcements.
+  - Daily progress tracking.
 - `#help-and-pairing`
-    - Ask for help and support.
+  - Ask for help and support.
