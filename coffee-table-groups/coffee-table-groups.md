@@ -4,7 +4,7 @@
 
 ### Frequency: Tuesdays, Thursdays, and every other Sunday
 
-### Leaders: <br> Tuesdays: Lillian Chan, Sadie Jay | Thursdays: Meg Gutshall, Joe Karow | Sundays: Ethan Freire
+### Leaders: <br> Tuesdays: Ethan Freire | Thursdays: Meg Gutshall, Joe Karow | Sundays: Lillian Chan
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
@@ -14,7 +14,7 @@ Drop into our sessions whenever and for however long your schedule allows. Our T
 
 ### Frequency: Mondays
 
-### Leaders: Julia Seidman, Marie Antons
+### Leaders: Julia Seidman
 
 Weekly discussion of job search & interview-related topics. Mini mock-interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search welcome.
 
@@ -59,11 +59,3 @@ Feelings Friday was started at the Flatiron School coding boot camp by its found
 ### Leader: Rad Turkin
 
 Job Hunting as a collective : An Accountability session exclusively for job hunting, share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll linkedin for leads. "Hunt with the pack, arwoooo..."
-
-## Transcending the CisTem
-
-### Frequency: Every two weeks
-
-### Leader: Kai Katschthaler (they/them)
-
-A Coffee Table Group for all trans, nonbinary, gender-divergent, and gender-questioning folks. We want to provide a safe space for trans vents, trans joy, and any and all trans-related topics that are on your mind. Share your experience, ask for advice, or just come to hang out with other non-cis folks for an hour. Trigger warnings before sharing about heavy topics are strongly encouraged! (If you have any questions at all about whether this group is right for you, get in touch with Kai.)
