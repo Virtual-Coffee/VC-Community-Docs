@@ -128,7 +128,7 @@ Announce the challenge in the `#announcements` and crosspost to the `#monthly-ch
 
 **Tasks**:
 
-- Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack every Monday morning ET. 
+- Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack every Monday morning ET.
 
 **Script Template**
 
