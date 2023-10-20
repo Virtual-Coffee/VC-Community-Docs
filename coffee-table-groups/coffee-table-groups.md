@@ -1,61 +1,84 @@
 # Coffee Table Groups
 
-## Accountabilibuddies
+> [!NOTE]
+> These are the currently scheduled times for the events at the time of this publication. Please check the official Virtual Coffee `#announcements`, `#vc-events`, or other noted channels on Slack for any updates and links to event rooms.
 
-### Frequency: 2–3 times a week
-
-### Leaders: Meg, Ethan, Rad, Joe, & Lillian
-
-You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
-
-Drop into our sessions whenever and for however long your schedule allows. Our Tuesday sessions occur weekly from 7:00–9:00 PM ET, our Thursday sessions occur weekly from 9:00–11:40 AM ET, and our Sunday sessions occur bi-weekly from 1:00–3:00 PM ET. No matter the goal, you’ll find encouragement and support alongside your accountabilibuddies!
+---
 
 ## Tech Interview Study Group
 
-### Frequency: Once a week
+### Mondays at 4:00 PM ET
 
-### Leaders: Julia and Marie
+### Leader: Julia Seidman
 
-Weekly discussion of job search & interview-related topics. Mini mock-interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search welcome.
+A weekly discussion of job search & interview-related topics—mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search are welcome.
 
-Interested? Join the #tech-interview-study-group slack channel!
+Interested? Join the `#tech-interview-study-group` Slack channel!
 
-## Indie Startup Hacker Meetup
+## Accountabilibuddies
 
-### Frequency: Every two weeks
+### Tuesdays at 7:00–9:00 PM ET, Thursdays at 9:00–11:40 AM ET, and every other Sunday at 1:00–3:00 PM ET
+
+### Leaders:
+
+- Tuesdays: Ethan Freire, Rad Turkin
+- Thursdays: Meg Gutshall, Joe Karow
+- Sundays: Lillian Chan
+
+Do you want to learn that new tool, finish that blog post, or send that job application, but you're so busy that the day is over before you know it? Join us and add some fun and friendly accountability to your schedule!
+
+Drop into our sessions whenever and for however long your schedule allows. You'll find encouragement and support alongside your accountabilibuddies, no matter the goal!
+
+## Indie-Startup Hackers
+
+### Currently on hiatus
 
 ### Leader: Ray Deck
 
 Running a company? Thinking of starting? We support each other and discuss the issues that can make us better at the business of technology. Hack commerce!
 
-Interested? Join the #indie-startup-hackers slack channel!
-
-## Virtual Coffee Book Club
-
-### Leader: Tom
-
-Read, study, and discuss 2-3 books each year with fellow VC readers. Use the questions in the GitHub discussions to go at your own pace for any past books. Feel free to gather a group of friends and start your own read through for a book. Just join the #book-club slack channel!
-
-## Frontend Friday Folks
-
-### Frequency: Every Friday
-
-### Leader: Jörn Bernhardt
-
-Every Friday we're working on a puzzle at CSSBattle.dev. We're taking over the Co-Working-Room during this time. Feel free to join us and learn more about CSS!
-
-## Feelings Friday
-
-### Frequency: Every Friday
-
-### Leader: Ethan Freire
-
-Feelings Friday was started at the Flatiron School coding boot camp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a safe space to share what's that’s on your mind and hold space for others. It's a great way to unwind at the end of the week!
+Interested? Join the `#indie-startup-hackers` Slack channel!
 
 ## The Pack Hunt
 
-### Frequency: Every Wednesday
+### Wednesdays at 2:00 PM ET
 
 ### Leader: Rad Turkin
 
-Job Hunting as a collective : An Accountability session exclusively for job hunting, share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll linkedin for leads. "Hunt with the pack, arwoooo..."
+Job Hunting as a collective—an accountability session exclusively for job hunting. Share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack, arwoooo..."
+
+## Feelings Friday
+
+### Fridays at 10:00 AM ET
+
+### Leader: Ethan Freire
+
+Feelings Friday was started at the Flatiron School coding bootcamp by its founders, Avi Flombaum & Adam Enbar, after noticing burnout among their first cohorts. Join a safe space to share what that's on your mind and hold space for others. It's a great way to unwind at the end of the week!
+
+## Frontend Friday Folks
+
+### Fridays at 11:00 AM ET and Saturdays at 12:00 PM ET
+
+### Leaders:
+
+- Fridays: Jörn Bernhardt
+- Saturdays: Aishwarya Mali
+
+We first started Frontend Friday Folks every Friday. But now, we also have a session on Saturdays: Savvy Saturday Stylers Slaying CSSBattle! We work on a puzzle at [CSSBattle](https://cssbattle.dev/), and we're taking over the `#co-working-room` channel during this time. Feel free to join us and learn more about CSS!
+
+## Virtual Coffee Book Club
+
+### Leader: Tom Cudd
+
+(or contact our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator], Abbey Perini)
+
+Read, study, and discuss 2-3 books each year with fellow Virtual Coffee readers. Use the questions in the [Virtual Coffee Book Club on GitHub discussions](https://github.com/orgs/Virtual-Coffee/discussions/categories/vc-book-club) to go at your own pace for any past books. Feel free to gather a group of friends and start your own read-through for a book.
+
+Just join the `#book-club` Slack channel!
+
+
+
+## Volunteering in Coffee Table Groups
+
+- If you'd like to start a new Coffee Table Group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
+- If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
