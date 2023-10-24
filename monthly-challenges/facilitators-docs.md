@@ -13,7 +13,7 @@ _Thanks for volunteering to facilitate our monthly challenges! The Community Mai
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
     - [Blog Post](#blog-post)
   - [Throughout the Challenge](#throughout-the-challenge)
-  - [Post Month](#post-month) 
+  - [Post Month](#post-month)
 
 ## Facilitating a Challenge
 
@@ -29,19 +29,19 @@ Let us know your availability for the challenge in the reminder thread that drop
 
 - Reach out to our members for opinions and support in the `#announcement` channel in Slack.
 
-    📃 **Script Template**
+  📃 **Script Template**
 
-    ```text
-    Hi friends!
-    We're looking for suggestions and support on the monthly challenge team, especially next month.
-    
-    If you're up for supporting next month's challenge, please let us know, and we'll add you. 
-    
-    Here's what we're specifically working on right now:
-    1. Do we want to use the [challenge name] challenge again?
-    2. Is there anything you want to see differently? What updates should we make for this challenge?
-    3. Does anyone want to write a blog post for Virtual Coffee on Dev for this month's challenge?
-    ```
+  ```text
+  Hi friends!
+  We're looking for suggestions and support on the monthly challenge team, especially next month.
+
+  If you're up for supporting next month's challenge, please let us know, and we'll add you.
+
+  Here's what we're specifically working on right now:
+  1. Do we want to use the [challenge name] challenge again?
+  2. Is there anything you want to see differently? What updates should we make for this challenge?
+  3. Does anyone want to write a blog post for Virtual Coffee on Dev for this month's challenge?
+  ```
 
 - If anyone agrees to mentor or support a monthly challenge, add them to the `#vc-monthly-challenge-team` channel for team communication.
 
@@ -88,5 +88,5 @@ Please read the `facilitators-guide.md` file in each challenge folder for the ta
 
 ### Post Month
 
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
 - Update the `facilitators-guide.md` with the new async script templates and new things the team has done during the month.
