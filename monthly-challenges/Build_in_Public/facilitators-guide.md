@@ -93,7 +93,7 @@ Slack public channels that we use for the challenge:
   - Daily progress tracking.
 - `#help-and-pairing`
   - Ask for help and support.
-  
+
 ---
 
 ## Past Challenges
