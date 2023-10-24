@@ -24,11 +24,10 @@ Build in Public challenge aims to learn to communicate around a project, show th
 ## Past Blog Posts
 
 - 2023
-    - [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
-    - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
-    - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
-    - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
-
+  - [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
+  - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
+  - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
+  - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
 
 ## Facilitators Guide Throughout the Challenge
 
@@ -73,9 +72,9 @@ Share your progress with us! 🙌
 
 ### Demo Day
 
-⏳  **Timeline**: On the last Friday of the month.
+⏳ **Timeline**: On the last Friday of the month.
 
-✅  **Tasks**:
+✅ **Tasks**:
 
 On Monday, in the last week of the month, ask members if they want to do a demo day in the `#monthly-challenge` channel on Slack.
 
