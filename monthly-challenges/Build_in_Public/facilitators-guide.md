@@ -6,34 +6,23 @@ Build in Public challenge aims to learn to communicate around a project, show th
 
 ## Table of Contents
 
-- [Past Challenges](#past-challenges)
-- [Past Blog Posts](#past-blog-posts)
 - [Facilitators Guide Throughout the Challenge](#facilitators-guide-throughout-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
   - [Async Check-Ins](#async-check-ins)
   - [Demo Day](#demo-day)
 - [Slack Channels](#slack-channels)
-
-## Past Challenges
-
-- July 2023
-- July 2022
-- July 2021
-- June 2021
-
-## Past Blog Posts
-
-- 2023
-  - [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
-  - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
-  - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
-  - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
+- [Past Challenges](#past-challenges)
+- [Past Blog Posts](#past-blog-posts)
 
 ## Facilitators Guide Throughout the Challenge
 
 ---
 
-Async script templates are provided here. We can always modify the scripts based on needs. Let's record the script when there are changes for our reference.
+✏️ Post month, please update this guide by:
+
+- Adding new script templates and things we did for the challenge.
+- Adding [the month and year of the challenge](#past-challenges).
+- Adding the [blog post(s) for the challenge](#past-blog-posts).
 
 ---
 
@@ -104,3 +93,20 @@ Slack public channels that we use for the challenge:
   - Daily progress tracking.
 - `#help-and-pairing`
   - Ask for help and support.
+  
+---
+
+## Past Challenges
+
+- July 2023
+- July 2022
+- July 2021
+- June 2021
+
+## Past Blog Posts
+
+- 2023
+  - [Join Virtual Coffee for the Build in Public: The Power of Daily Standup and Demo Challenge](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-build-in-public-the-power-of-daily-standup-and-demo-challenge-35kb)
+  - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
+  - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
+  - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
