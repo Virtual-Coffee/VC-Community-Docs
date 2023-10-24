@@ -67,29 +67,29 @@ Let us know if you'd like to see anything else!
 
 - **Weekly Goals**
 
-    - Chris Jarvis is our hype person for the Monday weekly goals! 🙌
+  - Chris Jarvis is our hype person for the Monday weekly goals! 🙌
 
 - **Weekly Check-ins**
 
-    - Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack every Monday morning ET.
-    
-        You can also create weekly check-ins with [`/reminder`](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack) in the `#monthly-challenge` channel on Slack for the following weeks.
+  - Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack every Monday morning ET.
 
-        📃 **Script Templates**
+    You can also create weekly check-ins with [`/reminder`](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack) in the `#monthly-challenge` channel on Slack for the following weeks.
 
-        **2023**
+    📃 **Script Templates**
 
-        **First week**
+    **2023**
 
-        ```text
-        How are you working on building healthy habits this week?
-        ```
+    **First week**
 
-        **Following weeks**
+    ```text
+    How are you working on building healthy habits this week?
+    ```
 
-        ```text
-        How’d the habit-building go last week? What are you working on this week?
-        ```
+    **Following weeks**
+
+    ```text
+    How’d the habit-building go last week? What are you working on this week?
+    ```
 
 ## Slack Channels
 
