@@ -6,35 +6,26 @@ The goal is to build a new habit that will make you a healthier dev. This can be
 
 ## Table of Contents
 
+- [Facilitators Guide Throughout the Challenge](#facilitators-guide-throughout-the-challenge)
+  - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
+  - [Async Check-Ins](#async-check-ins)
+- [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
-- [Facilitators Guide](#facilitators-guide)
-  - [Throughout the Challenge](#throughout-the-challenge)
-    - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
-    - [Async Check-Ins](#async-check-ins)
-- [Slack Channels](#slack-channels)
 
-## Past Challenges
-
-- August 2023
-- August 2022
-- August 2021
-
-## Past Blog Posts
-
-- [Join Virtual Coffee in the Healthy Habits for Happy Devs monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h) — 2023.
-
-## Facilitators Guide
+## Facilitators Guide Throughout the Challenge
 
 ---
 
-Async script templates are provided here. We can always modify the scripts based on needs. Let's record the script when there are changes for our reference.
+✏️ Post month, please update this guide by:
+
+- Adding new script templates and things we did for the challenge.
+- Adding [the month and year of the challenge](#past-challenges).
+- Adding the [blog post(s) for the challenge](#past-blog-posts).
 
 ---
 
-### Throughout the Challenge
-
-#### Make an Announcement to Kick-Off the Challenge
+### Make an Announcement to Kick-Off the Challenge
 
 ⏳ **Timeline**: On the 1st day of the challenge.
 
@@ -59,7 +50,7 @@ This month, we’re focused on building healthy habits! To learn more about the 
 Let us know if you'd like to see anything else!
 ```
 
-#### Async Check-Ins
+### Async Check-Ins
 
 ⏳ **Timeline**: Every Monday during the challenge.
 
@@ -93,7 +84,7 @@ Let us know if you'd like to see anything else!
 
 ## Slack Channels
 
-Slack public channels that we use for the challenge:
+Slack channels we use for the challenge:
 
 - `#announcement`
   - Initial announcement.
@@ -107,3 +98,15 @@ Slack public channels that we use for the challenge:
   - Friday gratitude posts.
 - `#gratitude`
   - Members' gratitude during the challenge.
+
+---
+
+## Past Challenges
+
+- August 2023
+- August 2022
+- August 2021
+
+## Past Blog Posts
+
+- [Join Virtual Coffee in the Healthy Habits for Happy Devs monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h) — 2023.
