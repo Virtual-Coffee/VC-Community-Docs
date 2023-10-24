@@ -10,7 +10,6 @@ The goal is to build a new habit that will make you a healthier dev. This can be
 - [Past Blog Posts](#past-blog-posts)
 - [Facilitators Guide](#facilitators-guide)
   - [Throughout the Challenge](#throughout-the-challenge)
-    - [Update the `#monthly-challenge` Channel Topic on Slack](#update-the-monthly-challenge-channel-topic-on-slack)
     - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
     - [Async Check-Ins](#async-check-ins)
 - [Slack Channels](#slack-channels)
