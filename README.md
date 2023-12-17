@@ -11,7 +11,7 @@ Management and coordination for Virtual Coffee Contributors
   - **Leads**: Core Maintainers
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
-  - **Leads**: Aurelie Verrot & Andrew Bush
+  - **Leads**: Ayu Adiati and Dominic Duffin
 - [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
   - **Lead**: Abbey
 - [Procedures](./procedures): Procedures for various Virtual Coffee tasks
