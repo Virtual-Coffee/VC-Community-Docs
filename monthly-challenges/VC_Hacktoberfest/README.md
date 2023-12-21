@@ -78,7 +78,7 @@ Who’s looking for issues? Tell us what you’re looking for and we’ll try to
 
 📃 **Script Templates**
 
-There is a script available in the `CheckinScript.md` that located in the `archive` folder for the check-ins.
+Sync check-in script is available in the `CheckinScript.md` that located in the `archive` folder.
 
 ## Slack Channels
 
