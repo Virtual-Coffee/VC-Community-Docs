@@ -6,7 +6,7 @@ Build in Public challenge aims to learn to communicate around a project, show th
 
 ## Table of Contents
 
-- [Facilitators Guide Throughout the Challenge](#facilitators-guide-throughout-the-challenge)
+- [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
   - [Async Check-Ins](#async-check-ins)
   - [Demo Day](#demo-day)
@@ -14,7 +14,7 @@ Build in Public challenge aims to learn to communicate around a project, show th
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
 
-## Facilitators Guide Throughout the Challenge
+## Facilitators Guide During the Challenge
 
 ---
 
