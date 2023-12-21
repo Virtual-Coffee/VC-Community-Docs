@@ -69,6 +69,10 @@ Who’s looking for issues? Tell us what you’re looking for and we’ll try to
 
 ⏳ **Timeline**: Weekly, depend on hosts availability.
 
+📃 **Script Templates**
+
+There is a script available in the `CheckinScript.md` that located in the `archive` folder for the check-ins.
+
 ## Slack Channels
 
 Slack public channels that we use for the challenge:
