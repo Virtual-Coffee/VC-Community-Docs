@@ -109,4 +109,3 @@ Please update this guide by:
 - Adding new script templates and things we did for the challenge.
 - Adding [the month and year of the challenge](#past-challenges).
 - Adding the [blog post(s) for the challenge](#past-blog-posts).
-
