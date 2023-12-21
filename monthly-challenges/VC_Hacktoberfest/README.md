@@ -26,6 +26,8 @@ This challenge is always run during October and was our first-ever monthly chall
 
 ### Make an Announcement to Kick-Off the Challenge
 
+👉 _We kick-off the challenge on October 1st on Zoom, hosted by Dan and Bekah._
+
 ⏳ **Timeline**: On the 1st day of the challenge.
 
 ✅ **Tasks**:
@@ -36,7 +38,12 @@ Announce the challenge in the `#announcements` and crosspost to the `#hacktoberf
 
 [**Initial announcement**]
 
-TBA
+```text
+We’re kicking off Hacktoberfest in style, starting today! Check out what we have happening:
+
+- Our HACKTOBERFEST KICKOFF is happening on Monday at 1 PM EDT. We'll be talking open source, and doing a walkthrough of an issue that everyone can contribute to! Complete your first PR of the month together with everyone and hit the ground running!
+- Our podcast episodes are all open source and Hacktoberfest themed this season, so check those out too!
+```
 
 [**Preptember repo opens during Hacktoberfest**]
 
