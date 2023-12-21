@@ -6,7 +6,7 @@ Based off the [NaNoWriMo (National Novel Writing Month)](https://nanowrimo.org/)
 
 ## Table of Contents
 
-- [Facilitators Guide Before the Challenge](#facilitators-guide-before-the-challenge) 
+- [Facilitators Guide Before the Challenge](#facilitators-guide-before-the-challenge)
 - [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
   - [Async Check-Ins](#async-check-ins)
