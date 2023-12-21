@@ -6,14 +6,14 @@ The goal is to build a new habit that will make you a healthier dev. This can be
 
 ## Table of Contents
 
-- [Facilitators Guide Throughout the Challenge](#facilitators-guide-throughout-the-challenge)
+- [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
   - [Async Check-Ins](#async-check-ins)
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
 
-## Facilitators Guide Throughout the Challenge
+## Facilitators Guide During the Challenge
 
 ---
 
