@@ -68,24 +68,22 @@ Read our challenge page for the details, and watch this walkthrough video to giv
 
 ✅ **Tasks**:
 
-- **Weekly Check-ins**
+Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack.
 
-  - Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack.
+📃 **Script Templates**
 
-    📃 **Script Templates**
+**2023**
 
-    **2023**
-
-    ```text
-    Hi friends!
+```text
+Hi friends!
     
-    How's everyone getting on with Preptember challenge?
-    Don't forget to participate in our [Preptember repository](https://github.com/Virtual-Coffee/vc-preptember).
+How's everyone getting on with Preptember challenge?
+Don't forget to participate in our [Preptember repository](https://github.com/Virtual-Coffee/vc-preptember).
     
-    For contributors, you can practise making a contribution by adding your name and favorite coffee or other drink.
+For contributors, you can practise making a contribution by adding your name and favorite coffee or other drink.
     
-    For maintainers, if you have repositories that meet our [Repository Checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist), you can add them so contributors can find them for Hacktoberfest.
-    ```
+For maintainers, if you have repositories that meet our [Repository Checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist), you can add them so contributors can find them for Hacktoberfest.
+```
 
 ## Slack Channels
 
@@ -107,4 +105,9 @@ Slack channels we use for the challenge:
 
 ## Past Blog Posts
 
-- [Join Virtual Coffee in the Preptember 2023 Monthly Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-preptember-2023-monthly-challenge-51d2) — 2023.
+- 2023
+  - [Join Virtual Coffee in the Preptember 2023 Monthly Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-preptember-2023-monthly-challenge-51d2)
+- 2021
+  - [Preptember: Projects and Discussions](https://dev.to/virtualcoffee/preptember-projects-and-discussions-1ei6)
+  - [Preptember: Maintainer Powerups](https://dev.to/virtualcoffee/preptember-maintainer-powerups-4m1n)
+  - [Preptember: Getting ready for Hacktoberfest](https://dev.to/virtualcoffee/preptember-getting-ready-for-hacktoberfest-143j)
