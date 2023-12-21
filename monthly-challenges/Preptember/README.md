@@ -24,8 +24,8 @@ And since September 2023, we provide a [VC Preptember repository](https://github
 
 Prepare the [vc-preptember repository](https://github.com/Virtual-Coffee/vc-preptember) to be ready for contribution:
 
-  - Create new files for 🌱 Practicing Open Source and 📃 Repositories List.
-  - Archive old files in the `past-preptembers` folder. 
+- Create new files for 🌱 Practicing Open Source and 📃 Repositories List.
+- Archive old files in the `past-preptembers` folder.
 
 ## Facilitators Guide During the Challenge
 
