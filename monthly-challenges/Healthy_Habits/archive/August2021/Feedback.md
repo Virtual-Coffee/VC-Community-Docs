@@ -8,5 +8,4 @@ More guidance can be useful as well: a lot of members had a lot of new habits th
 
 Finding a common healthy habit can be an idea as well (based on opt-in) to have a support group on a common goal.
 
-
 Having a good animation of the event seems critical. Finding multiple people to host Zoom calls and have it scheduled in advance is something that can help.
