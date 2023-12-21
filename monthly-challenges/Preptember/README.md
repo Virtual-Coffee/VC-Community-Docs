@@ -76,12 +76,12 @@ Write and drop weekly check-ins in the `#monthly-challenge` channel on Slack.
 
 ```text
 Hi friends!
-    
+
 How's everyone getting on with Preptember challenge?
 Don't forget to participate in our [Preptember repository](https://github.com/Virtual-Coffee/vc-preptember).
-    
+
 For contributors, you can practise making a contribution by adding your name and favorite coffee or other drink.
-    
+
 For maintainers, if you have repositories that meet our [Repository Checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist), you can add them so contributors can find them for Hacktoberfest.
 ```
 
