@@ -4,6 +4,7 @@ This challenge is always run during October and was our first-ever monthly chall
 
 ## Table of Contents
 
+- [Facilitators Guide Before the Challenge](#facilitators-guide-before-the-challenge)
 - [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
   - [Async Check-Ins](#async-check-ins)
@@ -11,6 +12,14 @@ This challenge is always run during October and was our first-ever monthly chall
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
+
+## Facilitators Guide Before the Challenge
+
+⏳ **Timeline**: Two weeks before the challenge.
+
+✅ **Tasks**:
+
+Prepare the [Virtual Coffee: Hacktoberfest Initiative](https://hacktoberfest.virtualcoffee.io/) website for participants to sign up as maintainers, contributors, or mentors.
 
 ## Facilitators Guide During the Challenge
 
