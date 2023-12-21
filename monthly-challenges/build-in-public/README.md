@@ -13,18 +13,9 @@ Build in Public challenge aims to learn to communicate around a project, show th
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
+- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide During the Challenge
-
----
-
-✏️ Post month, please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
-
----
 
 ### Make an Announcement to Kick-Off the Challenge
 
@@ -110,3 +101,12 @@ Slack public channels that we use for the challenge:
   - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
   - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
   - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
+
+## Post Challenge
+
+Please update this guide by:
+
+- Adding new script templates and things we did for the challenge.
+- Adding [the month and year of the challenge](#past-challenges).
+- Adding the [blog post(s) for the challenge](#past-blog-posts).
+
