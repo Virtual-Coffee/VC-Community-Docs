@@ -6,13 +6,12 @@ _Thanks for volunteering to facilitate our monthly challenges! The Community Mai
 
 - [Facilitating a Challenge](#facilitating-a-challenge)
   - [Before the Challenge](#before-the-challenge)
-    - [Reach Out to Members for Opinions, Support, and Writing a Blog Post](#reach-out-to-members-for-opinions-support-and-writing-a-blog-post)
     - [Update the Challenge Page on the Website](#update-the-challenge-page-on-the-website)
   - [The First Day of the Month](#the-first-day-of-the-month)
     - [Update the `monthly-challenge` Channel on Slack](#update-the-monthly-challenge-channel-on-slack)
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
     - [Blog Post](#blog-post)
-  - [Throughout the Challenge](#throughout-the-challenge)
+  - [During the Challenge](#during-the-challenge)
   - [Post Month](#post-month) 
 
 ## Facilitating a Challenge
@@ -20,30 +19,6 @@ _Thanks for volunteering to facilitate our monthly challenges! The Community Mai
 Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
 
 ### Before the Challenge
-
-#### Reach Out to Members for Opinions, Support, and Writing a Blog Post
-
-⏳ **Timeline**: Two weeks before the challenge starts.
-
-✅ **Tasks**:
-
-- Reach out to our members for opinions and support in the `#announcement` channel in Slack.
-
-    📃 **Script Template**
-
-    ```text
-    Hi friends!
-    We're looking for suggestions and support on the monthly challenge team, especially next month.
-    
-    If you're up for supporting next month's challenge, please let us know, and we'll add you. 
-    
-    Here's what we're specifically working on right now:
-    1. Do we want to use the [challenge name] challenge again?
-    2. Is there anything you want to see differently? What updates should we make for this challenge?
-    3. Does anyone want to write a blog post for Virtual Coffee on Dev for this month's challenge?
-    ```
-
-- If anyone agrees to mentor or support a monthly challenge, add them to the `#vc-monthly-challenge-team` channel for team communication.
 
 #### Update the Challenge Page on the Website
 
@@ -82,11 +57,11 @@ Script templates are provided in each challenge file.
 
 A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
 
-### Throughout the Challenge
+### During the Challenge
 
-Please read the `facilitators-guide.md` file in each challenge folder for the tasks throughout the challenge.
+Please read the `facilitators-guide.md` file in the challenge's folder for the tasks to be completed during the challenge.
 
 ### Post Month
 
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
-- Update the `facilitators-guide.md` with the new async script templates and new things the team has done during the month.
+- Update the `facilitators-guide.md` in the challenge's folder with the new async script templates and new things the team has done during the month.
