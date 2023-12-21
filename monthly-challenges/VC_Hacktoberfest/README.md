@@ -7,11 +7,13 @@ This challenge is always run during October and was our first-ever monthly chall
 - [Facilitators Guide Before the Challenge](#facilitators-guide-before-the-challenge)
 - [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
   - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
+  - [Kick-Off Event](kick-off-event)
   - [Async Check-Ins](#async-check-ins)
   - [Sync Check-Ins](#sync-check-ins)
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
+- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide Before the Challenge
 
@@ -23,19 +25,7 @@ Prepare the [Virtual Coffee: Hacktoberfest Initiative](https://hacktoberfest.vir
 
 ## Facilitators Guide During the Challenge
 
----
-
-✏️ Post month, please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
-
----
-
 ### Make an Announcement to Kick-Off the Challenge
-
-👉 _We kick-off the challenge on October 1st on Zoom, hosted by Dan and Bekah._
 
 ⏳ **Timeline**: On the 1st day of the challenge.
 
@@ -66,6 +56,12 @@ We are delighted to share that our Preptember repo is still open for our members
 If you want to practice open source or are a maintainer and want to list your repo(s) in our recommended repos for Hacktoberfest, you can still do so until Oct 31!
 We also encourage our mentors to use this repo to practice open source for their mentees! 🙌
 ```
+
+### Kick-Off Event
+
+⏳ **Timeline**: On the 1st day of the challenge.
+
+👉 We kick-off the challenge on October 1st on Zoom, hosted by Dan and Bekah.
 
 ### Async Check-Ins
 
@@ -117,3 +113,11 @@ Slack public channels that we use for the challenge:
 
 - 2023
   - [Hacktoberfest 2023: Let's Make Positive Impacts, Learn & Grow Together in Open Source!](https://dev.to/virtualcoffee/hacktoberfest-2023-lets-make-positive-impacts-learn-grow-together-in-open-source-52a1)
+
+## Post Challenge
+
+Please update this guide by:
+
+- Adding new script templates and things we did for the challenge.
+- Adding [the month and year of the challenge](#past-challenges).
+- Adding the [blog post(s) for the challenge](#past-blog-posts).
