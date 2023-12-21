@@ -15,6 +15,7 @@ And since September 2023, we provide a [VC Preptember repository](https://github
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
+- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide Before the Challenge
 
@@ -28,16 +29,6 @@ Prepare the [vc-preptember repository](https://github.com/Virtual-Coffee/vc-prep
 - Archive old files in the `past-preptembers` folder.
 
 ## Facilitators Guide During the Challenge
-
----
-
-✏️ Post month, please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
-
----
 
 ### Make an Announcement to Kick-Off the Challenge
 
@@ -111,3 +102,11 @@ Slack channels we use for the challenge:
   - [Preptember: Projects and Discussions](https://dev.to/virtualcoffee/preptember-projects-and-discussions-1ei6)
   - [Preptember: Maintainer Powerups](https://dev.to/virtualcoffee/preptember-maintainer-powerups-4m1n)
   - [Preptember: Getting ready for Hacktoberfest](https://dev.to/virtualcoffee/preptember-getting-ready-for-hacktoberfest-143j)
+
+## Post Challenge
+
+Please update this guide by:
+
+- Adding new script templates and things we did for the challenge.
+- Adding [the month and year of the challenge](#past-challenges).
+- Adding the [blog post(s) for the challenge](#past-blog-posts).
