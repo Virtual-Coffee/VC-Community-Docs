@@ -12,7 +12,7 @@ _Thanks for volunteering to facilitate our monthly challenges! The Community Mai
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
     - [Blog Post](#blog-post)
   - [During the Challenge](#during-the-challenge)
-  - [Post Month](#post-month) 
+  - [Post Challenge](#post-challenge) 
 
 ## Facilitating a Challenge
 
@@ -45,7 +45,7 @@ Let us know your availability for the challenge in the reminder thread that drop
 
 📝 **Notes**:
 
-Script templates are provided in each challenge file.
+Script templates are available in each challenge file.
 
 #### Blog Post
 
@@ -59,9 +59,13 @@ A blog post is optional. However, introducing and promoting our challenges to th
 
 ### During the Challenge
 
-Please read the `facilitators-guide.md` file in the challenge's folder for the tasks to be completed during the challenge.
+Please read the `facilitators-guide.md` file in the challenge's folder for complete instructions.
 
-### Post Month
+### Post Challenge
 
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
-- Update the `facilitators-guide.md` in the challenge's folder with the new async script templates and new things the team has done during the month.
+- Update the `facilitators-guide.md` in the challenge's folder with:
+
+  - new script templates and things we did for the challenge,
+  - the month and year of the challenge,
+  - the blog post(s) for the challenge, if any.
