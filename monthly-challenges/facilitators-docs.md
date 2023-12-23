@@ -12,7 +12,7 @@ _Thanks for volunteering to facilitate our monthly challenges! The Community Mai
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
     - [Blog Post](#blog-post)
   - [During the Challenge](#during-the-challenge)
-  - [Post Challenge](#post-challenge) 
+  - [Post Challenge](#post-challenge)
 
 ## Facilitating a Challenge
 
@@ -63,7 +63,7 @@ Please read the `facilitators-guide.md` file in the challenge's folder for compl
 
 ### Post Challenge
 
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
 - Update the `facilitators-guide.md` in the challenge's folder with:
 
   - new script templates and things we did for the challenge,
