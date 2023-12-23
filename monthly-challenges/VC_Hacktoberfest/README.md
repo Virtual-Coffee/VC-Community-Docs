@@ -13,7 +13,6 @@ This challenge is always run during October and was our first-ever monthly chall
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
-- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide Before the Challenge
 
@@ -113,11 +112,3 @@ Slack public channels that we use for the challenge:
 
 - 2023
   - [Hacktoberfest 2023: Let's Make Positive Impacts, Learn & Grow Together in Open Source!](https://dev.to/virtualcoffee/hacktoberfest-2023-lets-make-positive-impacts-learn-grow-together-in-open-source-52a1)
-
-## Post Challenge
-
-Please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
