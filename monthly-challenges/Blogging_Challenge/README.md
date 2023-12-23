@@ -13,7 +13,6 @@ Based off the [NaNoWriMo (National Novel Writing Month)](https://nanowrimo.org/)
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
-- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide Before the Challenge
 
@@ -81,11 +80,3 @@ Slack public channels that we use for the challenge:
   - [Blogging 2023 Monthly Challenge!](https://dev.to/virtualcoffee/blogging-2023-monthly-challenge-3kng)
 - 2022
   - [Collective NaNoWriMo: Let's Write Together!](https://dev.to/virtualcoffee/collective-nanowrimo-lets-write-together-350)
-
-## Post Challenge
-
-Please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
