@@ -12,7 +12,6 @@ The goal is to build a new habit that will make you a healthier dev. This can be
 - [Slack Channels](#slack-channels)
 - [Past Challenges](#past-challenges)
 - [Past Blog Posts](#past-blog-posts)
-- [Post Challenge](#post-challenge)
 
 ## Facilitators Guide During the Challenge
 
@@ -102,11 +101,3 @@ Slack channels we use for the challenge:
 
 - 2023
   - [Join Virtual Coffee in the Healthy Habits for Happy Devs monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h)
-
-## Post Challenge
-
-Please update this guide by:
-
-- Adding new script templates and things we did for the challenge.
-- Adding [the month and year of the challenge](#past-challenges).
-- Adding the [blog post(s) for the challenge](#past-blog-posts).
