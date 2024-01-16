@@ -40,7 +40,7 @@ Here’s more about the challenge: <link to blog post>
 - **Weekly Check-ins**
 
   TBA
-    
+
   📃 **Script Templates**
 
   TBA
