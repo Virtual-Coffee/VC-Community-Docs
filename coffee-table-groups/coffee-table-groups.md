@@ -72,8 +72,6 @@ Read, study, and discuss 2-3 books each year with fellow Virtual Coffee readers.
 
 Just join the `#book-club` Slack channel!
 
-
-
 ## Volunteering in Coffee Table Groups
 
 - If you'd like to start a new Coffee Table Group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
