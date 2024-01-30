@@ -17,17 +17,16 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 
 ## Accountabilibuddies
 
-### Tuesdays at 7:00–9:00 PM ET, Thursdays at 9:00–11:40 AM ET, and every other Sunday at 1:00–3:00 PM ET
+### Tuesdays at 7:00–9:00 PM ET and Thursdays at 9:00–11:40 AM ET
 
 ### Leaders:
 
-- Tuesdays: Ethan Freire, Rad Turkin
-- Thursdays: Meg Gutshall, Joe Karow
-- Sundays: Lillian Chan
+- Tuesdays: Rad Turkin
+- Thursdays: Meg Gutshall and Joe Karow
 
-Do you want to learn that new tool, finish that blog post, or send that job application, but you're so busy that the day is over before you know it? Join us and add some fun and friendly accountability to your schedule!
+You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
-Drop into our sessions whenever and for however long your schedule allows. You'll find encouragement and support alongside your accountabilibuddies, no matter the goal!
+Drop into our sessions whenever and for however long your schedule allows. No matter the goal, you’ll find encouragement and support alongside your Accountabilibuddies!
 
 ## Indie-Startup Hackers
 
@@ -49,7 +48,7 @@ Job Hunting as a collective—an accountability session exclusively for job hunt
 
 ## Feelings Friday
 
-### Fridays at 10:00 AM ET
+### Fridays at 8:00 PM ET
 
 ### Leader: Ethan Freire
 
@@ -57,14 +56,11 @@ Feelings Friday was started at the Flatiron School coding bootcamp by its founde
 
 ## Frontend Friday Folks
 
-### Fridays at 11:00 AM ET and Saturdays at 12:00 PM ET
+### Every other Friday at 11:00 AM ET
 
-### Leaders:
+### Leaders: Jörn Bernhardt and Aishwarya Mali
 
-- Fridays: Jörn Bernhardt
-- Saturdays: Aishwarya Mali
-
-We first started Frontend Friday Folks every Friday. But now, we also have a session on Saturdays: Savvy Saturday Stylers Slaying CSSBattle! We work on a puzzle at [CSSBattle](https://cssbattle.dev/), and we're taking over the `#co-working-room` channel during this time. Feel free to join us and learn more about CSS!
+Every other Friday, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We meet in the #co-working-room for this Coffee Table, and can move our meeting to a breakout room so as not to disturb any co-working VC members. Feel free to join us and learn more about CSS! If you can't make it, be sure to play along on your own and post your answers in [Virtual Coffee's CSS Battles Discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/css-battles)!
 
 ## Virtual Coffee Book Club
 
