@@ -21,7 +21,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 
 ### Leaders:
 
-- Tuesdays: Rad Turkin
+- Tuesdays: David Akim and Rad Turkin
 - Thursdays: Meg Gutshall and Joe Karow
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
