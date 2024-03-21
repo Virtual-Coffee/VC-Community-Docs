@@ -141,13 +141,13 @@ Here is an example:
 
 Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.
 
-If you have ideas for a new challenge(s), you can propose and discuss it in the `#vc-monthly-challenge-team` channel on Slack.
+If you have ideas for a new challenge(s), you can propose them and discuss them in the `#vc-monthly-challenge-team` channel on Slack.
 
 ### Before the Challenge
 
 #### Coordinating with the Coffee Table Groups
 
-We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever it's possible. Besides to give more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
+We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
 
 ⏳ **Timeline**: When a challenge has been decided.
 
@@ -161,7 +161,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 ✅ **Tasks**:
 
-- Change and adjust the challenge page on the website to the current challenge and create a PR. See the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)" for the instructions.
+- Change and adjust the challenge pages on the website to reflect the current challenge and create a PR. For instructions on updating the website, see the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)."
 
 ### The First Day of the Month
 
