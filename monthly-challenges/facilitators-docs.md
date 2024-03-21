@@ -4,7 +4,6 @@ Thanks for volunteering to facilitate our monthly challenges! The Monthly Challe
 
 The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://virtualcoffee.io/code-of-conduct/). Please take a moment to read it.
 
-
 ## Table of Contents
 
 - [Technical Guidelines](#technical-guidelines)
@@ -48,11 +47,12 @@ Sometimes, you want to write a customized thread directly from your account, suc
 2. Write your message.
 3. Click the down arrow next to the green "Send" icon.
 
-    ![Slack schedule for later](./assets/slack-schedule-for-later.png)
+   ![Slack schedule for later](./assets/slack-schedule-for-later.png)
+
 4. Select the "Custom time".
 5. Set the day and time. This day and time default to your timezone.
 
-    ![Slack schedule message](./assets/slack-schedule-message.png)
+   ![Slack schedule message](./assets/slack-schedule-message.png)
 
 ### Updating Monthly Challenge Page on the Website
 
@@ -132,8 +132,8 @@ Here is an example:
 
 ```javascript
 <div className="alert alert-success">
-    This monthly challenge is complete. Congratulations! Please join us for
-    the <Link to="/monthlychallenges/mar-2024">next challenge</Link>!
+  This monthly challenge is complete. Congratulations! Please join us for the{' '}
+  <Link to="/monthlychallenges/mar-2024">next challenge</Link>!
 </div>
 ```
 
@@ -196,7 +196,7 @@ Please read the `facilitators-guide.md` file in the challenge's folder for compl
 
 ### Post Challenge
 
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
 - Update the `facilitators-guide.md` in the challenge's folder with:
 
   - new script templates and things we did for the challenge,
