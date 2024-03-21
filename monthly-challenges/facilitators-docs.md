@@ -7,9 +7,18 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
 
 ## Table of Contents
 
+- [Technical Guidelines](#technical-guidelines)
+  - [Setting Up a Slack Bot](#setting-up-a-slack-bot)
+    - [Creating a Slack Reminder](#creating-a-slack-reminder)
+    - [Scheduling a Thread](#scheduling-a-thread)
+  - [Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)
+    - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
+    - [2. Updating the monthly challenge landing page](#2-updating-the-monthly-challenge-landing-page)
+    - [3. Adding a success "completed challenge" alert to the previous challenge](#3-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
 - [Facilitating a Challenge](#facilitating-a-challenge)
   - [Before the Challenge](#before-the-challenge)
-    - [Update the Challenge Page on the Website](#update-the-challenge-page-on-the-website)
+    - [Coordinating with the Coffee Table Groups](#coordinating-with-the-coffee-table-groups)
+    - [Updating the Website](#updating-the-website)
   - [The First Day of the Month](#the-first-day-of-the-month)
     - [Update the `monthly-challenge` Channel on Slack](#update-the-monthly-challenge-channel-on-slack)
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
@@ -146,7 +155,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 - Reach out to the Coffee Table Group hosts, communicate about the upcoming challenge, and how we can support each other during the challenge.
 
-#### Updating the Challenge Page on the Website
+#### Updating the Website
 
 ⏳ **Timeline**: Anytime before the challenge starts.
 
