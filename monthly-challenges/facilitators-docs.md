@@ -23,9 +23,9 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
 Read the "[Facilitating a Challenge](#facilitating-a-challenge)" section to learn more about facilitating a challenge.
 
-### Slack Bot
+### Set Up a Slack Bot
 
-You can set up the Slack bot to drop a reminder and schedule a thread from your personal account.
+You can set up a Slack bot to drop a reminder and schedule a thread from your personal account.
 
 #### Slack Reminder
 
@@ -44,6 +44,89 @@ Sometimes, you want to write a customized thread directly from your account, suc
 5. Set the day and time. This day and time default to your timezone.
 
     ![Slack schedule message](./assets/slack-schedule-message.png)
+
+### Update Monthly Challenge Page on the Website
+
+Most of our challenges are repeated from previous years, but we also create a new challenge whenever there's a demand or when we feel it benefits our community. We make this information available on our Monthly Challenge page.
+
+Every month, we update these pages with the challenge's description and instructions on participating. Here is how to update the pages:
+
+#### 1. Create a new challenge page
+
+- Go to `app/routes/__frontend/monthlychallenges`.
+- Create a new `jsx` file for the challenge. For example, `feb-2024.jsx`.
+- Write the content.
+
+> [!NOTE]
+> For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge. For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
+
+#### 2. Update the main page
+
+- Go to `app/routes/__frontend/monthlychallenges/index.tsx`.
+- Remove the `current: true` from the previous challenge and set it for the new challenge.
+- Update the path to the challenge page.
+- Update the link of the previous challenge.
+
+Here is an example:
+
+```javascript
+	{
+		current: true,  // set for the new challenge
+		title: 'Get Job Ready',
+		subtitle: `Resumes, Cover Letters, and Elevator Pitch. There's never a bad time to update your job application materials.`,
+		description: (
+			<>
+				<p>
+					The goal of this challenge is to work on creating, revising, or updating
+					your job packet materials and that elevator pitch that might get you in
+					the door. Your resume, cover letter, and elevator pitch should work
+					together to tell your story and represent where you are on your career
+					journey; each piece should complement the others. This challenge
+					emphasizes taking time to ensure they work together or get some extra
+					feedback on what you've worked on.
+				</p>
+				// Update the link to the new challenge page on the website
+				<p>
+					To view all of the details of this year's challenge,{' '}
+					<Link to="/monthlychallenges/mar-2024">
+						check out the March 2024 challenge page
+					</Link>
+					.
+				</p>
+			</>
+		),
+		links: [
+			// Update with the link to the previous challenge
+			{
+				href: '/monthlychallenges/feb-2023',
+				title: 'February, 2023',
+			},
+			{
+				href: '/monthlychallenges/apr-2022',
+				title: 'April, 2022',
+			},
+			{
+				href: '/monthlychallenges/mar-2021',
+				title: 'March, 2021',
+			},
+		],
+	},
+```
+
+#### 3. Add a success "completed challenge" alert to the previous challenge
+
+- Open the previous challenge file.
+- Add the alert right on top of `<h1>`.
+- Update the link to the new challenge.
+
+Here is an example:
+
+```javascript
+<div className="alert alert-success">
+    This monthly challenge is complete. Congratulations! Please join us for
+    the <Link to="/monthlychallenges/mar-2024">next challenge</Link>!
+</div>
+```
 
 ## Facilitating a Challenge
 
