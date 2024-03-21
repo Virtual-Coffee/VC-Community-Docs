@@ -23,15 +23,15 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
 Read the "[Facilitating a Challenge](#facilitating-a-challenge)" section to learn more about facilitating a challenge.
 
-### Set Up a Slack Bot
+### Setting Up a Slack Bot
 
 You can set up a Slack bot to drop a reminder and schedule a thread from your personal account.
 
-#### Slack Reminder
+#### Creating a Slack Reminder
 
 Some challenges require regular reminders during the challenge that drops daily or weekly. You can read the guide on how to set a reminder on the official [Slack help center](https://slack.com/help/articles/208423427-Set-a-reminder).
 
-#### Schedule a Thread
+#### Scheduling a Thread
 
 Sometimes, you want to write a customized thread directly from your account, such as weekly check-ins. If you need to post this in a particular hour, you can schedule your message by following the below instructions on your desktop:
 
@@ -45,13 +45,13 @@ Sometimes, you want to write a customized thread directly from your account, suc
 
     ![Slack schedule message](./assets/slack-schedule-message.png)
 
-### Update Monthly Challenge Page on the Website
+### Updating Monthly Challenge Page on the Website
 
 Most of our challenges are repeated from previous years, but we also create a new challenge whenever there's a demand or when we feel it benefits our community. We make this information available on our Monthly Challenge page.
 
 Every month, we update these pages with the challenge's description and instructions on participating. Here is how to update the pages:
 
-#### 1. Create a new challenge page
+#### 1. Creating a new challenge page
 
 - Go to `app/routes/__frontend/monthlychallenges`.
 - Create a new `jsx` file for the challenge. For example, `feb-2024.jsx`.
@@ -60,7 +60,7 @@ Every month, we update these pages with the challenge's description and instruct
 > [!NOTE]
 > For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge. For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
 
-#### 2. Update the main page
+#### 2. Updating the monthly challenge landing page
 
 - Go to `app/routes/__frontend/monthlychallenges/index.tsx`.
 - Remove the `current: true` from the previous challenge and set it for the new challenge.
@@ -113,7 +113,7 @@ Here is an example:
 	},
 ```
 
-#### 3. Add a success "completed challenge" alert to the previous challenge
+#### 3. Adding a success "completed challenge" alert to the previous challenge
 
 - Open the previous challenge file.
 - Add the alert right on top of `<h1>`.
@@ -130,46 +130,56 @@ Here is an example:
 
 ## Facilitating a Challenge
 
-Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
+Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.
+
+If you have ideas for a new challenge(s), you can propose and discuss it in the `#vc-monthly-challenge-team` channel on Slack.
 
 ### Before the Challenge
 
-#### Update the Challenge Page on the Website
+#### Coordinating with the Coffee Table Groups
+
+We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever it's possible. Besides to give more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
+
+⏳ **Timeline**: When a challenge has been decided.
+
+✅ **Tasks**:
+
+- Reach out to the Coffee Table Group hosts, communicate about the upcoming challenge, and how we can support each other during the challenge.
+
+#### Updating the Challenge Page on the Website
 
 ⏳ **Timeline**: Anytime before the challenge starts.
 
 ✅ **Tasks**:
 
-- Change and adjust the challenge page on the website to the current challenge and create a PR.
+- Change and adjust the challenge page on the website to the current challenge and create a PR. See the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)" for the instructions.
 
 ### The First Day of the Month
 
-#### Update the `monthly-challenge` Channel on Slack
+#### Updating the `monthly-challenge` Channel on Slack
 
 ✅ **Tasks**:
 
 - Change the `#monthly-challenge` channel topic and description in Slack.
 - Give a brief description of the challenge.
 
-#### Make an Announcement for a New Challenge
+#### Making an Announcement for a New Challenge
 
 ✅ **Tasks**:
 
 - Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
 
-📝 **Notes**:
+> [!NOTE]
+> Script templates are available in each challenge file.
 
-Script templates are available in each challenge file.
-
-#### Blog Post
+#### Writing Blog Post
 
 ✅ **Tasks**:
 
 - Drop the blog post about the challenge at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
 
-📝 **Notes**:
-
-A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
+> [!NOTE]
+> A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
 
 ### During the Challenge
 
@@ -177,7 +187,7 @@ Please read the `facilitators-guide.md` file in the challenge's folder for compl
 
 ### Post Challenge
 
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time. 
 - Update the `facilitators-guide.md` in the challenge's folder with:
 
   - new script templates and things we did for the challenge,
