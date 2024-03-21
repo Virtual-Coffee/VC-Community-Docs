@@ -37,9 +37,13 @@ Sometimes, you want to write a customized thread directly from your account, suc
 
 1. Go to the channel where you want to post your message.
 2. Write your message.
-3. Click the arrow next to the green "Send" button.
+3. Click the down arrow next to the green "Send" icon.
+
+    ![Slack schedule for later](./assets/slack-schedule-for-later.png)
 4. Select the "Custom time".
 5. Set the day and time. This day and time default to your timezone.
+
+    ![Slack schedule message](./assets/slack-schedule-message.png)
 
 ## Facilitating a Challenge
 
