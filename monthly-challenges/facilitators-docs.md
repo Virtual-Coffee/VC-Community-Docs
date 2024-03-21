@@ -23,6 +23,24 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
 Read the "[Facilitating a Challenge](#facilitating-a-challenge)" section to learn more about facilitating a challenge.
 
+### Slack Bot
+
+You can set up the Slack bot to drop a reminder and schedule a thread from your personal account.
+
+#### Slack Reminder
+
+Some challenges require regular reminders during the challenge that drops daily or weekly. You can read the guide on how to set a reminder on the official [Slack help center](https://slack.com/help/articles/208423427-Set-a-reminder).
+
+#### Schedule a Thread
+
+Sometimes, you want to write a customized thread directly from your account, such as weekly check-ins. If you need to post this in a particular hour, you can schedule your message by following the below instructions on your desktop:
+
+1. Go to the channel where you want to post your message.
+2. Write your message.
+3. Click the arrow next to the green "Send" button.
+4. Select the "Custom time".
+5. Set the day and time. This day and time default to your timezone.
+
 ## Facilitating a Challenge
 
 Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
