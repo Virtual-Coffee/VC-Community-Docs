@@ -17,6 +17,12 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
 
+## Technical Guidelines
+
+Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this section, you will find a guide on how to work with Slack and GitHub for the monthly challenge.
+
+Read the "[Facilitating a Challenge](#facilitating-a-challenge)" section to learn more about facilitating a challenge.
+
 ## Facilitating a Challenge
 
 Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.😊
