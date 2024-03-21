@@ -179,7 +179,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 - Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
 
 > [!NOTE]
-> Script templates are available in each challenge file.
+> Each challenge file contains script templates. If it is unavailable, you must write one and update the script template in the challenge file.
 
 #### Writing Blog Post
 
