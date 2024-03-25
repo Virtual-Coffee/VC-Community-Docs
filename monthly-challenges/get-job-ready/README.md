@@ -14,7 +14,7 @@ This challenge aims to work on creating, revising, or updating your job packet m
 ```text
 It's the first full week of the Get Job Ready challenge, and weeks one and two are about your resume and cover letter.
 
-The instructions are on the challenge page [here](link to the challenge page), and you can also find helpful resources on Google Drive pinned in #tech-interview-study-group.
+The instructions are on the [challenge page](link to the challenge page), and you can also find helpful resources on Google Drive pinned in #tech-interview-study-group.
 
 Please post here in #monthly-challenge if you have any questions or need any help from the community while completing the challenge!
 ```
@@ -55,7 +55,7 @@ Slack channels that we use for the challenge:
   - Challenge announcements.
   - Async check-ins.
 - `#job-hunt` and `#tech-interview-study-group`
-  - Asking questions or help with job packet materials.
+  - Questions and support with job packet materials.
 - `#co-working-room`
   - Sync events such as resume review workshops.
 
@@ -63,7 +63,7 @@ Slack channels that we use for the challenge:
 
 **2024**
 
-- Resume Review Workshops — every Friday, 1 PM ET, in the `#co-working-room` on Slack.
+- **Resume Review Workshops** — every Friday, 1 PM ET, in the `#co-working-room` on Slack.
 
 ---
 
