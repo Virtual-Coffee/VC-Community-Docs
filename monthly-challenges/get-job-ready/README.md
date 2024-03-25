@@ -27,23 +27,23 @@ Please post here in #monthly-challenge if you have any questions or need any hel
 
 **2024**
 
-  - **Week 1**
+- **Week 1**
 
-    ```text
-    Hi friends! How is everyone getting on with the first week of Get Job Ready? What help and support do y'all need?
-    ```
+  ```text
+  Hi friends! How is everyone getting on with the first week of Get Job Ready? What help and support do y'all need?
+  ```
 
-  - **Week 2**
+- **Week 2**
 
-    ```text
-    Hi friends! How's everyone getting on with Get Job Ready? Are your resumes and cover letters looking good now?
-    ```
+  ```text
+  Hi friends! How's everyone getting on with Get Job Ready? Are your resumes and cover letters looking good now?
+  ```
 
-  - **Week 3**
+- **Week 3**
 
-    ```text
-    Hi friends! How are y'all getting on with your elevator pitches? Next week is the time to post you resume, cover letter and elevator pitch (a one-minute video recording is our recommended format), so you can get feedback from the community to help you perfect them! Let us know if you have any questions!
-    ```
+  ```text
+  Hi friends! How are y'all getting on with your elevator pitches? Next week is the time to post you resume, cover letter and elevator pitch (a one-minute video recording is our recommended format), so you can get feedback from the community to help you perfect them! Let us know if you have any questions!
+  ```
 
 ## Slack Channels
 
