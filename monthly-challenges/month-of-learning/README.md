@@ -3,15 +3,7 @@
 The goal of this challenge is to learn something new, share what we have learned, and gather recommendations and resources to share with the community.
 
 > [!TIP]
-> Read our `facilitator-docs.md` to learn about the general guidelines.
-
-<!-- ## Table of Contents
-
-- [Announcement to Kick-Off the Challenge](#announcement-to-kick-off-the-challenge)
-- [Async Check-Ins](#async-check-ins)
-- [Slack Channels](#slack-channels)
-- [Past Challenges](#past-challenges)
-- [Past Blog Posts](#past-blog-posts) -->
+> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and past challenges and the technical guidelines.
 
 ## Announcement to Kick-Off the Challenge
 
@@ -20,11 +12,11 @@ The goal of this challenge is to learn something new, share what we have learned
 **2024**
 
 ```text
-Hi friends! The Month of Learning is now in progress! Have you decided what and how you want to learn this month? Feel free to share in the thread and share your favorite resources in our [GitHub Discussion](https://github.com/orgs/Virtual-Coffee/discussions/1123)!
+Hi friends! The Month of Learning is now in progress! Have you decided what and how you want to learn this month? Feel free to share it in the thread and share your favorite resources in our [GitHub Discussion](https://github.com/orgs/Virtual-Coffee/discussions/1123)!
 
 If you're looking for friendly accountability during the month, check out the Tuesday and Thursday Accountabilibuddies sessions.
 
-For you who want to do self-learning, you can use [this journal template](https://github.com/adiati98/learning-journal-template) to keep track on your progress.
+For you who want to self-learn, you can use [this journal template](https://github.com/adiati98/learning-journal-template) to keep track of your progress.
 ```
 
 ## Async Check-Ins
@@ -36,11 +28,11 @@ For you who want to do self-learning, you can use [this journal template](https:
 **2024**
 
 ```text
-Hi friends! How are y'all getting on with the Month of Learning? Have you managed to draft your learning plan for the month and start making progress towards your goals? Drop your progress updates on this thread!
+Hi friends! How are y'all getting on with the Month of Learning? Have you managed to draft your learning plan for the month and start making progress toward your goals? Drop your progress updates on this thread!
 
 And don't forget to share your favorite resources on our [GitHub Discussion](https://github.com/orgs/Virtual-Coffee/discussions/1123)!
 
-For you who want to do self-learning, you can use [this journal template](https://github.com/adiati98/learning-journal-template) to keep track on your progress.
+For you who want to self-learn, you can use [this journal template](https://github.com/adiati98/learning-journal-template) to keep track of your progress.
 ```
 
 ## Slack Channels
@@ -53,7 +45,7 @@ Slack channels that we use for the challenge:
   - Challenge announcements.
   - Async check-ins.
 - `#learning-together`
-  - For folks who create async cohort to keep accountability.
+  - For folks who create async cohorts to keep accountability.
 
 ---
 
