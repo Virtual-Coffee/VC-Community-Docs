@@ -40,7 +40,7 @@ Slack channels that we use for the challenge:
   - Challenge announcements.
   - Daily progress tracking.
 - `#help-and-pairing`
-  - Asking for help and support.
+  - Questions, help, and support.
 
 ## Events
 
