@@ -5,7 +5,7 @@ In this challenge, we're working on creating a habit of talking about the things
 We aim to learn to communicate around a project, show the development process, give confidence, and be proud of any progress made.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and past challenges and the technical guidelines.
+> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
 ## Announcement to Kick-Off the Challenge
 
