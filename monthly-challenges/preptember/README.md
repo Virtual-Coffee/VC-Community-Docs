@@ -19,7 +19,8 @@ Prepare the [vc-preptember repository](https://github.com/Virtual-Coffee/vc-prep
 
 - Create new markdown files called `preptember-participants-YYYY.md` and `repositories-list-YYYY.md`.
 
-   Change `YYYY` to the year of the challenge.
+  Change `YYYY` to the year of the challenge.
+
 - Archive old files in the `past-preptembers` folder.
 
 ## Announcement to Kick-Off the Challenge
@@ -84,4 +85,3 @@ Slack channels that we use for the challenge:
   - [Preptember: Projects and Discussions](https://dev.to/virtualcoffee/preptember-projects-and-discussions-1ei6)
   - [Preptember: Maintainer Powerups](https://dev.to/virtualcoffee/preptember-maintainer-powerups-4m1n)
   - [Preptember: Getting ready for Hacktoberfest](https://dev.to/virtualcoffee/preptember-getting-ready-for-hacktoberfest-143j)
- 
