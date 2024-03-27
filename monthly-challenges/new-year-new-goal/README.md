@@ -2,33 +2,10 @@
 
 In this challenge, we encourage members to setting up the goals for the year and break them into achievable goals for each month. Our Coffee Table Groups — Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt — are participating in and supporting this challenge!
 
-## Table of Contents
+> [!TIP]
+> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-- [Facilitators Guide Before the Challenge](#facilitators-guide-before-the-challenge)
-- [Facilitators Guide During the Challenge](#facilitators-guide-during-the-challenge)
-  - [Make an Announcement to Kick-Off the Challenge](#make-an-announcement-to-kick-off-the-challenge)
-  - [Async Check-Ins](#async-check-ins)
-- [Slack Channels](#slack-channels)
-- [Past Challenges](#past-challenges)
-- [Past Blog Posts](#past-blog-posts)
-
-## Facilitators Guide Before the Challenge
-
-⏳ **Timeline**: Two weeks before the challenge.
-
-✅ **Tasks**:
-
-Coordinate with Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt for the challenge.
-
-## Facilitators Guide During the Challenge
-
-### Make an Announcement to Kick-Off the Challenge
-
-⏳ **Timeline**: On the 1st day of the challenge.
-
-✅ **Tasks**:
-
-Announce the challenge in the `#announcements` and crosspost to the `#monthly-challenge` channel on Slack.
+## Announcement to Kick-Off the Challenge
 
 📃 **Script Templates**
 
@@ -42,13 +19,11 @@ The new year is the perfect time to set your new goals. Whether learning new dev
 This month’s challenge will take place in `#monthly-challenge`. Watch out for the prompts and post your progress during the challenge! The Coffee Table Groups are also working with the monthly challenge, so watch out for their announcements. Accountabilibuddies is also a great place chat goals and/or get some friendly accountability for actually completing those goals during the year!
 ```
 
-### Async Check-Ins
+## Async Check-Ins
 
-⏳ **Timeline**: Fridays, 9:00 AM ET
+⏳ **Timeline**: Fridays, 9:00 AM ET.
 
 📃 **Script Templates**
-
-**2024**
 
 ```text
 Hi friends! How are you getting on with New Year, New Goals? What do y'all need to help you set your goals effectively?
@@ -56,7 +31,7 @@ Hi friends! How are you getting on with New Year, New Goals? What do y'all need 
 
 ## Slack Channels
 
-Slack public channels that we use for the challenge:
+Slack channels that we use for the challenge:
 
 - `#announcement`
   - Initial announcement.
@@ -68,9 +43,8 @@ Slack public channels that we use for the challenge:
 
 ## Past Challenges
 
-- January 2024
+- [January 2024](https://virtualcoffee.io/monthlychallenges/jan-2024)
 
 ## Past Blog Posts
 
-- 2024
-  - [Join Virtual Coffee in New Year, New Goals!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goals-241m)
+- **2024**: [Join Virtual Coffee in New Year, New Goals!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goals-241m)
