@@ -10,7 +10,7 @@
 
 #### Assign
 
-Around 3pm edt on Monday post in slack for Tuesday. Anytime after Tuesday post for Thursday.
+Around 12pm et on Monday post in slack for Tuesday. Anytime after Tuesday post for Thursday.
 
 - [Intro question](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/coffees/icebreaker-topics.md)
 - Backpocket Topic (we have some [here](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/coffees/topic-suggestions.md)
