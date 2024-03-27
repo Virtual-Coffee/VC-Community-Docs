@@ -65,13 +65,13 @@ Slack channels that we use for the challenge:
 - `#co-working-room`
   - Sync events such as resume review workshops.
 
-## Events
+---
+
+## Past Events
 
 **2024**
 
-- **Resume Review Workshops** — every Friday, 1 PM ET, in the `#co-working-room` on Slack.
-
----
+- **Resume Review Workshops** with Julia — every Friday, 1 PM ET, in the `#co-working-room` on Slack.
 
 ## Past Challenges
 
