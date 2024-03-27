@@ -56,7 +56,7 @@ Slack channels that we use for the challenge:
 
   ```text
   Hey friends!
-  
+
   In the past, we’ve done a demo day on the last Friday of the month. If you’re interested, respond with a ✋.
 
   It's usually a short 5 to 10-minute demo, and your project doesn’t have to be complete.
