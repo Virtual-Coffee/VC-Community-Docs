@@ -3,7 +3,7 @@
 This challenge aims to work on creating, revising, or updating your job packet materials and that elevator pitch that might get you in the door. This challenge emphasizes taking time to ensure they work together or get some extra feedback on what you've worked on.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and past challenges and the technical guidelines.
+> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
 ## Announcement to Kick-Off the Challenge
 
