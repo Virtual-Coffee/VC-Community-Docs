@@ -45,6 +45,12 @@ Please post here in #monthly-challenge if you have any questions or need any hel
   Hi friends! How are y'all getting on with your elevator pitches? Next week is the time to post you resume, cover letter and elevator pitch (a one-minute video recording is our recommended format), so you can get feedback from the community to help you perfect them! Let us know if you have any questions!
   ```
 
+- **Week 4**
+
+  ```text
+  Hi friends! If you've got your resume, cover letter and elevator pitch (or any one of them :blush:) ready, don't forget to post in this channel for feedback from the community!
+  ```
+
 ## Slack Channels
 
 Slack channels that we use for the challenge:
