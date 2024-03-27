@@ -3,7 +3,7 @@
 The goal of this challenge is to learn something new, share what we have learned, and gather recommendations and resources to share with the community.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and past challenges and the technical guidelines.
+> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
 ## Announcement to Kick-Off the Challenge
 
