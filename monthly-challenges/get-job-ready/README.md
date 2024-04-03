@@ -39,6 +39,14 @@ Please post here in #monthly-challenge if you have any questions or need any hel
   Hi friends! How's everyone getting on with Get Job Ready? Are your resumes and cover letters looking good now?
   ```
 
+  **A Reminder**
+
+  ```text
+  We're almost into the third week of March, when we encourage you to work on your elevator pitch! If you have questions or need support, post in this channel.
+
+  Don't worry if you're a bit behind with the challenge, you can still complete it even if you don't exactly follow the suggested schedule.
+  ```
+
 - **Week 3**
 
   ```text
@@ -48,7 +56,13 @@ Please post here in #monthly-challenge if you have any questions or need any hel
 - **Week 4**
 
   ```text
-  Hi friends! If you've got your resume, cover letter and elevator pitch (or any one of them :blush:) ready, don't forget to post in this channel for feedback from the community!
+  Hi friends! If you've got your resume, cover letter and elevator pitch (or any one of them 😊) ready, don't forget to post in this channel for feedback from the community!
+  ```
+
+  **A Reminder**
+
+  ```text
+  It's nearly the end of March! This is a reminder that you can still post your resume, cover letter and/or elevator pitch in this channel to get feedback from the community.
   ```
 
 ## Slack Channels
