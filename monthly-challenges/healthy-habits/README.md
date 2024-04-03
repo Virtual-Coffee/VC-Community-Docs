@@ -40,17 +40,17 @@ The weekly goals are typically delivered by our hype person as part of the gener
 
 **2023**
 
-  - **First week**
+- **First week**
 
-    ```text
-    How are you working on building healthy habits this week?
-    ```
+  ```text
+  How are you working on building healthy habits this week?
+  ```
 
-  - **Following weeks**
+- **Following weeks**
 
-    ```text
-    How’d the habit-building go last week? What are you working on this week?
-    ```
+  ```text
+  How’d the habit-building go last week? What are you working on this week?
+  ```
 
 ## Slack Channels
 
