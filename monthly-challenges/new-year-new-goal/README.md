@@ -1,6 +1,6 @@
 # New Year, New Goals Challenge
 
-In this challenge, we encourage members to setting up the goals for the year and break them into achievable goals for each month. Our Coffee Table Groups — Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt — are participating in and supporting this challenge!
+In this challenge, we encourage members to set their goals for the year and break them into achievable goals for each month. Our Coffee Table Groups — Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt — are participating in and supporting this challenge!
 
 > [!TIP]
 > Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
