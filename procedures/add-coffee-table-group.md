@@ -1,7 +1,7 @@
-1. Get message from Dan with [form submission](https://virtualcoffee.io/start-coffee-table-group).
+1. Get message from website with [form submission](https://virtualcoffee.io/start-coffee-table-group).
 2. Confirm time, frequency, and description with applicant.
 3. Add applicant to #vc-events-admin and #vc-active-volunteers Slack channels.
-4. Ask Dan to give applicant access to this repo so they can read [the Coffee Table Group leader documentation](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/coffee-table-groups/leader-docs.md).
+4. Ask Meg to give applicant access to this repo so they can read [the Coffee Table Group leader documentation](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/coffee-table-groups/leader-docs.md).
 5. Open issue in [CMS repo](https://github.com/Virtual-Coffee/cms.virtualcoffee) to get the applicant access.
 
 - title: `Feature/<coffee-group-name>`
