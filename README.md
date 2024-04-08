@@ -6,21 +6,21 @@ Management and coordination for Virtual Coffee Contributors
 
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
-  - **Lead**: Shelley McHardy
+  - **Coordinator**: Shelley McHardy
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
-  - **Leads**: Core Maintainers
+  - **Coordinators**: Core Maintainers
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
-  - **Leads**: Ayu Adiati and Dominic Duffin
+  - **Coordinators**: Ayu Adiati and Dominic Duffin
 - [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
-  - **Lead**: Abbey
+  - **Coordinator**: Abbey
 - [Procedures](./procedures): Procedures for various Virtual Coffee tasks
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
-    - **Lead**: Bogdan
+    - **Coordinator**: Bogdan
   - [Add a Coffee Table Group](./procedures/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
 - [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
-  - **Lead**: Ayu
+  - **Coordinator**: Ayu
 
 ## How to Use This Repo
 
