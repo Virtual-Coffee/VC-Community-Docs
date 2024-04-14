@@ -1,4 +1,6 @@
-Hey{speaker}!
+# Speaker Outreach Message 2 Template
+
+Hey {speaker}!
 
 We're so excited to hear your talk on {topic} this week. If you could do us a favor before {date}, send us the following information:
 
