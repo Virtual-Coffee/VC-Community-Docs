@@ -1,4 +1,4 @@
-# First Speaker Outreach Message Template
+# Speaker Outreach Message 1 Template
 
 ````md
 Hi <speaker_name>,
