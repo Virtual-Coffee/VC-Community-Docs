@@ -1,5 +1,0 @@
-- speaker name
-- Topic Title
-- Bio
-- Talk Description
-- link to slides
