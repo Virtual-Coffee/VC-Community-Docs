@@ -1,22 +1,30 @@
 # Speaker Info Message 1 Template
 
+## Message Type
+
+Direct Message
+
+## Description
+
+This is the first outreach message the speaker will receive from us regarding needed information. Hopefully, we'll receive an influx of replies from this, however, there are reminder posts planned to go out in the `#lightning-talks` channel and two follow-up messages for those who don't submit what we need on time.
+
+## Message Template
+
+Variables are wrapped in curly brackets (`{{ }}`).
+
 ````md
-Hi <speaker_name>,
+Hi {{ speaker name }},
 
-I am the coordinator for this year's VC Lightning Talks event to be held on <date>.
+I'm helping to coordinate this year's VC Lightning Talks which will be held on {{ weekday, month date }}.
 
-We need to collect the following info from you:
+We need to collect the following info from all speakers:
 
-## Due Date: One Week Prior to Lightning Talks
+**Due Date: One Week Prior to Lightning Talks ({{ month date }})**
 
 - Talk title
 - Talk description
 - Headshot
 - Speaker bio
-
-## Due Date: Two Days Prior to Lightning Talks
-
-- Talk slides
 - Optional links:
   - Social media (Twitter, Instagram, Facebook, etc.)
   - LinkedIn
@@ -24,9 +32,13 @@ We need to collect the following info from you:
   - Website
   - Streaming platform
 
-You can send these items to me via Slack or at <email_address>. Please let me know if you have any questions.
+**Due Date: Two Days Prior to Lightning Talks ({{ month date }})**
 
-We are excited to hear your talk!
+- Talk slides (You can send updated slides after this date if necessary)
 
-<signoff>
+Please send these items to me via Slack or email at {{ email address }} at your earliest convenience. Feel free to let me know if you have any questions.
+
+I'm excited to hear your talk!
+
+{{ signoff }}
 ````

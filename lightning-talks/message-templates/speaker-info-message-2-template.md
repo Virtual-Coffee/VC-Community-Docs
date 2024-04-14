@@ -1,20 +1,34 @@
 # Speaker Info Message 2 Template
 
-Hey <speaker>!
+## Message Type
 
-How's your talk coming along? Do you need any support?
+Direct Message
 
-This is a friendly reminder to send me the following information before <due_date>:
+## Description
+
+This is the second outreach message the speaker will receive from us regarding needed information. This will be sent only to speakers who haven't submitted the required items listed below.
+
+## Message Template
+
+Variables are wrapped in curly brackets (`{{ }}`).
+
+````md
+Hey {{ speaker name }}!
+
+This is a friendly reminder to send me the following information as soon as possible:
 
 - Talk title
 - Talk description
 - Headshot
 - Speaker bio
+- Optional links:
+  - Social media (Twitter, Instagram, Facebook, etc.)
+  - LinkedIn
+  - Blog
+  - Website
+  - Streaming platform
 
-Since this is a Lightning Talks session, we're not going to be taking questions. However, we're encouraging participants to ask questions by tagging you in the #event-chat channel. We encourage you to answer the questions as you're available or to consider submitting a [lunch & learn idea](https://virtualcoffee.io/lunch-and-learn-idea/) and letting the participants know that you're planning on developing your topic.
+You can send these items to me via Slack or email at {{ email address }}. If you have any questions or comments, please let me or @Meg know.
 
-Lightning Talks will be on {day} between {time} EST. Please let us know if there are times after that that you prefer. We will do our best to accommodate everyone.
-
-If you have any questions or comments, please let us know. As always, we want to support you in the ways that best suit your needs.
-
-<signoff>
+{{ signoff }}
+````
