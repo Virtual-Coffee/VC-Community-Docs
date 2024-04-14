@@ -1,4 +1,4 @@
-# Coordinator Outreach Message Template
+# First Speaker Outreach Message Template
 
 ````md
 Hi <speaker_name>,
