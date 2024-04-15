@@ -23,7 +23,9 @@ Thank you for volunteering to share your time, knowledge, and experience with ou
 
 Lightning Talks will be on {{ day, month date }} starting at {{ time }} EDT. Please let @Meg know if there are times that you prefer. We will do our best to accommodate everyone.
 
-If you cannot present on the {{ date }} or wish to interact with the attendees live via chat, you have the option to submit a pre-recorded Lightning Talk. For those presenting live, we're encouraging participants to ask questions by tagging you in the `#vc-events` channel so you can answer the questions as you're available. We encourage you all to consider submitting a [Lunch & Learn idea](https://virtualcoffee.io/lunch-and-learn-idea/) and letting the participants know that you're planning on developing your topic further.
+If you cannot present on the {{ date }} or wish to interact with the attendees live via chat, you have the option to submit a pre-recorded Lightning Talk. (Let @Meg know if you want to do this.) For those presenting live, we're encouraging participants to ask questions by tagging you in the `#vc-events` channel so you can answer the questions as you're available. We encourage you all to consider submitting a [Lunch & Learn idea](https://virtualcoffee.io/lunch-and-learn-idea/) and letting the participants know that you're planning on developing your topic further.
+
+Lastly, check out the Speaker Guide located in this channel's canvas. You can access it by clicking on the button in the top right corner that looks like a note with a plus sign.
 
 If you have any questions or comments, please reply in a thread on this post or DM @Meg. As always, we want to support you in whatever way best suits your needs.
 

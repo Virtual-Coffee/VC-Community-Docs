@@ -26,5 +26,7 @@ Since each speaker will have individualized needs, please ask them what type of 
 
 Sometimes the hardest part is estimating time, so we encourage you to talk about this.
 
+Lastly, check out the Mentor Guide located in this channel's canvas. You can access it by clicking on the button in the top right corner that looks like a note with a plus sign.
+
 If you have any questions, please reach out. And thank you so much for supporting our speakers and the Virtual Coffee community!
 ````
