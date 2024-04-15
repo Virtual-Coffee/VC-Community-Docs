@@ -1,12 +1,16 @@
 # Speaker Info Message 1 Template
 
+## Description
+
+This is the first outreach message the speaker will receive from us regarding needed information. Hopefully, we'll receive an influx of replies from this, however, there are reminder posts planned to go out in the `#lightning-talks` channel and two follow-up messages for those who don't submit what we need on time.
+
 ## Message Type
 
 Direct Message
 
-## Description
+## When to Send
 
-This is the first outreach message the speaker will receive from us regarding needed information. Hopefully, we'll receive an influx of replies from this, however, there are reminder posts planned to go out in the `#lightning-talks` channel and two follow-up messages for those who don't submit what we need on time.
+Two weeks prior to event
 
 ## Message Template
 
@@ -32,13 +36,15 @@ We need to collect the following info from all speakers:
   - Website
   - Streaming platform
 
-**Due Date: Two Days Prior to Lightning Talks ({{ month date }})**
+**Due Date: Three Days Prior to Lightning Talks ({{ month date }})**
 
-- Talk slides (You can send updated slides after this date if necessary)
+- Length of talk (in minutes)
+- Video recording of talk (if you are not presenting live)
+- Talk slides (You can send updated slides directly to @Meg after this date if necessary)
 
-Please send these items to me via Slack or email at {{ email address }} at your earliest convenience. Feel free to let me know if you have any questions.
+Please send these items to me via Slack or email at {{ email address }} at your earliest convenience. Feel free to let me or @Meg know if you have any questions.
 
-I'm excited to hear your talk!
+Can't wait to hear your talk!
 
 {{ signoff }}
 ````
