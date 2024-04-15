@@ -1,11 +1,27 @@
+# Speaker Guide
+
+## Description
+
+This guide will live in the canvas in the `#lightning-talks` Slack channel.
+
+## Message Type
+
+A `README` style guide for speakers
+
+## Message Template
+
+Variables are wrapped in curly brackets (`{{ }}`).
+
+````md
 # :speech_balloon: Virtual Coffee Lightning Talks Speaker Guide
 
 Thank you for volunteering to share your time, knowledge, and experience with our community!
 
 The Virtual Coffee community is _always_ here to help! **You are amazing!** Your voice matters and we are here to support you.
 
-- The #lightning-talks Slack channel is a shared space to ask questions, get feedback, and bounce ideas around.
-- Mentors have been assigned to all speakers who requested one, and they should already be in contact with you. If you haven't connected yet or you'd like to be assigned a mentor, please message the Events Maintainer (@Meg).
+- The `#lightning-talks` Slack channel is a shared space to ask questions, get feedback, and bounce ideas around
+- Mentors have been assigned to all speakers who requested one, and they should already be in contact with you
+  - If you haven't connected yet or you'd like to be assigned a mentor, please message @Meg
 - Our previous Lightning Talk sessions are available to view on our YouTube channel:
   - [Lightning Talks 2023 - Virtual Coffee](https://www.youtube.com/playlist?list=PLh9uT23TA65jtVEGgWo-DNVAcq7PnDV2r)
   - [Lightning Talks 2022 - Virtual Coffee](https://www.youtube.com/playlist?list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls)
@@ -13,16 +29,24 @@ The Virtual Coffee community is _always_ here to help! **You are amazing!** Your
 
 ## Timeline
 
-- **Today** – Feel free to ask for help or feedback in the #lightning-talks channel or from your assigned mentor
-- **April 19** – Deadline to submit bio, contact links, and headshot to <coordinator>
-- **April 22-25** – During the week of Lightning Talks, our Technical Maintainer (@Dan Ott) will be doing AV checks
-- **April 24** – Send slides to <coordinator>
-- **April 26** – THE BIG DAY!
-  - 20-30 mins before you speak – Be in the #lightning-talks Slack channel
-  - 10-15 mins before you speak – Be online and prepared
-  - When you speak – enjoy yourself!
+Keep the below deadlines in mind as we approach the big day.
 
-We will send out periodic messages as we get closer to the date with more details for you.
+- **Today** – Feel free to ask for help or feedback in the #lightning-talks channel or from your assigned mentor
+- **{{ month date }}** – Send the following info to {{ coordinator }} or @Meg:
+  - Talk title
+  - Talk description
+  - Headshot
+  - Speaker bio
+  - Contact links (optional)
+- **{{ month date range }}** – During the week of Lightning Talks, @Dan Ott will be doing AV checks
+- **{{ month date }}** – Send the following info to {{ coordinator }} or @Meg:
+  - Length of talk (in minutes)
+  - Video recording if you plan to record your talk ahead of time
+  - Slides
+- **{{ month date }}** – THE BIG DAY!
+  - 10-20 mins before you speak – Be in the `#lightning-talks` Slack channel, prepared to present
+
+We will post periodic messages as we get closer to the date with more details.
 
 ## Tips for a Successful Talk
 
@@ -33,6 +57,7 @@ We will send out periodic messages as we get closer to the date with more detail
 - **Slow Down & Remember Your Audience** – Everyone watching knows you are amazing and can't wait to see your Lightning Talk. Take a breath, slow down, and speak to us, your friends at Virtual Coffee. :heart:
 - **More Tips** – [How To Public Speaking](https://www.youtube.com/watch?v=pVumgiMJeag) & [Fearless & Fabulous: Conquering Your Stage One Laugh at a Time](https://youtu.be/9XNeuv5W7xE?si=6HO1l2zaW3CceqiJ)
 
-Thank you again for stepping forward to speak at our Lightning Talks event!
+Thank you again for stepping forward to speak at our Lightning Talks event! We can't wait to hear your talk!
 
-### :star: _P.S. You're awesome!_ :star:
+:star: _P.S. You're awesome!_ :star:
+````
