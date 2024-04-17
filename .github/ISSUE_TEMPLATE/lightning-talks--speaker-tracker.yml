@@ -1,7 +1,7 @@
-name: 'Lightning Talks: Speaker Tracker'
+name: "Lightning Talks: Speaker Tracker"
 description: Track what information has been collected from each speaker and where they are in the process of preparing for Lightning Talks
-title: 'Speaker: '
-labels: ['Lightning Talks']
+title: "Speaker: "
+labels: ["Lightning Talks"]
 assignees:
   - meg-gutshall
   - shelleymcq
@@ -9,17 +9,16 @@ body:
   - type: markdown
     attributes:
       value: |
-        '## Speaker Tracker'
+        "## Speaker Tracker"
 
         Check off/fill in the items below as they are received/updated. Any notes or attachments should be added as comments on the issue. This issue will live in the Lightning Talks project and help us work toward organizing everyone for presentation day.
   - type: markdown
     attributes:
-      value: |
-        '### Lightning Talk Idea Form Info'
+      value: "### Lightning Talk Idea Form Info"
   - type: input
     attributes:
       label: Slack Username
-      value: '@'
+      value: "@"
     validations:
       required: true
   - type: input
@@ -48,23 +47,22 @@ body:
       description: This speaker requested to be paired with a mentor
       multiple: false
       options:
-        - 'No'
-        - 'Yes'
+        - "No"
+        - "Yes"
       default: 0
     validations:
       required: true
   - type: markdown
     attributes:
-      value: |
-        '### Information Requirements'
+      value: "### Information Requirements"
   - type: dropdown
     attributes:
       label: Speaker Bio on File
       description: This speaker has a bio on file with Virtual Coffee
       multiple: false
       options:
-        - 'No'
-        - 'Yes'
+        - "No"
+        - "Yes"
       default: 0
     validations:
       required: true
@@ -88,8 +86,8 @@ body:
       description: This speaker will be pre-recording their Lightning Talk
       multiple: false
       options:
-        - 'No'
-        - 'Yes'
+        - "No"
+        - "Yes"
       default: 0
     validations:
       required: true
@@ -100,12 +98,11 @@ body:
         - label: Confirmed
   - type: markdown
     attributes:
-      value: |
-        '### Welcome and Setup Tasks'
+      value: "### Welcome and Setup Tasks"
   - type: checkboxes
     attributes:
       label: Mentorship
-      description: If the speaker requested a mentor, check the box below and enter the mentor's name once they've been paired
+      description: "If the speaker requested a mentor, check the box below and enter the mentor's name once they've been paired"
       options:
         - label: Introduced to mentor via Slack message
         - label: Mentor added to `#lightning-talk-mentors` Slack channel
