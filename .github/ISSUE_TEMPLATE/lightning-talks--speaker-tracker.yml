@@ -1,8 +1,7 @@
 name: 'Lightning Talks: Speaker Tracker'
 description: Track what information has been collected from each speaker and where they are in the process of preparing for Lightning Talks
 title: 'Speaker: '
-labels:
-  - Lightning Talks
+labels: ['Lightning Talks']
 assignees:
   - meg-gutshall
   - shelleymcq
