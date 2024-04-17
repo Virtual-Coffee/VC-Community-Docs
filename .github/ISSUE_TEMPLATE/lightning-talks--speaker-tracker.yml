@@ -26,10 +26,10 @@ body:
       label: Tentative Talk Title
   - type: checkboxes
     attributes:
-      label: Follow-up
+      label: Talk Title Follow-up
       options:
-        - label: Updated
-        - label: Confirmed
+        - label: Talk title updated
+        - label: Talk title confirmed
   - type: textarea
     attributes:
       label: Talk Description
@@ -37,10 +37,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Follow-up
+      label: Talk Description Follow-up
       options:
-        - label: Updated
-        - label: Confirmed
+        - label: Talk description updated
+        - label: Talk description confirmed
   - type: dropdown
     attributes:
       label: Mentor Requested
@@ -68,18 +68,18 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Follow-up
+      label: Speaker Bio Follow-up
       options:
-        - label: Sent create link
-        - label: Sent update link
-        - label: Confirmed
+        - label: Sent speaker bio create link
+        - label: Sent speaker bio update link
+        - label: Speaker bio confirmed
   - type: checkboxes
     attributes:
       label: Speaker Info
       description: Check off each box as the information is collected and add to the issue as an attachment or comment
       options:
-        - label: Talk slides
-        - label: Length of talk (in minutes)
+        - label: Talk Slides
+        - label: Length of Talk (in minutes)
   - type: dropdown
     attributes:
       label: Video Recording
@@ -93,12 +93,12 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Follow-up
+      label: Video Recording Follow-up
       options:
-        - label: Confirmed
+        - label: Video recording confirmed
   - type: markdown
     attributes:
-      value: "### Welcome and Setup Tasks"
+      value: "### Communications & Setup"
   - type: checkboxes
     attributes:
       label: Mentorship
