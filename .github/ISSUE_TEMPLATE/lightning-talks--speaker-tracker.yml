@@ -18,7 +18,6 @@ body:
   - type: input
     attributes:
       label: Slack Username
-      value: "@"
     validations:
       required: true
   - type: input
@@ -54,7 +53,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "### Information Requirements"
+      value: "### Additional Info"
   - type: dropdown
     attributes:
       label: Speaker Bio on File
@@ -75,7 +74,7 @@ body:
         - label: Speaker bio confirmed
   - type: checkboxes
     attributes:
-      label: Speaker Info
+      label: Lightning Talk Info
       description: Check off each box as the information is collected and add to the issue as an attachment or comment
       options:
         - label: Talk Slides
@@ -104,8 +103,8 @@ body:
       label: Mentorship
       description: "If the speaker requested a mentor, check the box below and enter the mentor's name once they've been paired"
       options:
-        - label: Introduced to mentor via Slack message
-        - label: Mentor added to `#lightning-talk-mentors` Slack channel
+        - label: Introduce to mentor via Slack message
+        - label: Add mentor to `#lightning-talk-mentors` Slack channel
   - type: input
     attributes:
       label: Mentor Name
@@ -114,9 +113,9 @@ body:
       label: Communications
       description: Check off each box as the tasks are completed
       options:
-        - label: Added to `#lightning-talks` Slack channel
-        - label: Contacted to confirm Lightning Talk Idea Submission data
-        - label: Contacted to confirm/update/create speaker bio
-        - label: Contacted to schedule A/V check
-        - label: Conducted A/V check
-        - label: Created intro slide
+        - label: Add to `#lightning-talks` Slack channel
+        - label: Contact to confirm Lightning Talk Idea Submission data
+        - label: Contact to confirm/update/create speaker bio
+        - label: Contact to schedule A/V check
+        - label: Conduct A/V check
+        - label: Create intro slide
