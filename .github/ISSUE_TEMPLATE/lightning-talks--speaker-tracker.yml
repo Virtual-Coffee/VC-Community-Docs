@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        "## Speaker Tracker"
+        ## Speaker Tracker
 
         Check off/fill in the items below as they are received/updated. Any notes or attachments should be added as comments on the issue. This issue will live in the Lightning Talks project and help us work toward organizing everyone for presentation day.
   - type: markdown
