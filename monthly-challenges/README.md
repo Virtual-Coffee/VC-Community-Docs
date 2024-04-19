@@ -1,36 +1,24 @@
-# Monthly-Challenge & Monthly Themes
+# Monthly Challenges
 
-Welcome to the Monthly Challenge and Theme docs! **Thank you all for supporting Virtual Coffee!**
+Welcome to the Monthly Challenges docs! **Thank you all for supporting Virtual Coffee!**
 
-> :triangular_flag_on_post: Hey - Just a friendly reminder that volunteering for Virtual Coffee should never be something that stresses you out. We value your help and support, but we know that can vary from month to month. If you need to take some time off from volunteering, just let us know. We're happy to support you.
+> [!NOTE]
+> A friendly reminder that volunteering for Virtual Coffee should never stress you out. We value your help and support, but we know that can vary from month to month. Just let us know if you need to take some time off from volunteering. We're happy to support you.
 
-These docs are to written with the intention of supporting our wonderful volunteers.
+These docs are written to support our wonderful volunteers.
 
-## Monthly Theme
+## What are Monthly Challenges?
 
-The goal with the theme is something we can focus on as a whole community. There's no goal or achievement, but it's something we might talk about more during coffee chats and in slack.
+Every month, we create a challenge for our Virtual Coffee members to complete together.
 
-## Monthly Challenge
+These monthly challenges allow members to learn, grow, and receive support and mentorship. Each month's challenge will have a theme and weekly goals for the members to work on. Instructions, resources, and additional help for the challenges are provided in the `#monthly-challenge` channel in Slack. Our Monthly Challenge Team Leads and our Maintainers plan, organize, and facilitate these challenges.
 
-This should build off of the monthly theme, but have a goal to work towards. These can either be community goals, like the [November Challenge for blogging](https://virtualcoffee.io/monthlychallenges/nov-2020/) or individual goals like the [December challenge for month of pairing](https://virtualcoffee.io/monthlychallenges/dec-2020/).
+We have developers at all stages and in many different roles, so we want to ensure any member can participate in these challenges.
 
-We have developers at all stages and in many different roles, so we want to make sure that anyone can participate in these challenges.
+## Monthly Challenges Guidelines
 
-## Monthly Needs
+The [Monthly Challenge Facilitators Handbook](./facilitators-docs.md) provides a guide for facilitating monthly challenges.
 
-We need volunteers in the following roles:
+Every challenge has different things to prepare and execute. Please read the README file in each challenge's folder to see how to conduct it.
 
-### Next month's prep
-
-- Ask community for what they want from this challenge :question:
-- Update facilitator docs on VC-Contributors to document the support we'll need, resources, any feedback :hand:
-- Add the new challenge to our VCIO site :computer:
-
-### Current month's facilitation
-
-- Synchronous check-ins lead (makes announcement about when and where and leads the check-in)
-- Async check-ins/channel hype person :boom:
-  - Do either a Monday goal setting post or a Wednesday check-in or both.
-  - Make a mid-month announcement in the monthly challenge channel about what’s happening next month.
-
-### [Past Monthly Challenges](https://virtualcoffee.io/monthlychallenges/)
+Our monthly challenges plan for the year is available in Google Docs and is pinned in the `#vc-monthly-challenge-team` channel on Slack. If you have ideas about a theme we can do as a community, please let our Monthly Challenge Team Leads know for consideration.
