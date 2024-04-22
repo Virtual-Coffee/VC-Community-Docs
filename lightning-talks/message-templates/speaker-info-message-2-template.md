@@ -32,7 +32,7 @@ This is a friendly reminder to send me the following items as soon as possible:
   - Website
   - Streaming platform
 
-You can send this info via Slack or email at {{ email address }}. The sooner you remite this info, the sooner we can create a graphic for you to use to promote your Lightning Talk on social media and in your network! Additionally, I will follow up in a few days to ask for the following:
+You can send this info via Slack or email at {{ email address }}. The sooner you remit this info, the sooner we can create a graphic for you to use to promote your Lightning Talk on social media and in your network! Additionally, I will follow up in a few days to ask for the following:
 
 - Length of talk (in minutes)
 - Video recording of talk (if you are not presenting live)
