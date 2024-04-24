@@ -8,7 +8,7 @@ This is the script the Lightning Talks MC will use during the event.
 
 Variables are wrapped in curly brackets (`{{ }}`).
 
-````md
+```md
 # MC SCRIPT
 
 ## EVENT INTRO
@@ -24,6 +24,7 @@ Variables are wrapped in curly brackets (`{{ }}`).
 - Today's event will be livestreamed, recorded, and posted online.
 
 - Because Lightning Talks are an introduction to a topic, and here at Virtual Coffee a good way to ease into speaking or gauge interest for a Lunch & Learn topic, we won't be taking questions as part of the event, but I'll be tagging the speaker and their topic in the #vc-events channel in Slack so please feel free to add questions, comments, or general positivity there.
+
   - Some of the speakers will be asking questions, so feel free to respond through chat.
 
 - I'm very excited about our talks, so now I'm going to introduce our first speaker.
@@ -47,4 +48,4 @@ Variables are wrapped in curly brackets (`{{ }}`).
 - Thanks again for everyone who participated in [last event]. We're looking forward to [whatever project/ Lunch & Learns /events] that are happening next--I know I'd love to see each of these speakers expand these ideas into a Lunch & Learn.
 
 - Have a great day, everyone!
-````
+```
