@@ -62,7 +62,7 @@ James has spent 35+ years as a developer programming in Assembly, C, C++, and C#
 
 Thanks, James! I'm gonna go ahead and throw my mouse away now. Don't need it anymore!
 
-Wow, six talks in and they've all been so full of interesting concepts and useful information!
+Wow, five talks in and they've all been so full of interesting concepts and useful information!
 
 **BEKAH:**
 
