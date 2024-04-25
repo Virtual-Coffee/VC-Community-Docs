@@ -51,20 +51,22 @@
   </dd>
 </dl>
 
-## Speaker: Taiwo Yusuf
+## Speaker: Eddie Banner
 
 <dl>
   <dt>Talk Title</dt>
   <dd>
-    Just Ship It
+    Collaborative CSSBattles
   </dd>
   <dt>Description</dt>
   <dd>
-    What really matters when you want to ship a software product? Is it the stack or the scalability?
+    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
   </dd>
   <dt>Bio</dt>
   <dd>
-    Taiwo Yusuf is an everything engineer. He's an aspiring "successful indie hacker" aiming for $1 MRR. He loves cats and dogs and cat people and dog people.
+    Eddie is a backend developer with a passion for connecting people and things.
+    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
+    In his free time, he likes playing pickleball and catching a frisbee at the beach.
   </dd>
 </dl>
 
@@ -118,25 +120,6 @@
   <dt>Bio</dt>
   <dd>
     Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
-  </dd>
-</dl>
-
-## Speaker: Eddie Banner
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Collaborative CSSBattles
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Eddie is a backend developer with a passion for connecting people and things.
-    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
-    In his free time, he likes playing pickleball and catching a frisbee at the beach.
   </dd>
 </dl>
 
