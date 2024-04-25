@@ -26,31 +26,33 @@ Are you ready to kick this off, Bekah? I'm very excited about this first talk.
 
 ## SPEAKER: BEKAH
 
-The Virtual Coffee Effect
+**Talk Title:** The Virtual Coffee Effect
 
 Bekah graduated from a coding bootcamp in May of 2019 and since then has spent time as a frontend developer, started the Virtual Coffee developer community, spent time in DevRel and has continued to mom her four kids. She currently co-hosts the Virtual Coffee podcast, works as the Developer Experience Lead at OpenSauced, tries to work on OSS projects, and lifts heavy things in her free time.
 
 ## SPEAKER: JÖRN
 
-Decentralization with WebRTC
+**Talk Title:** Decentralization with WebRTC
 
 Jörn started developing web-based software in the last century when he was still in school. In 2018, he founded his second company compose.us where they build user-friendly web applications for clients and products like Flottform.io. In his spare time Jörn organizes local meetups in Germany and creates at least one open source commit per day to push his side projects.
 
 ## SPEAKER: ABDURRAHMAN
 
-How to Become 10x Engineer through Open Source
+**Talk Title:** How to Become 10x Engineer through Open Source
 
 Abdurrahman is a software engineer who contributes to open source and loves volunteering with NGOs. He has worked in the industry as a web engineer and DevRel engineer. He loves learning new technologies, sharing his knowledge with others and disadvantaged people (refugees, orphans, etc.), and empowering others through workshops and events. He is the host of the hadithtech.com podcast, where he talks with people about their tech experience and shares his experience on YouTube as well.
 
 ## SPEAKER: EDDIE
 
-Collaborative CSSBattles
+**Talk Title:** Collaborative CSSBattles
 
 Eddie is a backend developer with a passion for connecting people and things. He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python. In his free time, he likes playing pickleball and catching a frisbee at the beach.
 
 ## SPEAKER: JAMES
 
-Becoming a Keyboard Power User
+James, you've spent over 35 years as a programmer. How many programming languages do you think you've worked with by now?
+
+**Talk Title:** Becoming a Keyboard Power User
 
 James has spent 35+ years as a developer programming in Assembly, C, C++, and C# (in that order) with sidelines in ASP/VBScript, ASP.Net, JavaScript, Perl, VisualBasic, plus a few others which he's not going to mention 'cuz if he did someone might ask him to use them again. (Shudder!) He's also a Licensed Massage Therapist (NJ), an award-winning theater impresario, a gallery-exhibited photographer, and a published playwright. Yeah, that's right. He's a Renaissance man!
 
@@ -78,31 +80,35 @@ Before we dive back into it, I want to thank a few behind-the-scenes people who 
 
 ## SPEAKER: AYU
 
-Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects
+**Talk Title:** Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects
 
 Ayu is an open source maintainer, contributor, technical blogger, and self-taught front-end developer based in The Netherlands. Her passion for lifelong learning and collaboration is what motivates her open source contributions, project collaboration, and community engagement. Learning new things fills her with excitement, and she's eager to share her learning in public and pass on her knowledge through her blog and Twitter.
 
 ## SPEAKER: ANDY
 
-OTel Me a Story: Observing Code in Production
+It says in your speaker bio, "He'll eat a lot of sushi if you let him." Has anyone ever _not_ let you? SCRAM! You're eating WAY TOO MUCH SUSHI!
+
+**Talk Title:** OTel Me a Story: Observing Code in Production
 
 Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
 
 ## SPEAKER: NICK
 
-Demystifying TypeScript Generics
+**Talk Title:** Demystifying TypeScript Generics
 
 Nick Taylor is a Senior Software Engineer at OpenSauced. He is a big fan of Open Source and has a growing interest in serverless and edge computing.
 
 ## SPEAKER: AGI
 
-Growth Mindset in Software Engineering
+**Talk Title:** Growth Mindset in Software Engineering
 
 Agi is a full stack software engineer who took a non-linear path into technology. She attended Northeastern University for finance and marketing and started her professional journey at a Fortune 100 company before pivoting into the world of start-ups filling a variety of roles. Agi attended Flatiron School in 2020 to begin her journey in software and currently works in ad tech. She is passionate about diversity in the tech industry, participating in company DEI initiatives and holding a leadership role within the Out In Tech organization. She lives in Oakland, CA with her wife, toddler and Maltipoo.
 
 ## SPEAKER: DAN
 
-Level Up Your GitHub Markdown Game
+Hey, Dan! I heard you have a flavorful presentation to close us out. What's your favorite ice cream flavor?
+
+**Talk Title:** Level Up Your GitHub Markdown Game
 
 Dan Ott is a full-stack developer based in Cleveland, Ohio. Currently serving as the Lead Developer at Sprokets, a strategic design and development firm, Dan brings over 15 years of joyful experience in JavaScript and front-end development and design. He also contributes as an Org Maintainer at Virtual Coffee. In his spare time he enjoys spending time with his two boys, playing disc golf, and woodworking.
 
