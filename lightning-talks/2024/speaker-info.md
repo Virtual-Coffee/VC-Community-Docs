@@ -34,42 +34,6 @@
   </dd>
 </dl>
 
-## Speaker: Andy Ennamorato
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    OTel Me a Story: Observing Code in Production
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    You shipped your code and someone says it's busted. How can it be?! Observability is a super power to help you diagnose your systems. OpenTelemetry - or OTEL - is a set of APIs, SDKs and specs for observability. We’ll briefly cover Observability and how to get started so you can analyze and improve your software.
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
-  </dd>
-</dl>
-
-## Speaker: Eddie Banner
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Collaborative CSSBattles
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Eddie is a backend developer with a passion for connecting people and things.
-    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
-    In his free time, he likes playing pickleball and catching a frisbee at the beach.
-  </dd>
-</dl>
-
 ## Speaker: Abdurrahman Rajab
 
 <dl>
@@ -87,37 +51,58 @@
   </dd>
 </dl>
 
-## Speaker: Agi Tanner
+## Speaker: Taiwo Yusuf
 
 <dl>
   <dt>Talk Title</dt>
   <dd>
-    Growth Mindset in Software Engineering
+    Just Ship It
   </dd>
   <dt>Description</dt>
   <dd>
-    “Growth Mindset” has reached buzzword status and is often confused with being flexible or open minded. If it’s not those things, what is it and why should we care? Come on the journey to discovering these answers with me.
+    What really matters when you want to ship a software product? Is it the stack or the scalability?
   </dd>
   <dt>Bio</dt>
   <dd>
-    Agi is a full stack software engineer who took a non-linear path into technology. She attended Northeastern University for finance and marketing and started her professional journey at a Fortune 100 company before pivoting into the world of start-ups filling a variety of roles. Agi attended Flatiron School in 2020 to begin her journey in software and currently works in ad tech. She is passionate about diversity in the tech industry, participating in company DEI initiatives and holding a leadership role within the Out In Tech organization. She lives in Oakland, CA with her wife, toddler and Maltipoo.
+    Taiwo Yusuf is an everything engineer. He's an aspiring "successful indie hacker" aiming for $1 MRR. He loves cats and dogs and cat people and dog people.
   </dd>
 </dl>
 
-## Speaker: Nick Taylor
+## Speaker: Andy Ennamorato
 
 <dl>
   <dt>Talk Title</dt>
   <dd>
-    Demystifying TypeScript Generics
+    OTel Me a Story: Observing Code in Production
   </dd>
   <dt>Description</dt>
   <dd>
-    We'll start by explaining something in the real world that we can tie into TypeScript generics, and we'll give a concrete example in TypeScript.
+    You shipped your code and someone says it's busted. How can it be?! Observability is a super power to help you diagnose your systems. OpenTelemetry - or OTEL - is a set of APIs, SDKs and specs for observability. We’ll briefly cover Observability and how to get started so you can analyze and improve your software.
   </dd>
   <dt>Bio</dt>
   <dd>
-    Nick Taylor is a Senior Software Engineer at OpenSauced. He is a big fan of Open Source and has a growing interest in serverless and edge computing.
+    Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
+  </dd>
+</dl>
+
+## INTERMISSION
+
+## Speaker: Eddie Banner
+
+<dl>
+  <dt>Talk Title</dt>
+  <dd>
+    Collaborative CSSBattles
+  </dd>
+  <dt>Description</dt>
+  <dd>
+    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
+  </dd>
+  <dt>Bio</dt>
+  <dd>
+    Eddie is a backend developer with a passion for connecting people and things.
+    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
+    In his free time, he likes playing pickleball and catching a frisbee at the beach.
   </dd>
 </dl>
 
@@ -155,6 +140,40 @@
   </dd>
 </dl>
 
+## Speaker: Nick Taylor
+
+<dl>
+  <dt>Talk Title</dt>
+  <dd>
+    Demystifying TypeScript Generics
+  </dd>
+  <dt>Description</dt>
+  <dd>
+    We'll start by explaining something in the real world that we can tie into TypeScript generics, and we'll give a concrete example in TypeScript.
+  </dd>
+  <dt>Bio</dt>
+  <dd>
+    Nick Taylor is a Senior Software Engineer at OpenSauced. He is a big fan of Open Source and has a growing interest in serverless and edge computing.
+  </dd>
+</dl>
+
+## Speaker: Agi Tanner
+
+<dl>
+  <dt>Talk Title</dt>
+  <dd>
+    Growth Mindset in Software Engineering
+  </dd>
+  <dt>Description</dt>
+  <dd>
+    “Growth Mindset” has reached buzzword status and is often confused with being flexible or open minded. If it’s not those things, what is it and why should we care? Come on the journey to discovering these answers with me.
+  </dd>
+  <dt>Bio</dt>
+  <dd>
+    Agi is a full stack software engineer who took a non-linear path into technology. She attended Northeastern University for finance and marketing and started her professional journey at a Fortune 100 company before pivoting into the world of start-ups filling a variety of roles. Agi attended Flatiron School in 2020 to begin her journey in software and currently works in ad tech. She is passionate about diversity in the tech industry, participating in company DEI initiatives and holding a leadership role within the Out In Tech organization. She lives in Oakland, CA with her wife, toddler and Maltipoo.
+  </dd>
+</dl>
+
 ## Speaker: Dan Ott
 
 <dl>
@@ -169,56 +188,5 @@
   <dt>Bio</dt>
   <dd>
     Dan Ott is a full-stack developer based in Cleveland, Ohio. Currently serving as the Lead Developer at Sprokets, a strategic design and development firm, Dan brings over 15 years of joyful experience in JavaScript and front-end development and design. He also contributes as an Org Maintainer at Virtual Coffee. In his spare time he enjoys spending time with his two boys, playing disc golf, and woodworking.
-  </dd>
-</dl>
-
-## Speaker: Taiwo Yusuf
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Just Ship It
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    What really matters when you want to ship a software product? Is it the stack or the scalability?
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Taiwo Yusuf is an everything engineer. He's an aspiring "successful indie hacker" aiming for $1 MRR. He loves cats and dogs and cat people and dog people.
-  </dd>
-</dl>
-
-## Speaker: Tammy Lawson
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Talk title here
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    Description text here
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Bio text here
-  </dd>
-</dl>
-
-## Speaker: Naz Islam
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Talk title here
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    Description text here
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Bio text here
   </dd>
 </dl>
