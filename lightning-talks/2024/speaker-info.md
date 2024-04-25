@@ -68,44 +68,6 @@
   </dd>
 </dl>
 
-## Speaker: Andy Ennamorato
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    OTel Me a Story: Observing Code in Production
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    You shipped your code and someone says it's busted. How can it be?! Observability is a super power to help you diagnose your systems. OpenTelemetry - or OTEL - is a set of APIs, SDKs and specs for observability. We’ll briefly cover Observability and how to get started so you can analyze and improve your software.
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
-  </dd>
-</dl>
-
-## INTERMISSION
-
-## Speaker: Eddie Banner
-
-<dl>
-  <dt>Talk Title</dt>
-  <dd>
-    Collaborative CSSBattles
-  </dd>
-  <dt>Description</dt>
-  <dd>
-    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
-  </dd>
-  <dt>Bio</dt>
-  <dd>
-    Eddie is a backend developer with a passion for connecting people and things.
-    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
-    In his free time, he likes playing pickleball and catching a frisbee at the beach.
-  </dd>
-</dl>
-
 ## Speaker: James Curran
 
 <dl>
@@ -123,6 +85,8 @@
   </dd>
 </dl>
 
+## INTERMISSION
+
 ## Speaker: Ayu Adiati
 
 <dl>
@@ -137,6 +101,42 @@
   <dt>Bio</dt>
   <dd>
     Ayu is an open source maintainer, contributor, technical blogger, and self-taught front-end developer based in The Netherlands. Her passion for lifelong learning and collaboration is what motivates her open source contributions, project collaboration, and community engagement. Learning new things fills her with excitement, and she's eager to share her learning in public and pass on her knowledge through her blog and Twitter.
+  </dd>
+</dl>
+
+## Speaker: Andy Ennamorato
+
+<dl>
+  <dt>Talk Title</dt>
+  <dd>
+    OTel Me a Story: Observing Code in Production
+  </dd>
+  <dt>Description</dt>
+  <dd>
+    You shipped your code and someone says it's busted. How can it be?! Observability is a super power to help you diagnose your systems. OpenTelemetry - or OTEL - is a set of APIs, SDKs and specs for observability. We’ll briefly cover Observability and how to get started so you can analyze and improve your software.
+  </dd>
+  <dt>Bio</dt>
+  <dd>
+    Andy is a father of 3 and husband of 1. He's the Director of Engineering at Ninjacat, a marketing and advertising data company. He's written bugs in nearly every programming language and likes data, devops-related ideas and all things software. He'll eat a lot of sushi if you let him.
+  </dd>
+</dl>
+
+## Speaker: Eddie Banner
+
+<dl>
+  <dt>Talk Title</dt>
+  <dd>
+    Collaborative CSSBattles
+  </dd>
+  <dt>Description</dt>
+  <dd>
+    In this lightning talk, I will describe my project CSSBattlesCollab, an effort to add a collaboration feature to the website cssbattle.dev. I will explain the original motivation for the project, sources of inspiration, show a demo, briefly describe the architecture, challenges, and close with some ideas for future work.
+  </dd>
+  <dt>Bio</dt>
+  <dd>
+    Eddie is a backend developer with a passion for connecting people and things.
+    He is interested in interactive and collaborative programming experiences. He enjoys expressing his creativity through programming side projects that illuminate and make opaque things translucent. He particularly likes programming in Python.
+    In his free time, he likes playing pickleball and catching a frisbee at the beach.
   </dd>
 </dl>
 
