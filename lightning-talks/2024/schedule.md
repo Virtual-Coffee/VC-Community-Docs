@@ -30,50 +30,50 @@
 
 ## Session 5
 
-**Time:** 12:55-1:10 PM
-**Speaker:** Andy Ennamorato
-**Talk Title:** OTel Me a Story: Observing Code in Production
-
-## INTERMISSION
-
-**Time:** 1:10-1:20 PM
-
-## Session 6
-
-**Time:** 1:20-1:25 PM
-**Speaker:** Eddie Banner
-**Talk Title:** Collaborative CSSBattles
-
-## Session 7
-
-**Time:** 1:25-1:35 PM
+**Time:** 12:55-1:05 PM
 **Speaker:** James Curran
 **Talk Title:** Becoming a Keyboard Power User
 
-## Session 8
+## INTERMISSION
 
-**Time:** 1:35-1:45 PM
+**Time:** 1:05-1:15 PM
+
+## Session 6
+
+**Time:** 1:15-1:25 PM
 **Speaker:** Ayu Adiati
 **Talk Title:** Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects
 
+## Session 7
+
+**Time:** 1:25-1:40 PM
+**Speaker:** Andy Ennamorato
+**Talk Title:** OTel Me a Story: Observing Code in Production
+
+## Session 8
+
+**Time:** 1:40-1:45 PM
+**Speaker:** Eddie Banner
+**Talk Title:** Collaborative CSSBattles
+
 ## Session 9
 
-**Time:** 1:45-1:55 PM
+**Time:** 1:45-1:53 PM
 **Speaker:** Nick Taylor
 **Talk Title:** Demystifying TypeScript Generics
 
 ## Session 10
 
-**Time:** 1:55-2:05 PM
+**Time:** 1:53-2:00 PM
 **Speaker:** Agi Tanner
 **Talk Title:** Growth Mindset in Software Engineering
 
 ## Session 11
 
-**Time:** 2:05-2:15 PM
+**Time:** 2:00-2:10 PM
 **Speaker:** Dan Ott
 **Talk Title:** Level Up Your GitHub Markdown Game
 
 ## OUTRO
 
-**Time:** 2:15-2:25 PM
+**Time:** 2:10-2:20 PM
