@@ -5,74 +5,134 @@
 
 ---
 
-## Tech Interview Study Group
+## Active Groups
 
-### Mondays at 4:00 PM ET
+### Tech Interview Study Group
 
-### Leader: Julia Seidman
+**When:**
+
+- Mondays at 4:00 PM ET
+
+**Leader:**
+
+- Julia Seidman
+
+**Hosts:**
+
+- Julia Seidman
+- Eddie Banner
 
 A weekly discussion of job search & interview-related topics—mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search are welcome.
 
 Interested? Join the `#tech-interview-study-group` Slack channel!
 
-## Accountabilibuddies
+### Accountabilibuddies
 
-### Tuesdays at 7:00–9:00 PM ET and Thursdays at 9:00–11:40 AM ET
+**When:**
 
-### Leaders:
+- Tuesdays at 7:00–9:00 PM ET
+- Thursdays at 9:00–11:40 AM ET
 
-- Tuesdays: David Akim and Rad Turkin
-- Thursdays: Meg Gutshall and Joe Karow
+**Leader:**
+
+- Meg Gutshall
+
+**Hosts:**
+
+- **Tuesdays:** David Akim & Rad Turkin
+- **Thursdays:** Meg Gutshall & Joe Karow
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
 Drop into our sessions whenever and for however long your schedule allows. No matter the goal, you’ll find encouragement and support alongside your Accountabilibuddies!
 
-## Indie-Startup Hackers
+### The Pack Hunt
 
-### Currently on hiatus
+**When:**
 
-### Leader: Ray Deck
+- Wednesdays at 10:00 AM ET
 
-Running a company? Thinking of starting? We support each other and discuss the issues that can make us better at the business of technology. Hack commerce!
+**Leader:**
 
-Interested? Join the `#indie-startup-hackers` Slack channel!
+- Rad Turkin
 
-## The Pack Hunt
+**Hosts:**
 
-### Wednesdays at 2:00 PM ET
-
-### Leader: Rad Turkin
+- Rad Turkin
+- Derek Johnston
 
 Job Hunting as a collective—an accountability session exclusively for job hunting. Share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack, arwoooo..."
 
-## Feelings Friday
+### Feelings Friday
 
-### Fridays at 8:00 PM ET
+**When:**
 
-### Leader: Ethan Freire
+- Fridays at 8:00 PM ET
+
+**Leader & Host:**
+
+- Ethan Freire
 
 Feelings Friday was started at the Flatiron School coding bootcamp by its founders, Avi Flombaum & Adam Enbar, after noticing burnout among their first cohorts. Join a safe space to share what that's on your mind and hold space for others. It's a great way to unwind at the end of the week!
 
-## Frontend Friday Folks
+### Frontend Friday Folks Fighting CSSBattle.dev
 
-### Every other Friday at 11:00 AM ET
+**When:**
 
-### Leaders: Jörn Bernhardt and Aishwarya Mali
+- Every other Friday at 11:00 AM ET
+
+**Leader & Host:**
+
+- Jörn Bernhardt
 
 Every other Friday, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We meet in the #co-working-room for this Coffee Table, and can move our meeting to a breakout room so as not to disturb any co-working VC members. Feel free to join us and learn more about CSS! If you can't make it, be sure to play along on your own and post your answers in [Virtual Coffee's CSS Battles Discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/css-battles)!
 
-## Virtual Coffee Book Club
+## Inactive Groups
 
-### Leader: Tom Cudd
+### Virtual Coffee Book Club
 
-(or contact our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator], Abbey Perini)
+**Previous Leaders:**
+
+- Tom Cudd
+- Bekah HW
+- Lauren C
+- Brian Meeker
+- Karen Dickenson
 
 Read, study, and discuss 2-3 books each year with fellow Virtual Coffee readers. Use the questions in the [Virtual Coffee Book Club on GitHub discussions](https://github.com/orgs/Virtual-Coffee/discussions/categories/vc-book-club) to go at your own pace for any past books. Feel free to gather a group of friends and start your own read-through for a book.
 
 Just join the `#book-club` Slack channel!
 
+### Public Speaking Practice Group
+
+**Previous Leader & Host:**
+
+- Ray Deck
+
+### TypeScript Tuesdays
+
+**Previous Leaders & Hosts:**
+
+- Dan Ott
+- Kirk Shillingford
+
+### The JavaScript Meetup
+
+**Previous Leader & Host:**
+
+- Travis Martin
+
+### Indie-Startup Hackers
+
+**Previous Leader & Host:**
+
+- Ray Deck
+
+Running a company? Thinking of starting? We support each other and discuss the issues that can make us better at the business of technology. Hack commerce!
+
+Interested? Join the `#indie-startup-hackers` Slack channel!
+
 ## Volunteering in Coffee Table Groups
 
-- If you'd like to start a new Coffee Table Group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
-- If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
+- If you'd like to start a new Coffee Table Group or resurrect an inactive group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
+- If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
