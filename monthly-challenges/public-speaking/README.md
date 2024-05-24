@@ -34,7 +34,7 @@ TBA
   ```
 
   ```text
-  Monday inspiration! “All the great speakers were bad speakers at first.” Ralph Waldo Emerson. 
+  Monday inspiration! “All the great speakers were bad speakers at first.” Ralph Waldo Emerson.
   ```
 
 - **Week 2**
@@ -57,7 +57,7 @@ TBA
   **Week Three: Delivery and Practice**
   **Challenge:** Work on your vocal delivery, body language, and use of visuals.
   **Activity:** Practice delivering your presentation in front of a mirror or someone else. Refine your presentation based on the feedback received and practice delivering it confidently.
-  
+
   This is a great time to practice with a mentor or a friend. Let us know if you need help getting paired up!
   ```
 
