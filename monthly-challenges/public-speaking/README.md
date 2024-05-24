@@ -2,7 +2,7 @@
 
 During this month, we'll be breaking down the art of public speaking into manageable steps, focusing on different aspects each week. Throughout the month, we'll provide resources, tips, and opportunities to practice and get feedback from the community.
 
-We close this challenge on Friday, the last week of the month, with the Lightning Talk. Head to [lightning-talks](../../lightning-talks/) folder for detailed information.
+We close this challenge on Friday, the last week of the month, with the Lightning Talk. Check out [lightning-talks](../../lightning-talks/) folder for detailed information.
 
 > [!TIP]
 > Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
