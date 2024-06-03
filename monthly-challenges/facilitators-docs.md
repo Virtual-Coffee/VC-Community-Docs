@@ -95,7 +95,8 @@ const challenges: Challenge[] = [
 
 - Go to `app/routes/__frontend/monthlychallenges/index.tsx`.
 - Remove the `current: true` from the previous challenge and set it for the new challenge.
-- Update the path to the challenge page.
+- Update the link to the blog post. If there is no blog post, comment it out.
+- Update the link to the challenge page.
 - Update the link of the previous challenge.
 
 Here is an example:
@@ -112,7 +113,7 @@ Here is an example:
 					challenge is the tech take on writing and working together towards the
 					goal while posting on our own blogs.
 				</p>
-				// Update the link to a challenge blog post if any
+				// Update the link to a challenge blog post. If there is no blog post, comment out the paragraph.
 				<p>
 					Learn more about this challenge in{' '}
 					<a href="https://dev.to/virtualcoffee/blogging-2023-monthly-challenge-3kng">
