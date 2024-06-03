@@ -14,10 +14,12 @@ We have developers at all stages and in many different roles, so we want to ensu
 
 ## Monthly Challenges Guidelines
 
-The [Monthly Challenge Facilitators Handbook](./facilitators-docs.md) provides a guide for facilitating monthly challenges.
+The [Monthly Challenge Facilitators Handbook](./facilitators-docs.md) provides guidelines for facilitating monthly challenges.
 
 Every challenge requires different preparation and execution. Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in each challenge's folder to learn how to conduct it.
 
-Our monthly challenges plan for the year is available in Google Docs and is pinned in the `#vc-monthly-challenge-team` channel on Slack. If you have ideas about a theme we can do as a community, please let our Monthly Challenge Team Leads know for consideration.
+Our monthly challenges plan for the year is available in Google Docs and is pinned in the `#vc-monthly-challenge-team` channel on Slack.
+
+If you have ideas about a theme we can do as a community, please let our Monthly Challenge Team Leads know for consideration.
 
 **Thank you all for supporting Virtual Coffee!** 💖
