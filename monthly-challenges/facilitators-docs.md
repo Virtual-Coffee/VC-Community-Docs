@@ -13,7 +13,7 @@ The Monthly Challenge Team abides by Virtual Coffee [Code of Conduct](https://vi
     - [Coordinating with the Coffee Table Groups](#coordinating-with-the-coffee-table-groups)
     - [Updating the Website](#updating-the-website)
   - [The First Day of the Month](#the-first-day-of-the-month)
-    - [Updating the `monthly-challenge` Channel on Slack](#updating-the-monthly-challenge-channel-on-slack)
+    - [Updating the `#monthly-challenge` Channel on Slack](#updating-the-monthly-challenge-channel-on-slack)
     - [Making an Announcement for a New Challenge](#making-an-announcement-for-a-new-challenge)
     - [Writing Blog Post](#writing-blog-post)
   - [During the Challenge](#during-the-challenge)
@@ -57,14 +57,11 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 ### The First Day of the Month
 
-#### Updating the `monthly-challenge` Channel on Slack
+#### Updating the `#monthly-challenge` Channel on Slack
 
 ✅ **Tasks**:
 
-- Change the `#monthly-challenge` channel topic and description in Slack.
-- Give a brief description of the challenge.
-
-Read the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section for the technical instructions.
+- Change the `#monthly-challenge` channel topic and description in Slack. For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section.
 
 #### Making an Announcement for a New Challenge
 
