@@ -103,42 +103,46 @@ Here is an example:
 ```javascript
 	{
 		current: true,  // set for the new challenge
-		title: 'Get Job Ready',
-		subtitle: `Resumes, Cover Letters, and Elevator Pitch. There's never a bad time to update your job application materials.`,
+		title: 'Blogging Challenge',
+		subtitle: `A Community Challenge to hit a word count goal for all our tech blogs.`,
 		description: (
 			<>
 				<p>
-					The goal of this challenge is to work on creating, revising, or updating
-					your job packet materials and that elevator pitch that might get you in
-					the door. Your resume, cover letter, and elevator pitch should work
-					together to tell your story and represent where you are on your career
-					journey; each piece should complement the others. This challenge
-					emphasizes taking time to ensure they work together or get some extra
-					feedback on what you've worked on.
+					Based off the NaNoWriMo (National Novel Writing Month) Challenge, this
+					challenge is the tech take on writing and working together towards the
+					goal while posting on our own blogs.
+				</p>
+				// Update the link to a challenge blog post if any
+				<p>
+					Learn more about this challenge in{' '}
+					<a href="https://dev.to/virtualcoffee/blogging-2023-monthly-challenge-3kng">
+						this blog post
+					</a>
+					.
 				</p>
 				// Update the link to the new challenge page on the website
 				<p>
 					To view all of the details of this year's challenge,{' '}
-					<Link to="/monthlychallenges/mar-2024">
-						check out the March 2024 challenge page
+					<Link to="/monthlychallenges/nov-2023">
+						check out the November 2023 challenge page
 					</Link>
 					.
 				</p>
 			</>
 		),
 		links: [
-			// Update with the link to the previous challenge
+			// Add the link and title of the previous challenge
 			{
-				href: '/monthlychallenges/feb-2023',
-				title: 'February, 2023',
+				href: '/monthlychallenges/nov-2022',
+				title: 'November, 2022',
 			},
 			{
-				href: '/monthlychallenges/apr-2022',
-				title: 'April, 2022',
+				href: '/monthlychallenges/nov-2021',
+				title: 'November, 2021',
 			},
 			{
-				href: '/monthlychallenges/mar-2021',
-				title: 'March, 2021',
+				href: '/monthlychallenges/nov-2020',
+				title: 'November, 2020',
 			},
 		],
 	},
