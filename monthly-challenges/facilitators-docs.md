@@ -1,8 +1,10 @@
 # Monthly Challenge Facilitators Handbook
 
-Thanks for volunteering to facilitate our monthly challenges! The Monthly Challenge Team Leads and Community Maintainers are always here to answer your questions and support you, so please reach out anytime! Most of our challenges have been created, and the directions and structure are available in the monthly challenge folders and on the website.
+Thanks for volunteering to facilitate our monthly challenges!
 
-The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://virtualcoffee.io/code-of-conduct/). Please take a moment to read it.
+Most of our challenges have been created, and the directions and structure are available in the monthly challenge folders and on the website. The Monthly Challenge Team Leads and Community Maintainers are always here to answer your questions and support you, so please reach out anytime.
+
+The Monthly Challenge Team abides by Virtual Coffee [Code of Conduct](https://virtualcoffee.io/code-of-conduct/). Please take a moment to read it.
 
 ## Table of Contents
 
@@ -37,7 +39,7 @@ If you have ideas for a new challenge(s), you can propose them and discuss them 
 
 #### Coordinating with the Coffee Table Groups
 
-We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
+We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more and, ultimately, give them support through volunteering.
 
 ⏳ **Timeline**: When a challenge has been decided.
 
@@ -82,7 +84,7 @@ Read the "[Updating the `#monthly-challenge` Channel's Topic and Description on 
 > [!NOTE]
 >
 > - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
-> - If you want to write blog posts about VC's challenges, please get in touch with @BekahHW so you can be added to the VC organization on DEV.
+> - If you want to write blog posts about VC's challenges, please reach out to @BekahHW so you can be added to the VC organization on DEV.
 
 ### During the Challenge
 
@@ -94,7 +96,7 @@ To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#s
 
 ✅ **Tasks**:
 
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know what support you need and what things you think would be nice to do next time.
 - Update the `facilitators-guide.md` in the challenge's folder with:
 
   - new script templates and things we did for the challenge,
@@ -126,7 +128,7 @@ Some challenges require regular reminders during the challenge that drops daily 
 
 #### Scheduling a Thread
 
-Sometimes, you want to write a customized thread directly from your account, such as weekly check-ins. If you need to post this in a particular hour, you can schedule your message by following the below instructions on your desktop:
+Sometimes, you want to write a customized thread directly from your account, such as weekly check-ins. If you need to post the thread in a particular hour, you can schedule it by following the below instructions on your desktop:
 
 1. Go to the channel where you want to post your message.
 2. Write your message.
@@ -141,7 +143,7 @@ Sometimes, you want to write a customized thread directly from your account, suc
 
 ### Updating Monthly Challenge Page on the Website
 
-Most of our challenges are repeated from previous years, but we also create a new challenge whenever there's a demand or when we feel it benefits our community. We make this information available on our Monthly Challenge page.
+Even though most of our challenges remain the same as in previous years, we also create new challenges whenever there's a demand or when we feel it benefits our community. We make this information available on our Monthly Challenge page.
 
 Every month, we update these pages with the challenge's description and instructions on participating. Here is how to update the pages:
 
@@ -152,7 +154,8 @@ Every month, we update these pages with the challenge's description and instruct
 - Write the content.
 
 > [!NOTE]
-> For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge. For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
+> - For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge.
+> - For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
 
 #### 2. Updating the monthly challenge data
 
