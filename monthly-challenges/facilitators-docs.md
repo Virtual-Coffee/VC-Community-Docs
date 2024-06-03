@@ -17,7 +17,7 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
 - [Technical Guidelines](#technical-guidelines)
-	- [Update `#monthly-challenge` Channel's Topic and Description on Slack](#update-monthly-challenge-channels-topic-and-description-on-slack)
+	- [Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)
   - [Setting Up a Slack Bot](#setting-up-a-slack-bot)
     - [Creating a Slack Reminder](#creating-a-slack-reminder)
     - [Scheduling a Thread](#scheduling-a-thread)
@@ -62,7 +62,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 - Change the `#monthly-challenge` channel topic and description in Slack.
 - Give a brief description of the challenge.
 
-Read the "[Update `#monthly-challenge` Channel's Topic and Description on Slack](#update-monthly-challenge-channels-topic-and-description-on-slack)" section for the technical instructions.
+Read the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section for the technical instructions.
 
 #### Making an Announcement for a New Challenge
 
@@ -104,7 +104,7 @@ To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#s
 
 Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this section, you will find a guide on how to work with Slack and GitHub for the monthly challenge.
 
-### Update `#monthly-challenge` Channel's Topic and Description on Slack
+### Updating the `#monthly-challenge` Channel's Topic and Description on Slack
 
 1. Click the down arrow next to the channel's name.
 
