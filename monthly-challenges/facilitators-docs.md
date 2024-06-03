@@ -15,7 +15,7 @@ The Monthly Challenge Team abides by the Virtual Coffee [Code of Conduct](https:
   - [The First Day of the Month](#the-first-day-of-the-month)
     - [Updating the `#monthly-challenge` Channel on Slack](#updating-the-monthly-challenge-channel-on-slack)
     - [Making an Announcement for a New Challenge](#making-an-announcement-for-a-new-challenge)
-    - [Writing Blog Post](#writing-blog-post)
+    - [Writing a Blog Post](#writing-a-blog-post)
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
 - [Technical Guidelines](#technical-guidelines)
@@ -72,7 +72,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 > [!NOTE]
 > Each challenge file contains script templates for the announcement. If it is unavailable, you must write one and update the script template in the challenge file.
 
-#### Writing Blog Post
+#### Writing a Blog Post
 
 ✅ **Tasks**:
 
