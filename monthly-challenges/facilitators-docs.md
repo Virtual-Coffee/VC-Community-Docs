@@ -50,7 +50,7 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 ✅ **Tasks**:
 
-- Change and adjust the challenge pages on the website to reflect the current challenge and create a PR. For instructions on updating the website, see the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)."
+- Change and adjust the challenge pages on the website to reflect the current challenge and create a PR. For instructions on updating the website, see the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)" section.
 
 ### The First Day of the Month
 
@@ -83,6 +83,8 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 Please read the `facilitators-guide.md` file in the challenge's folder for complete instructions.
 
+To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section.
+
 ### Post Challenge
 
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
@@ -95,8 +97,6 @@ Please read the `facilitators-guide.md` file in the challenge's folder for compl
 ## Technical Guidelines
 
 Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this section, you will find a guide on how to work with Slack and GitHub for the monthly challenge.
-
-Read the "[Facilitating a Challenge](#facilitating-a-challenge)" section to learn more about facilitating a challenge.
 
 ### Setting Up a Slack Bot
 
