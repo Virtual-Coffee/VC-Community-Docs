@@ -85,9 +85,9 @@ We love collaboration! We're happy to involve our Cofee Table Groups in our chal
 
 ### During the Challenge
 
-Please read the `facilitators-guide.md` file in the challenge's folder for complete instructions.
+Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in the challenge folder for complete instructions.
 
-To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section.
+See the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section to learn more about working with Slack during the challenge.
 
 ### Post Challenge
 
