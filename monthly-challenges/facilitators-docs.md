@@ -151,6 +151,7 @@ Every month, we update these pages with the challenge's description and instruct
 - Write the content.
 
 > [!NOTE]
+>
 > - For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge.
 > - For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
 
