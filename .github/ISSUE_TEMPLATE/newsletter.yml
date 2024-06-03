@@ -5,10 +5,101 @@ assignees:
   - tkshill
 labels: ["Newsletter"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Monthly Newsletter Preparation Docs
+
+        Use this issue to track the collection of relevant items for the Virtual Coffee monthly newsletter. This issue will live in the Newsletter project and help us work toward organizing everyone for publication day.
   - type: input
-  attributes:
-    label: Email Title
+    attributes:
+      label: Year
+      description: The year for which this newsletter is being prepared
+      placeholder: "2024"
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Month
+      description: The month for which this newsletter is being prepared
+      multiple: false
+      options:
+        - "January"
+        - "February"
+        - "March"
+        - "April"
+        - "May"
+        - "June"
+        - "July"
+        - "August"
+        - "September"
+        - "October"
+        - "November"
+        - "December"
+      default: 0
+    validations:
+      required: true
   - type: input
-  attributes:
-    label: Email Subheader
-  
+    attributes:
+      description: What our recipients will see as the subject line of the email
+      label: Email Subject
+  - type: input
+    attributes:
+      label: Email Subheader
+      description: A brief subheader to the subject line, providing a bit more context or detail.
+  - type: textarea
+    attributes:
+      label: Email Introduction
+      description: A brief introduction to the recipient, with a brief synopsis of the month's major events and themes.
+  - type: textarea
+    attributes:
+      label: Gratitude Shoutouts
+      description: Shoutouts from community members to other community members or groups for suppor they've received or work they've done.
+  - type: textarea
+    attributes:
+      label: Recap
+      description: A brief recap of the last month's major events, themes, and milestones.
+  - type: textarea
+    attributes:
+      label: Upcoming Events
+      description: A list of upcoming events, including dates, times, and any other relevant information.
+  - type: textarea
+    attributes:
+      label: Community News and Monthly Challenge
+      description: Any news or updates from the community, including new members, new projects, or other relevant information. Monthly challenges should be included here.
+  - type: textarea
+    attributes:
+      label: Events
+      description: A list of events that are schedules to occur in the next month, including dates, times, and any other relevant information.
+  - type: textarea
+    attributes:
+      label: Member Content Highlights
+      description: A list of content created by community members that has been highlighted or featured in the last month.
+  - type: textarea
+    attributes:
+      label: Member Wins
+      description: A list of wins or accomplishments from community members in the last month.
+  - type: textarea
+    attributes:
+      label: Member Content Projects
+      description: A list of projects that community members are working on, including any relevant links or information.
+  - type: textarea
+    attributes:
+      label: Open Source Projects
+      description: A list of open source projects that community members are working on or VC endorses, including any relevant links or information.
+  - type: checkboxes
+    id: qa-checklist
+    attributes:
+      label: QA checklist
+      description: "Check off/fill in the items below as they are received/updated. Any notes or attachments should be added as comments on the issue."
+      options:
+        - label: All fields have been filled in.
+        - label: All fields have been reviewed by editor for content, tone, accuracy, and completeness.
+        - label: Newsletter issue has been reviewed on launching platform for visual consistency.
+  - type: markdown
+    attributes:
+      value: "### Additional Info"
+  - type: markdown
+    attributes:
+      value: |
+        Any additional discussion, information or attachments should be added as comments on this issue.
