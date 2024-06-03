@@ -61,10 +61,6 @@ body:
       description: A brief recap of the last month's major events, themes, and milestones.
   - type: textarea
     attributes:
-      label: Upcoming Events
-      description: A list of upcoming events, including dates, times, and any other relevant information.
-  - type: textarea
-    attributes:
       label: Community News and Monthly Challenge
       description: Any news or updates from the community, including new members, new projects, or other relevant information. Monthly challenges should be included here.
   - type: textarea
