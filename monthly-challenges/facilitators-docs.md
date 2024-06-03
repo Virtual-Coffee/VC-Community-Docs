@@ -17,7 +17,7 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
 - [Technical Guidelines](#technical-guidelines)
-	- [Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)
+  - [Updating the `#monthly-challenge` Channel's Topic and Description on Slack](#updating-the-monthly-challenge-channels-topic-and-description-on-slack)
   - [Setting Up a Slack Bot](#setting-up-a-slack-bot)
     - [Creating a Slack Reminder](#creating-a-slack-reminder)
     - [Scheduling a Thread](#scheduling-a-thread)
@@ -80,6 +80,7 @@ Read the "[Updating the `#monthly-challenge` Channel's Topic and Description on 
 - Drop the blog post about the challenge under the Virtual Coffee organization at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
 
 > [!NOTE]
+>
 > - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
 > - If you want to write blog posts about VC's challenges, please get in touch with @BekahHW so you can be added to the VC organization on DEV.
 
@@ -108,12 +109,12 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
 1. Click the down arrow next to the channel's name.
 
-	 ![Get channel details](./assets/get-channel-details.png)
+   ![Get channel details](./assets/get-channel-details.png)
 
 2. Click the "Edit" button in the topic section. Fill it in with the name of the challenge and the link to the challenge page on the website.
 3. Click the "Edit" button in the description section. Fill it in with a brief description of the challenge.
 
-	 ![Edit channel's topic and description](./assets/edit-channel-topic-and-description.png)
+   ![Edit channel's topic and description](./assets/edit-channel-topic-and-description.png)
 
 ### Setting Up a Slack Bot
 
