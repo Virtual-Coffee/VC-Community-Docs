@@ -54,7 +54,7 @@ body:
   - type: textarea
     attributes:
       label: Gratitude Shoutouts
-      description: Shoutouts from community members to other community members or groups for suppor they've received or work they've done.
+      description: Shoutouts from community members to other community members or groups for suppor they've received or work they've done. We use FIRST NAMES ONLY here to preserve member privacy.
   - type: textarea
     attributes:
       label: Recap
@@ -69,12 +69,16 @@ body:
       description: A list of events that are schedules to occur in the next month, including dates, times, and any other relevant information.
   - type: textarea
     attributes:
+      label: Podcast Episodes
+      description: A list of podcast episodes that have been released in the last month, including any relevant links or information.
+  - type: textarea
+    attributes:
       label: Member Content Highlights
       description: A list of content created by community members that has been highlighted or featured in the last month.
   - type: textarea
     attributes:
       label: Member Wins
-      description: A list of wins or accomplishments from community members in the last month.
+      description: A list of wins or accomplishments from community members in the last month. We use FIRST NAMES ONLY here to preserve member privacy.
   - type: textarea
     attributes:
       label: Member Content Projects
