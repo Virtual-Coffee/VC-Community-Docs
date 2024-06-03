@@ -3,29 +3,37 @@
 Below is the entire lifecycle of a Virtual Coffee Lunch & Learn session.
 
 ## Roles
+
 There are several moving parts to making a successful Lunch & Learn. These docs are organized as to not assume one person is doing multiple roles (they could but they don't have to). It will also make it easy to assign roles as needed as our volunteer groups expand and contract.
 
 _**NOTE:** One person can take on multiple roles._
 
 ### Speaker
+
 That's the person actually giving the talk! To make role as inviting and accessible as possible, we try to have the speaker do as little of the pre and post process as necessary. That way, they can focus of what's important; preparing and delivering their talk! The speaker is also in charge of putting together their bio and relevant information (name of talk, their name forthe purpose of introduction, any other relavant details, links, etc)
 
 ### Data Wrangler (DW)
+
 Manages the Lunch & Learn issue by verifying information from the request form and assigning the Moderator. Ensures smooth progression of the event through the project board.
 
 ### Logistics Coordinator (LC)
+
 Handles scheduling by checking availability and coordinating with the Speaker, Host, and Moderator. Sends confirmations and calendar invites. Performs check-ins with the Speaker before the event and manages the logistics on the day of the event.
 
 ### Marketing
+
 Promotes the Lunch & Learn through the newsletter, Slack, social media, and announcement scripts. Ensures the event is well-publicized. Has to coordinate with other Virtual Coffee marketing and communication norms and schedules
 
 ### Moderator
-The moderator leads the Lunch & Learn session. They will introduce the speaker and read their bio. Also monitors the chat during the Lunch & Learn session, asks questions for participants, and introduces and concludes the session using the event script. Posts a thank you message to the Speaker after the event. 
+
+The moderator leads the Lunch & Learn session. They will introduce the speaker and read their bio. Also monitors the chat during the Lunch & Learn session, asks questions for participants, and introduces and concludes the session using the event script. Posts a thank you message to the Speaker after the event.
 
 ### Host
+
 Sets up the Zoom meeting, starts and stops the recording, and allows time for attendees to arrive. Coordinates closely with the Moderator during the session.
 
 ### Post-production Team:
+
 Includes Editors and Graphics Coordinator (GC) who handle post-event cleanup of the video file. They will ensure that the video is clipped so as to only include the relevant content (intro, presentation, and outro), check for video quality, and upload to relavant platforms.
 
 ## Scheduling a Lunch & Learn
@@ -113,7 +121,6 @@ _**NOTE:** The Moderator and the Host can be the same person._
 ## Cancelling a Lunch & Learn
 
 - If a speaker needs to cancel a Lunch & Learn, they should inform the Logistics Coordinator (LC). Together, they will determine if the session will be postponed to a determined date, postponed indefinitely, or cancelled.
-  
 - The LC should then inform the rest of the L&L team that the planned event is cancelled. That includes the Marketing, Moderator, and Host roles, but really the entire team should be aware, and the L&L issue updated accordingly.
 
 - If the VC team needs to cancel the L&L, the LC should inform the Speaker, and determine if the session will be postponed to a determined date, postponed indefinitely, or cancelled.
@@ -123,4 +130,3 @@ _**NOTE:** The Moderator and the Host can be the same person._
   - The VC events page
   - Twitter/X
   - The newsletter team (if the relevant issue has not yet been published)
-  
