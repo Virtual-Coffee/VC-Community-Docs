@@ -12,8 +12,9 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
     - [Scheduling a Thread](#scheduling-a-thread)
   - [Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)
     - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
-    - [2. Updating the monthly challenge landing page](#2-updating-the-monthly-challenge-landing-page)
-    - [3. Adding a success "completed challenge" alert to the previous challenge](#3-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
+    - [2. Updating the monthly challenge data](#2-updating-the-monthly-challenge-data)
+    - [3. Updating the monthly challenge landing page](#3-updating-the-monthly-challenge-landing-page)
+    - [4. Adding a success "completed challenge" alert to the previous challenge](#4-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
 - [Facilitating a Challenge](#facilitating-a-challenge)
   - [Before the Challenge](#before-the-challenge)
     - [Coordinating with the Coffee Table Groups](#coordinating-with-the-coffee-table-groups)
@@ -69,7 +70,28 @@ Every month, we update these pages with the challenge's description and instruct
 > [!NOTE]
 > For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge. For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
 
-#### 2. Updating the monthly challenge landing page
+#### 2. Updating the monthly challenge data
+
+- Go to `app/data/monthlyChallenges/getChallenges.ts`.
+- Update the data with the upcoming challenge data.
+
+Here is an example, adding June 2024 challenge data:
+
+```javascript
+import { handle as june2024 } from '~/routes/__frontend/monthlychallenges/june-2024'; // add this data
+import { handle as may2024 } from '~/routes/__frontend/monthlychallenges/may-2024';
+import { handle as apr2024 } from '~/routes/__frontend/monthlychallenges/apr-2024';
+...
+
+const challenges: Challenge[] = [
+	{ handleData: june2024, slug: 'june-2024' }, // add this data
+	{ handleData: may2024, slug: 'may-2024' },
+	{ handleData: apr2024, slug: 'apr-2024' },
+	...
+];
+```
+
+#### 3. Updating the monthly challenge landing page
 
 - Go to `app/routes/__frontend/monthlychallenges/index.tsx`.
 - Remove the `current: true` from the previous challenge and set it for the new challenge.
@@ -122,7 +144,7 @@ Here is an example:
 	},
 ```
 
-#### 3. Adding a success "completed challenge" alert to the previous challenge
+#### 4. Adding a success "completed challenge" alert to the previous challenge
 
 - Open the previous challenge file.
 - Add the alert right on top of `<h1>`.
