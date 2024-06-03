@@ -106,8 +106,13 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 ### Update `#monthly-challenge` Channel's Topic and Description
 
 1. Click the down arrow next to the channel's name.
+
+	 ![Get channel details](./assets/get-channel-details.png)
+
 2. Click the "Edit" button in the topic section. Fill it in with the name of the challenge and the link to the challenge page on the website.
 3. Click the "Edit" button in the description section. Fill it in with a brief description of the challenge.
+
+	 ![Edit channel's topic and description](./assets/edit-channel-topic-and-description.png)
 
 ### Setting Up a Slack Bot
 
