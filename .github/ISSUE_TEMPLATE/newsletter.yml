@@ -1,0 +1,14 @@
+name: "Monthly Newsletter Preparation Docs"
+description: "Track the collection of relevant items for the Virtual Coffee monthly newsletter"
+title: "VC Newsletter: {MMMM} - {yy}"
+assignees:
+  - tkshill
+labels: ["Newsletter"]
+body:
+  - type: input
+  attributes:
+    label: Email Title
+  - type: input
+  attributes:
+    label: Email Subheader
+  
