@@ -13,7 +13,7 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
   - [The First Day of the Month](#the-first-day-of-the-month)
     - [Update the `monthly-challenge` Channel on Slack](#update-the-monthly-challenge-channel-on-slack)
     - [Make an Announcement for a New Challenge](#make-an-announcement-for-a-new-challenge)
-    - [Blog Post](#blog-post)
+    - [Writing Blog Post](#writing-blog-post)
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
 - [Technical Guidelines](#technical-guidelines)
@@ -77,10 +77,11 @@ Read the "[Update `#monthly-challenge` Channel's Topic and Description on Slack]
 
 ✅ **Tasks**:
 
-- Drop the blog post about the challenge at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
+- Drop the blog post about the challenge under the Virtual Coffee organization at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
 
 > [!NOTE]
-> A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
+> - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
+> - If you want to write blog posts about VC's challenges, please get in touch with @BekahHW so you can be added to the VC organization on DEV.
 
 ### During the Challenge
 
