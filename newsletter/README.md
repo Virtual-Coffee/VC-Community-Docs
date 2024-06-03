@@ -19,7 +19,7 @@ The following roles are required for the newsletter:
 
 ### Newsletter Team Lead(s)
 
-The team lead is responsible for coordinating the newsletter team, setting deadlines, and ensuring the newsletter is published on time. They oversee all aspects of the newsletter creation process and report to the Communications Maintainer. The team lead gives the final approval for the newsletter before release. They support the other members of the team in helping them complete their tasks and ensure the newsletter is of high quality.
+The team lead is responsible for coordinating the newsletter team, setting deadlines, and ensuring the newsletter is published on time. They oversee all aspects of the newsletter creation process and report to the Communications Maintainer. The team lead gives the final approval for the newsletter before release. They support the other members of the team in helping them complete their tasks and ensure the newsletter is of high quality. The team lead can recommend other members of the community in the newsletter creation process as needed.
 
 ### The Editor
 
@@ -137,6 +137,7 @@ The Team Lead gives the final approval for the newsletter to be published. The E
 
 ### Member Privacy
 
-    The newsletter team must respect the privacy of all Virtual Coffee members. Personal information should not be shared in the newsletter without the explicit consent of the member. If you are unsure about whether something should be included in the newsletter, please reach out to the Communications Maintainer for guidance. Every member has the right to privacy and should feel safe and respected in the Virtual Coffee community. Any member can request that their information not be included in the newsletter.
+The newsletter team **must** respect the privacy of all Virtual Coffee members. Private information of any individual should not be shared in the newsletter without the _explicit consent of the member_. If you are unsure about whether something should be included in the newsletter, please reach out to the Communications Maintainer for guidance. Every member has the right to privacy and should feel safe and respected in the Virtual Coffee community. 
 
-###
+Any member can request that their information not be included in the newsletter.
+
