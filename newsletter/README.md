@@ -10,7 +10,7 @@ The newsletter is shared with the Virtual Coffee community via email and is also
 
 The newsletter is typically published on the first Monday of each month. The newsletter is usually put together in the week leading up to publication.
 
->[!NOTE]
+> [!NOTE]
 > A word on platform. The newsletter is currently published using Mailchimp, however, the platform may change in the future. These docs have purposefully been written to be platform-agnostic. Platform specific instructions may be added in the future by the newsletter team.
 
 ## What Roles are Required for the Newsletter?
@@ -50,14 +50,16 @@ If you would like to contribute to the newsletter, please reach out to the Newsl
 The newsletter creation process typically follows these steps:
 
 ### Step 1: Issue Creation
+
 The Editor creates the next month's newsletter issue in the contributors repository right after the current month's newsletter is published. This issue has a template with the sections that need to be filled in.
 
 ### Step 2: Content Submission
+
 The Reporters submit content for the newsletter in the issue discussion thread. The Editor and Team Lead review the content and provide feedback if necessary. At the time of writing this guide, there are several recurring content sections which get updated each month. These include:
 
 #### Meta Text
 
-This includes the  email Header, Subheader, and Introduction. Typically written by the Editor, this section welcomes readers to the newsletter and provides an overview of the content. Usually mentions the monthly challenge and a call to action.
+This includes the email Header, Subheader, and Introduction. Typically written by the Editor, this section welcomes readers to the newsletter and provides an overview of the content. Usually mentions the monthly challenge and a call to action.
 
 #### Recap of last Month
 
@@ -97,16 +99,16 @@ Some content sections are not updated typically updated every month because they
 
 #### VC Affiliated Open Source Projects
 
-A list of open-source projects affiliated with Virtual Coffee. This includes projects that are maintained by Virtual Coffee members or are related to the community in some way. Coordination with the Open Source Team is required to obtain this information. Typically edited and updated during the Virtual Coffee Hacktoberfest Initiative, or at the request of a member*.
+A list of open-source projects affiliated with Virtual Coffee. This includes projects that are maintained by Virtual Coffee members or are related to the community in some way. Coordination with the Open Source Team is required to obtain this information. Typically edited and updated during the Virtual Coffee Hacktoberfest Initiative, or at the request of a member\*.
 
->[!NOTE]
+> [!NOTE]
 > Any open source project featured here **must** be approved by the VC team according to our open source checklist and guidelines.
 
 #### Member Ongoing Initiatives
 
 A list of ongoing initiatives by members of the community. This includes projects, collaborations, and other activities that members are working on. Members can submit their initiatives for inclusion in the newsletter. Usually sourced from member requests or proposed additions by the newsletter team.
 
->[!NOTE]
+> [!NOTE]
 > The above sections are subject to change and may be updated based on community feedback and needs. The Editor and Team Lead will work with the community to ensure the newsletter content is relevant and engaging.
 
 ### Step 3: Content Review and Editing
@@ -115,11 +117,11 @@ The Editor reviews the content submitted by the Reporters and provides feedback.
 
 ### Step 4: Upload Content to Newsletter Platform
 
-The Engineer uploads the content to the newsletter platform. The Engineer ensures the information has been placed in the correct sections and that the newsletter is ready for publication. 
+The Engineer uploads the content to the newsletter platform. The Engineer ensures the information has been placed in the correct sections and that the newsletter is ready for publication.
 
 ### Step 5: Design and Layout
 
-The Designer makes any necessary design changes to the newsletter. This includes any styling, layout, or visual elements that need to be added. 
+The Designer makes any necessary design changes to the newsletter. This includes any styling, layout, or visual elements that need to be added.
 
 ### Step 6: Final Review
 
@@ -127,12 +129,14 @@ The Editor reviews the final version of the newsletter to ensure it is ready for
 
 ### Step 7: Publication
 
-The Team Lead gives the final approval for the newsletter to be published. The Engineer publishes the newsletter on the designated date and time. The newsletter is shared with the Virtual Coffee community via email and is also available on the Virtual Coffee website. 
+The Team Lead gives the final approval for the newsletter to be published. The Engineer publishes the newsletter on the designated date and time. The newsletter is shared with the Virtual Coffee community via email and is also available on the Virtual Coffee website.
 
-- 
+-
+
 ## Additional Notes
 
 ### Member Privacy
+
     The newsletter team must respect the privacy of all Virtual Coffee members. Personal information should not be shared in the newsletter without the explicit consent of the member. If you are unsure about whether something should be included in the newsletter, please reach out to the Communications Maintainer for guidance. Every member has the right to privacy and should feel safe and respected in the Virtual Coffee community. Any member can request that their information not be included in the newsletter.
 
-### 
+###
