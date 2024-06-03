@@ -6,15 +6,6 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
 
 ## Table of Contents
 
-- [Technical Guidelines](#technical-guidelines)
-  - [Setting Up a Slack Bot](#setting-up-a-slack-bot)
-    - [Creating a Slack Reminder](#creating-a-slack-reminder)
-    - [Scheduling a Thread](#scheduling-a-thread)
-  - [Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)
-    - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
-    - [2. Updating the monthly challenge data](#2-updating-the-monthly-challenge-data)
-    - [3. Updating the monthly challenge landing page](#3-updating-the-monthly-challenge-landing-page)
-    - [4. Adding a success "completed challenge" alert to the previous challenge](#4-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
 - [Facilitating a Challenge](#facilitating-a-challenge)
   - [Before the Challenge](#before-the-challenge)
     - [Coordinating with the Coffee Table Groups](#coordinating-with-the-coffee-table-groups)
@@ -25,6 +16,81 @@ The Monthly Challenge team abides by Virtual Coffee [Code of Conduct](https://vi
     - [Blog Post](#blog-post)
   - [During the Challenge](#during-the-challenge)
   - [Post Challenge](#post-challenge)
+- [Technical Guidelines](#technical-guidelines)
+  - [Setting Up a Slack Bot](#setting-up-a-slack-bot)
+    - [Creating a Slack Reminder](#creating-a-slack-reminder)
+    - [Scheduling a Thread](#scheduling-a-thread)
+  - [Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)
+    - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
+    - [2. Updating the monthly challenge data](#2-updating-the-monthly-challenge-data)
+    - [3. Updating the monthly challenge landing page](#3-updating-the-monthly-challenge-landing-page)
+    - [4. Adding a success "completed challenge" alert to the previous challenge](#4-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
+
+## Facilitating a Challenge
+
+Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.
+
+If you have ideas for a new challenge(s), you can propose them and discuss them in the `#vc-monthly-challenge-team` channel on Slack.
+
+### Before the Challenge
+
+#### Coordinating with the Coffee Table Groups
+
+We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
+
+⏳ **Timeline**: When a challenge has been decided.
+
+✅ **Tasks**:
+
+- Reach out to the Coffee Table Group hosts, communicate about the upcoming challenge, and how we can support each other during the challenge.
+
+#### Updating the Website
+
+⏳ **Timeline**: Anytime before the challenge starts.
+
+✅ **Tasks**:
+
+- Change and adjust the challenge pages on the website to reflect the current challenge and create a PR. For instructions on updating the website, see the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)."
+
+### The First Day of the Month
+
+#### Updating the `monthly-challenge` Channel on Slack
+
+✅ **Tasks**:
+
+- Change the `#monthly-challenge` channel topic and description in Slack.
+- Give a brief description of the challenge.
+
+#### Making an Announcement for a New Challenge
+
+✅ **Tasks**:
+
+- Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
+
+> [!NOTE]
+> Each challenge file contains script templates. If it is unavailable, you must write one and update the script template in the challenge file.
+
+#### Writing Blog Post
+
+✅ **Tasks**:
+
+- Drop the blog post about the challenge at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
+
+> [!NOTE]
+> A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
+
+### During the Challenge
+
+Please read the `facilitators-guide.md` file in the challenge's folder for complete instructions.
+
+### Post Challenge
+
+- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
+- Update the `facilitators-guide.md` in the challenge's folder with:
+
+  - new script templates and things we did for the challenge,
+  - the month and year of the challenge,
+  - the blog post(s) for the challenge, if any.
 
 ## Technical Guidelines
 
@@ -163,69 +229,3 @@ Here is an example:
   <Link to="/monthlychallenges/mar-2024">next challenge</Link>!
 </div>
 ```
-
-## Facilitating a Challenge
-
-Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.
-
-If you have ideas for a new challenge(s), you can propose them and discuss them in the `#vc-monthly-challenge-team` channel on Slack.
-
-### Before the Challenge
-
-#### Coordinating with the Coffee Table Groups
-
-We love collaboration! We're happy to involve our Cofee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more, and ultimately, give them support by volunteering their time.
-
-⏳ **Timeline**: When a challenge has been decided.
-
-✅ **Tasks**:
-
-- Reach out to the Coffee Table Group hosts, communicate about the upcoming challenge, and how we can support each other during the challenge.
-
-#### Updating the Website
-
-⏳ **Timeline**: Anytime before the challenge starts.
-
-✅ **Tasks**:
-
-- Change and adjust the challenge pages on the website to reflect the current challenge and create a PR. For instructions on updating the website, see the "[Updating Monthly Challenge Page on the Website](#updating-monthly-challenge-page-on-the-website)."
-
-### The First Day of the Month
-
-#### Updating the `monthly-challenge` Channel on Slack
-
-✅ **Tasks**:
-
-- Change the `#monthly-challenge` channel topic and description in Slack.
-- Give a brief description of the challenge.
-
-#### Making an Announcement for a New Challenge
-
-✅ **Tasks**:
-
-- Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
-
-> [!NOTE]
-> Each challenge file contains script templates. If it is unavailable, you must write one and update the script template in the challenge file.
-
-#### Writing Blog Post
-
-✅ **Tasks**:
-
-- Drop the blog post about the challenge at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
-
-> [!NOTE]
-> A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one of the good ways to engage folks to do the challenge with us.
-
-### During the Challenge
-
-Please read the `facilitators-guide.md` file in the challenge's folder for complete instructions.
-
-### Post Challenge
-
-- Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
-- Update the `facilitators-guide.md` in the challenge's folder with:
-
-  - new script templates and things we did for the challenge,
-  - the month and year of the challenge,
-  - the blog post(s) for the challenge, if any.
