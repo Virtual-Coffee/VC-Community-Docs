@@ -87,6 +87,8 @@ To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#s
 
 ### Post Challenge
 
+✅ **Tasks**:
+
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know the support you need and things you think would be nice to do next time.
 - Update the `facilitators-guide.md` in the challenge's folder with:
 
