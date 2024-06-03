@@ -4,6 +4,8 @@ In this challenge, we're working on creating a habit of talking about the things
 
 We aim to learn to communicate around a project, show the development process, give confidence, and be proud of any progress made.
 
+> **Note:** In 2021, we dedicated June to the Build in Public challenge and July to Demo Day. Since July 2022, we have combined them into one challenge. If you'd like to know the history, you can find it in the [archive](../build-in-public/archive/) folder.
+
 > [!TIP]
 > Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
