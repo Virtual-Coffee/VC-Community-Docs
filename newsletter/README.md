@@ -37,7 +37,6 @@ The designer is responsible for creating the visual design of the newsletter. Th
 
 The engineer ensures the content distribution process is working correctly. They ensure the newsletter can be easily edited, and modified, and that the publication process is smooth. The engineer works with the team lead and editor to ensure the newsletter is published on time and without errors. They may develop tools, automations, or processes to streamline the newsletter creation process.
 
-
 ### Archivist
 
 The archivist ensures the newsletter content is also shared on the Virtual Coffee website. The archivist works with the team lead and editor to ensure the newsletter is archived and accessible to the community. The archivist may also help with other tasks related to the newsletter publication process.
@@ -138,7 +137,7 @@ The Team Lead gives the final approval for the newsletter to be published. The E
 
 ### Step 8: Post-Publication
 
-The Newsletter content is also shared on the Virtual Coffee website. The Archivist submits a PR to the Virtual Coffee website repository to add the newsletter content to the website. 
+The Newsletter content is also shared on the Virtual Coffee website. The Archivist submits a PR to the Virtual Coffee website repository to add the newsletter content to the website.
 
 ## Additional Notes
 
