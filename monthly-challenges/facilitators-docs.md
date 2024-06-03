@@ -102,7 +102,7 @@ To learn more about how to work with Slack, see the "[Setting Up a Slack Bot](#s
 
 ## Technical Guidelines
 
-Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this section, you will find a guide on how to work with Slack and GitHub for the monthly challenge.
+Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this section, you will find a guide on how to work with Slack and update the website for the monthly challenge.
 
 ### Updating the `#monthly-challenge` Channel's Topic and Description on Slack
 
