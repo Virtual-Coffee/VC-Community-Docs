@@ -93,9 +93,10 @@ body:
       label: QA checklist
       description: "Check off/fill in the items below as they are received/updated. Any notes or attachments should be added as comments on the issue."
       options:
-        - label: All fields have been filled in.
         - label: All fields have been reviewed by editor for content, tone, accuracy, and completeness.
         - label: Newsletter issue has been reviewed on launching platform for visual consistency.
+        - label: Newsletter was successfully launched and successfully make it to subscribers' inbox
+        - label: Newsletter was uploaded to the virtualcoffee.io website.
   - type: markdown
     attributes:
       value: "### Additional Info"
