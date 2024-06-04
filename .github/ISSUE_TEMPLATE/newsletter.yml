@@ -1,6 +1,6 @@
 name: "Monthly Newsletter Preparation Docs"
 description: "Track the collection of relevant items for the Virtual Coffee monthly newsletter"
-title: "VC Newsletter: {MMMM} - {yy}"
+title: "VC Newsletter: [MM] - [YYYY]"
 assignees:
   - tkshill
 labels: ["Newsletter"]
