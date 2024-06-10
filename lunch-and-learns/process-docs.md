@@ -26,7 +26,7 @@ Promotes the Lunch & Learn through the newsletter, Slack, social media, and anno
 
 ### Moderator
 
-The moderator leads the Lunch & Learn session. They will introduce the speaker and read their bio. Also monitors the chat during the Lunch & Learn session, asks questions for participants, and introduces and concludes the session using the event script. Posts a thank you message to the Speaker after the event.
+Leads the Lunch & Learn session. They will introduce the Speaker and read their bio. Also monitors the chat during the Lunch & Learn session, asks questions for participants, and introduces and concludes the session using the event script. Posts a thank you message to the Speaker after the event.
 
 ### Host
 
