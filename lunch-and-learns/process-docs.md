@@ -22,7 +22,7 @@ Handles scheduling by checking availability and coordinating with the Speaker, H
 
 ### Marketing
 
-Promotes the Lunch & Learn through the newsletter, Slack, social media, and announcement scripts. Ensures the event is well-publicized. Has to coordinate with other Virtual Coffee marketing and communication norms and schedules
+Promotes the Lunch & Learn through the newsletter, Slack, social media, and announcement scripts. Ensures the event is well-publicized. Has to coordinate with other Virtual Coffee marketing and communication norms and schedules.
 
 ### Moderator
 
