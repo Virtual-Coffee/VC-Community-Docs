@@ -75,7 +75,6 @@ Includes Editors and Graphics Coordinator (GC) who handle post-event cleanup of 
    Go back to Step 1. Iterate these steps until a time slot is agreed upon.
 
 4. The LC adds the Lunch & Learn event to the Virtual Coffee Google calendar and invites the Moderator, the Host, and the Speaker to that event.
-5. The Host adds the Lunch & Learn event on [meetingplace.io](https://meetingplace.io/virtual-coffee/events).
 
 ### Populating the New Lunch & Learn Issue
 
