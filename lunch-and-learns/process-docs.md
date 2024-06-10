@@ -32,7 +32,7 @@ The moderator leads the Lunch & Learn session. They will introduce the speaker a
 
 Sets up the Zoom meeting, starts and stops the recording, and allows time for attendees to arrive. Coordinates closely with the Moderator during the session.
 
-### Post-production Team:
+### Post-Production Team
 
 Includes Editors and Graphics Coordinator (GC) who handle post-event cleanup of the video file. They will ensure that the video is clipped so as to only include the relevant content (intro, presentation, and outro), check for video quality, and upload to relavant platforms.
 
