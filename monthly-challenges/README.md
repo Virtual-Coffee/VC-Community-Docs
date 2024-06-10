@@ -18,7 +18,7 @@ The [Monthly Challenge Facilitators Handbook](./facilitators-docs.md) provides g
 
 Every challenge requires different preparation and execution. Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in each challenge's folder to learn how to conduct it.
 
-Our monthly challenges plan for the year is available in Google Docs and is pinned in the `#vc-monthly-challenge-team` channel on Slack.
+Our Monthly Challenge Team Leads maintain the Annual Monthly Challenges Plan, which is available in Google Docs and pinned to the `#vc-monthly-challenge-team` channel on Slack.
 
 If you have ideas about a theme we can do as a community, please let our Monthly Challenge Team Leads know for consideration.
 
