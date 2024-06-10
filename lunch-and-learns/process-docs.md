@@ -10,7 +10,7 @@ _**NOTE:** One person can take on multiple roles._
 
 ### Speaker
 
-That's the person actually giving the talk! To make role as inviting and accessible as possible, we try to have the speaker do as little of the pre and post process as necessary. That way, they can focus of what's important; preparing and delivering their talk! The speaker is also in charge of putting together their bio and relevant information (name of talk, their name forthe purpose of introduction, any other relavant details, links, etc)
+That's the person actually giving the talk! To make role as inviting and accessible as possible, we try to have the speaker do as little of the pre and post process as necessary. That way, they can focus of what's important; preparing and delivering their talk! The speaker is also in charge of putting together their bio and relevant information (name of talk, their name for the purpose of introduction, any other relevant details, links, etc.).
 
 ### Data Wrangler (DW)
 
