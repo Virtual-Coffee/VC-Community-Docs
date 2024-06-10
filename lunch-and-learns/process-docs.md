@@ -115,7 +115,7 @@ _**NOTE:** The Moderator and the Host can be the same person._
 ## Post-Lunch & Learn
 
 - The Moderator posts a thank you message to the Speaker in Slack's #vc-events channel.
-- Marketing posts the same thank you message to Twitter.
+- Marketing posts the same thank you message to X.
 - The Post-production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](/procedures/youtube.md).
 
 ## Cancelling a Lunch & Learn
