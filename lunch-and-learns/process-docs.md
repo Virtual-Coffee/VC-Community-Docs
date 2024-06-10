@@ -121,9 +121,9 @@ _**NOTE:** The Moderator and the Host can be the same person._
 ## Cancelling a Lunch & Learn
 
 - If a speaker needs to cancel a Lunch & Learn, they should inform the LC. Together, they will determine if the session will be postponed to a determined date, postponed indefinitely, or cancelled.
-- The LC should then inform the rest of the L&L team that the planned event is cancelled. That includes the Marketing, Moderator, and Host roles, but really the entire team should be aware, and the L&L issue updated accordingly.
+- The LC should then inform the rest of the Lunch & Learn team that the planned event is cancelled. That includes the Marketing, Moderator, and Host roles, but really the entire team should be aware, and the Lunch & Learn issue should be updated accordingly.
 
-- If the VC team needs to cancel the L&L, the LC should inform the Speaker, and determine if the session will be postponed to a determined date, postponed indefinitely, or cancelled.
+- If the VC team needs to cancel the Lunch & Learn, the LC should inform the Speaker and determine if the session will be postponed to a determined date, postponed indefinitely, or cancelled.
 
 - The Marketing role will share on all relevant mediums that the event is no longer taking place. As of right now that would include:
   - Slack
