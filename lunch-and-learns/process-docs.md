@@ -128,5 +128,5 @@ _**NOTE:** The Moderator and the Host can be the same person._
 - The Marketing role will share on all relevant mediums that the event is no longer taking place. As of right now that would include:
   - Slack
   - The VC events page
-  - Twitter/X
+  - X
   - The newsletter team (if the relevant issue has not yet been published)
