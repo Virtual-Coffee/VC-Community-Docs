@@ -13,13 +13,8 @@
 
 - Mondays at 4:00 PM ET
 
-**Leader:**
+**Leader & Host:**
 
-- Julia Seidman
-
-**Hosts:**
-
-- Julia Seidman
 - Eddie Banner
 
 A weekly discussion of job search & interview-related topics—mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, etc. We are always looking for ideas to help meet your needs! All stages of career & job search are welcome.
