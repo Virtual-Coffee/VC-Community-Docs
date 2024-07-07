@@ -1,8 +1,8 @@
 # Guide to Hosting a Coffee Table Group
 
 > [!NOTE]
-> Coffee Table Group Coordinator: Abbey Perini\
-> Events Maintainer: Meg Gutshall
+> **Coffee Table Group Coordinator:** Abbey Perini (@abbeyperini)\
+> **Events Maintainer:** Meg Gutshall (@meg-gutshall)
 
 ## Zoom Logistics
 
