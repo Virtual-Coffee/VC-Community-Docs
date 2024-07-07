@@ -34,7 +34,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 
 **Hosts:**
 
-- **Tuesdays:** David Akim & Rad Turkin
+- **Tuesdays:** Rad Turkin
 - **Thursdays:** Meg Gutshall & Joe Karow
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
