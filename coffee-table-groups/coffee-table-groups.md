@@ -1,9 +1,12 @@
 # Coffee Table Groups
 
-> [!NOTE]
+> [!IMPORTANT]
 > These are the currently scheduled times for the events at the time of this publication. Please check the official Virtual Coffee `#announcements`, `#vc-events`, or other noted channels on Slack for any updates and links to event rooms.
 
 ---
+
+> [!NOTE]
+> We're looking for more co-hosts for Tech Interview Study Group and Accountabilibuddies (Tuesday session)! Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
 
 ## Active Groups
 
