@@ -132,5 +132,6 @@ Interested? Join the `#indie-startup-hackers` Slack channel!
 
 ## Volunteering in Coffee Table Groups
 
-- If you'd like to start a new Coffee Table Group or resurrect an inactive group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
-- If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
+If you'd like to start a new Coffee Table Group or resurrect an inactive group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
+
+If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
