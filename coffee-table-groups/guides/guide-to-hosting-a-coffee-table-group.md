@@ -6,7 +6,7 @@
 
 ## Zoom Logistics
 
-One of the many benefits of starting a Coffee Table group is that Virtual Coffee provides you with a Zoom room in which to host the event. As long as all the Coffee Table group information is kept up to date, your Zoom room should automatically start at the appropriate time and be accessible to all group Hosts and Leaders.
+One of the many benefits of starting a Coffee Table group is that Virtual Coffee provides you with a Zoom room in which to host the event. As long as the Coffee Table group information is kept up to date (see [Coffee Table Groups](https://github.com/Virtual-Coffee/VC-Contributors/blob/6d722dceba508ecf8f583dedb3df3b1fb9fbde42/coffee-table-groups/coffee-table-groups.md) for the most up-to-date listings), your Zoom room should automatically start at the appropriate time and be accessible to all group Hosts and Leaders.
 
 As a Coffee Table Group Host, you should have access to two private Slack channels: `#vc-events-admin` and `#vc-active-volunteers`. If you aren't in both of these channels, please contact the Coffee Table Group Coordinator.
 
