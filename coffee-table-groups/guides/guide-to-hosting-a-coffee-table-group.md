@@ -29,11 +29,13 @@ As a Coffee Table Group Host, you should have access to two private Slack channe
 
 Your specific Coffee Table group may have their own Slack channel as well as additional Host instructions. If so, be sure to join the channel and read their guide!
 
+Lastly, always remember to provide the following links in Zoom meetings: [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) and [COC Violation Form](https://virtualcoffee.io/report-coc-violation/)
+
 ### Starting a Meeting
 
 You may enter the Zoom up to 10 minutes before the start of the event. Do so by navigating to the `#vc-events-admin` channel in Slack and clicking the 'Join Event' button on the 'Starting Soon' event post.
 
-#### Claiming Host and Assigning Co-host
+### Claiming Host and Assigning Co-host
 
 When you arrive in the Zoom, enter the Host Code to claim Host privledges. To do this, navigate to the `#vc-events-admin` channel in Slack and copy the Host Code from the posted Coffee Table group event. Back in Zoom, open the Participants tab and click on the 'Claim host' button to input the code.
 
@@ -42,7 +44,7 @@ Once your Co-host enters the Zoom, hover over their name in the Participants tab
 > [!WARNING]
 > As Zoom Host, if you leave the Zoom, you will end the call for all participants! If you have to leave early, be sure to pass hHost privledges to your Co-host by following the steps above and selecting 'Make host' before exiting the Zoom call.
 
-#### Creating Breakout Rooms
+### Creating Breakout Rooms
 
 Some Coffee Table groups utilize breakout rooms. If yours is one of those groups, read on to learn how to create breakout rooms.
 
