@@ -1,5 +1,26 @@
 # Guide to Hosting a Coffee Table Group
 
+## Coffee Table Group Host Responsibilities
+
+A Coffee Table Group Host facilitates a context-specific space for our current VC members. They set expectations for attendees by giving new members context when they join. Current Hosts describe the role as much like a Coffee Room Leader, but for a set focus area.
+
+All Coffee Table Group Hosts are expected to represent the Virtual Coffee community and its mission by being welcoming and supportive to attendees, leading with kindness, and adhering to the [Code of Conduct](https://virtualcoffee.io/code-of-conduct).
+
+### Handling Uncomfortable Situations
+
+A disagreement could arise during a Coffee Table Group that you're hosting. In a wide-ranging community like ours, things like this happen from time to time. As a Coffee Table Group Host, you **are not** expected to play referee. Please instead [Report a Code of Conduct Violation](https://virtualcoffee.io/report-coc-violation) using our online form. If you have any lingering concerns after submitting the form, reach out to the [Events Maintainer](#events-maintainer).
+
+<!-- !! @tkshill – Should the Host inform the Lead about any incident? I'm leaning toward, no - the maintainers will if necessary. What are your thoughts here? -->
+
+### Promoting Your Coffee Table Group
+
+It's recommended that you create a customized post to let VC members know that your Coffee Table group is beginning! Tell them what you'll be doing during the event and tag a few members who you think may be interested. Encourage asynchronous responses in a dedicated thread if people have a conflict and can't attend.
+
+You can start a thread on the automated 'Starting Soon' post in the `#vc-events` channel or create an entirely new post. Boost your event in other relevant Slack channels as well for a broader reach.
+
+> [!IMPORTANT]
+> Do not post in the `#vc-announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
+
 ## Zoom Logistics
 
 One of the many benefits of starting a Coffee Table group is that Virtual Coffee provides you with a Zoom room in which to host the event. As long as the Coffee Table group information is kept up to date (see [Coffee Table Groups](https://github.com/Virtual-Coffee/VC-Contributors/blob/6d722dceba508ecf8f583dedb3df3b1fb9fbde42/coffee-table-groups/coffee-table-groups.md) for the most up-to-date listings), your Zoom room should automatically start at the appropriate time and be accessible to all group Hosts and Leaders.
@@ -40,15 +61,6 @@ Once your Coffee Table event has finished, click the 'End' button. This will tri
 
 > [!CAUTION]
 > Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
-
-## Promoting Your Coffee Table Group
-
-It's recommended that you create a customized post to let VC members know that your Coffee Table group is beginning! Tell them what you'll be doing during the event and tag a few members who you think may be interested. Encourage asynchronous responses in a dedicated thread if people have a conflict and can't attend.
-
-You can start a thread on the automated 'Starting Soon' post in the `#vc-events` channel or create an entirely new post. Boost your event in other relevant Slack channels as well for a broader reach.
-
-> [!IMPORTANT]
-> Do not post in the `#vc-announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
 
 ## Automated Event Messages
 
