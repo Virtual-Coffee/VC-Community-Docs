@@ -41,6 +41,15 @@ Once your Coffee Table event has finished, click the 'End' button. This will tri
 > [!CAUTION]
 > Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
 
+## Promoting Your Coffee Table Group
+
+It's recommended that you create a customized post to let VC members know that your Coffee Table group is beginning! Tell them what you'll be doing during the event and tag a few members who you think may be interested. Encourage asynchronous responses in a dedicated thread if people have a conflict and can't attend.
+
+You can start a thread on the automated 'Starting Soon' post in the `#vc-events` channel or create an entirely new post. Boost your event in other relevant Slack channels as well for a broader reach.
+
+> [!IMPORTANT]
+> Do not post in the `#vc-announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
+
 ## Important Contacts
 
 ### Coffee Table Group Coordinator
