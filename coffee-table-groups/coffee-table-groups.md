@@ -5,10 +5,10 @@
 
 ---
 
+## Active Groups
+
 > [!NOTE]
 > We're looking for more Co-hosts for Tech Interview Study Group and Accountabilibuddies – Tuesdays! Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
-
-## Active Groups
 
 ### Tech Interview Study Group
 
@@ -103,11 +103,13 @@ Every other Friday, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.d
 
 **Previous Leads:**
 
-- Tom Cudd
-- Bekah HW
+- Savannah Acevedo
 - Lauren C
-- Brian Meeker
+- Tom Cudd
 - Karen Dickenson
+- Bekah HW
+- Brian Meeker
+- Agi Tanner
 
 Read, study, and discuss 2-3 books each year with fellow Virtual Coffee readers. Use the questions in the [Virtual Coffee Book Club on GitHub discussions](https://github.com/orgs/Virtual-Coffee/discussions/categories/vc-book-club) to go at your own pace for any past books. Feel free to gather a group of friends and start your own read-through for a book.
 
