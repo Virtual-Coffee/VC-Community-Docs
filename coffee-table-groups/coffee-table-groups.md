@@ -6,7 +6,7 @@
 ---
 
 > [!NOTE]
-> We're looking for more co-hosts for Tech Interview Study Group and Accountabilibuddies (Tuesday session)! Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
+> We're looking for more Co-hosts for Tech Interview Study Group and Accountabilibuddies – Tuesdays! Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
 
 ## Active Groups
 
@@ -16,7 +16,7 @@
 
 - Mondays at 4:00 PM ET
 
-**Leader & Host:**
+**Lead & Host:**
 
 - Eddie Banner
 
@@ -31,7 +31,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 - Tuesdays at 7:00–9:00 PM ET
 - Thursdays at 9:00–11:40 AM ET
 
-**Leader:**
+**Lead:**
 
 - Meg Gutshall
 
@@ -50,7 +50,7 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 
 - Wednesdays at 10:00 AM ET
 
-**Leader:**
+**Lead:**
 
 - Rad Turkin
 
@@ -67,7 +67,7 @@ Job Hunting as a collective—an accountability session exclusively for job hunt
 
 - Fridays at 8:00 PM ET
 
-**Leader & Host:**
+**Lead & Host:**
 
 - Ethan Freire
 
@@ -79,7 +79,7 @@ Feelings Friday was started at the Flatiron School coding bootcamp by its founde
 
 - Every other Friday at 11:00 AM ET
 
-**Leader & Host:**
+**Lead & Host:**
 
 - Jörn Bernhardt
 
@@ -89,7 +89,7 @@ Every other Friday, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.d
 
 ### Virtual Coffee Book Club
 
-**Previous Leaders:**
+**Previous Leads:**
 
 - Tom Cudd
 - Bekah HW
@@ -103,26 +103,26 @@ Just join the `#book-club` Slack channel!
 
 ### Public Speaking Practice Group
 
-**Previous Leader & Host:**
+**Previous Lead & Host:**
 
 - Ray Deck
 
 ### TypeScript Tuesdays
 
-**Previous Leaders & Hosts:**
+**Previous Leads & Hosts:**
 
 - Dan Ott
 - Kirk Shillingford
 
 ### The JavaScript Meetup
 
-**Previous Leader & Host:**
+**Previous Lead & Host:**
 
 - Travis Martin
 
 ### Indie-Startup Hackers
 
-**Previous Leader & Host:**
+**Previous Lead & Host:**
 
 - Ray Deck
 
@@ -134,4 +134,4 @@ Interested? Join the `#indie-startup-hackers` Slack channel!
 
 If you'd like to start a new Coffee Table Group or resurrect an inactive group, head to the [Leading a Coffee Table Group](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/leading-coffee-table-groups) page for more information.
 
-If you want to help a particular Coffee Table Group, feel free to reach out to the group's Leader or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
+If you want to help a particular Coffee Table Group, feel free to reach out to the group's Lead or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
