@@ -10,12 +10,7 @@ Your specific Coffee Table group may have their own Slack channel as well as add
 
 ### Starting a Meeting
 
-You may enter the Zoom up to 10 minutes before the start of the event. Do so by navigating to the `#vc-events` or `#vc-events-admin` channel in Slack and clicking the 'Join Event' button on the 'Starting soon' event post.
-
-If you'd like to make a your own post to let people know that your Coffee Table group is starting soon, do this now. You can create a thread on the 'Starting soon' post in the `#vc-events` channel or create an entirely separate post. Boost your event in other relevant Slack channels as well for a broader reach.
-
-> [!IMPORTANT]
-> Do not post in the `#vc-announcements` channel. This channel is reserved for automated daily event posts and other announcements relevant to the Virtual Coffee community.
+You may enter the Zoom up to 10 minutes before the start of the event. Do so by navigating to the `#vc-events-admin` channel in Slack and clicking the 'Join Event' button on the 'Starting Soon' event post.
 
 #### Claiming Host and Assigning Co-host
 
