@@ -115,6 +115,14 @@ Read, study, and discuss 2-3 books each year with fellow Virtual Coffee readers.
 
 Just join the `#book-club` Slack channel!
 
+### The Rust Learning Co-hort
+
+**Previous Leads:**
+
+- Andy E
+- Meg Gutshall
+- Justin Wheeler
+
 ### Public Speaking Practice Group
 
 **Previous Lead & Host:**
