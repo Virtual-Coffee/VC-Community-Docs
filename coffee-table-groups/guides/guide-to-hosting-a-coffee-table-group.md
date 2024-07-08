@@ -54,12 +54,12 @@ You can start a thread on the automated 'Starting Soon' post in the `#vc-events`
 
 All Virtual Coffee events have automated messages attached to them:
 
-| Message | Slack Channel | When |
-|---------|---------------|------|
-| This Week's Events | `#announcements` | Mondays at 8:00 AM local time |
-| Today's Events | `#announcements` | Every day with an event _except_ Monday at 8:00 AM local time |
-| Starting Soon | `#vc-events-admin` | 10 minutes prior to the event |
-| Starting Soon | `#vc-events` or other channel | 10 minutes prior to the event |
+| Message            | Slack Channel                 | When                                                          |
+| ------------------ | ----------------------------- | ------------------------------------------------------------- |
+| This Week's Events | `#announcements`              | Mondays at 8:00 AM local time                                 |
+| Today's Events     | `#announcements`              | Every day with an event _except_ Monday at 8:00 AM local time |
+| Starting Soon      | `#vc-events-admin`            | 10 minutes prior to the event                                 |
+| Starting Soon      | `#vc-events` or other channel | 10 minutes prior to the event                                 |
 
 - **This Week's Events:** An itinerary of the week's Virtual Coffee events, including event name, time, and in which Slack channel the join link will be posted (default `#vc-events`)
 - **Today's Events:** A listing of that day's Virtual Coffee events, including event name, time, description, and in which Slack channel the join link will be posted (default `#vc-events`)
