@@ -50,6 +50,24 @@ You can start a thread on the automated 'Starting Soon' post in the `#vc-events`
 > [!IMPORTANT]
 > Do not post in the `#vc-announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
 
+## Automated Event Messages
+
+All Virtual Coffee events have automated messages attached to them:
+
+| Message | Slack Channel | When |
+|---------|---------------|------|
+| This Week's Events | `#announcements` | Mondays at 8:00 AM local time |
+| Today's Events | `#announcements` | Every day with an event _except_ Monday at 8:00 AM local time |
+| Starting Soon | `#vc-events-admin` | 10 minutes prior to the event |
+| Starting Soon | `#vc-events` or other channel | 10 minutes prior to the event |
+
+- **This Week's Events:** An itinerary of the week's Virtual Coffee events, including event name, time, and in which Slack channel the join link will be posted (default `#vc-events`)
+- **Today's Events:** A listing of that day's Virtual Coffee events, including event name, time, description, and in which Slack channel the join link will be posted (default `#vc-events`)
+- **Starting Soon:** The content of this message changes depending on which Slack channel it's posted in
+  - This message is usually posted in `#vc-events`, however, the Coffee Table Group Leader can elect to have it post to a different channel if they feel it's more appropriate to their Coffee Table Group. The content includes the event name, time, description, and a button that reads, 'Join Event,' which allows Virtual Coffee members to enter the event's Zoom room.
+  - In addition, this message is always posted to `#vc-events-admin`. The content of this message includes the event name, time, location (Zoom URL), host code, and in which Slack channel the join link is posted. It also displays a 'Join Event' button for the Coffee Table Hosts and Leader to use.
+  - The 'Join Event' buttons in both messages are identical, so a Coffee Table Host or Leader can use either one.
+
 ## Important Contacts
 
 ### Coffee Table Group Coordinator
