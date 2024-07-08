@@ -8,7 +8,14 @@
 ## Active Groups
 
 > [!NOTE]
-> We're looking for Co-hosts for Tech Interview Study Group, Accountabilibuddies – Tuesdays, DSA Office Hours, and Frontend Friday Folks Fighting CSSBattle.dev! Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
+> We're looking for Co-hosts for:
+>
+> - Tech Interview Study Group
+> - Accountabilibuddies – Tuesdays
+> - DSA Office Hours
+> - Frontend Friday Folks Fighting CSSBattle.dev
+>
+> Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
 
 ### Tech Interview Study Group
 
