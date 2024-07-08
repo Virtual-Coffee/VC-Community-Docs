@@ -1,14 +1,10 @@
 # Guide to Hosting a Coffee Table Group
 
-> [!NOTE]
-> **Coffee Table Group Coordinator:** Abbey Perini (@abbeyperini)\
-> **Events Maintainer:** Meg Gutshall (@meg-gutshall)
-
 ## Zoom Logistics
 
 One of the many benefits of starting a Coffee Table group is that Virtual Coffee provides you with a Zoom room in which to host the event. As long as the Coffee Table group information is kept up to date (see [Coffee Table Groups](https://github.com/Virtual-Coffee/VC-Contributors/blob/6d722dceba508ecf8f583dedb3df3b1fb9fbde42/coffee-table-groups/coffee-table-groups.md) for the most up-to-date listings), your Zoom room should automatically start at the appropriate time and be accessible to all group Hosts and Leaders.
 
-As a Coffee Table Group Host, you should have access to two private Slack channels: `#vc-events-admin` and `#vc-active-volunteers`. If you aren't in both of these channels, please contact the Coffee Table Group Coordinator.
+As a Coffee Table Group Host, you should have access to two private Slack channels: `#vc-events-admin` and `#vc-active-volunteers`. If you aren't in both of these channels, please contact the [Coffee Table Group Coordinator](#coffee-table-group-coordinator).
 
 Your specific Coffee Table group may have their own Slack channel as well as additional Host instructions. If so, be sure to join the channel and read their guide!
 
@@ -49,3 +45,13 @@ Once your Coffee Table event has finished, click the 'End' button. This will tri
 
 > [!CAUTION]
 > Normally, it's okay if your Coffee Table session runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
+
+## Important Contacts
+
+### Coffee Table Group Coordinator
+
+Abbey Perini (@abbeyperini)
+
+### Events Maintainer
+
+Meg Gutshall (@meg-gutshall)
