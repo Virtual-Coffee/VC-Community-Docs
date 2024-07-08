@@ -61,6 +61,18 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 
 Job Hunting as a collective—an accountability session exclusively for job hunting. Share your goals, target roles, and resources, support each other by being present, modeling good job hunting, and sharing as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack, arwoooo..."
 
+### Data Structures and Algorithms (DSA) Office Hours
+
+**When:**
+
+- Wednesdays at 4:00 PM ET
+
+**Lead & Host:**
+
+- Eddie Banner
+
+DSA Office Hours is an opportunity to come and ask questions about anywhere you get stuck on this week’s coding problems, or about this week’s topic. Find this week’s DSA topic and coding problems in #tech-interview-study-group. New topic and problems every week!
+
 ### Feelings Friday
 
 **When:**
