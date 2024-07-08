@@ -22,27 +22,27 @@ We usually go with three breakout rooms and name them something like:
 
 ### Greeting Attendees
 
-Each Accountabilibuddies session has its handful of regulars, but we get new attendees from time to time as well! When this happens, explain to them what Accountabilibuddies is all about. Here's a blurb to help you:
+Each Accountabilibuddies meeting has its handful of regulars, but we get new attendees from time to time as well! When this happens, explain to them what Accountabilibuddies is all about. Here's a blurb to help you:
 
 > Accountabilibuddies is a Coffee Table Group meant to act as a timeblock in your calendar each week for you to get things done. Everyone here arrives with their own tasks, TODOs, and projects and gets to work, giving each other support and updates on their individual progress along the way. You become not only accountable to yourself, but also your friends you meet here every week!
 
-Let them know that there are breakout rooms available for use and that they can switch between the breakout rooms and main room at their will. Lastly, inform them of the regularly scheduled Accountabilibuddies session time and let them know that they're welcome to come and go as they please during this time.
+Let them know that there are breakout rooms available for use and that they can switch between the breakout rooms and main room at their will. Lastly, inform them of the regularly scheduled Accountabilibuddies meeting time and let them know that they're welcome to come and go as they please during this time.
 
-If you make a Slack post for your Accountabilibuddies session, ask them if they would like to be added to the weekly Slack reminder post as well!
+If you make a Slack post for your Accountabilibuddies meeting, ask them if they would like to be added to the weekly Slack reminder post as well!
 
 ### Lateness/Abesenteeism
 
-Be sure to arrive to the session on time. If you can't make a session, or you'll be running late, check in with your Co-host to make sure they'll be present. If you both have a conflict, drop a message in the `#vc-accountabilibuddies-hosts` Slack channel to see if any of the other Hosts can cover for you. If not, Meg will cancel the session.
+Be sure to arrive to the meeting on time. If you can't make a meeting, or you'll be running late, check in with your Co-host to make sure they'll be present. If you both have a conflict, drop a message in the `#vc-accountabilibuddies-hosts` Slack channel to see if any of the other Hosts can cover for you. If not, Meg will cancel the meeting.
 
 ## Vibe Dictates Itinerary
 
 Each Accountabilibuddies group has different regulars and a different vibe. When deciding an itinerary for Accountabilibuddies, we've found it's best to feel out the group and structure it around what works for the natural flow of that particular group.
 
-### Tuesday Session
+### Tuesday Meeting
 
 TBD
 
-### Thursday Session
+### Thursday Meeting
 
 #### 9:00 - 9:45/10:00 AM ET
 
