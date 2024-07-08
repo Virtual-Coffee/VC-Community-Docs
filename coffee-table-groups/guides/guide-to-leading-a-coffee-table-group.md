@@ -1,4 +1,4 @@
-# Coffee Table Group Leaders
+# Guide to Leading a Coffee Table Group
 
 ## Definition
 
