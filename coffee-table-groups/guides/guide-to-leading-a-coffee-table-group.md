@@ -4,7 +4,7 @@
 
 A Coffee Table Group Lead creates a space and context for conversation. A Lead hosts events on a consistent schedule, comes up with topics to discuss for each event, and encourages attendess. They set expectations for attendees via clear communication about scheduling and giving new members context when they join.
 
-Most Coffee Table Group Leads also act as a Host. It is a requirement to have a Lead and a Host (two separate people) for an event to become a new Coffee Table Group. Therefore, the Lead is also responsible for maintaining and coordinating at least one Co-host at all times.
+Most Coffee Table Group Leads also act as a Host, so it's important for you to be familiar with the content in our [Guide to Hosting a Coffee Table Group](guide-to-hosting-a-coffee-table-group.md). It is a requirement to have a Lead and a Host (two separate people) for an event to become a new Coffee Table Group. Therefore, the Lead is also responsible for maintaining and coordinating at least one Co-host at all times.
 
 ## Guidelines
 
