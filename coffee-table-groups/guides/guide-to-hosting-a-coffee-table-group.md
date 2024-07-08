@@ -8,7 +8,7 @@ As a Coffee Table Group Host, you should have access to two private Slack channe
 
 Your specific Coffee Table group may have their own Slack channel as well as additional Host instructions. If so, be sure to join the channel and read their guide!
 
-### Starting a Session
+### Starting a Meeting
 
 You may enter the Zoom up to 10 minutes before the start of the event. Do so by navigating to the `#vc-events` or `#vc-events-admin` channel in Slack and clicking the 'Join Event' button on the 'Starting soon' event post.
 
@@ -39,12 +39,12 @@ Then, select the number of breakout rooms you want to create.
 
 Don't forget to click on 'Open all rooms' when you're finished creating them!
 
-### Ending a Session
+### Ending a Meeting
 
 Once your Coffee Table event has finished, click the 'End' button. This will trigger a pop-up where you'll select 'End meeting for all.'
 
 > [!CAUTION]
-> Normally, it's okay if your Coffee Table session runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
+> Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
 
 ## Important Contacts
 
