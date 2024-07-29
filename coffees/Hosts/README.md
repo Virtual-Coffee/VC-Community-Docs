@@ -1,32 +1,88 @@
 # Hosts
 
-Welcome! Thank you for your interest in being a Host for our Virtual Coffee Zoom sessions. Like most roles here, while the concept is straightforward, there can be a lot of nuance, so we've tried as best as we can to provide clear-cut instructions where we're able.
+Welcome! Thank you for your interest in being a Host for our VC Coffee Chats. Like most roles here, while the concept is straightforward, there can be a lot of nuance, so we've tried as best as we can to provide clear-cut instructions where we're able.
 
-## What is the Host role?
+## Responsibilities
 
-The Host role in VC is responsible for:
+The Host is responsible for:
 
-- Creating the breakout rooms we use in the Virtual Coffee sessions
-- Assigning members to those breakout rooms, including volunteer Room Leaders and Note Takers
-- Managing incoming members throughout the Zoom session
-- Notifying rooms that they're about to be closed
+- Creating the breakout rooms
+- Assigning attendees to those breakout rooms, including volunteer Room Leaders and Note Takers
+- Managing incoming attendees throughout the Zoom session
+- Notifying the breakout rooms when it is time to wrap up
 - Closing the breakout rooms
-- Ending the Zoom session
+- Ending the Zoom meeting
 
-## What are the details of the Host role?
+## A Detailed Breakdown
 
-A Virtual Coffee Zoom session can largely be split into three (3) phases:
+A VC Coffee Chat can largely be split into four (4) phases:
 
-- Pre-coffee chat: Before the MC starts official introduction of the session
-- Breakout room time: The majority of the Zoom time, everyone should be in a breakout room
-- Wrap up and announcements: Discussions are done, folks are back in the main Zoom session
+- **Pre-coffee chat:** Before the event begins when attendees gather and chaos ensues
+- **Opening announcements:** The Coffee Chat has started with the MC giving the introduction
+- **Main discussion:** The majority of the event in which attendees are split into breakout rooms
+- **Wrap up:** Everyone has returned to the main Zoom room and the MC promotes some upcoming events
 
-### Host actions during Pre-Coffee Chat
+### During the Pre-coffee Chat and Opening Announcements
 
-- Ask the MC (or a maintainer present) to give you Host permissions if you don't have it already.
-- Create Co-hosts for those doing Room Leaders by clicking on their image card in Zoom and assign Co-host.
-- We recommended starting Host and room prep as soon as you have Host authority.
+Upon joining the Zoom, you should quickly receive Host permission from the MC (or a present Maintainer). If not, gently remind them as it can get a bit chaotic sometimes during pre-coffee chat. As soon as you have Host permission, you should begin your duties.
 
+#### Assigning Co-hosts
+
+Assign Co-host permission to the MC, Room Leaders, and Note Takers as they join the Zoom. To do this, open the Participants list and hover over their name. Click the 'More ▿' button and select the 'Make co-host' option.
+
+![A Zoom meeting][1]
+![Assigning Co-host permission in a Zoom meeting][2]
+![Zoom's 'Make Co-host' modal][3]
+
+#### Creating Breakout Rooms
+
+During this time you'll also want to create breakout rooms. Click the breakout rooms icon to open Zoom's Breakout Rooms modal.
+
+![Zoom's 'Breakout Rooms' modal][5]
+
+Enter the number of breakout rooms according to the post in `#vc-room-leaders-note-takers` and select **Assign manually** from the radio button options, then click the 'Create' button.
+
+![Zoom's 'Breakout Rooms' modal][6]
+
+Rename each breakout room after each Room Leader/Note Taker pairing. This will help you when you begin assigning attendees to breakout rooms.
+
+![Zoom's 'Breakout Rooms' modal][7]
+
+In the end, your naming format should reflect something similar to the below screenshot, displaying "Room Leader Name & Note Taker Name" as the room name.
+
+![Zoom's 'Breakout Rooms' modal][8]
+
+Continue to grant Co-host permission and add our volunteer Room Leaders and Note Takers to their appropriate breakout rooms as they join the session.
+
+![Assigning Co-host permission in a Zoom meeting with Breakout room modal][4]
+
+![Zoom's 'Breakout Rooms' modal with Room Leaders and Note Takers assigned][9]
+
+#### Assigning Attendees to Breakout Rooms
+
+#### Opening Breakout Rooms
+
+#### Joining a Breakout Room
+
+### During the Main Discussion
+
+#### Assigning Attendees to Breakout Rooms During the Chat
+
+#### Sending the Return Broadcast Message
+
+#### Closing Breakout Rooms
+
+<!-- THANOS SNAP -->
+
+### After the Wrap Up
+
+#### Ending the Meeting
+
+## Tips
+
+Stay froggy and keep Slack open!
+
+<!--
 #### Create breakout rooms
 
 - Click the breakout room icon.
@@ -52,3 +108,14 @@ A Virtual Coffee Zoom session can largely be split into three (3) phases:
 ### Final Announcements
 
 - As the Host, the Zoom does not officially end until you close it. You can close as soon as the MC completes their announcements and we do our usual group goodbye and wave. :)
+ -->
+
+[1]: /assets/images/make-co-host-01_animals.jpg
+[2]: /assets/images/make-co-host-02_animals.jpg
+[3]: /assets/images/make-co-host-03_animals.jpg
+[4]: /assets/images/make-co-host-04_animals.jpg
+[5]: /assets/images/create-breakout-room-01_animals.jpg
+[6]: /assets/images/create-breakout-room-02_animals.jpg
+[7]: /assets/images/create-breakout-room-03_animals.jpg
+[8]: /assets/images/create-breakout-room-04_animals.jpg
+[9]: /assets/images/assign-room-leaders-note-takers_animals.jpg
