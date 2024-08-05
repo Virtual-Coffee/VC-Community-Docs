@@ -8,4 +8,12 @@ Add them here! Feel free to change the header, include multiple sections, whatev
 
 ## Previous Learning Cohorts
 
-List coming soon
+### The Rust Learning Cohort
+
+[GitHub Discussion](https://github.com/orgs/Virtual-Coffee/discussions/1122)
+
+**Leads:**
+
+- Andy E
+- Meg Gutshall
+- Justin Wheeler
