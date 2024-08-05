@@ -11,7 +11,6 @@
 > We're looking for Co-hosts for:
 >
 > - Tech Interview Study Group
-> - Accountabilibuddies – Tuesdays
 > - DSA Office Hours
 > - Frontend Friday Folks Fighting CSSBattle.dev
 >
@@ -44,7 +43,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 
 **Hosts:**
 
-- **Tuesdays:** Rad Turkin
+- **Tuesdays:** Rad Turkin & David Akim
 - **Thursdays:** Meg Gutshall & Joe Karow
 
 You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
