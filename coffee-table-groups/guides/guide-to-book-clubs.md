@@ -2,11 +2,11 @@
 
 ## Starting a Book Club
 
-Starting a book club at Virtual Coffee is an exciting way to engage with other members. Any member can initiate a book club by suggesting a book in the #book-club channel on Slack. It's a good idea to gauge interest before finalizing your choice. Once you have a book in mind, check with the community about a suitable start date, allowing enough time for members to acquire the book. Consider the reading pace that would work for most participants. 
+Starting a book club at Virtual Coffee is an exciting way to engage with other members. Any member can initiate a book club by suggesting a book in the #book-club channel on Slack. It's a good idea to gauge interest before finalizing your choice. Once you have a book in mind, check with the community about a suitable start date, allowing enough time for members to acquire the book. Consider the reading pace that would work for most participants.
 
 As the organizer, you'll be responsible for setting up the discussion board, creating weekly question posts, and moderating discussions. We recommend finding a co-organizer to share these responsibilities. Having a co-organizer can help distribute the workload, provide backup if you're unavailable, and bring new perspectives to the discussion questions. You can ask for a co-organizer in the #book-club channel when proposing your book.
 
-Don't worry if you've never led a book club before; the VC community is supportive and will help you along the way. 
+Don't worry if you've never led a book club before; the VC community is supportive and will help you along the way.
 
 ## Format
 
@@ -21,6 +21,7 @@ All discussions take place on the [VC Book Club discussion board](https://github
 ## Setting Up the Book Club
 
 1. Create a new post on the discussion board with:
+
    - A brief description of the book
    - The discussion question schedule
 
