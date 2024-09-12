@@ -26,6 +26,7 @@ All discussions take place on the [VC Book Club discussion board](https://github
    - The discussion question schedule
 
 2. For each set of discussion questions:
+
    - Create a new comment in the main thread
    - Include the weekly questions
 
