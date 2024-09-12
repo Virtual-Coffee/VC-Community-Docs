@@ -16,7 +16,7 @@ Don't worry if you've never led a book club before; the VC community is supporti
 
 ## Discussion Platform
 
-All discussions take place on the [VC Book Club discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/vc-book-club) on GitHub
+All discussions take place on the [VC Book Club discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/vc-book-club) on GitHub.
 
 ## Setting Up the Book Club
 
