@@ -47,7 +47,7 @@ Read our blogpost to learn more. The Challenge page will be up shortly!
   Hello everyone!
   It's a new week, so now is the perfect time to strategize your plans for our Photography Challenge.
 
-  where you're going to go / 
+  where you're going to go /
   what you're going to do this week?
 
   If you're seeking inspiration, we've got you covered with a variety of ideas in our latest blogpost.
