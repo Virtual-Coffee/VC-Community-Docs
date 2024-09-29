@@ -8,7 +8,7 @@ assignees: ''
 
 ## Documentation process
 
-- In the [monthly challenge folder](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/monthly-challenges) create a new folder titled with the month and year.
+- In the [monthly challenge folder](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/monthly-challenges) create a new folder titled with the month and year.
 - Inside the folder, created a markdown file with the month title of the challenge. For example, `healthy-habits.md`.
 - Inside the doc, include the information from the checklist below.
 - Don't commit directly to main. Create a branch (as shown below) and notify the challenge team for feedback.

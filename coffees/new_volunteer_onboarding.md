@@ -22,13 +22,13 @@ out of your onboarding experience.
 ## The Documentation
 
 Here at VC we're trying for documentation driven roles and processes. As such we _always_ recommend new volunteers start by **reading the current documentation.** Check out the virtual coffee [contributors
-repository](https://github.com/Virtual-Coffee/VC-Contributors) for information, either in the files, or in the community driven
-[discussions](https://github.com/Virtual-Coffee/VC-Contributors/discussions). It's probably the fastest and most convenient way to get up to speed with how the team operates.
+repository](https://github.com/Virtual-Coffee/VC-Community-Docs) for information, either in the files, or in the community driven
+[discussions](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions). It's probably the fastest and most convenient way to get up to speed with how the team operates.
 
 ### Articles to get you started
 
-If you're part of the coffee room leading and note taking team, we suggest getting started with reviewing the docs in the [coffee folder](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/coffees)
-and focusing on the [room leader](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/coffees/RoomLeaders-ConversationFacilitators) and [note taker](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/coffees/Notetakers)
+If you're part of the coffee room leading and note taking team, we suggest getting started with reviewing the docs in the [coffee folder](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/coffees)
+and focusing on the [room leader](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/coffees/RoomLeaders-ConversationFacilitators) and [note taker](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/coffees/Notetakers)
 documentation especially. That should provide a decent start to understanding your role, as well as suggested tips and techniques for having a successful session.
 
 ### Reviews and Changes
@@ -55,7 +55,7 @@ in the thread.
 ## Your first note taking
 
 If you've familiarized yourself with the docs and you've signed up for your first notetaking then all that's left is to show up on your scheduled day ready to go!
-The [note taker doc](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/coffees/Notetakers) should have all the information you need to get going. If you
+The [note taker doc](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/coffees/Notetakers) should have all the information you need to get going. If you
 feel nervous, feel free to reach out to whoever you've been paired with. You should be assigned to someone who's had a lot of experience leading a room, and you can
 always ask them for advice or feedback. Just be aware that not everyone has a lot of time before coffees begin to chat due to other responsibilities.
 
@@ -64,7 +64,7 @@ always ask them for advice or feedback. Just be aware that not everyone has a lo
 Your first room lead will always have you paired with another experienced member, typically a maintainer. They'll chat with you beforehand to decide the way the two
 of you will handle the room, and what responsibilities you'll handle or share. You will probably start off doing mainly observation and monitoring and responding to the
 text chat. As you grow comfortable, you can start practicing doing the intro at the beginning of the breakout room, leading the ice breaker section, and finally, facilitating the main conversations.
-More details can be found in the [room leader doc](https://github.com/Virtual-Coffee/VC-Contributors/tree/main/coffees/RoomLeaders-ConversationFacilitators).
+More details can be found in the [room leader doc](https://github.com/Virtual-Coffee/VC-Community-Docs/tree/main/coffees/RoomLeaders-ConversationFacilitators).
 We highly encourage you to reach out to your paired room leader before, during, and after this for advice and feedback.
 
 Two things we believe it's important to remember during this process:

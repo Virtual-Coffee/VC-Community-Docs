@@ -26,7 +26,7 @@ This repository is organized into several key areas of community management:
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
   - [Add a Coffee Table Group](./procedures/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
-- [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
+- [Documentation Team](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
   - **Lead**: Ayu
 
 ## How to Use This Repo
@@ -56,11 +56,10 @@ If you're interested in joining Virtual Coffee or learning more about our commun
 
 ## Questions or Feedback?
 
-If you have questions about our processes or want to discuss community building, feel free to open an issue or start a discussion in this repository. We're always happy to connect!
-
----
+If you have questions about our processes or want to discuss community building, feel free to open an issue or start a [discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) in this repository. We're always happy to connect!
 
 We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
+
 
 > [!NOTE]  
 > Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).

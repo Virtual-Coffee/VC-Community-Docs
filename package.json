@@ -1,9 +1,9 @@
 {
-  "name": "vc-contributors",
+  "name": "VC-Community-Docs",
   "version": "1.0.0",
   "description": "Management and coordination for Virtual Coffee Contributors",
   "main": "index.js",
-  "repository": "git+https://github.com/Virtual-Coffee/VC-Contributors.git",
+  "repository": "git+https://github.com/Virtual-Coffee/VC-Community-Docs.git",
   "author": "Virtual Coffee",
   "license": "UNLICENSED",
   "engines": {
@@ -11,9 +11,9 @@
   },
   "packageManager": "yarn@1.22.19",
   "bugs": {
-    "url": "https://github.com/Virtual-Coffee/VC-Contributors/issues"
+    "url": "https://github.com/Virtual-Coffee/VC-Community-Docs/issues"
   },
-  "homepage": "https://github.com/Virtual-Coffee/VC-Contributors#readme",
+  "homepage": "https://github.com/Virtual-Coffee/VC-Community-Docs#readme",
   "scripts": {
     "format": "prettier --ignore-unknown --write .",
     "check": "prettier --ignore-unknown --check ."
