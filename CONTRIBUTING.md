@@ -11,15 +11,15 @@ With that said, if you believe someone has violated the Code of Conduct, please 
 Before you begin:
 
 - Have you read our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/)?
-- Check out [existing issues](https://github.com/Virtual-Coffee/VC-Contributors/issues) and the [discussion board](https://github.com/Virtual-Coffee/VC-Contributors/discussions) to ensure your issue hasn’t been brought up before.
+- Check out [existing issues](https://github.com/Virtual-Coffee/VC-Community-Docs/issues) and the [discussion board](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) to ensure your issue hasn’t been brought up before.
 
 ## Types of Contributions :memo:
 
-You can contribute to the VC-Contributors content and documentation in several ways. This repo (short for repository) is a place to discuss and collaborate on event planning and coordination at Virtual Coffee.
+You can contribute to the VC-Community-Docs content and documentation in several ways. This repo (short for repository) is a place to discuss and collaborate on event planning and coordination at Virtual Coffee.
 
 ### :mega: Discussions
 
-For questions, comments, or other discussion topics that don’t have a clear action, please use the [discussion board](https://github.com/Virtual-Coffee/VC-Contributors/discussions).
+For questions, comments, or other discussion topics that don’t have a clear action, please use the [discussion board](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions).
 
 For example, if you want to ask “Should we do…” or “How do I do…”, you’ll start in the discussion board. This allows a whole-group conversation, and we can integrate the answer into docs or issues as necessary.
 

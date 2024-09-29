@@ -17,7 +17,7 @@
 - [Email notifications](#email-notifications)
 - [Feedback](#feedback)
 
-Hey, welcome to being a member of the Virtual Coffee contributors community! As part of this community, you have access to [**Discussion Boards**](https://github.com/Virtual-Coffee/VC-Contributors/discussions); message boards here on GitHub where the majority of our communications take place. To help you get the most out of discussion boards we wanted to create a short guide.
+Hey, welcome to being a member of the Virtual Coffee contributors community! As part of this community, you have access to [**Discussion Boards**](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions); message boards here on GitHub where the majority of our communications take place. To help you get the most out of discussion boards we wanted to create a short guide.
 
 ## Why did we choose to use discussion boards?
 
@@ -32,13 +32,13 @@ Seeing as we are already using GitHub for hosting our documentation and coordina
 
 ## How to find a discussion?
 
-- First, navigate to the [Discussions](https://github.com/Virtual-Coffee/VC-Contributors/discussions) section of the repo.
+- First, navigate to the [Discussions](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) section of the repo.
 - Pinned discussions at the top are we where we keep important discussions that we always want to be able to find quickly.
 - Discussions are organized by category and can be search and filtered by them, as well as recency.
 
 ## How to make a new discussion
 
-- Creating a new discussion is as simple clicking the [New Discussion](https://github.com/Virtual-Coffee/VC-Contributors/discussions/new) button, and choosing an appropriate category and title.
+- Creating a new discussion is as simple clicking the [New Discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions/new) button, and choosing an appropriate category and title.
 - If you could see your discussion going into multiple categories, pick whichever you'd think is the most relevant (or what another person might look for to find it)
 - It may not always be relevant, but it is highly suggested to put as much context and framing into your original discussion post as necessary. Providing folks with enough info to assist you, or answer your question is preferred.
 - Remember that we're all volunteers here, and all efforts are people trying to make time from their other responsibilities. Sometimes, someone you've tagged in a discussion may not respond right away. If the information needed is time sensitive and a deadline is approaching, message a maintainer.
@@ -100,7 +100,7 @@ Anyone in the repository space has the ability to respond to discussion topics. 
 
 When it comes to how folks choose to get notified, we absolutely believe you should stick to whatever systems you have in please that work for you. However, for those who may be new to working on projects on the GitHub interface, or looking for a good method to receive notifications without being overwhelmed, we recommend the following:
 
-- Navigate to the `VC-Contributors` repository. You should see the `watch` toggle on the top right of the screen
+- Navigate to the `VC-Community-Docs` repository. You should see the `watch` toggle on the top right of the screen
 - Clicking this will reveal a drop-down that allows you to select what types of events in this repo you want to be notified about
 - We do not recommend `All activity` as people frequently find this overwhelming and end up tuning out repo events entirely. Ignore is also not recommended.
 - `Participating and Mentions` is our general recommendation. You'll receive notifications about any issue or discussion you're tagged in, and subsequent messages in those spaces on.
@@ -112,4 +112,4 @@ GitHub allows you to customize your email notification settings on a per-organiz
 
 ## Feedback
 
-If you have any questions after reading this, please do not hesitate to [post a new Question discussion topic](https://github.com/Virtual-Coffee/VC-Contributors/discussions/new), ask a Virtual Coffee Maintainer about it, or email us at hello@virtualcoffee.io.
+If you have any questions after reading this, please do not hesitate to [post a new Question discussion topic](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions/new), ask a Virtual Coffee Maintainer about it, or email us at hello@virtualcoffee.io.

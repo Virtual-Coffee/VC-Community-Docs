@@ -33,7 +33,7 @@ The Monthly Challenge Team abides by the Virtual Coffee [Code of Conduct](https:
 
 Let us know your availability for the challenge in the reminder thread that drops every mid-month in the `#vc-monthly-challenge-team` channel in Slack.
 
-If you have ideas for a new challenge(s), you can propose and discuss them in the `#vc-monthly-challenge-team` channel on Slack or open a new [discussion on GitHub](https://github.com/Virtual-Coffee/VC-Contributors/discussions).
+If you have ideas for a new challenge(s), you can propose and discuss them in the `#vc-monthly-challenge-team` channel on Slack or open a new [discussion on GitHub](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions).
 
 ### Before the Challenge
 

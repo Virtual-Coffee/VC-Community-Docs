@@ -19,7 +19,7 @@ Management and coordination for Virtual Coffee Contributors
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
     - **Lead**: Bogdan
   - [Add a Coffee Table Group](./procedures/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
-- [Documentation Team](https://github.com/Virtual-Coffee/VC-Contributors/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
+- [Documentation Team](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
   - **Lead**: Ayu
 
 ## How to Use This Repo
@@ -28,7 +28,7 @@ This repo is meant to help facilitate communication and coordination for Virtual
 
 In general, there will be an entire docs section (as well as issue templates, project boards, etc.) for each area of responsibility.
 
-If you have a question or general observation, the [Contributors team discussion board on GitHub](https://github.com/Virtual-Coffee/VC-Contributors/discussions) would be a great place to start.
+If you have a question or general observation, the [Contributors team discussion board on GitHub](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) would be a great place to start.
 
 Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
 
