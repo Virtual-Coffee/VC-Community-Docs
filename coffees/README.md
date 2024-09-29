@@ -31,7 +31,7 @@ The Room Leaders are the conversation facilitators of the breakout rooms. They g
 
 - [Room Leader docs](./RoomLeaders-ConversationFacilitators)
 
-### Note Takers:
+### Notetakers:
 
 Notetakers take notes on the conversation in the breakout rooms, grab the links that are dropped, and post the notes to slack after Coffee.
 
