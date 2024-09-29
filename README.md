@@ -41,6 +41,7 @@ This repo is meant to help facilitate communication and coordination for Virtual
 ## Community Building Insights
 
 Throughout this repository, you'll find insights into:
+
 - Creating welcoming spaces for developers of all levels
 - Organizing and managing regular community events
 - Creating leadership and volunteer opportunities
@@ -50,6 +51,7 @@ Throughout this repository, you'll find insights into:
 ## Get Involved with Virtual Coffee
 
 If you're interested in joining Virtual Coffee or learning more about our community:
+
 - Visit our [website](https://virtualcoffee.io)
 - Check out our [membership information](https://virtualcoffee.io/join)
 - Explore our [public resources for developers](https://virtualcoffee.io/resources)
@@ -59,7 +61,6 @@ If you're interested in joining Virtual Coffee or learning more about our commun
 If you have questions about our processes or want to discuss community building, feel free to open an issue or start a [discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) in this repository. We're always happy to connect!
 
 We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
-
 
 > [!NOTE]  
 > Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
