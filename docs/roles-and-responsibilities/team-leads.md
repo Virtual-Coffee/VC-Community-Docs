@@ -49,7 +49,7 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 - Create issues on VC repos for documentation issues
 - Identify documentation projects that can be collaborated on by VC members
 
-## Coffee Table Groups Lead
+## Coffee Table Groups Coordinator
 
 - Maintain a list of all Coffee Table Groups
 - Add new groups when a form submission is received
