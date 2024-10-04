@@ -1,9 +1,9 @@
-# How to Use Discussion Boards
+# How to Use Github Discussions
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Why Discussion Boards?](#why-discussion-boards)
+2. [Why Github Discussions?](#why-github-discussions)
 3. [Finding and Creating Discussions](#finding-and-creating-discussions)
 4. [Best Practices](#best-practices)
 5. [Types of Discussions](#types-of-discussions)
@@ -13,11 +13,11 @@
 
 ## Introduction
 
-Welcome to the Virtual Coffee contributors community! This guide will help you navigate our [**Discussion Boards**](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions), the primary platform for our community communications.
+Welcome to the Virtual Coffee contributors community! This guide will help you navigate our [**Github Discussions**](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions), the primary platform for our community communications.
 
-## Why Discussion Boards?
+## Why Github Discussions?
 
-We chose GitHub Discussion Boards because they are:
+We chose GitHub Discussions because they are:
 
 - User-friendly
 - Accessible
@@ -28,7 +28,7 @@ We chose GitHub Discussion Boards because they are:
 
 ### How to Find a Discussion
 
-1. Navigate to the [Discussions](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) section.
+1. Navigate to the [Discussions](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) tab.
 2. Use pinned discussions for quick access to important topics.
 3. Browse by category or use the search function.
 
