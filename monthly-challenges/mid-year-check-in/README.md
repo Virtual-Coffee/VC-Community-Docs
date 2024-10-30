@@ -36,7 +36,9 @@ Slack channels that we use for the challenge:
 ## Past Challenges
 
 - [June 2024](https://virtualcoffee.io/monthlychallenges/june-2024)
+- June 2023
 
 ## Past Blog Posts
 
 - **2024**: [Monthly Challenge: Mid-Year Check-In — Recharge and Refocus for an Amazing Second Half!](https://dev.to/virtualcoffee/monthly-challenge-mid-year-check-in-recharge-and-refocus-for-an-amazing-second-half-2k4c)
+- **2023**: [Join Virtual Coffee for the Mid-Year Check-In Challenge: Reflect, Reevaluate, and Grow!](https://dev.to/virtualcoffee/join-virtual-coffee-for-the-mid-year-check-in-challenge-reflect-reevaluate-and-grow-3npk)
