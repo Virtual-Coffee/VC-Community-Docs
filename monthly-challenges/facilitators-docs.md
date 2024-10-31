@@ -24,9 +24,9 @@ The Monthly Challenge Team abides by the Virtual Coffee [Code of Conduct](https:
     - [Creating a Slack Reminder](#creating-a-slack-reminder)
     - [Scheduling a Thread](#scheduling-a-thread)
   - [Updating the Monthly Challenge Pages on the Website](#updating-the-monthly-challenge-pages-on-the-website)
-    - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
-    - [2. Updating the monthly challenge landing page](#2-updating-the-monthly-challenge-landing-page)
-    - [3. Adding a success "completed challenge" alert to the previous challenge](#3-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
+    - [Creating a new challenge page](creating-a-new-challenge-page)
+    - [Updating the monthly challenge landing page](updating-the-monthly-challenge-landing-page)
+    - [Adding a success "completed challenge" alert to the previous challenge](adding-a-success-completed-challenge-alert-to-the-previous-challenge)
 
 ## Facilitating a Challenge
 
@@ -143,25 +143,25 @@ Even though most of our challenges remain the same as in previous years, we also
 
 Every month, we update these pages with the challenge's description and instructions on participating. Here is how to update the pages:
 
-#### 1. Creating a new challenge page
+#### Creating a new challenge page
 
-- Go to `src\app\monthlychallenges\(challenges)`.
-- Create a new folder for the challenge and follow previous challenges for the naming format. For example, `sept-2024`.
-- Create a `page.tsx` file in the folder.
-- Write the content.
+1. Go to `src\app\monthlychallenges\(challenges)`.
+2. Create a new folder for the challenge and follow previous challenges for the naming format. For example, `sept-2024`.
+3. Create a `page.tsx` file in the folder.
+4. Write the content.
 
 > [!NOTE]
 >
 > - For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge.
 > - For a brand-new challenge, you need to write the content from scratch to introduce and describe it. However, you can use the format of any previous challenge.
 
-#### 2. Updating the monthly challenge landing page
+#### Updating the monthly challenge landing page
 
-- Go to `src\app\monthlychallenges\page.tsx`.
-- Remove the `current: true` from the previous challenge and set it for the new challenge.
-- Update the link to the blog post. If there is no blog post, comment it out.
-- Update the link to the challenge page.
-- Update the link of the previous challenge.
+1. Go to `src\app\monthlychallenges\page.tsx`.
+2. Remove the `current: true` from the previous challenge and set it for the new challenge.
+3. Update the link to the blog post. If there is no blog post, comment it out.
+4. Update the link to the challenge page.
+5. Update the link of the previous challenge.
 
 Here is an example:
 
@@ -213,11 +213,11 @@ Here is an example:
 },
 ```
 
-#### 3. Adding a success "completed challenge" alert to the previous challenge
+#### Adding a success "completed challenge" alert to the previous challenge
 
-- Open the `page.tsx` file in the previous challenge folder.
-- Add the alert right on top of `<h1>`.
-- Update the link to the new challenge.
+1. Open the `page.tsx` file in the previous challenge folder.
+2. Add the alert right on top of `<h1>`.
+3. Update the link to the new challenge.
 
 Here is an example:
 
