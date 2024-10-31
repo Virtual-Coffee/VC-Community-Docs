@@ -32,7 +32,7 @@ Prepare the [vc-preptember repository](https://github.com/Virtual-Coffee/vc-prep
 ```text
 It’s now September and that means it is time for the Preptember Challenge!
 
-We have to main strands planned for this month's challenge.
+We have two main strands planned for this month's challenge.
 
 - The [repository](https://github.com/Virtual-Coffee/vc-preptember) where contributors and aspiring contributors can practice a real contribution flow on GitHub, and maintainers or seasoned contributors can add repositories to the list to recommend for Hacktoberfest month.
 - The OpenSauced maintainers and contributors courses. Stay tuned for specifics of our program around these courses.
