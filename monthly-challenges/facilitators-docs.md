@@ -38,7 +38,7 @@ If you have ideas for a new challenge(s), you can propose and discuss them in th
 
 #### Coordinating with the Coffee Table Groups
 
-We love collaboration! We're happy to involve our Coffee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more and, ultimately, give them support through volunteering.
+We love collaboration! We're happy to involve our [Coffee Table Groups](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/coffee-table-groups) in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more and, ultimately, give them support through volunteering.
 
 ⏳ **Timeline**: When a challenge has been decided.
 
