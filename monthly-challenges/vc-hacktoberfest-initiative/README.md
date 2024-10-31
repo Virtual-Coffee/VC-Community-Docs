@@ -109,10 +109,11 @@ Slack channels that we use for the challenge:
   - Challenge announcements.
   - Async check-ins.
   - Questions, help, and support.
-- `#hacktoberfest-co-working-room`
-  - Co-working room during Hacktoberfest.
 - `#help-and-pairing` and `#open-source`
   - Questions, help, and support.
+- `#co-working-room`
+  - Sync check-ins.
+  - Sync help and support.
 
 ---
 
