@@ -159,6 +159,16 @@ Slack channels that we use for the challenge:
 - **[Becoming a Maintainer Workshop](https://www.youtube.com/watch?v=a-wrAFiBqFI)** with Ayu and Bekah.
 - **[Intro to Open Source Workshop](https://www.youtube.com/watch?v=KoVX3kGMn3c)** with Ayu and Bekah.
 
+**2023**
+
+- **[How to best prepare as a maintainer for Hacktoberfest](https://www.youtube.com/watch?v=b2d84LhlW6Q)** with Jessica
+- **[How to Discover Open Source Projects That Align with Your Needs and Goals](https://youtu.be/A7qZwaqBC00?si=0gSKVDyQ8N6DoLM3)** with Jessica
+
+**2022**
+
+- [Hacktoberfest & OpenSauced](https://www.youtube.com/watch?v=A8iI2jlsqfs) with Bekah and Brian Douglas (AKA bdougie)
+- [Intro to Hacktoberfest: PRs, Issues, Evaluating repos](https://www.youtube.com/watch?v=QAUodCQnpkQ) with Bekah, Dan, and Kirk
+
 ## Past Challenges
 
 - [September 2024](https://virtualcoffee.io/monthlychallenges/sept-2024)
