@@ -116,6 +116,20 @@ Slack channels that we use for the challenge:
 
 ---
 
+## Past Events
+
+**2024**
+
+- **[Virtual Coffee Hacktoberfest Initiative Kickoff 2024](https://www.youtube.com/watch?v=NhX2GSCvR6Q)** with Dan
+
+**2023**
+
+- **[Virtual Coffee Hacktoberfest Kickoff](https://www.youtube.com/watch?v=yk7OigN9D-c)** with Dan and Bekah
+
+**2022**
+
+- **[Hacktoberfest Initiative Kickoff – Hacktoberfest Initiative – Virtual Coffee](https://www.youtube.com/watch?v=4Pt-14e08xE)** with Dan and Bekah
+
 ## Past Challenges
 
 - [October 2024](https://virtualcoffee.io/monthlychallenges/oct-2024)
