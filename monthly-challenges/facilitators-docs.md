@@ -86,7 +86,7 @@ We love collaboration! We're happy to involve our [Coffee Table Groups](https://
 
 Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in the challenge folder for complete instructions.
 
-See the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section to learn more about working with Slack during the challenge.
+Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section.
 
 ### Post Challenge
 
@@ -146,14 +146,14 @@ Every month, we update these pages with the challenge's description and instruct
 #### 1. Creating a new challenge page
 
 - Go to `src\app\monthlychallenges\(challenges)`.
-- Create a new folder for the challenge. Follow previous challenges for the naming format. For example, `sept-2024`.
+- Create a new folder for the challenge and follow previous challenges for the naming format. For example, `sept-2024`.
 - Create a `page.tsx` file in the folder.
 - Write the content.
 
 > [!NOTE]
 >
 > - For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge.
-> - For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
+> - For a brand-new challenge, you need to write the content from scratch to introduce and describe it. However, you can use the format of any previous challenge.
 
 #### 2. Updating the monthly challenge landing page
 
@@ -173,7 +173,7 @@ Here is an example:
 	description: (
 		<>
 			<p>
-				Based off the NaNoWriMo (National Novel Writing Month) Challenge, this
+				Based on the NaNoWriMo (National Novel Writing Month) Challenge, this
 				challenge is the tech take on writing and working together towards the
 				goal while posting on our own blogs.
 			</p>
@@ -215,7 +215,7 @@ Here is an example:
 
 #### 3. Adding a success "completed challenge" alert to the previous challenge
 
-- Open the previous challenge file.
+- Open the `page.tsx` file in the previous challenge folder.
 - Add the alert right on top of `<h1>`.
 - Update the link to the new challenge.
 
