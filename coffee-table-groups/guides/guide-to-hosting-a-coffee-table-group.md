@@ -19,7 +19,7 @@ You can start a thread on the automated 'Starting Soon' post in the `#vc-events`
 ![Thread on post to the `#vc-events` channel in Slack][9]
 
 > [!IMPORTANT]
-> Do not post in the `#vc-announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
+> Do not post in the `#announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
 
 ## Zoom Logistics
 
