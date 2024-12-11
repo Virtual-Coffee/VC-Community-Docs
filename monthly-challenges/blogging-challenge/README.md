@@ -54,17 +54,17 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
 
   ```text
   Hey everyone! 👋 It's time for our Friday check-in!
-  
+
   I'd love to hear about what you've been writing this week. How’s it going? Is there anything you’re working on where you’d like some extra help or feedback? Feel free to share your thoughts here!
-  
+
   Also, a quick reminder: if you'd like feedback on any drafts, you can post them in #monthly-challenge or #content-creation. And don't forget to fill out our form once you’ve published something new! Here’s the link: Airtable Submission Form (https://airtable.com/app10kd5ewHiLTjxn/shrgRjUFpNjLN1V12).
-  
+
   Let’s keep the creativity going—excited to see what everyone has been working on! ✍️
   ```
 
   ```text
   Hi friends!
-  
+
   As our members come from all over the world, we're thrilled to let you know that our Blogging Challenge is not limited to English only! 🌐🎉
 
   If you write articles, blog posts, novel, or anything else in any other language(s) than English, add them to the [challenge page](https://virtualcoffee.io/monthlychallenges/nov-2024) by filling in the submission form in the page! 🙌
@@ -74,7 +74,7 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
 
   ```text
   Hi friends! 👋 Happy Friday!
-  
+
   Thanks to everyone who shared their updates last week—it was inspiring to see all the different projects in progress!
 
   This week, I'd especially love to hear about:
@@ -113,7 +113,7 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
 
   Excited to see what everyone's been creating this month. Let's make this final push count! 💪✨
 
-  What are you planning to wrap up in these last 24 hours? Share your plans below! 
+  What are you planning to wrap up in these last 24 hours? Share your plans below!
   ```
 
 **2023**
