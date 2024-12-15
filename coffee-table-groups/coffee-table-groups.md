@@ -8,11 +8,7 @@
 ## Active Groups
 
 > [!NOTE]
-> We're looking for Co-hosts for:
->
-> - Tech Interview Study Group
-> - DSA Office Hours
-> - Frontend Friday Folks Fighting CSSBattle.dev
+> We're continually accepting volunteer applications for Co-hosts for all Coffee Table Groups.
 >
 > Please reach out to Meg or Abbey to inquire about getting involved with either of these groups.
 
