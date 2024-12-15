@@ -55,7 +55,7 @@ Once your Co-host enters the Zoom, hover over their name in the Participants tab
 
 ### Creating Breakout Rooms
 
-Some Coffee Table groups utilize breakout rooms. If yours is one of those groups, read on to learn how to create breakout rooms.
+Some Coffee Table Groups utilize breakout rooms. If yours is one of those groups, read on to learn how to create breakout rooms.
 
 Once you claim Host in Zoom, you'll see a 'Breakout rooms' tab. When you select this, a pop-up will appear with options. Be sure to select the following:
 
