@@ -14,6 +14,6 @@ Abbey Perini (@abbeyperini)
 
 <!-- Anyone else? -->
 
-### Events Maintainer
+### Weekly Events Maintainer
 
 Meg Gutshall (@meg-gutshall)
