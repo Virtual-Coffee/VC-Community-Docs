@@ -24,10 +24,9 @@ The Monthly Challenge Team abides by the Virtual Coffee [Code of Conduct](https:
     - [Creating a Slack Reminder](#creating-a-slack-reminder)
     - [Scheduling a Thread](#scheduling-a-thread)
   - [Updating the Monthly Challenge Pages on the Website](#updating-the-monthly-challenge-pages-on-the-website)
-    - [1. Creating a new challenge page](#1-creating-a-new-challenge-page)
-    - [2. Updating the monthly challenge data](#2-updating-the-monthly-challenge-data)
-    - [3. Updating the monthly challenge landing page](#3-updating-the-monthly-challenge-landing-page)
-    - [4. Adding a success "completed challenge" alert to the previous challenge](#4-adding-a-success-completed-challenge-alert-to-the-previous-challenge)
+    - [Creating a new challenge page](creating-a-new-challenge-page)
+    - [Updating the monthly challenge landing page](updating-the-monthly-challenge-landing-page)
+    - [Adding a success "completed challenge" alert to the previous challenge](adding-a-success-completed-challenge-alert-to-the-previous-challenge)
 
 ## Facilitating a Challenge
 
@@ -39,7 +38,7 @@ If you have ideas for a new challenge(s), you can propose and discuss them in th
 
 #### Coordinating with the Coffee Table Groups
 
-We love collaboration! We're happy to involve our Coffee Table Groups in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more and, ultimately, give them support through volunteering.
+We love collaboration! We're happy to involve our [Coffee Table Groups](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/coffee-table-groups) in our challenges whenever possible. Besides giving more support to our community, our goal is that the community becomes more familiar with the Coffee Table Groups and can encourage them to attend the groups more and, ultimately, give them support through volunteering.
 
 ⏳ **Timeline**: When a challenge has been decided.
 
@@ -87,7 +86,7 @@ We love collaboration! We're happy to involve our Coffee Table Groups in our cha
 
 Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in the challenge folder for complete instructions.
 
-See the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section to learn more about working with Slack during the challenge.
+Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](#setting-up-a-slack-bot)" section.
 
 ### Post Challenge
 
@@ -144,107 +143,87 @@ Even though most of our challenges remain the same as in previous years, we also
 
 Every month, we update these pages with the challenge's description and instructions on participating. Here is how to update the pages:
 
-#### 1. Creating a new challenge page
+#### Creating a new challenge page
 
-- Go to `app/routes/__frontend/monthlychallenges`.
-- Create a new `jsx` file for the challenge. For example, `feb-2024.jsx`.
-- Write the content.
+1. Go to `src\app\monthlychallenges\(challenges)`.
+2. Create a new folder for the challenge and follow previous challenges for the naming format. For example, `sept-2024`.
+3. Create a `page.tsx` file in the folder.
+4. Write the content.
 
 > [!NOTE]
 >
 > - For repeated challenges, you can copy and paste the content from the past challenge's file and update it to fit the upcoming challenge.
-> - For a brand-new challenge, you need to write the content from scratch to introduce and describe the challenge. You can use the format of any previous challenge.
+> - For a brand-new challenge, you need to write the content from scratch to introduce and describe it. However, you can use the format of any previous challenge.
 
-#### 2. Updating the monthly challenge data
+#### Updating the monthly challenge landing page
 
-- Go to `app/data/monthlyChallenges/getChallenges.ts`.
-- Update the data with the upcoming challenge data.
-
-Here is an example, adding June 2024 challenge data:
-
-```javascript
-import { handle as june2024 } from '~/routes/__frontend/monthlychallenges/june-2024'; // add this data
-import { handle as may2024 } from '~/routes/__frontend/monthlychallenges/may-2024';
-import { handle as apr2024 } from '~/routes/__frontend/monthlychallenges/apr-2024';
-...
-
-const challenges: Challenge[] = [
-	{ handleData: june2024, slug: 'june-2024' }, // add this data
-	{ handleData: may2024, slug: 'may-2024' },
-	{ handleData: apr2024, slug: 'apr-2024' },
-	...
-];
-```
-
-#### 3. Updating the monthly challenge landing page
-
-- Go to `app/routes/__frontend/monthlychallenges/index.tsx`.
-- Remove the `current: true` from the previous challenge and set it for the new challenge.
-- Update the link to the blog post. If there is no blog post, comment it out.
-- Update the link to the challenge page.
-- Update the link of the previous challenge.
+1. Go to `src\app\monthlychallenges\page.tsx`.
+2. Remove the `current: true` from the previous challenge and set it for the new challenge.
+3. Update the link to the blog post. If there is no blog post, comment it out.
+4. Update the link to the challenge page.
+5. Update the link of the previous challenge.
 
 Here is an example:
 
 ```javascript
-	{
-		current: true,  // set for the new challenge
-		title: 'Blogging Challenge',
-		subtitle: `A Community Challenge to hit a word count goal for all our tech blogs.`,
-		description: (
-			<>
-				<p>
-					Based off the NaNoWriMo (National Novel Writing Month) Challenge, this
-					challenge is the tech take on writing and working together towards the
-					goal while posting on our own blogs.
-				</p>
-				// Update the link to a challenge blog post. If there is no blog post, comment out the paragraph.
-				<p>
-					Learn more about this challenge in{' '}
-					<a href="https://dev.to/virtualcoffee/blogging-2023-monthly-challenge-3kng">
-						this blog post
-					</a>
-					.
-				</p>
-				// Update the link to the new challenge page on the website
-				<p>
-					To view all of the details of this year's challenge,{' '}
-					<Link to="/monthlychallenges/nov-2023">
-						check out the November 2023 challenge page
-					</Link>
-					.
-				</p>
-			</>
-		),
-		links: [
-			// Add the link and title of the previous challenge
-			{
-				href: '/monthlychallenges/nov-2022',
-				title: 'November, 2022',
-			},
-			{
-				href: '/monthlychallenges/nov-2021',
-				title: 'November, 2021',
-			},
-			{
-				href: '/monthlychallenges/nov-2020',
-				title: 'November, 2020',
-			},
-		],
-	},
+{
+	current: true,  // set for the new challenge
+	title: 'Blogging Challenge',
+	subtitle: `A Community Challenge to hit a word count goal for all our tech blogs.`,
+	description: (
+		<>
+			<p>
+				Based on the NaNoWriMo (National Novel Writing Month) Challenge, this
+				challenge is the tech take on writing and working together towards the
+				goal while posting on our own blogs.
+			</p>
+			// Update the link to a challenge blog post. If there is no blog post, comment out the paragraph.
+			<p>
+				Learn more about this challenge in{' '}
+				<a href="https://dev.to/virtualcoffee/blogging-2023-monthly-challenge-3kng">
+					this blog post
+				</a>
+				.
+			</p>
+			// Update the link to the new challenge page on the website
+			<p>
+				To view all of the details of this year's challenge,{' '}
+				<Link to="/monthlychallenges/nov-2023">
+					check out the November 2023 challenge page
+				</Link>
+				.
+			</p>
+		</>
+	),
+	links: [
+		// Add the link and title of the previous challenge
+		{
+			href: '/monthlychallenges/nov-2022',
+			title: 'November, 2022',
+		},
+		{
+			href: '/monthlychallenges/nov-2021',
+			title: 'November, 2021',
+		},
+		{
+			href: '/monthlychallenges/nov-2020',
+			title: 'November, 2020',
+		},
+	],
+},
 ```
 
-#### 4. Adding a success "completed challenge" alert to the previous challenge
+#### Adding a success "completed challenge" alert to the previous challenge
 
-- Open the previous challenge file.
-- Add the alert right on top of `<h1>`.
-- Update the link to the new challenge.
+1. Open the `page.tsx` file in the previous challenge folder.
+2. Add the alert right on top of `<h1>`.
+3. Update the link to the new challenge.
 
 Here is an example:
 
 ```javascript
 <div className="alert alert-success">
   This monthly challenge is complete. Congratulations! Please join us for the{' '}
-  <Link to="/monthlychallenges/mar-2024">next challenge</Link>!
+  <Link to="/monthlychallenges/dec-2023">next challenge</Link>!
 </div>
 ```
