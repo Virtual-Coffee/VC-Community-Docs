@@ -1,6 +1,6 @@
 # Creating Audio/Visual Content
 
-For this challenge, members present their knowledge and showcase their understanding by exploring video and audio mediums for sharing knowledge, highlighting their achievements. They might do that by giving Lunch & Learns, YouTube videos, podcasts, or some other form of audio or video content they created that explores a coding-related concept — there's no length requirement.
+For this challenge, members present their knowledge, highlighting their achievements, and showcase their understanding by exploring video and audio mediums. They might do that by giving Lunch & Learns, creating YouTube videos, recording podcasts, or some other form of audio or video content they created that explores a coding-related concept — there's no length requirement.
 
 We believe this provides value by solidifying ideas, creating a resource for others, inviting personal growth through conversations sparked by sharing, and demonstrating their ability to talk through a concept.
 
