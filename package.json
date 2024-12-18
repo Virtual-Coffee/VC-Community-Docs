@@ -5,7 +5,6 @@
   "main": "index.js",
   "repository": "git+https://github.com/Virtual-Coffee/VC-Community-Docs.git",
   "author": "Virtual Coffee",
-  "license": "UNLICENSED",
   "engines": {
     "node": "18.16"
   },
