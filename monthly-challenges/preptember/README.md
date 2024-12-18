@@ -68,7 +68,7 @@ Read our challenge page for the details, and watch this walkthrough video to giv
 
   ```text
   Friday, September 27th 10:30a ET
-  
+
   In this workshop, Ayu and Bekah will walk you through on making a positive impact in open source as a contributor. They'll share ways to get started, talk about considerations for communications, contributions, and being a good open source citizen. They'll also share how you can get your first Hacktoberfest contribution and answer your questions.
   ```
 
@@ -86,7 +86,7 @@ Read our challenge page for the details, and watch this walkthrough video to giv
   Hi friends!
 
   How's everyone getting on with Preptember challenge?
-  
+
   Don't forget to participate in our [Preptember repository](https://github.com/Virtual-Coffee/vc-preptember).
 
   For contributors, you can practice making a contribution by adding your name and favorite cake or snack.
