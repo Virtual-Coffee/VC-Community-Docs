@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD024 -->
+
 # Coffee Table Groups
 
 > [!IMPORTANT]
