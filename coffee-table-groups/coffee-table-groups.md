@@ -104,7 +104,7 @@ On Fridays, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We
 
 - Ethan Freire
 
-Feelings Friday was started at the Flatiron School coding boot camp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a supportive group where everyone has the opportunity to share what’s on their mind in a safe environment. It's a great way to unwind at the end of the week!
+Feelings Friday was started at the Flatiron School coding bootcamp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a supportive group where everyone has the opportunity to share what’s on their mind in a safe environment. It's a great way to unwind at the end of the week!
 
 ## Inactive Groups
 
