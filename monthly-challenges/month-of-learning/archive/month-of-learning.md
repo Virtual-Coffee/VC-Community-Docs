@@ -4,10 +4,10 @@
 
 ### Pre-work
 
-- Announce new challenge mid-early Decemeber to get people thinking about the challenge
+- Announce new challenge mid-early December to get people thinking about the challenge
 - The last week of the month announce in VC
 - Get the challenge page up
-- Talk to the coffee table groups
+- Talk to the Coffee Table Groups
 
 ### During the challenge
 
