@@ -6,4 +6,4 @@ Most of our challenges have been created, and the directions and structure are a
 
 The Monthly Challenge Team abides by the Virtual Coffee [Code of Conduct](https://virtualcoffee.io/code-of-conduct/). Please take a moment to read it.
 
-Please head over to the [Facilitating a Challenge](./facilitate-a-challenge.md) page for general procedures to facilitate a challenge and [Technical Guidelines](./technical-guidelines.md) for the technical procedures around Slack and updating monthly challenge pages on the website.
+Please head over to the [Facilitating a Challenge](facilitate-a-challenge.md) page for general procedures to facilitate a challenge and [Technical Guidelines](technical-guidelines.md) for the technical procedures around Slack and updating monthly challenge pages on the website.

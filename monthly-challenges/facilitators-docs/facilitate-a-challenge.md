@@ -18,7 +18,7 @@ When a challenge has been decided, reach out to the Coffee Table Group hosts, co
 
 One week before a challenge starts, change and adjust the challenge pages on the website to reflect the current challenge and create a PR.
 
-For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./README.md/#updating-the-monthly-challenge-pages-on-the-website)".
+For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./technical-guidelines.md/#updating-the-monthly-challenge-pages-on-the-website)".
 
 ## The First Day of the Month
 
@@ -26,7 +26,7 @@ For instructions on updating the pages, see the "[Updating the Monthly Challenge
 
 Change the `#monthly-challenge` channel topic and description in Slack.
 
-For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./README.md/#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section.
+For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./technical-guidelines.md/#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section.
 
 ### Making an Announcement for a New Challenge
 
@@ -42,13 +42,13 @@ Drop a blog post about the challenge under the Virtual Coffee organization at [D
 > [!NOTE]
 >
 > - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
-> - If you're interested in writing a blog post for Virtual Coffee, please read our Community Writers docs and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
+> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](/community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
 
 ## During a Challenge
 
 Navigate to the designated monthly challenge folder and read the README file for complete instructions.
 
-Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](./README.md/#setting-up-a-slack-bot)" section.
+Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section.
 
 ### Post Challenge
 
