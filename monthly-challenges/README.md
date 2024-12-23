@@ -2,6 +2,7 @@
 
 Welcome to the Monthly Challenges docs! These docs are written to support our wonderful volunteers. ✨
 
+> [!NOTE]
 > This is a friendly reminder that volunteering for Virtual Coffee should never stress you out. We value your help and support, but we know that can vary from month to month. Just let us know if you need to take some time off from volunteering. We're happy to support you.
 
 ## What are Monthly Challenges?
@@ -14,7 +15,7 @@ We have developers at all stages and in many different roles, so we want to ensu
 
 ## Monthly Challenges Guidelines
 
-The [Monthly Challenge Facilitators Handbook](./facilitators-docs.md) provides guidelines for facilitating monthly challenges.
+The [Monthly Challenge Facilitators Handbook](./facilitators-docs/) provides guidelines for facilitating monthly challenges.
 
 Every challenge requires different preparation and execution. Navigate to the [`monthly-challenges`](../monthly-challenges/) folder and read the README file in each challenge's folder to learn how to conduct it.
 
