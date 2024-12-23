@@ -5,24 +5,25 @@ A Community Challenge to hit a word count goal for all our tech blogs.
 Based off the [NaNoWriMo (National Novel Writing Month)](https://nanowrimo.org/) Challenge, this challenge is the tech take on writing and working together towards the goal while posting on our own blogs.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Tasks Before the Challenge
+## Special Tasks
 
-⏳ **Timeline**: The latest, one week before the challenge.
+The special task for this challenge is to prepare an Airtable form for adding blog post entries, which is typically handled by our Technology Support Maintainer, Dan Ott.
 
-✅ **Tasks**:
+### Todo
 
-Prepare the form to add blog post entry.
+Two weeks before the challenge, remind the maintainer to prepare the form.
 
-> [!NOTE]
-> This task is typically handled by one of our Core Team members, Dan Ott.
+## Async Check-Ins Time
 
-## Announcement to Kick-Off the Challenge
+Fridays, 9:00 AM ET
 
-📃 **Script Templates**
+## Script Templates
 
-**2024**
+Below are script templates for our kick-off announcements and async check-ins.
+
+### Kick-Off Announcement 2024
 
 ```text
 It’s now November and that means it is time for our **Blogging Challenge**!
@@ -36,19 +37,13 @@ You can check out the full challenge details, check out resources to help you, a
 @Leo will be running weekly async check-ins starting next Friday.
 ```
 
-**2023**
+### Kick-Off Announcement 2023
 
 ```text
 Our new monthly challenge page is up! This month, we’re working to hit 100,000 words written about tech as a community. There’s a link to add your entry on the page, so any blog post you’ve written during the month about tech can be added towards our goal.
 ```
 
-## Async Check-Ins
-
-⏳ **Timeline**: Fridays, 9:00 AM ET.
-
-📃 **Script Templates**
-
-**2024**
+### Async Check-Ins 2024
 
 - **Week 1**
 
@@ -70,7 +65,7 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
   If you write articles, blog posts, novel, or anything else in any other language(s) than English, add them to the [challenge page](https://virtualcoffee.io/monthlychallenges/nov-2024) by filling in the submission form in the page! 🙌
   ```
 
-  - **Week 2**
+- **Week 2**
 
   ```text
   Hi friends! 👋 Happy Friday!
@@ -78,16 +73,16 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
   Thanks to everyone who shared their updates last week—it was inspiring to see all the different projects in progress!
 
   This week, I'd especially love to hear about:
-  - Any breakthroughs or "aha!" moments in your writing
-  - Challenges you're currently tackling
-  - What you're planning to work on next
+    - Any breakthroughs or "aha!" moments in your writing
+    - Challenges you're currently tackling
+    - What you're planning to work on next
 
   Remember, our #monthly-challenge and #content-creation channels are always open for draft feedback. And please keep submitting your published pieces through the form: https://airtable.com/app10kd5ewHiLTjxn/shrgRjUFpNjLN1V12
 
   Looking forward to hearing your updates! ✨
   ```
 
-  - **Week 3**
+- **Week 3**
 
   ```text
   Hi friends, Happy Friday!
@@ -97,7 +92,7 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
   If you're looking for feedback, you can post drafts in #monthly-challenge or #content-creation! Once you've published, don't forget to fill out the form to add it to the challenge: https://airtable.com/app10kd5ewHiLTjxn/shrgRjUFpNjLN1V12.
   ```
 
-  - **Week 4**
+- **Week 4**
 
   ```text
   Hi friends! 👋
@@ -105,9 +100,9 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
   Quick friendly reminder that there's just ONE DAY left in this month's challenge! If you've been working on something, now's the perfect time to put those finishing touches on your piece and share it with our community.
 
   Some quick reminders:
-  - Got a draft you'd like eyes on? Drop it in #monthly-challenge or #content-creation for some friendly feedback
-  - Already published? Don't forget to submit through the form to get credit for the challenge
-  - Even if your piece isn't quite perfect, remember that done is better than perfect!
+    - Got a draft you'd like eyes on? Drop it in #monthly-challenge or #content-creation for some friendly feedback
+    - Already published? Don't forget to submit through the form to get credit for the challenge
+    - Even if your piece isn't quite perfect, remember that done is better than perfect!
 
   Fill out the form to add it to the challenge: https://airtable.com/app10kd5ewHiLTjxn/shrgRjUFpNjLN1V12
 
@@ -116,7 +111,7 @@ Our new monthly challenge page is up! This month, we’re working to hit 100,000
   What are you planning to wrap up in these last 24 hours? Share your plans below!
   ```
 
-**2023**
+### Async Check-Ins 2023
 
 ```text
 It's time for weekly check-ins! What are you writing about this week? Who needs help?
@@ -127,13 +122,13 @@ It's time for weekly check-ins! What are you writing about this week? Who needs 
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Async check-ins.
-  - Members' blog posts.
+  - Challenge announcements
+  - Async check-ins
+  - Members' blog posts
 - `#content-creation`
-  - Members' blog posts.
+  - Members' blog posts
 
 ---
 
