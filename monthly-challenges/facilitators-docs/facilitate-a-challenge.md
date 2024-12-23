@@ -18,7 +18,7 @@ When a challenge has been decided, reach out to the Coffee Table Group hosts, co
 
 One week before a challenge starts, change and adjust the challenge pages on the website to reflect the current challenge and create a PR.
 
-For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./technical-guidelines.md/#updating-the-monthly-challenge-pages-on-the-website)".
+For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./technical-guidelines.md/#updating-the-monthly-challenge-pages-on-the-website)" section in the Technical Guidelines.
 
 ## The First Day of the Month
 
@@ -26,7 +26,7 @@ For instructions on updating the pages, see the "[Updating the Monthly Challenge
 
 Change the `#monthly-challenge` channel topic and description in Slack.
 
-For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./technical-guidelines.md/#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section.
+For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./technical-guidelines.md/#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section in the Technical Guidelines.
 
 ### Making an Announcement for a New Challenge
 
@@ -48,7 +48,7 @@ Drop a blog post about the challenge under the Virtual Coffee organization at [D
 
 Navigate to the designated monthly challenge folder and read the README file for complete instructions.
 
-Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section.
+Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
 
 ### Post Challenge
 
