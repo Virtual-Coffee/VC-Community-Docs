@@ -3,21 +3,19 @@
 The Mid-Year Check-In challenge is designed to provide an opportunity for Virtual Coffee members to reflect on their progress, reevaluate goals, and gain clarity on their journey. This challenge aims to encourage personal growth, foster connection within the community, and provide a supportive space for members to share their insights, challenges, and successes.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Time
 
-📃 **Script Templates**
+Fridays, 9:00 AM ET
 
-**2024**
+## Script Templates
+
+### Kick-Off Announcement 2024
 
 TBA
 
-## Async Check-Ins
-
-⏳ **Timeline**: Fridays, 9:00 AM ET.
-
-📃 **Script Templates**
+### Async Check-Ins 2024
 
 TBA
 
@@ -26,10 +24,10 @@ TBA
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Async check-ins.
+  - Challenge announcements
+  - Async check-ins
 
 ---
 
