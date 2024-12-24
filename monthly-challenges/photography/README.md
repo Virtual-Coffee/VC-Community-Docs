@@ -3,13 +3,15 @@
 This month, we are encouraging our members to take some time away from their screens and get out of the house, then come back and share photographs in Slack. You can, of course, complete the challenge without going more than five feet from your car, but we encourage you to get the benefit of some fresh air and exercise.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Time
 
-📃 **Script Templates**
+Mondays, noon ET
 
-**2024**
+## Script Templates
+
+### Kick-Off Announcement 2024
 
 ```text
 It’s now August and that means it is time for a new Monthly Challenge: The Photography Challenge!
@@ -21,15 +23,9 @@ The challenge will take place in #monthly-challenge. So let's fill the channel w
 Read our blogpost to learn more. The Challenge page will be up shortly!
 ```
 
-## Async prompts
+### Challenge Intro 2024
 
-⏳ **Timeline**: Mondays + Intro post on 1st of the month.
-
-📃 **Script Templates**
-
-- **Intro**
-
-  ```text
+```text
   Hi friends! There are four steps to participate in this month's challenge:
 
   Plan: Choose some places to visit outside your home.
@@ -40,6 +36,8 @@ Read our blogpost to learn more. The Challenge page will be up shortly!
 
   Browse: Admire everyone else’s photographs.
   ```
+
+### Async Check-Ins 2024
 
 - **Week 1**
 
@@ -86,10 +84,11 @@ Read our blogpost to learn more. The Challenge page will be up shortly!
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Monday prompts.
+  - Challenge intro
+  - Challenge announcements
+  - Async check-ins
   - Participants posting their photos
 
 ---
@@ -98,8 +97,6 @@ Slack channels that we use for the challenge:
 
 - [August 2024](https://virtualcoffee.io/monthlychallenges/aug-2024)
 
----
-
-## Past Blogposts
+## Past Blog Posts
 
 - 2024: [Monthly Challenge: Photography](https://dev.to/virtualcoffee/monthly-challenge-photography-4g18)
