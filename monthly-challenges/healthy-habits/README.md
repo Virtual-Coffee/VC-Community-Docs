@@ -5,48 +5,38 @@ This challenge is about nourishing our bodies, minds, and spirits to become heal
 The goal is to build a new habit that will make you a healthier developer. This can be mind- and body-centered (drink, move, read, meditate, rearrange your workstation), code-centered (review your README, clean your code, refresh your GitHub repo), or both. Set your goal this month and define what successfully completing the challenge looks like — for example, reviewing the README in five of your projects (one every week) or running 2k twice a week.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Time
 
-📃 **Script Templates**
+Wednesdays, 9:00 AM ET
 
-**2023**
+## Script Templates
+
+### Kick-Off Announcement 2023
 
 ```text
 📢 New monthly challenge!
 
 This month, we’re focused on building healthy habits! To learn more about the challenge, check out @member-name's {link to blogpost}, join the `#monthly-challenge` channel for accountability, and check out some of the things we regularly do at VC to promote healthy habits:
 
-- Monday weekly goals in `#goals-and-wins`.
-- Wednesday midweek check-ins in `#general`.
-- Friday gratitude posts in `#general`.
-- Gratitude that you can drop anytime in `#gratitude`.
+  - Monday weekly goals in `#goals-and-wins`.
+  - Wednesday midweek check-ins in `#general`.
+  - Friday gratitude posts in `#general`.
+  - Gratitude that you can drop anytime in `#gratitude`.
 
 Let us know if you'd like to see anything else!
 ```
 
-## Weekly Goals
+### Async Check-Ins 2023
 
-⏳ **Timeline**: Mondays, 9:00 AM ET
-
-The weekly goals are typically delivered by our hype person as part of the general weekly goals check-ins in the `#goals-and-wins` channel.
-
-## Async Check-Ins
-
-⏳ **Timeline**: Wednesdays, 9:00 AM ET
-
-📃 **Script Templates**
-
-**2023**
-
-- **First week**
+- **Week 1**
 
   ```text
   How are you working on building healthy habits this week?
   ```
 
-- **Following weeks**
+- **Week 2-4**
 
   ```text
   How’d the habit-building go last week? What are you working on this week?
@@ -57,17 +47,17 @@ The weekly goals are typically delivered by our hype person as part of the gener
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Monday weekly check-ins.
+  - Challenge announcements
+  - Monday weekly check-ins
 - `#goals-and-wins`
-  - Monday weekly goals.
+  - Monday weekly goals
 - `#general`
-  - Wednesday midweek check-ins.
-  - Friday gratitude posts.
+  - Wednesday midweek check-ins
+  - Friday gratitude posts
 - `#gratitude`
-  - Members' gratitude during the challenge.
+  - Members' gratitude during the challenge
 
 ---
 
