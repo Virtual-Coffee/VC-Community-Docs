@@ -3,13 +3,17 @@
 This challenge allows Virtual Coffee members to invite a friend to join our community. However, simply inviting someone is not enough! We encourage everyone to warmly welcome and support our new friends and demonstrate what Virtual Coffee is truly all about - a welcoming and supportive community!
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Time
 
-📃 **Script Templates**
+Fridays, noon ET
 
-**2024**
+## Script Templates
+
+Below are script templates for our kick-off announcements and async check-ins.
+
+### Kick-Off Announcement 2024
 
 ```text
 It’s now July and we are pleased to announce a new challenge: Welcoming Community! As part of this challenge, every one of you will be able to invite one new member during the month of July.
@@ -21,11 +25,7 @@ You can check out the full challenge details here.
 Read @Ayu's blogpost here.
 ```
 
-## Async Check-Ins
-
-⏳ **Timeline**: Fridays, noon ET.
-
-📃 **Script Templates**
+### Async Check-Ins 2024
 
 - **Week 1**
 
@@ -66,12 +66,12 @@ Read @Ayu's blogpost here.
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Async check-ins.
+  - Challenge announcements
+  - Async check-ins
 - `#welcome`
-  - Welcoming new members.
+  - Welcoming new members
 
 ---
 
