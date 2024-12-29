@@ -1,27 +1,27 @@
-# Find Your Voice! Public Speaking
+# Public Speaking: Find Your Voice
 
 During this month, we'll be breaking down the art of public speaking into manageable steps, focusing on different aspects each week. Throughout the month, we'll provide resources, tips, and opportunities to practice and get feedback from the community.
 
-We close this challenge on Friday, the last week of the month, with the Lightning Talk. Check out [lightning-talks](../../lightning-talks/) folder for detailed information.
+We close this challenge on Friday, the last week of the month, with the Lightning Talk. Check out [lightning-talks](/lightning-talks/README.md) for detailed information.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Times
 
-📃 **Script Templates**
+- Mondays, 07:00 AM ET
+- Mondays, 09:00 AM ET for Monday inspiration
+- Fridays, noon ET
 
-**2024**
+## Script Templates
 
-TBA
+Below are script templates for our kick-off announcements and async check-ins.
 
-## Async Check-Ins
+### Kick-Off Announcement 2024
 
-⏳ **Timeline**: Mondays, 07:00 AM ET | **Monday inspiration:** 09:00 AM ET
+N/A
 
-📃 **Script Templates**
-
-**2024**
+### Monday Async Check-Ins 2024
 
 - **Week 1**
 
@@ -31,10 +31,6 @@ TBA
   **Blog:** https://dev.to/virtualcoffee/step-into-the-spotlight-join-our-public-speaking-monthly-challenge-52kl
   **Guide:** https://virtualcoffee.io/assets/pdfs/lightning-talk-guide.pdf
   **Challenge Page:** https://virtualcoffee.io/monthlychallenges/apr-2024
-  ```
-
-  ```text
-  Monday inspiration! “All the great speakers were bad speakers at first.” Ralph Waldo Emerson.
   ```
 
 - **Week 2**
@@ -47,10 +43,6 @@ TBA
   Who needs help with their topic?
   ```
 
-  ```text
-  Monday Inspiration! “All speaking is public speaking, whether it’s to one person or a thousand.” Roger Love
-  ```
-
 - **Week 3**
 
   ```text
@@ -59,10 +51,6 @@ TBA
   **Activity:** Practice delivering your presentation in front of a mirror or someone else. Refine your presentation based on the feedback received and practice delivering it confidently.
 
   This is a great time to practice with a mentor or a friend. Let us know if you need help getting paired up!
-  ```
-
-  ```text
-  Monday inspiration: “The goal of effective communication should be for listeners to say ‘Me too!’ versus ’So what?” Jim Rohn
   ```
 
 - **Week 4**
@@ -77,19 +65,37 @@ TBA
   Who’s going to the lightning talks this week!!!!???!?!?!?
   ```
 
+### Monday Inspirations 2024
+
+- **Week 1**
+
+  ```text
+  Monday inspiration! “All the great speakers were bad speakers at first.” Ralph Waldo Emerson.
+  ```
+
+- **Week 2**
+
+  ```text
+  Monday Inspiration! “All speaking is public speaking, whether it’s to one person or a thousand.” Roger Love
+  ```
+
+- **Week 3**
+
+  ```text
+  Monday inspiration: “The goal of effective communication should be for listeners to say ‘Me too!’ versus ’So what?” Jim Rohn
+  ```
+
+- **Week 4**
+
   ```text
   Monday Inspiration: “If it scares you it may be a good thing to try.” Seth Godin
   ```
 
-⏳ **Timeline**: Fridays, noon ET
-
-📃 **Script Templates**
-
-**2024**
+### Friday Async Check-Ins 2024
 
 - **Week 1**
 
-  TBA
+  N/A
 
 - **Week 2**
 
@@ -105,19 +111,19 @@ TBA
 
 - **Week 4**
 
-  There is no check-in as it's Lightning Talk day.
+  _There is no check-in as it's Lightning Talk day._
 
 ## Slack Channels
 
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge and Lightning Talk announcements.
-  - Async check-ins.
+  - Challenge and Lightning Talk announcements
+  - Async check-ins
 - `#public-speaking`
-  - Challenge and Lightning Talk announcements.
+  - Challenge and Lightning Talk announcements
 
 ---
 
