@@ -51,7 +51,8 @@ Announce the challenge in the `#announcements` channel and crosspost it to the `
 
 Navigate to the designated monthly challenge folder and read the README file for complete instructions.
 
-Learn more about using Slack during the challenge in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
+> [!TIP]
+> Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
 
 ### Post Challenge
 
