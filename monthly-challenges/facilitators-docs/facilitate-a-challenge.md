@@ -14,6 +14,18 @@ We love collaboration! We're happy to involve our [Coffee Table Groups](https://
 
 When a challenge has been decided, reach out to the Coffee Table Group hosts, communicate about the upcoming challenge, and discuss how we can support each other during the challenge.
 
+### Writing a Blog Post
+
+Once the challenge has been finalized, write a blog post about it under the Virtual Coffee organization on [DEV](https://dev.to/virtualcoffee).
+
+After completing the post, reach out to the monthly challenge team for proofreading before publishing it. The blog post can be published two days before the challenge begins or on the first day of the month.
+
+> [!NOTE]
+>
+> - Blog posts can be scheduled in advance.
+> - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
+> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](/community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
+
 ### Updating the Challenge Pages on the Website
 
 One week before a challenge starts, change and adjust the challenge pages on the website to reflect the current challenge and create a PR.
@@ -34,15 +46,6 @@ Announce the challenge in the `#announcements` channel and crosspost it to the `
 
 > [!NOTE]
 > Each challenge file contains script templates for the announcement. If it is unavailable, you must write one and update the script template in the challenge file.
-
-### Writing a Blog Post
-
-Drop a blog post about the challenge under the Virtual Coffee organization at [DEV](https://dev.to/virtualcoffee). Blog posts can be scheduled in advance.
-
-> [!NOTE]
->
-> - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
-> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](/community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
 
 ## During a Challenge
 
