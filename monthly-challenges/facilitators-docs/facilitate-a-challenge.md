@@ -54,7 +54,11 @@ Navigate to the designated monthly challenge folder and read the README file for
 > [!TIP]
 > Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
 
-### Post Challenge
+### Monday Goals Check-In
+
+Post a challenge goal check-in on Mondays at 10 AM ET in the `#goals-and-wins` channel.
+
+## Post Challenge
 
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know what support you need and what things you think would be nice to do next time.
 - Update the README file in the challenge's folder with:
