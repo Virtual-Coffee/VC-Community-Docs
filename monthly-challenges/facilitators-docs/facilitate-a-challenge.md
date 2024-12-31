@@ -45,7 +45,7 @@ For the complete instructions, see the "[Updating the `#monthly-challenge` Chann
 Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
 
 > [!NOTE]
-> Each challenge file contains script templates for the announcement. If it is unavailable, you must write one and update the script template in the challenge file.
+> The README file for each challenge contains script templates of previous announcements. You can use them as a guide to create an announcement. If a template is unavailable, you must create one and add it to the challenge file accordingly.
 
 ## During a Challenge
 
