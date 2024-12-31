@@ -49,14 +49,18 @@ Announce the challenge in the `#announcements` channel and crosspost it to the `
 
 ## During a Challenge
 
-Navigate to the designated monthly challenge folder and read the README file for complete instructions.
-
-> [!TIP]
-> Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
-
 ### Monday Goals Check-In
 
 Post a challenge goal check-in on Mondays at 10 AM ET in the `#goals-and-wins` channel.
+
+### Async Check-Ins
+
+Post a thread once a week in the `#monthly-challenge` channel (or any other dedicated channel(s) for the challenge) to check members' progress and whether they need help.
+
+> [!NOTE]
+> The README file for each challenge contains the day and time of check-ins and previous script templates.
+
+Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
 
 ## Post Challenge
 
