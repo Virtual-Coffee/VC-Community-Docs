@@ -4,24 +4,24 @@ In this challenge, we're working on creating a habit of talking about the things
 
 We aim to learn to communicate around a project, show the development process, give confidence, and be proud of any progress made.
 
-> **Note:** In 2021, we dedicated June to the Build in Public challenge and July to Demo Day. Since July 2022, we have combined them into one challenge. If you'd like to know the history, you can find it in the [archive](../build-in-public/archive/) folder.
-
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+**Note:** In 2021, we dedicated June to the Build in Public challenge and July to Demo Day. Since July 2022, we have combined them into one challenge.
 
-📃 **Script Templates**
+## Async Check-Ins Time
 
-TBA
+Every morning at 8:00 AM ET
 
-## Async Check-Ins
+## Prompts
 
-⏳ **Timeline**: Every morning at 8:00 AM ET.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
-📃 **Script Templates**
+### Kick-Off Announcement 2023
 
-**2023**
+N/A
+
+### Async Check-Ins 2023
 
 ```text
 Hi friends, it's time for the daily check-in!
@@ -32,31 +32,9 @@ Share your progress with us! 🙌
 - Do you have any blockers?
 ```
 
-## Slack Channels
+### Demo Day 2023
 
-Slack channels that we use for the challenge:
-
-- `#announcement`
-  - Initial announcement.
-- `#monthly-challenge`
-  - Challenge announcements.
-  - Daily progress tracking.
-- `#help-and-pairing`
-  - Questions, help, and support.
-
-## Events
-
-**2023**
-
-- **Demo Day** — on the last Friday of the month.
-
-  On Monday, in the last week of the month, ask members if they want to do a demo day in the `#monthly-challenge` channel on Slack.
-
-  The demo day is typically conducted as a Lunch & Learn session.
-
-  📃 **Script Templates**
-
-  ```text
+```text
   Hey friends!
 
   In the past, we’ve done a demo day on the last Friday of the month. If you’re interested, respond with a ✋.
@@ -64,7 +42,19 @@ Slack channels that we use for the challenge:
   It's usually a short 5 to 10-minute demo, and your project doesn’t have to be complete.
 
   If you're comfortable, we can put the demo up on YouTube, but we don’t need to. If you'd rather do some feedback session, we can work on that too.
-  ```
+```
+
+## Slack Channels
+
+Slack channels that we use for the challenge:
+
+- `#announcement`
+  - Kick-off announcement
+- `#monthly-challenge`
+  - Challenge announcements
+  - Daily progress tracking
+- `#help-and-pairing`
+  - Questions, help, and support
 
 ---
 
@@ -82,3 +72,13 @@ Slack channels that we use for the challenge:
   - [Build in Public: Week One Check-in](https://dev.to/virtualcoffee/build-in-public-week-one-check-in-4dai)
   - [Build in Public: Week Two Check-in](https://dev.to/virtualcoffee/build-in-public-week-two-check-in-2jf5)
   - [Build in Public: Final Check-in](https://dev.to/virtualcoffee/build-in-public-final-check-in-eij)
+
+## Past Events
+
+### Events 2023
+
+- **Demo Day** — on the last Friday of the month.
+
+  On Monday, in the last week of the month, ask members if they want to do a demo day in the `#monthly-challenge` channel on Slack.
+
+  The demo day is typically conducted as a Lunch & Learn session.

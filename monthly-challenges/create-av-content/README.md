@@ -5,31 +5,33 @@ For this challenge, members present their knowledge, highlighting their achievem
 We believe this provides value by solidifying ideas, creating a resource for others, inviting personal growth through conversations sparked by sharing, and demonstrating their ability to talk through a concept.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
-
-📃 **Script Templates**
+## Async Check-Ins Time
 
 TBA
 
-## Async Check-Ins
+## Prompts
 
-⏳ **Timeline**: TBA
+Below are previous prompts for our kick-off announcements and async check-ins.
 
-📃 **Script Templates**
+### Kick-Off Announcement
 
-TBA
+N/A
+
+### Async Check-Ins
+
+N/A
 
 ## Slack Channels
 
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Weekly check-ins.
+  - Challenge announcements
+  - Weekly check-ins
 
 ---
 
@@ -39,3 +41,5 @@ Slack channels that we use for the challenge:
 - [February 2021](https://virtualcoffee.io/monthlychallenges/feb-2021)
 
 ## Past Blog Posts
+
+N/A

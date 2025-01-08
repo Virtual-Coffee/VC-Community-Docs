@@ -5,13 +5,17 @@ This challenge encourages our members to celebrate one of the things that contin
 Some of the ways we see this include: practicing gratitude, reaching out to support other members, mentoring, helping, giving honest and constructive feedback, and continuing to make Virtual Coffee a safe and supportive space.
 
 > [!TIP]
-> Read our [`facilitator-docs.md`](../facilitators-docs.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
 
-## Announcement to Kick-Off the Challenge
+## Async Check-Ins Time
 
-📃 **Script Templates**
+Fridays, 9:00 AM ET
 
-**2024**
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
+
+### Kick-Off Announcement 2024
 
 ```text
 It’s now May and that means it is time for a new Monthly Challenge: Community Kindness.
@@ -25,13 +29,7 @@ The challenge page will be up shortly.
 💖💖💖
 ```
 
-## Async Check-Ins
-
-⏳ **Timeline**: Fridays, 9:00 AM ET
-
-📃 **Script Templates**
-
-**2024**
+### Async Check-Ins 2024
 
 - **Week 1**
 
@@ -78,16 +76,16 @@ The challenge page will be up shortly.
 Slack channels that we use for the challenge:
 
 - `#announcement`
-  - Initial announcement.
+  - Kick-off announcement
 - `#monthly-challenge`
-  - Challenge announcements.
-  - Daily progress tracking.
+  - Challenge announcements
+  - Daily progress tracking
 - `#gratitude`
-  - Shoutouts and thank you notes.
+  - Shoutouts and thank you notes
 - `general`
-  - Shoutouts and thank you notes on Friday gratitude.
+  - Shoutouts and thank you notes on Friday gratitude
 - `#help-and-pairing`
-  - Tips and support.
+  - Tips and support
 
 ---
 
