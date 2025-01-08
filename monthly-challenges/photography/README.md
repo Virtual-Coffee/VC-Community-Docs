@@ -37,7 +37,7 @@ Read our blogpost to learn more. The Challenge page will be up shortly!
   Post: When you get back, post your photographs in this channel. Or you can post them on your phone while you’re out if you’re too impatient to wait!
 
   Browse: Admire everyone else’s photographs.
-  ```
+```
 
 ### Async Check-Ins 2024
 

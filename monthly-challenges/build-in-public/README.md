@@ -42,7 +42,7 @@ Share your progress with us! 🙌
   It's usually a short 5 to 10-minute demo, and your project doesn’t have to be complete.
 
   If you're comfortable, we can put the demo up on YouTube, but we don’t need to. If you'd rather do some feedback session, we can work on that too.
-  ```
+```
 
 ## Slack Channels
 

@@ -73,7 +73,7 @@ Read our challenge page for the details, and watch this walkthrough video to giv
   For maintainers, if you have repositories that meet our [Repository Checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist), you can add them so our contributors can find them for Hacktoberfest.
 
   Also, a couple of heads up:
-  
+
     - We have two events coming up this month for the challenge (see post in #announcements)
     - The official 2024 [Hacktoberfest site](https://hacktoberfest.com/) is now live (but not yet open for registration)!
   ```
