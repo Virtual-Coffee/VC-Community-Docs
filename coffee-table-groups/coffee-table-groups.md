@@ -10,7 +10,7 @@
 ## Active Groups
 
 > [!NOTE]
-> We're continually accepting volunteer applications for Co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
+> We're continually accepting volunteer applications for co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
 >
 > Please reach out to Meg or Abbey if you have any questions.
 
@@ -24,7 +24,7 @@
 
 - Eddie Banner
 
-A weekly discussion of job search and interview-related topics, including mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, and more! We are always looking for ideas to help meet your needs. All stages of career and job search welcome!
+A weekly discussion of job search and interview-related topics, including mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, and more! We are always looking for ideas to help meet your needs. All stages of career and job search are welcome!
 
 Interested? Join the `#tech-interview-study-group` Slack channel!
 
@@ -44,7 +44,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 - **The Quad** – Rad Turkin & David Akim
 - **The Breakfast Club** – Meg Gutshall & Joe Karow
 
-You want to learn that new tool/finish up that blog post/send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
+You want to learn that new tool, finish up that blog post, or send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
 
 Drop into our sessions whenever and for however long your schedule allows. No matter the goal, you’ll find encouragement and support alongside your Accountabilibuddies!
 
@@ -76,7 +76,7 @@ Job hunting as a collective: An accountability session exclusively for job hunti
 
 - Eddie Banner
 
-DSA Office Hours is an opportunity to come and ask questions about anywhere you get stuck on this week’s coding problems, or about this week’s topic. Find this week’s DSA topic and coding problems in `#tech-interview-study-group`. New topic and problems every week!
+DSA Office Hours is an opportunity to come and ask questions about anywhere you get stuck on this week’s coding problems, or about this week’s topic. Find this week’s DSA topic and coding problems in `#tech-interview-study-group`. New topics and problems every week!
 
 ### Frontend Friday Folks Fighting CSSBattle.dev
 
