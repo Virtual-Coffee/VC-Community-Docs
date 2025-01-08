@@ -9,7 +9,9 @@ This month, we are encouraging our members to take some time away from their scr
 
 Mondays, noon ET
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 
@@ -68,16 +70,20 @@ Read our blogpost to learn more. The Challenge page will be up shortly!
 - **Week 3**
 
   ```text
-  Kicking off another exciting week of our Photography Challenge! :camera_with_flash:
+  Kicking off another exciting week of our Photography Challenge! 📸
 
   Time to brainstorm your upcoming shots. Got any specific spots or photo ideas brewing?
 
-  If you're looking for inspiration, check out the collection of ideas above. :point_up_2:
+  If you're looking for inspiration, check out the collection of ideas above. ☝️
 
-  A round of applause for all the fantastic submissions so far - your work is truly remarkable! :tada: The quality and creativity in your photos have been outstanding. :partying_face:
+  A round of applause for all the fantastic submissions so far - your work is truly remarkable! 🎉 The quality and creativity in your photos have been outstanding. 🥳
 
-  Can't wait to see what you all capture this week. Enjoy your photo adventures! :selfie:
+  Can't wait to see what you all capture this week. Enjoy your photo adventures! 🤳
   ```
+
+- **Week 4**
+
+  N/A
 
 ## Slack Channels
 

@@ -11,7 +11,9 @@ Some of the ways we see this include: practicing gratitude, reaching out to supp
 
 Fridays, 9:00 AM ET
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 

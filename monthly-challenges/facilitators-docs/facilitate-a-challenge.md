@@ -58,7 +58,7 @@ Post a challenge goal check-in on Mondays at 10 AM ET in the `#goals-and-wins` c
 Post a thread once a week in the `#monthly-challenge` channel (or any other dedicated channel(s) for the challenge) to check members' progress and whether they need help.
 
 > [!NOTE]
-> The README file for each challenge contains the day and time of check-ins and previous script templates.
+> The README file for each challenge contains the day and time of check-ins and previous prompts.
 
 Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
 

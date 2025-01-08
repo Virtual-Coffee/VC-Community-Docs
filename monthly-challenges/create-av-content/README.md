@@ -11,15 +11,17 @@ We believe this provides value by solidifying ideas, creating a resource for oth
 
 TBA
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement
 
-TBA
+N/A
 
 ### Async Check-Ins
 
-TBA
+N/A
 
 ## Slack Channels
 

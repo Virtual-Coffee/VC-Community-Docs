@@ -9,15 +9,17 @@ The Mid-Year Check-In challenge is designed to provide an opportunity for Virtua
 
 Fridays, 9:00 AM ET
 
-## Script Templates
+## Prompts
 
-### Kick-Off Announcement 2024
+Below are previous prompts for our kick-off announcements and async check-ins.
 
-TBA
+### Kick-Off Announcement
 
-### Async Check-Ins 2024
+N/A
 
-TBA
+### Async Check-Ins
+
+N/A
 
 ## Slack Channels
 

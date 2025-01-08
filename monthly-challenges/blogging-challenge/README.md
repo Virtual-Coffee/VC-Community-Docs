@@ -19,9 +19,9 @@ Two weeks before the challenge, remind the maintainer to prepare the form.
 
 Fridays, 9:00 AM ET
 
-## Script Templates
+## Prompts
 
-Below are script templates for our kick-off announcements and async check-ins.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 

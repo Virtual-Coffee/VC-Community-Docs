@@ -11,9 +11,9 @@ In this challenge, we encourage folks to spend time working on things that aren'
 
 Fridays, 9:00 AM ET
 
-## Script Templates
+## Prompts
 
-Below are script templates for our kick-off announcements and async check-ins.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 
@@ -42,19 +42,20 @@ Here’s more about the challenge: <link to the blog post>
 - **Week 1**
 
   ```text
-  Hey everyone! :wave::sparkles:
+  Hey everyone! 👋✨
 
-  We’re three days into the Creative Community Challenge :tada:, and we’re so excited to see how you spend this month exploring creative outlets :lower_left_paintbrush:, learning something new :books:, or combining coding with your hobbies :jigsaw::computer:.
+  We’re three days into the Creative Community Challenge 🎉, and we’re so excited to see how you spend this month exploring creative outlets 🎨, learning something new 📚, or combining coding with your hobbies 🧩💻.
 
   Here’s a little check-in to keep the momentum going:
 
-  :bulb: Have you started on a project yet, or are you still brainstorming?
-  :dart: What’s been inspiring you this week?
-  :handshake: Need help or feedback on your idea? Feel free to share your progress in #monthly-challenge!
+  💡 Have you started on a project yet, or are you still brainstorming?
+  🎯 What’s been inspiring you this week?
+  🤝 Need help or feedback on your idea? Feel free to share your progress in #monthly-challenge!
 
-  Remember, this challenge is all about enjoying the process :star2:—no pressure to share if you’re not ready :shushing_face:, but we’d :heart_hands: love to hear about your journey when you feel comfortable!
+  Remember, this challenge is all about enjoying the process ⭐—no pressure to share if you’re not ready 🤫, but we’d love to hear about your journey when you feel comfortable!
 
-  :sparkles: Let’s make this a December to remember! :christmas_tree: Happy creating, and have an amazing weekend ahead! :partying_face::rainbow:
+  ✨ Let’s make this a December to remember!
+  🎄 Happy creating, and have an amazing weekend ahead! 🥳🌈
 
   _PS:_
   _You can check out the full challenge details [here](link to the monthly challenge page)_

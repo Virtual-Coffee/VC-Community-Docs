@@ -27,9 +27,9 @@ Two weeks before the challenge:
 
 Mondays, 9:00 AM ET
 
-## Script Templates
+## Prompts
 
-Below are script templates for our kick-off announcements and async check-ins.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 

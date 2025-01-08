@@ -9,7 +9,9 @@ This challenge aims to work on creating, revising, or updating your job packet m
 
 Fridays, noon ET
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 

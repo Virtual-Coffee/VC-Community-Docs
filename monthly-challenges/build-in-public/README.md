@@ -13,11 +13,13 @@ We aim to learn to communicate around a project, show the development process, g
 
 Every morning at 8:00 AM ET
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2023
 
-TBA
+N/A
 
 ### Async Check-Ins 2023
 

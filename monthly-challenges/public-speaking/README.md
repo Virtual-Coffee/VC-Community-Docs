@@ -13,11 +13,11 @@ We close this challenge on Friday, the last week of the month, with the Lightnin
 - Mondays, 09:00 AM ET for Monday inspiration
 - Fridays, noon ET
 
-## Script Templates
+## Prompts
 
-Below are script templates for our kick-off announcements and async check-ins.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
-### Kick-Off Announcement 2024
+### Kick-Off Announcement
 
 N/A
 

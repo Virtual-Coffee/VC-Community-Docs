@@ -9,15 +9,17 @@ Pairing is more than just coding with someone else. Pairing is about communicati
 
 TBA
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement
 
-TBA
+N/A
 
 ### Async Check-Ins
 
-TBA
+N/A
 
 ## Slack Channels
 

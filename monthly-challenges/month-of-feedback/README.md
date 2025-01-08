@@ -9,15 +9,17 @@ This challenge calls members to approach each other with kindness and honesty, a
 
 TBA
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement
 
-TBA
+N/A
 
 ### Async Check-Ins
 
-TBA
+N/A
 
 ## Slack Channels
 

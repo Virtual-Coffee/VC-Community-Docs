@@ -11,7 +11,9 @@ The goal is to build a new habit that will make you a healthier developer. This 
 
 Wednesdays, 9:00 AM ET
 
-## Script Templates
+## Prompts
+
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2023
 

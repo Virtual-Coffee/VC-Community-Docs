@@ -9,9 +9,9 @@ This challenge allows Virtual Coffee members to invite a friend to join our comm
 
 Fridays, noon ET
 
-## Script Templates
+## Prompts
 
-Below are script templates for our kick-off announcements and async check-ins.
+Below are previous prompts for our kick-off announcements and async check-ins.
 
 ### Kick-Off Announcement 2024
 
