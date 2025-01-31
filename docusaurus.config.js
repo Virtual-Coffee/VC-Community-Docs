@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer'
 
 const config = {
   title: 'Virtual Coffee Community Docs',
-  tagline: 'LOREM IPSUM',
+  tagline: 'Community Building Resources by Virtual Coffee Community',
   favicon: 'img/favicon-32x32.png',
 
   // Set the production url of your site here
