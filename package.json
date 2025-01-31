@@ -6,14 +6,14 @@
   "repository": "git+https://github.com/Virtual-Coffee/VC-Community-Docs.git",
   "author": "Virtual Coffee",
   "engines": {
-    "node": "18.16"
+    "node": ">=20.17"
   },
-  "packageManager": "yarn@1.22.19",
   "bugs": {
     "url": "https://github.com/Virtual-Coffee/VC-Community-Docs/issues"
   },
   "homepage": "https://github.com/Virtual-Coffee/VC-Community-Docs#readme",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "format": "prettier --ignore-unknown --write .",
     "check": "prettier --ignore-unknown --check ."
   },
