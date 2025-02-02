@@ -12,7 +12,7 @@
 > [!NOTE]
 > We're continually accepting volunteer applications for co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
 >
-> Please reach out to Meg or Abbey if you have any questions.
+> Please reach out to Meg if you have any questions.
 
 ### Tech Interview Study Group
 
@@ -166,4 +166,4 @@ Interested? Join the `#indie-startup-hackers` Slack channel!
 
 If you'd like to start a new Coffee Table Group or resurrect an inactive group, read the [Guide to Leading a Coffee Table Group](./guides/guide-to-leading-a-coffee-table-group.md) for more information.
 
-If you want to help a particular Coffee Table Group, feel free to reach out to the group's Lead or Abbey, our [Coffee Table Group Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator).
+If you want to help a particular Coffee Table Group, feel free to reach out to the group's Lead or Meg, our [Weekly Events Maintainer](/README.md#weekly-events-maintainer---meg-gutshall).

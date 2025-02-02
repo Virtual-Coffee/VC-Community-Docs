@@ -62,20 +62,20 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 - Provide technical support to community members and maintainers.
 - Collaborate with other maintainers to integrate technology into community initiatives.
 
-## Quick Links & Team Leads
+## Quick Links & Team Leads/Coordinators
 
 This repository is organized into several key areas of community management:
 
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
-  - **Lead**: Shelley McHardy
+  - **Coordinator**: Shelley McHardy
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
   - **Leads**: Community Maintainers
 - [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
 - [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
   - **Leads**: Ayu Adiati and Dominic Duffin
 - [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
-  - **Lead**: Abbey
+  - **Coordinator**: **Currently Open!**
 - [Procedures](./procedures): Procedures for various Virtual Coffee tasks
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
@@ -116,7 +116,7 @@ If you have questions about our processes or want to discuss community building,
 
 We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
 
-> [!NOTE]  
+> [!NOTE]
 > Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
 
 > ⚠️ **Heads up!** If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](./CONTRIBUTING.md) for more info.
