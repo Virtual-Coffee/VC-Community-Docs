@@ -172,3 +172,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 ## END WINDOWS IGNORE PATTERNS ##
+
+.idea/*
