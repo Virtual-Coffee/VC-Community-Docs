@@ -173,4 +173,4 @@ $RECYCLE.BIN/
 *.lnk
 ## END WINDOWS IGNORE PATTERNS ##
 
-.idea/*
+.idea
