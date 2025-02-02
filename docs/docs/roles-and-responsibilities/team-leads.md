@@ -1,6 +1,37 @@
-# Team Leads
+---
+id: team-leads
+title: "Team Leads"
+sidebar_label: "Team Leads"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags:
+- 'roles'
+---
 
-## All Team Leads:
+## All Team Leads
 
 Maintainers rely on Team Leads to be champions of Virtual Coffee - to help further VC's goals and to help improve VC for everyone. Team Leads are responsible for implementing and overseeing documented Virtual Coffee processes for a particular project. The role will vary for each project, but project leads are expected to:
 
@@ -17,7 +48,7 @@ Maintainers rely on Team Leads to be champions of Virtual Coffee - to help furth
 - Apply the documented processes for various tasks
 - Suggest changes to the documented processes if needed
 
-## Specific Team Lead responsibilities:
+## Specific Team Lead responsibilities
 
 ### AV Team
 

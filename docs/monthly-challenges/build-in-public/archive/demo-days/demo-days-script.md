@@ -1,4 +1,35 @@
-# Script
+---
+id: demo-days-script
+title: "Demo Day Script"
+sidebar_label: "Demo Day Script"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'monthly challenge'
+---
 
 ## Intro
 
@@ -19,7 +50,7 @@ Thank you all so much for being here, and especially to our presenters who did s
 - Ask presenters to begin with a very short intro (who you are, what you do, your project) It was also nice to know what tech was being used.
 - If the presenters hit 6:30, unmute your microphone and say something like "We're getting to the end of our time, is there one last thing you'd like to highlight?"
 
-### Recording
+## Recording
 
 - Record all videos to the cloud in zoom.
 - Stop (don't pause) the recording between presenters. And then restart for the next presenter. (This breaks up the videos for you.)

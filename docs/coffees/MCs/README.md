@@ -1,8 +1,39 @@
-# Virtual Coffee Zoom Tue/Thurs Intro/Outro
+---
+id: README
+title: "MCs"
+sidebar_label: "MCs"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags:
+- 'coffees'
+---
 
 ## Quick Link Reference
 
-```
+```md
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
@@ -36,7 +67,7 @@ We’ve been doing this since April 2020, and we’ve loved the growth we’ve s
 
 Just some quick reminders, be considerate of everyone in the group, we’re all equals here. I'm going to drop some links in the chat now and talk about them for a minute:
 
-```
+```md
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/

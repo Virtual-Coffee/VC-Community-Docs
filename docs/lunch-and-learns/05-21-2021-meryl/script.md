@@ -1,9 +1,42 @@
-# ANNOUNCEMENTS
+---
+id: script
+title: "MC Script"
+sidebar_label: "MC Script"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'lunch and learns'
+---
+
+## ANNOUNCEMENTS
 
 Just a couple of announcements before I hit record
 
 - May 25-26 - Magnolia JS
-- https://www.magnoliajs.com/
+- https://www.magnol#iajs.com/
 - Friday May 28: Brownbag: Resilient Job Searching with Todd Libby
 - Monday May 31: Brownbag: Taking notes w/ Rafi
 
@@ -15,7 +48,7 @@ Today's event will be recorded and posted on youtube
 
 In a second, I'll hit record and introduce Meryl. Please mute your microphones until there's time for questions.
 
-# INTRO
+## INTRO
 
 - Hello and welcome to Virtual Coffee: Brownbag edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. To find our code of conduct, events, or to learn more, you can check out our site virtualcoffee.io.
 
@@ -23,7 +56,7 @@ In a second, I'll hit record and introduce Meryl. Please mute your microphones u
 
 Meryl Dominguez is an opera singer and budding software engineer, soon to complete Springboard’s full stack engineering program. Drawn to solving real world problems with elegant tech solutions she is working on a props management app for OperaHack 2.0 and is looking forward to making the theater world a more equitable, diverse, and accessible place.
 
-# OUTRO
+## OUTRO
 
 - A special thank you to our speaker for being here, and for all of you here.
 

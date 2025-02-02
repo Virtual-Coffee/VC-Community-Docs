@@ -1,6 +1,38 @@
-<!-- markdownlint-disable MD024 -->
+---
+id: coffee-table-groups-list
+title: "List of Coffee Table Groups"
+sidebar_label: "Coffee Table Groups List"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'coffee table groups'
+---
 
-# Coffee Table Groups
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD026 -->
 
 > [!IMPORTANT]
 > These are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.

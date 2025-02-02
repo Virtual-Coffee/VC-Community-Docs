@@ -1,4 +1,35 @@
-# Streaming zoom to youtube live
+---
+id: streaming
+title: "Streaming Zoom to YouTube Live"
+sidebar_label: "Streaming to YouTube Live"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'YouTube'
+---
 
 There are two ways to do this: scheduling a stream ahead of time, or starting a stream instantly during a meeting.
 

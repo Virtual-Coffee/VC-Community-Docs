@@ -1,4 +1,37 @@
-# ANNOUNCEMENTS
+---
+id: event-script-template
+title: "MC Script Template"
+sidebar_label: "MC Script Template"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'lunch and learns'
+---
+
+## ANNOUNCEMENTS
 
 Just a couple of announcements (OPTION: before I hit record).
 
@@ -15,7 +48,7 @@ Today's event will be (options)
 
 In a second, I'll (OPTION: hit record and) introduce the speaker. Please mute your microphones until there's time for questions.
 
-# INTRO
+## INTRO
 
 - Hello and welcome to Virtual Coffee: Lunch & Learn edition! Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone. To find our code of conduct, events, or to learn more, you can check out our site virtualcoffee.io.
 
@@ -23,7 +56,7 @@ In a second, I'll (OPTION: hit record and) introduce the speaker. Please mute yo
 
 - (Intro presenter)
 
-# OUTRO
+## OUTRO
 
 - A special thank you to our speaker for being here, and for all of you here.
 

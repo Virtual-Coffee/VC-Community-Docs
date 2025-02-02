@@ -1,4 +1,35 @@
-# INTRO
+---
+id: mc-script
+title: "2021 Lightning Talks MC Script"
+sidebar_label: "2021 MC Script"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags:
+- 'lightning talks'
+---
 
 - Welcome everyone! We're getting started on time, we just want to give people a couple of minutes to come in and get settled.
 
@@ -14,7 +45,7 @@
 
 I'm very excited for this, and we're going to kick it off with my talk: The Joy of Dev Life: A Bob Ross Approach.
 
-# Next Speaker intro
+## Next Speaker intro
 
 - A special thank you to {speaker}. That was a great look at {topic}. Just a reminder to throw all of your questions in the #event-chat channel, and be sure to tag @{speakername}. Up next, we have {speaker} who is talking about {topic}. Intro speaker with {bio}
 

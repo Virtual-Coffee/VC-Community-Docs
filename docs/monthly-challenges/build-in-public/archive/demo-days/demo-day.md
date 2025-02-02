@@ -1,32 +1,63 @@
-## Demo Day Goals
+---
+id: demo-day
+title: "Demo Day Goals"
+sidebar_label: "Demo Day Goals"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'monthly challenge'
+---
 
 - Members get the opportunity to receive support, encouragement, praise, and feedback for their projects
 - They get the chance to have their efforts recorded for later sharing/hype
 - Members have a chance to learn from the efforts of others.
 
-### What does demo day look like?
+## What does demo day look like?
 
 The zoom will be open for a set time with a clear schedule of demos.
 
-#### MC
+### MC
 
 - [ ] Hits the record button
 - [ ] Introduces the event
 - [ ] Moderate questions and comments
 - [ ] Ensures that the event stays on time
 
-#### Volunteers
+### Volunteers
 
 - [ ] Make sure Demoers are in the zoom room 10 minutes before their demo unless otherwise noted
 
-#### Demo-ers
+### Demo-ers
 
 - [ ] Demos their project for 5-7 minutes
 - [ ] Introduce themselves and their project
 - [ ] Talk about the goals, progress, project as they see fit
 - [ ] Conclude their demo and ask if there are questions or feedback
 
-### What does success look like overall?
+## What does success look like overall?
 
 - The volunteer team does not feel harried, stressed, or burned out putting this event together.
 - The demo-ers feel validated for their efforts in preparing.
@@ -44,22 +75,22 @@ The zoom will be open for a set time with a clear schedule of demos.
   - [ ] Check in volunteers.
   - [ ] A method for collecting loom/video submission demo links
 
-### What support do facilitators need?
+## What support do facilitators need?
 
 - [ ] Access to the list of participants and the number of participants to manage times accordingly (by July 24th)
 - Time to coordinate between the MC and the Host on the day.
 
-### What support do participants need?
+## What support do participants need?
 
 - [ ] Access to the demo doc and any other resources we have for preparation for the event
 - [ ] Check-ins at the start of the final week, the day before, and the day of the event
 
-### What support do volunteers need?
+## What support do volunteers need?
 
 - [ ] Clear lines of communication to know who's doing what and who to ask for help
 - [ ] A simple rubric for the check ins.
 
-### When and how do we communicate event details
+## When and how do we communicate event details
 
 - [ ] Form for participants should be ready by Tuesday 20th, July 2021.
 - [x] Inform the Coffee team to do explicit calls for form fill out on coffees during the week of 19th to 23rd

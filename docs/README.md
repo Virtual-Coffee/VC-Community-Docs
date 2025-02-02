@@ -1,4 +1,35 @@
-# Virtual Coffee Community Building Resources
+---
+id: README
+title: "Virtual Coffee Community Building Resources"
+sidebar_label: "Introduction"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags: 
+- 'introduction'
+---
 
 Welcome to Virtual Coffee's community building resources! This repository contains documentation, procedures, and insights into how we manage various aspects of our tech community. Whether you're looking to understand how we do things at Virtual Coffee, volunteer at Virtual Coffee, start your own community or improve an existing one, we hope these resources will be valuable to you.
 

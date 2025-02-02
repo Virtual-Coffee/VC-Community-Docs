@@ -1,8 +1,39 @@
+---
+id: community-maintainers
+title: "Community Maintainers"
+sidebar_label: "Community Maintainers"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags:
+- 'roles'
+---
+
 Each Virtual Coffee Community is supported by the Virtual Coffee Organization. The Organizational Maintainers provide tools, training, and resources to empower each open source community to create an intimate and safe space for everyone. The Organizational Maintainers will review documentation and provide decisions that with the overall mission and vision of the Organization.
 
 Virtual Coffee is an open source community, supported by community maintainers.
-
-# Community Maintainers
 
 _A Community Maintainer is a volunteer leader within a specific community, who provides support for the members of the community, and who agrees to the mission and vision of the Virtual Coffee Organization_
 

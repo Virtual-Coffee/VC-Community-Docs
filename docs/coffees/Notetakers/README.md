@@ -1,4 +1,35 @@
-# Notetakers
+---
+id: README
+title: "Notetakers"
+sidebar_label: "Notetakers"
+keywords: 
+- 'coffee table groups'
+- 'virtual coffee coffee table groups'
+- 'volunteer roles and responsibilities'
+- 'virtual coffee community'
+- 'community guides'
+- 'community documentation'
+- 'tech community'
+- 'online tech community'
+- 'community management'
+- 'community building'
+- 'monthly challenges'
+- 'virtual coffee monthly challenges'
+- 'lightning talk'
+- 'virtual coffee writers'
+- 'community writers'
+- 'volunteer roles in online community'
+- 'responsibilities of online community volunteers'
+- 'building a strong community'
+- 'guidelines for online community'
+- 'writing community documentation'
+- 'online community building strategies'
+- 'effective community management techniques'
+- 'monthly challenges for online communities'
+- 'planning online community events'
+tags:
+- 'coffees'
+---
 
 _Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted._
 
@@ -16,7 +47,7 @@ _Initial Conversation here tends to be random and lighthearted, so this section 
 
 ##### RESPONSES
 
-- Record Question Responses and make note of any new persons -- names can be recorded here}
+- Record Question Responses and make note of any new persons -- {names can be recorded here}
 
 ##### MAIN CONVERSATION: {Insert topic here, if there is one.}
 
