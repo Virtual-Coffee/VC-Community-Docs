@@ -62,7 +62,7 @@ Ask these questions: - Have you already contributed for Hacktoberfest? as a main
 Do you have questions about participating in ths challenge? Ask them, we may have answers!
 (Pause here for questions)
 
-You can mention any roadblocks or blockers that you're looking for help with. If you haven't worked on anything since your last check-in or in this challenge so far it's fine to say, "no updates, still planning on tackling {next steps} soon."
+You can mention any roadblocks or blockers that you're looking for help with. If you haven't worked on anything since your last check-in or in this challenge so far it's fine to say, "no updates, still planning on tackling \{next steps\} soon."
 
 If anyone wants to discuss people's roadblocks/blockers afterwards, feel free to reach out to each other after the standup in the #open-source channel.
 

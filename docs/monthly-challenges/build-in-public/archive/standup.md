@@ -60,7 +60,7 @@ Thanks for coming to today's Month of Learn in Public standup session. The way s
 - What we worked on since our last stand up session?
 - What we plan on working on next?
 
-You can mention any roadblocks or stumbling blocks we're looking for help with. If you haven't worked on any more since your last standup it's fine to say, "no updates, still planning on tackling {next steps} soon."
+You can mention any roadblocks or stumbling blocks we're looking for help with. If you haven't worked on any more since your last standup it's fine to say, "no updates, still planning on tackling \{next steps\} soon."
 
 If anyone wants to discuss people's roadblocks/pairing afterwards, feel free to reach out to each other after the standup, either in the #monthly-challenge channel or #help-and-pairing
 

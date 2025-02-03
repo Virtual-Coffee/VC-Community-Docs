@@ -47,7 +47,7 @@ I'm very excited for this, and we're going to kick it off with my talk: The Joy 
 
 ## Next Speaker intro
 
-- A special thank you to {speaker}. That was a great look at {topic}. Just a reminder to throw all of your questions in the #event-chat channel, and be sure to tag @{speakername}. Up next, we have {speaker} who is talking about {topic}. Intro speaker with {bio}
+- A special thank you to \{speaker\}. That was a great look at \{topic\}. Just a reminder to throw all of your questions in the #event-chat channel, and be sure to tag @\{speakername\}. Up next, we have \{speaker\} who is talking about \{topic\}. Intro speaker with \{bio\}
 
 ### Rafi - IPFS- Interplanetary File System
 

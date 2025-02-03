@@ -57,9 +57,9 @@ We’re invested in making sure that everyone can participate in the ways they a
 
 Here's a template for the intention we want to communicate at the beginning of each breakout room session. Room leaders are not required to read the script verbatim, we allow for some flexibility in language so long as the major themes (freedom of expression, freedom of presentation, spirit of support and inclusivity) are mantained.
 
-Hi, I'm {your name}, and I'll be your room leader today. We have {name} as our notetaker today as well. Our notetaker will take your name down for introductions, but will leave notes for the rest of the conversation anonymous to make sure everyone is comfortable sharing.
+Hi, I'm \{your name\}, and I'll be your room leader today. We have \{name\} as our notetaker today as well. Our notetaker will take your name down for introductions, but will leave notes for the rest of the conversation anonymous to make sure everyone is comfortable sharing.
 
-Please feel free to participate in a way that is comfortable for you. If you want to keep your camera off, stay muted, or participate in the chat, we’ll do our best to make this a welcoming and inclusive space for everyone. We always start with introductions, so you'll say your name, and if you would like to share: your pronouns , where you’re from, what you do, and then your answer to {random question}.
+Please feel free to participate in a way that is comfortable for you. If you want to keep your camera off, stay muted, or participate in the chat, we’ll do our best to make this a welcoming and inclusive space for everyone. We always start with introductions, so you'll say your name, and if you would like to share: your pronouns , where you’re from, what you do, and then your answer to \{random question\}.
 
 I’m going to ask everyone to start by using the handraise function, which is ALT or Option Y, or you can find it in the zoom reactions tab. Once you’ve completed your intro, you can popcorn to someone else on the screen whose hand is still raised and then put your hand down.
 
@@ -71,7 +71,7 @@ The chat is also a great place to ask questions if that's a more comfortable spa
 
 **Onboarding volunteer notetakers**
 
-- {name} is going to take notes for us today. {Pronouns} will record your intro with your name and your answer, and after that {pronouns} won't record names as part of the larger discussion to allow for open sharing.
+- \{name\} is going to take notes for us today. \{Pronouns\} will record your intro with your name and your answer, and after that \{pronouns\} won't record names as part of the larger discussion to allow for open sharing.
 
 ### After intros
 

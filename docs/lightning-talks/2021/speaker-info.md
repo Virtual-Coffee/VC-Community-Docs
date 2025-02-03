@@ -51,7 +51,7 @@ Bekah graduated from the Flatiron School Software Engineering program in May of 
 
 Bob Ross once said "[Coders] are a different breed of people. We’re a happy bunch.” Ok, well that's not what he said. He really said, “We artists are a different breed of people. We’re a happy bunch.” But it would be nice if we all were a happy bunch, right? So let's take some of that Bob Ross wisdom and apply it to dev life. And then maybe we, too, can be a happy bunch.
 
-### Slides Link: {Add slides link}
+### Slides Link: \{Add slides link\}
 
 https://docs.google.com/presentation/d/1APdg8PRbMOek5mNto5vO6tEZVxaxc2tmNh77UfUnhYs/edit#slide=id.gaf319132fd_0_9
 
@@ -175,7 +175,7 @@ Twitch: https://www.twitch.tv/saltnburnem313
 
 ### Talk Description:
 
-### Slides Link: {Add slides link}
+### Slides Link: \{Add slides link\}
 
 ### Headshot
 

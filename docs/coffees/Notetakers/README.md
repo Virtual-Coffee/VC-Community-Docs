@@ -41,15 +41,15 @@ _Thanks for being a notetaker! We know it can be challenging to take notes and p
 
 _Initial Conversation here tends to be random and lighthearted, so this section can be skipped. Maybe a notable line or two at the most._
 
-### {Breakout room} - Minutes for {Day} {date} {Month} {year} edition of Virtual Coffee!\*
+### \{Breakout room\} - Minutes for \{Day\} \{date\} \{Month\} \{year\} edition of Virtual Coffee!\*
 
-#### ICEBREAKER TOPIC: {Insert Question/theme of day here}
+#### ICEBREAKER TOPIC: \{Insert Question/theme of day here\}
 
 ##### RESPONSES
 
-- Record Question Responses and make note of any new persons -- {names can be recorded here}
+- Record Question Responses and make note of any new persons -- \{names can be recorded here\}
 
-##### MAIN CONVERSATION: {Insert topic here, if there is one.}
+##### MAIN CONVERSATION: \{Insert topic here, if there is one.\}
 
 - Note highlights, advice, experiences
 - You can capture as much as works for you. This could be a summary, or individual notes.
@@ -57,7 +57,7 @@ _Initial Conversation here tends to be random and lighthearted, so this section 
 
 ##### ARTICLES AND RESOURCES
 
-- {Note any links to external sites here}
+- \{Note any links to external sites here\}
 
 ### After Coffee
 

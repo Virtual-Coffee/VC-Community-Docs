@@ -59,7 +59,7 @@ Thanks for coming to today's Healthy Habits for Healthy Devs check-in. The way c
 - What did you do this week?
 - What do you plan on working on next week?
 
-You can mention any roadblocks or blockers that you're looking for help with. If you haven't worked on anything since your last check-in or in this challenge so far it's fine to say, "no updates, still planning on tackling {next steps} soon."
+You can mention any roadblocks or blockers that you're looking for help with. If you haven't worked on anything since your last check-in or in this challenge so far it's fine to say, "no updates, still planning on tackling \{next steps\} soon."
 
 If anyone wants to discuss people's roadblocks/blockers afterwards, feel free to reach out to each other after the standup in the #monthly-challenge channel.
 

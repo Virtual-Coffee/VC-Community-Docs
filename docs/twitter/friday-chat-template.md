@@ -45,19 +45,19 @@ We've got you covered with an async session if you missed Virtual Coffee! Just s
 
 We start every Coffee with a random check-in question.
 
-We'll go with {Day}day's question:
+We'll go with \{Day\}day's question:
 
 #VirtualCoffeeIO
 
 ---
 
-Q1. {Insert question here}
+Q1. \{Insert question here\}
 
 #VirtualCoffeeIO
 
 ---
 
-Q2. {Insert question here}
+Q2. \{Insert question here\}
 
 #VirtualCoffeeIO
 
