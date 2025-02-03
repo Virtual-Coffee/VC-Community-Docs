@@ -45,7 +45,7 @@ tags:
 ## How It Works
 
 - We're asking members to submit lunch-and-learns, youtube videos, podcasts, or some other form of audio of video content they created that explores a coding-related concept--there's no length requirement
-- <Someday at the end of the month>, we'll have a day of lightning talks where folks can showcase their talents and abilities.
+- \{Someday at the end of the month\}, we'll have a day of lightning talks where folks can showcase their talents and abilities.
 - We encourage to post ideas, questions, and even fears in Slack. The goal is to learn and grow together!
 - Keep in mind that we know that sharing can be hard, but it also provides a ton of value by:
   - Solidifying ideas.
