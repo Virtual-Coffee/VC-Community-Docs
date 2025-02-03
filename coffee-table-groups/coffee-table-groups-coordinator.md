@@ -1,6 +1,6 @@
 # Coffee Table Groups Coordinator
 
-Abbey Perini (@abbeyperini)
+**Currently Open!**
 
 ## Description of Role
 
