@@ -85,7 +85,6 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 #### When:
 
 - **Original Recipe** – Wednesdays, 10:00 AM – NOON ET
-- **Late Nite Menu** – Wednesdays, 10:00 PM – MIDNIGHT ET
 
 #### Lead:
 
@@ -94,7 +93,6 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 #### Hosts:
 
 - **Original Recipe** – Rad Turkin & Derek Johnston
-- **Late Nite Menu** – Lauren Collins
 
 Job hunting as a collective: An accountability session exclusively for job hunting. Support each other by being present and sharing your goals, target roles, and resources. Let's collaborate as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack! Arwoooo...!!!"
 
