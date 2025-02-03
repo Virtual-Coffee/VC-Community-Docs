@@ -34,7 +34,7 @@ tags:
 Our Coffee Table Groups have been one of the most popular and valuable features for members of our community. Coffee Table Groups are small, special interest groups created and run by members. They can involve Zoom meetings, async Slack hangouts, or anything else that the members would like to do.
 
 - [Coffee Table Group Leader Docs](./guides/guide-to-leading-a-coffee-table-group.md)
-- [Current Coffee Table Groups](./coffee-table-groups.md)
+- [Current Coffee Table Groups](./coffee-table-groups-list.md)
 
 ## Definition
 

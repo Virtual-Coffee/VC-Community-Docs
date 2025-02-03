@@ -99,7 +99,7 @@ https://anywaysoon.bandcamp.com/
 
 - Dan is your friendly neighborhood co-organizer of Cleveland React. Front-end developer, maintainer at https://VirtualCoffee.io, and father to two ridiculous little boys.
 
-# OUTRO
+## OUTRO
 
 - Thank you all for being here today, especially our speakers and lightning talk team. We look forward to keeping this discussion going in slack, but don't forget we have a social hour coming up next. You can join us there by following the link posted in announcements.
 

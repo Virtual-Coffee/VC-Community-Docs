@@ -47,7 +47,7 @@ It's recommended that you create a customized post to let VC members know that y
 
 You can start a thread on the automated 'Starting Soon' post in the `#vc-events` channel or create an entirely new post. Boost your event in other relevant Slack channels as well for a broader reach.
 
-![Thread on post to the `#vc-events` channel in Slack][9]
+![Thread on post to the `#vc-events` channel in Slack](../../_assets/images/thread-on-starting-soon-post.png)
 
 > [!IMPORTANT]
 > Do not post in the `#announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
@@ -70,16 +70,17 @@ You may enter the Zoom up to 10 minutes before the start of the event. Do so by 
 
 When you arrive in the Zoom, enter the Host Code to claim Host privledges. To do this, navigate to the `#vc-events-admin` channel in Slack and copy the Host Code from the posted Coffee Table group event.
 
-![Post to the `#vc-events-admin` channel in Slack][1]
+![Post to the `#vc-events-admin` channel in Slack](../../_assets/images/host-code.png)
 
 Back in Zoom, open the Participants tab and click on the 'Claim host' button to input the code.
 
-![A Zoom meeting with no Host][2]
-![Zoom's 'Claim host' modal][3]
+![A Zoom meeting with no Host](../../_assets/images/hostless-zoom.png)
+
+![Zoom's 'Claim host' modal](../../_assets/images/claim-host.png)
 
 Once your Co-host enters the Zoom, hover over their name in the Participants tab and click the 'More ▿' button. Select the 'Make co-host' option to grant them Co-host privledges.
 
-![Meg & Joe making faces for your enjoyment][4]
+![Meg & Joe making faces for your enjoyment](../../_assets/images/assign-co-host.png)
 
 > [!WARNING]
 > As Zoom Host, if you leave the Zoom, you will end the call for all participants! If you have to leave early, be sure to pass Host privledges to your Co-host by following the steps above and selecting 'Make host' before exiting the Zoom call.
@@ -97,13 +98,15 @@ Then, select the number of breakout rooms you want to create.
 
 Don't forget to click on 'Open all rooms' when you're finished creating them!
 
-![Zoom's Breakout room modal][5]
+![Zoom's Breakout room modal](../../_assets/images/breakout-room-options.png)
 
 ### Ending a Meeting
 
 Once your Coffee Table event has finished, click the 'End' button. This will trigger a pop-up where you'll select 'End meeting for all.'
 
-![Zoom's 'End' button][6] ![Zoom's options for ending a meeting][7]
+![Zoom's 'End' button](../../_assets/images/end-button.png)
+
+![Zoom's options for ending a meeting](../../_assets/images/end-options.png)
 
 > [!CAUTION]
 > Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
@@ -126,7 +129,7 @@ All Virtual Coffee events have automated messages attached to them:
   - In addition, this message is always posted to `#vc-events-admin`. The content of this message includes the event name, time, location (Zoom URL), host code, and in which Slack channel the join link is posted. It also displays a 'Join Event' button for the Coffee Table Hosts and Leader to use.
   - The 'Join Event' buttons in both messages are identical, so a Coffee Table Host or Leader can use either one.
 
-![Post to the `#vc-events` channel in Slack][8]
+![Post to the `#vc-events` channel in Slack](../../_assets/images/starting-soon-post.png)
 
 ## Important Contacts
 
@@ -137,13 +140,3 @@ Abbey Perini (@abbeyperini)
 ### Events Maintainer
 
 Meg Gutshall (@meg-gutshall)
-
-[1]: /assets/images/host-code.png
-[2]: /assets/images/hostless-zoom.png
-[3]: /assets/images/claim-host.png
-[4]: /assets/images/assign-co-host.png
-[5]: /assets/images/breakout-room-options.png
-[6]: /assets/images/end-button.png
-[7]: /assets/images/end-options.png
-[8]: /assets/images/starting-soon-post.png
-[9]: /assets/images/thread-on-starting-soon-post.png

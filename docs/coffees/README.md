@@ -37,36 +37,36 @@ Welcome to the Coffee docs! **Thank you all for supporting Virtual Coffee!**
 
 The goal for Coffees is to be part of a community and not to distance ourselves from it. These docs are to written with the intention of supporting our wonderful volunteers.
 
-## Resources:
+## Resources
 
 - [Icebreaker Topics](./icebreaker-topics.md): An ongoing list of potential topics for icebreakers.
 - [Conversation Topics](./topic-suggestions.md): An ongoing list of potential topics for conversation starters.
 
-## Roles:
+## Roles
 
-### Hosts:
+### Hosts
 
 The host controls the role assignments and the breakout rooms. They monitor for members who show up late, and control when the rooms are opened and closed.
 
-- [Host docs](./Hosts)
+- [Hosts page](./hosts/)
 
-### MCs:
+### MCs
 
 The MC gives the opening announcements and drops the important links into the chat.
 
-- [MC docs](./MCs)
+- [MCs page](./mcs/)
 
-### Room Leaders:
+### Room Leaders
 
 The Room Leaders are the conversation facilitators of the breakout rooms. They give some instructions (handraise function), run the introductions, and make sure everyone is being heard. If no one has a topic, the room leader brings up the "backpocket" topic of choice.
 
-- [Room Leader docs](./RoomLeaders-ConversationFacilitators)
+- [Room Leaders page](./room-leaders/)
 
-### Notetakers:
+### Notetakers
 
 Notetakers take notes on the conversation in the breakout rooms, grab the links that are dropped, and post the notes to slack after Coffee.
 
-- [Notetaker docs](./Notetakers)
+- [Notetakers page](./notetakers/)
 
 If you have any questions, feel free to ask in the slack channel or on the [discussion board](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions). Since this is a discussion board for all teams, make sure to use the ☕ category and use @Virtual-Coffee/coffee-talk-team to notify the team in your post.
 
@@ -101,9 +101,7 @@ This gives the Hosts time to plan the rooms and assign volunteers to roles for e
 
 Once we have volunteered for a slot it will look something like this in slack:
 
-<p align="center">
-<img src="./example_volunteer_poll.png"/>
-</p>
+![Example volunteer poll](../_assets/images/example-volunteer-poll.png)
 
 Later that day the MC or Host for the week will post a list of Room Leader / Notetaker pairings.
 

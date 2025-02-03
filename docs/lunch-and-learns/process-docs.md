@@ -135,18 +135,18 @@ _**NOTE:** The Moderator and the Host can be the same person._
 - The Moderator and the Speaker arrive 15 minutes prior to the scheduled start time to check equipment and settle in.
 - The Host allows 5 minutes for attendees to arrive.
 - The Moderator lets the Host know when to start the recording.
-- The Moderator kicks off the Lunch & Learn and introduces the Speaker using [the Lunch & Learn event script template](/lunch-and-learns/event-script-template.md#intro).
+- The Moderator kicks off the Lunch & Learn and introduces the Speaker using [the Lunch & Learn event script template](./event-script-template.md#intro).
 - The Speaker presents their Lunch & Learn.
 - The Moderator observes the chat and asks questions for non-vocal participants.
 - Once the Speaker finishes their presentation, the Moderator gives a verbal transition into Q&A (unless the Speaker does it themself).
-- The Moderator gives the official sign off using [the Lunch & Learn event script template](/lunch-and-learns/event-script-template.md#outro).
+- The Moderator gives the official sign off using [the Lunch & Learn event script template](./event-script-template.md#outro).
 - The Host stops the recording.
 
 ## Post-Lunch & Learn
 
 - The Moderator posts a thank you message to the Speaker in Slack's `#vc-events` channel.
 - Marketing posts the same thank you message to X.
-- The Post-Production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](/procedures/youtube.md).
+- The Post-Production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](../procedures/youtube.md).
 
 ## Cancelling a Lunch & Learn
 

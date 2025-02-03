@@ -1,34 +1,34 @@
 ---
 id: README
-title: "Virtual Coffee Community Building Resources"
-sidebar_label: "Introduction"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'introduction'
+title: 'Virtual Coffee Community Building Resources'
+sidebar_label: 'Introduction'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'introduction'
 ---
 
 Welcome to Virtual Coffee's community building resources! This repository contains documentation, procedures, and insights into how we manage various aspects of our tech community. Whether you're looking to understand how we do things at Virtual Coffee, volunteer at Virtual Coffee, start your own community or improve an existing one, we hope these resources will be valuable to you.
@@ -98,7 +98,7 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 This repository is organized into several key areas of community management:
 
 - [How to Use This Repo](#how-to-use-this-repo)
-- [Lunch & Learns](./lunch-and-learns): Docs and reference for managing Lunch & Learn events
+- [Lunch & Learns](./lunch-and-learns/): Docs and reference for managing Lunch & Learn events
   - **Lead**: Shelley McHardy
 - [Coffees](./coffees): Docs and reference for managing weekly Coffees
   - **Leads**: Community Maintainers
@@ -107,11 +107,11 @@ This repository is organized into several key areas of community management:
   - **Leads**: Ayu Adiati and Dominic Duffin
 - [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
   - **Lead**: Abbey
-- [Procedures](./procedures): Procedures for various Virtual Coffee tasks
+- [Procedures](./procedures/): Procedures for various Virtual Coffee tasks
   - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
   - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
-  - [Add a Coffee Table Group](./procedures/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
-- [Documentation Team](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
+  - [Add a Coffee Table Group](./coffee-table-groups/guides/guide-to-add-a-coffee-table-group-to-cms.md): Steps for adding a new Coffee Table Group after receiving an application
+- [Documentation Team](./docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
   - **Lead**: Ayu
 
 ## How to Use This Repo
@@ -121,7 +121,7 @@ This repo is meant to help facilitate communication and coordination for Virtual
 1. **Explore**: Browse through the different folders to find areas of interest.
 2. **Learn**: Each section contains documentation on how we approach different aspects of community building.
 3. **Adapt**: Feel free to use these resources according to our license as inspiration or templates for your own community initiatives.
-4. **Contribute**: If you have suggestions or improvements, please see our [Contributing Guide](./CONTRIBUTING.md).
+4. **Contribute**: If you have suggestions or improvements, please see our [Contributing Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md).
 
 ## Community Building Insights
 
@@ -150,4 +150,4 @@ We hope these resources are helpful. Remember, every community is unique, so ada
 > [!NOTE]  
 > Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
 
-> ⚠️ **Heads up!** If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](./CONTRIBUTING.md) for more info.
+> ⚠️ **Heads up!** If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md) for more info.

@@ -55,13 +55,13 @@ After completing the post, reach out to the monthly challenge team for proofread
 >
 > - Blog posts can be scheduled in advance.
 > - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
-> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](/community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
+> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](../../community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
 
 ### Updating the Challenge Pages on the Website
 
 One week before a challenge starts, change and adjust the challenge pages on the website to reflect the current challenge and create a PR.
 
-For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./technical-guidelines.md/#updating-the-monthly-challenge-pages-on-the-website)" section in the Technical Guidelines.
+For instructions on updating the pages, see the "[Updating the Monthly Challenge Pages on the Website](./technical-guidelines.md#updating-the-monthly-challenge-pages-on-the-website)" section in the Technical Guidelines.
 
 ## The First Day of the Month
 
@@ -69,7 +69,7 @@ For instructions on updating the pages, see the "[Updating the Monthly Challenge
 
 Change the `#monthly-challenge` channel topic and description in Slack.
 
-For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./technical-guidelines.md/#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section in the Technical Guidelines.
+For the complete instructions, see the "[Updating the `#monthly-challenge` Channel's Topic and Description on Slack](./technical-guidelines.md#updating-the-monthly-challenge-channels-topic-and-description-on-slack)" section in the Technical Guidelines.
 
 ### Making an Announcement for a New Challenge
 
@@ -91,7 +91,7 @@ Post a thread once a week in the `#monthly-challenge` channel (or any other dedi
 > [!NOTE]
 > The README file for each challenge contains the day and time of check-ins and previous prompts.
 
-Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md/#setting-up-a-slack-bot)" section in the Technical Guidelines.
+Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md#setting-up-a-slack-bot)" section in the Technical Guidelines.
 
 ## Post Challenge
 
