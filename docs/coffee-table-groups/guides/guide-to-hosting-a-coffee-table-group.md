@@ -1,7 +1,7 @@
 ---
 id: guide-to-hosting-a-coffee-table-group
 title: "Guide to Hosting a Coffee Table Group"
-sidebar_label: "Guide to Hosting a Coffee Table Group"
+sidebar_label: "Hosting a Coffee Table Group"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

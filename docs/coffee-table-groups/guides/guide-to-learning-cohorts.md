@@ -1,7 +1,7 @@
 ---
 id: guide-to-learning-cohorts
 title: "Guide to Learning Cohorts"
-sidebar_label: "Guide to Learning Cohorts"
+sidebar_label: "Learning Cohorts"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

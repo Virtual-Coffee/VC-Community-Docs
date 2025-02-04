@@ -1,7 +1,7 @@
 ---
 id: guide-to-leading-a-coffee-table-group
 title: "Guide to Leading a Coffee Table Group"
-sidebar_label: "Guide to Leading a Coffee T..."
+sidebar_label: "Leading a Coffee Table Group"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

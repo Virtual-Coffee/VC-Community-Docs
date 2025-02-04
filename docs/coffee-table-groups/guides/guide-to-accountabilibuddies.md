@@ -1,7 +1,7 @@
 ---
 id: guide-to-accountabilibuddies
 title: "Guide to Accountabilibuddies"
-sidebar_label: "Guide to Accountabilibuddies"
+sidebar_label: "Accountabilibuddies"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

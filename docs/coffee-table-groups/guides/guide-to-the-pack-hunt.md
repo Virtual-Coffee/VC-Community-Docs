@@ -1,7 +1,7 @@
 ---
 id: guide-to-the-pack-hunt
 title: "Guide to The Pack Hunt"
-sidebar_label: "Guide to The Pack Hunt"
+sidebar_label: "The Pack Hunt"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

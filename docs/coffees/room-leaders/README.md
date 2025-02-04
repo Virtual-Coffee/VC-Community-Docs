@@ -1,6 +1,6 @@
 ---
 id: README
-title: "Breakout Room Leader Guidelines and Considerations"
+title: "Room Leaders"
 sidebar_label: "Room Leaders"
 keywords: 
 - 'coffee table groups'

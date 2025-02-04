@@ -1,7 +1,7 @@
 ---
 id: guide-to-feelings-friday
 title: "Guide to Feelings Friday"
-sidebar_label: "Guide to Feelings Friday"
+sidebar_label: "Feelings Friday"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

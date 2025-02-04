@@ -1,7 +1,7 @@
 ---
 id: guide-to-book-clubs
 title: "Guide to Book Clubs"
-sidebar_label: "Guide to Book Clubs"
+sidebar_label: "Book Clubs"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
