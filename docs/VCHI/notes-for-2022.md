@@ -1,7 +1,7 @@
 ---
 id: notes-for-2022
-title: "VCHI Website"
-sidebar_label: "VCHI Website"
+title: "New VCHI Website"
+sidebar_label: "New VCHI Website"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

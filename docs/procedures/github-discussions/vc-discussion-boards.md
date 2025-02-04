@@ -1,7 +1,7 @@
 ---
 id: vc-discussion-boards
-title: "How to Use Github Discussions"
-sidebar_label: "How to Use Github Discussions"
+title: "Guide to Github Discussions"
+sidebar_label: "Github Discussions"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
