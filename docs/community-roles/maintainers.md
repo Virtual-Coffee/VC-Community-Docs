@@ -1,7 +1,7 @@
 ---
-id: community-maintainers
-title: "Community Maintainers"
-sidebar_label: "Community Maintainers"
+id: maintainers
+title: "Virtual Coffee Maintainers"
+sidebar_label: "Maintainers"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

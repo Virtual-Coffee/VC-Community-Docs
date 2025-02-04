@@ -28,7 +28,7 @@ keywords:
 - 'monthly challenges for online communities'
 - 'planning online community events'
 tags:
-- 'writers'
+- 'procedures'
 ---
 
 We're so excited to have you as a volunteer community writer! Our goal is to cultivate our relationships with our community writers while amplifying their work through the publication and promotion of their work through our Dev org and social media. As part of this experience, we want to provide you with feedback, help you to grow, and support your writing.

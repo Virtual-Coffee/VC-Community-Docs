@@ -1,7 +1,7 @@
 ---
-id: guide-to-add-a-coffee-table-group-to-cms
-title: 'Guide to Add a Coffee Table Group Event to CMS'
-sidebar_label: 'Add Events to CMS'
+id: add-an-event-to-cms
+title: 'Adding an Event to CMS'
+sidebar_label: 'Adding an Event to CMS'
 keywords:
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
@@ -28,7 +28,7 @@ keywords:
 - 'monthly challenges for online communities'
 - 'planning online community events'
 tags:
-- 'coffee table groups'
+- 'procedures'
 ---
 
 1. Get message from website with [form submission](https://virtualcoffee.io/start-coffee-table-group).

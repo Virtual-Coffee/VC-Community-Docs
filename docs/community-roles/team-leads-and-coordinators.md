@@ -1,7 +1,7 @@
 ---
-id: team-leads
-title: "Team Leads"
-sidebar_label: "Team Leads"
+id: team-leads-and-coordinators
+title: "Virtual Coffee Team Leads and Coordinators"
+sidebar_label: "Team Leads and Coordinators"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

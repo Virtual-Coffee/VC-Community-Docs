@@ -28,7 +28,7 @@ keywords:
 - 'monthly challenges for online communities'
 - 'planning online community events'
 tags: 
-- 'X'
+- 'procedures'
 ---
 
 Chat time: Every Friday at 09:00 USA Eastern Time.

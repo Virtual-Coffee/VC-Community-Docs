@@ -28,7 +28,7 @@ keywords:
 - 'monthly challenges for online communities'
 - 'planning online community events'
 tags: 
-- 'YouTube'
+- 'procedures'
 ---
 
 There are two ways to do this: scheduling a stream ahead of time, or starting a stream instantly during a meeting.

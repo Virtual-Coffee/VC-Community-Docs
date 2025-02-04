@@ -28,7 +28,7 @@ keywords:
 - 'monthly challenges for online communities'
 - 'planning online community events'
 tags: 
-- 'YouTube'
+- 'procedures'
 ---
 
 ## MVP Edit
