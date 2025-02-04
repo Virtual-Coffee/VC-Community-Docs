@@ -75,3 +75,13 @@ Determine the schedule, type, and format for your group:
 If your group is an ongoing group, you may find that you don't have the time or energy to continue leading. That's okay. It's really important that all volunteers know that it is always okay to prioritize their mental and physical health.
 
 Rather than discontinuing the group by not scheduling a new one, see if anyone in the group or the larger VC community is willing to take on the responsibility. Communicate with your Coffee Table Group about the need for a new Lead. If you're unable to do so, let the Coffee Table Groups Coordinator know.
+
+## Important Contacts
+
+### Coffee Table Group Coordinator
+
+**Currently Open!**
+
+### Events Maintainer
+
+Meg Gutshall (@meg-gutshall)

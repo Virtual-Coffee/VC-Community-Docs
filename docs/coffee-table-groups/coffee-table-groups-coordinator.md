@@ -1,7 +1,7 @@
 ---
 id: coffee-table-groups-coordinator
 title: "Coffee Table Groups Coordinator"
-sidebar_label: "Coffee Table Groups Coordin..."
+sidebar_label: "Coffee Table Groups Coordinator"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
@@ -31,7 +31,7 @@ tags:
 - 'coffee table groups'
 ---
 
-Abbey Perini (@abbeyperini)
+**Currently Open!**
 
 ## Description of Role
 

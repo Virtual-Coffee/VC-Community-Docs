@@ -135,7 +135,7 @@ All Virtual Coffee events have automated messages attached to them:
 
 ### Coffee Table Group Coordinator
 
-Abbey Perini (@abbeyperini)
+**Currently Open!**
 
 ### Events Maintainer
 
