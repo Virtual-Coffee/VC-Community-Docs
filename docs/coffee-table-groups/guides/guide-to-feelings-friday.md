@@ -79,8 +79,8 @@ Thank all the participants for sharing their feelings with the group and listeni
 
 ### Mental Health and Wellness Resources
 
-- Mental Health Resources - <https://docs.google.com/document/d/1vGpripW8rWwi2Q9z-H4i-C05Crg0WWwx2Ihd_gMJ-_o/edit?usp=sharing>
-- Wellness questions to ask yourself - <https://docs.google.com/document/d/1wl5gRWXDx1NJgR3TTegLtSqHDJHJ_g4UGpLfKJfPhcA/edit?usp=sharing>
+- [Mental Health Resources](https://docs.google.com/document/d/1vGpripW8rWwi2Q9z-H4i-C05Crg0WWwx2Ihd_gMJ-_o/edit?usp=sharing)
+- [Wellness questions to ask yourself](https://docs.google.com/document/d/1wl5gRWXDx1NJgR3TTegLtSqHDJHJ_g4UGpLfKJfPhcA/edit?usp=sharing)
 
 ### Disclaimers and Rules
 
