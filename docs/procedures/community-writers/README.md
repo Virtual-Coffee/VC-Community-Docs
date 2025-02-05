@@ -1,8 +1,8 @@
 ---
 id: README
-title: "Community Writers"
-sidebar_label: "Community Writers"
-keywords: 
+title: 'Community Writers'
+sidebar_label: 'Community Writers'
+keywords:
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
 - 'volunteer roles and responsibilities'
@@ -40,9 +40,11 @@ Because we would love to prioritize what you want to write about in regard to to
 We publish our blog posts on the Virtual Coffee Dev organization on Dev.to. This is a great platform for sharing your work with a broader audience.
 
 1. Publication Scheduling
+
    We don't currently have a regular cadence for publishing blog posts. Currently, we're doing monthly challenge posts. If you have a specific date you'd like your blog post to be published, please let us know in advance so we can plan accordingly.
 
 2. Writing the Blog Post
+
    Write your blog post, focusing on clear communication, valuable insights, and engaging content.
 
    :::tip
@@ -52,19 +54,25 @@ We publish our blog posts on the Virtual Coffee Dev organization on Dev.to. This
 
    :::
 
-For more tips, see the Tips and Tricks for Writing a Successful Blog Post below.
+   For more tips, see the [Tips and Tricks for Writing a Successful Blog Post](#tips-and-tricks-for-writing-a-successful-blog-post) below.
 
 3. Grammar and Style Check
+
    Run your drafted blog post through Grammarly for grammar and style refinement.
 
 4. Review Process
+
    Request a review from our resource maintainer 5-7 days before the publication date or earlier if your draft is complete--this could be a google doc with edit access or the unpublished draft of Dev.to.
 
-Incorporate feedback and make necessary revisions to enhance the quality of the post.
+   :::note
 
-Do not schedule your blog post for publication until you've been approved.
+   - Incorporate feedback and make necessary revisions to enhance the quality of the post.
+   - Do not schedule your blog post for publication until you've been approved.
 
-7. Image Selection
+   :::
+
+5. Image Selection
+
    Create a blog post image relevant to the content. Alternatively, find a free image on platforms like Unsplash.
 
    :::note
@@ -73,79 +81,88 @@ Do not schedule your blog post for publication until you've been approved.
 
    :::
 
-8. Scheduling and Publishing
+6. Scheduling and Publishing
+
    Once the review process is complete and your post is refined, schedule the post for publication in the Dev platform.
 
-- Select Virtual Coffee as the organization
-- Update the title
-- Change published to true
-- Add the metadescription to the description field
-- Add relevant tags to increase discoverability
-- Upload and add a cover image. Remove the "#" before cover_image
-- If you're scheduling the post, remove the "#" before published_at and update to the day and time you'd like to schedule the post
+   - Select Virtual Coffee as the organization
+   - Update the title
+   - Change published to true
+   - Add the metadescription to the description field
+   - Add relevant tags to increase discoverability
+   - Upload and add a cover image. Remove the "#" before cover_image
+   - If you're scheduling the post, remove the "#" before published_at and update to the day and time you'd like to schedule the post
 
-## Tips and Tricks for Writing a Successful Blog Post:
+## Tips and Tricks for Writing a Successful Blog Post
 
 Crafting a well-structured blog post helps to engage our readers and convey your ideas effectively. Here are some tips to make sure your blog post is clear, engaging, and easy to read:
 
 1. Clarity and Simplicity
 
-- Tone, Voice, and Style: Maintain a casual and engaging tone. Let your personality shine through while staying professional.
-- Use language that's accessible to a broad audience.
-- If the concepts are complex or for folks with experience using the technology, mention that early in the blog post or consider creating a section with expectations. For example, if you’re writing a Tutorial on using Next.js, you might have a section like this:
-  ## Expectations
-  - Basic understanding of Next.js
-  - In-depth understanding of React Hooks
-  - Familiarity with Cypress
-    Explain technical terms and concepts in simple terms, offering context for those new to the topic.
+    - Tone, Voice, and Style: Maintain a casual and engaging tone. Let your personality shine through while staying professional.
+    - Use language that's accessible to a broad audience.
+    - If the concepts are complex or for folks with experience using the technology, mention that early in the blog post or consider creating a section with expectations. For example, if you’re writing a Tutorial on using Next.js, you might have a section like this:
+
+      ```md
+      ## Expectations
+
+      - Basic understanding of Next.js
+      - In-depth understanding of React Hooks
+      - Familiarity with Cypress
+      ```
+
+      Explain technical terms and concepts in simple terms, offering context for those new to the topic.
 
 2. Concise Sentences
 
-- Opt for shorter sentences over complex ones to enhance readability and comprehension.
-- Keep sentences focused on a single idea to avoid confusion.
+    - Opt for shorter sentences over complex ones to enhance readability and comprehension.
+    - Keep sentences focused on a single idea to avoid confusion.
 
 3. Paragraph Length
 
-- Break down paragraphs into shorter segments (1-3 sentences). This prevents overwhelming readers with large blocks of text.
-- Each paragraph should address a single point or idea.
+    - Break down paragraphs into shorter segments (1-3 sentences). This prevents overwhelming readers with large blocks of text.
+    - Each paragraph should address a single point or idea.
 
 4. Grammar and Spelling
 
-- Proofread your content for grammar, spelling, and punctuation errors.
-- Use Grammarly or similar tools to catch mistakes and enhance the overall quality.
+    - Proofread your content for grammar, spelling, and punctuation errors.
+    - Use Grammarly or similar tools to catch mistakes and enhance the overall quality.
 
 5. Formatting Guidelines
 
-- Use subheadings to organize content hierarchically. Utilize markdown syntax ( ## for H2, ### for H3) to create headings. Remember not to skip levels in headings. For example, don’t go from an H1 to an H3.
-- Use bullet points or numbered lists to simplify instructions or to break down complex ideas.
-- Incorporating Code Snippets: When discussing code-related topics, use formatted code snippets to enhance readability.
-  - To use code snippets, use three backticks followed by the abbreviation for the language of the code you’re including. For example, if you’re highlighting a JavaScript snippet, it would look like this: " `js`" After the code is completed, close the syntax highlighting with another three backticks.
+    - Use subheadings to organize content hierarchically. Utilize markdown syntax ( ## for H2, ### for H3) to create headings. Remember not to skip levels in headings. For example, don’t go from an H1 to an H3.
+    - Use bullet points or numbered lists to simplify instructions or to break down complex ideas.
+    - Incorporating Code Snippets: When discussing code-related topics, use formatted code snippets to enhance readability.
+
+      - To use code snippets, use three backticks followed by the abbreviation for the language of the code you’re including. For example, if you’re highlighting a JavaScript snippet, it would look like this: " `js`" After the code is completed, close the syntax highlighting with another three backticks.
 
 6. Visual Elements
 
-- Include relevant images, diagrams, code snippets, or screenshots to illustrate concepts.
-- Ensure images are clear, appropriately sized, have alt text, and have proper attributions if required.
-- Image Attribution: If using images from sources like Unsplash, provide appropriate attribution.
+    - Include relevant images, diagrams, code snippets, or screenshots to illustrate concepts.
+    - Ensure images are clear, appropriately sized, have alt text, and have proper attributions if required.
+    - Image Attribution: If using images from sources like Unsplash, provide appropriate attribution.
 
-8. Introduction and Conclusion
+7. Introduction and Conclusion
 
-- Begin with an attention-grabbing introduction that highlights the importance of the topic. Personalizing the introduction with a story often helps to create a rapport with your readers.
-- Summarize key points and provide a clear takeaway in the conclusion.
+    - Begin with an attention-grabbing introduction that highlights the importance of the topic. Personalizing the introduction with a story often helps to create a rapport with your readers.
+    - Summarize key points and provide a clear takeaway in the conclusion.
 
-9. Effective Linking
+8. Effective Linking
 
-- Insert hyperlinks to relevant sources, previous blog posts from other members of the Virtual Coffee Team, and external references.
+    Insert hyperlinks to relevant sources, previous blog posts from other members of the Virtual Coffee Team, and external references.
 
-10. Call to Action
+9. Call to Action
 
-- Encourage engagement by including a call to action at the end of the post. This might be asking readers to check out a repository, follow Virtual Coffee on Dev, etc.
-- Invite readers to share their thoughts, ask questions, or explore related content.
+    - Encourage engagement by including a call to action at the end of the post. This might be asking readers to check out a repository, follow Virtual Coffee on Dev, etc.
+    - Invite readers to share their thoughts, ask questions, or explore related content.
 
-11. SEO-Friendly Writing
+10. SEO-Friendly Writing
 
-- Integrate relevant keywords naturally into your content to improve search engine visibility.
-- Craft a descriptive and engaging meta description for the blog post.
-  a meta description should ideally be between 150 to 160 characters. - The metadescription should briefly capture the essence of your blog post, highlight value, and include any key words.
+    - Integrate relevant keywords naturally into your content to improve search engine visibility.
+    - Craft a descriptive and engaging meta description for the blog post.
+
+      - A meta description should ideally be between 150 to 160 characters.
+      - The metadescription should briefly capture the essence of your blog post, highlight value, and include any key words.
 
 ## Extra Tips
 
