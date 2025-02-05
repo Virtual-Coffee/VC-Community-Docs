@@ -33,8 +33,11 @@ tags:
 
 Welcome to the Monthly Challenges docs! These docs are written to support our wonderful volunteers. ✨
 
-> [!NOTE]
-> This is a friendly reminder that volunteering for Virtual Coffee should never stress you out. We value your help and support, but we know that can vary from month to month. Just let us know if you need to take some time off from volunteering. We're happy to support you.
+:::note[Friendly Reminder]
+
+Volunteering for Virtual Coffee should never stress you out. We value your help and support, but we know that can vary from month to month. Just let us know if you need to take some time off from volunteering. We're happy to support you.
+
+:::
 
 ## What are Monthly Challenges?
 

@@ -35,8 +35,11 @@ Devs are more than just the code we write. This challenge is all about embracing
 
 In this challenge, we encourage folks to spend time working on things that aren't necessarily code-specific or using code to improve other hobbies and outlets.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

@@ -41,9 +41,9 @@ As a room leader, your primary job is to ensure that the room is a safe and welc
 
 ### Discussion
 
-_To make this a welcoming space, it's important that as room leaders, you take care of the people in the room, and avoid situations of "getting too into the conversation" and excluding people. If there's jargon being used, ask the speaker to explain it and drop a link in the chat if possible as an additional resource. Be prepared to redirect conversation, politely move on to another speaker, etc._
+To make this a welcoming space, it's important that as room leaders, you take care of the people in the room, and avoid situations of "getting too into the conversation" and excluding people. If there's jargon being used, ask the speaker to explain it and drop a link in the chat if possible as an additional resource. Be prepared to redirect conversation, politely move on to another speaker, etc.
 
-#### Coffee Table or PacMan method:
+#### Coffee Table or PacMan method
 
 - Coffee Table Method: I love @Glen McCallum’s description: it’s like you’re sitting around a coffee table talking with friends. That means you want to engage everyone in conversation as much as possible.
 - [The Pacman Method](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/): in conferences and meetups, you always leave room in the circle for someone else to join the conversation. And the same thing should happen in your room.
@@ -53,7 +53,7 @@ _To make this a welcoming space, it's important that as room leaders, you take c
 In order to create a safe space, we ask that our room leaders always follow the structure and script for the breakout rooms and initiate the process shortly after breakout rooms open. This structure creates a recognizable space. It allows our new and old guests to sit down around the coffee table and to know what to expect. It invites them to share and participate in ways that make them comfortable.
 We’re invested in making sure that everyone can participate in the ways they are most comfortable. That’s why it’s important to explain the hand raise function and other modes of participation.
 
-### Intro Script:
+### Intro Script
 
 Here's a template for the intention we want to communicate at the beginning of each breakout room session. Room leaders are not required to read the script verbatim, we allow for some flexibility in language so long as the major themes (freedom of expression, freedom of presentation, spirit of support and inclusivity) are mantained.
 

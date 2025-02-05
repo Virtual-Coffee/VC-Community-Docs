@@ -35,10 +35,13 @@ In this challenge, we're working on creating a habit of talking about the things
 
 We aim to learn to communicate around a project, show the development process, give confidence, and be proud of any progress made.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+In 2021, we dedicated June to the Build in Public challenge and July to Demo Day. Since July 2022, we have combined them into one challenge.
 
-**Note:** In 2021, we dedicated June to the Build in Public challenge and July to Demo Day. Since July 2022, we have combined them into one challenge.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

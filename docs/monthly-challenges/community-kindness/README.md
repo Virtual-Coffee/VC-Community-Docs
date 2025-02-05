@@ -35,8 +35,11 @@ This challenge encourages our members to celebrate one of the things that contin
 
 Some of the ways we see this include: practicing gratitude, reaching out to support other members, mentoring, helping, giving honest and constructive feedback, and continuing to make Virtual Coffee a safe and supportive space.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

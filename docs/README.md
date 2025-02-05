@@ -147,7 +147,14 @@ If you have questions about our processes or want to discuss community building,
 
 We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
 
-> [!NOTE]  
-> Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
+::::note
 
-> ⚠️ **Heads up!** If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md) for more info.
+Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
+
+:::danger[Heads up!]
+
+If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md) for more info.
+
+:::
+
+::::

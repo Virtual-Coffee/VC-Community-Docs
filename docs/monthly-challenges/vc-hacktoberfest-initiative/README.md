@@ -34,8 +34,11 @@ tags:
 
 This challenge is always run during October and was our first-ever monthly challenge. We have three tracks: maintainers will provide issues labeled for Hacktoberfest, contributors will solve issues, and mentors will help contributors and maintainers be successful.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Special Tasks
 

@@ -33,8 +33,11 @@ tags:
 
 The Mid-Year Check-In challenge is designed to provide an opportunity for Virtual Coffee members to reflect on their progress, reevaluate goals, and gain clarity on their journey. This challenge aims to encourage personal growth, foster connection within the community, and provide a supportive space for members to share their insights, challenges, and successes.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

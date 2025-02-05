@@ -49,8 +49,11 @@ You can start a thread on the automated 'Starting Soon' post in the `#vc-events`
 
 ![Thread on post to the `#vc-events` channel in Slack](../../_assets/images/thread-on-starting-soon-post.png)
 
-> [!IMPORTANT]
-> Do not post in the `#announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
+:::danger[Important]
+
+Do not post in the `#announcements` channel! This channel is reserved for news, updates, and automated posts to inform the Virtual Coffee community. `#vc-events` is meant for anything event-related. If you have any questions about this, please reach out to the [Events Maintainer](#events-maintainer).
+
+:::
 
 ## Zoom Logistics
 
@@ -82,8 +85,11 @@ Once your Co-host enters the Zoom, hover over their name in the Participants tab
 
 ![Meg & Joe making faces for your enjoyment](../../_assets/images/assign-co-host.png)
 
-> [!WARNING]
-> As Zoom Host, if you leave the Zoom, you will end the call for all participants! If you have to leave early, be sure to pass Host privledges to your Co-host by following the steps above and selecting 'Make host' before exiting the Zoom call.
+:::warning
+
+As Zoom Host, if you leave the Zoom, you will end the call for all participants! If you have to leave early, be sure to pass Host privledges to your Co-host by following the steps above and selecting 'Make host' before exiting the Zoom call.
+
+:::
 
 ### Creating Breakout Rooms
 

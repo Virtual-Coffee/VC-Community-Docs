@@ -33,8 +33,11 @@ tags:
 
 This challenge aims to work on creating, revising, or updating your job packet materials and that elevator pitch that might get you in the door. This challenge emphasizes taking time to ensure they work together and getting some extra feedback on what you've worked on.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

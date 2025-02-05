@@ -33,8 +33,11 @@ tags:
 
 This challenge calls members to approach each other with kindness and honesty, and allow this kind of feedback to be a regular part of our process. We offer empathetic responses that are honest and allow them to grow and to fix a problem.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

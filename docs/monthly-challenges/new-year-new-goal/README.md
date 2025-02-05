@@ -33,8 +33,11 @@ tags:
 
 In this challenge, we encourage members to set their goals for the year and break them into achievable goals for each month. Our Coffee Table Groups — Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt — are participating in and supporting this challenge!
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

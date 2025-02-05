@@ -34,17 +34,21 @@ tags:
 <!-- markdownlint-disable MD024 -->
 <!-- markdownlint-disable MD026 -->
 
-> [!IMPORTANT]
-> These are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
+:::warning[Important]
 
----
+These are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
+
+:::
 
 ## Active Groups
 
-> [!NOTE]
-> We're continually accepting volunteer applications for co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
->
-> Please reach out to Meg if you have any questions.
+:::note
+
+We're continually accepting volunteer applications for co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
+
+Please reach out to Meg if you have any questions.
+
+:::
 
 ### Tech Interview Study Group
 

@@ -33,14 +33,18 @@ tags:
 
 Welcome to the Coffee docs! **Thank you all for supporting Virtual Coffee!**
 
-> :triangular_flag_on_post: Hey - Just a friendly reminder that being a room leader/notetaker shouldn't be something that stresses you out. Every person in the room has the opportunity to contribute to the conversation and/or to add notes.
+:::note[Friendly Reminder]
 
-The goal for Coffees is to be part of a community and not to distance ourselves from it. These docs are to written with the intention of supporting our wonderful volunteers.
+Being a room leader/notetaker shouldn't be something that stresses you out. Every person in the room has the opportunity to contribute to the conversation and/or to add notes. The goal for Coffees is to be part of a community and not to distance ourselves from it.
 
-## Resources
+:::
+
+These docs are to written with the intention of supporting our wonderful volunteers.
+
+<!-- ## Resources
 
 - [Icebreaker Topics](./icebreaker-topics.md): An ongoing list of potential topics for icebreakers.
-- [Conversation Topics](./topic-suggestions.md): An ongoing list of potential topics for conversation starters.
+- [Conversation Topics](./topic-suggestions.md): An ongoing list of potential topics for conversation starters. -->
 
 ## Roles
 
@@ -72,7 +76,7 @@ If you have any questions, feel free to ask in the slack channel or on the [disc
 
 ## Weekly Process
 
-Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET / 2pm UTC a slackbot makes an `@channel` announcement in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) Slack channel (times below are in North American Central Time):
+Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET / 2pm UTC a slackbot makes an `@channel` announcement in the `#vc-room-leaders-notetakers` Slack channel (times below are in North American Central Time):
 
 ```
 Slackbot  8:00 AM
@@ -91,13 +95,15 @@ Reminder: Thursday thread.
 
 1. If you know for sure that you cannot make a session add a `:x:` ❌
 
-NOTES:
+:::note
 
 - Choose as many roles as you like. You won't be assigned both room leader and notetaker or both MC and host, but other roles can be combined.
 - for the Tuesday thread please add your emojis on Mondays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 - for the Thursday thread please add your emojis on Wednesdays by 10am PT / 11am MT / 12pm noon CT / 1pm ET / 6pm UTC
 
 This gives the Hosts time to plan the rooms and assign volunteers to roles for each day.
+
+:::
 
 Once we have volunteered for a slot it will look something like this in slack:
 
@@ -109,6 +115,6 @@ Later that day the MC or Host for the week will post a list of Room Leader / Not
 
 Life happens and this community is here to support each other, so all we ask is that you communicate as your availability changes.
 
-If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the [`#vc-room-leaders-notetakers`](https://virtual-coffee-group.slack.com/archives/G01GR1BGRL7) and with a direct @ to the host as soon as you know so that the other volunteers can work out substitutions and coverage. For example, if Kirk is the host, post in the channel `@Kirk, something came up and I can't make today.`
+If you have been assigned a role and at any time you learn that you will be unable to make it drop a message in the `#vc-room-leaders-notetakers` and with a direct @ to the host as soon as you know so that the other volunteers can work out substitutions and coverage. For example, if Kirk is the host, post in the channel `@Kirk, something came up and I can't make today.`
 
 If you are assigned as a room leader if needed, then the host may assign you to host a room without sending you a message. Things often get chaotic with last minute attendees coming in and the need to add a room quickly. If you want to double-check to make sure that it is, in fact, your room, the host has added a title to each of the rooms, which will appear at the top of the Zoom screen.

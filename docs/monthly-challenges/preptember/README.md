@@ -37,8 +37,11 @@ For this challenge, we have two tracks. Maintainers will review their open-sourc
 
 Since September 2023, we have provided a [VC Preptember repository](https://github.com/Virtual-Coffee/vc-preptember) for our members to practice open source and to list repositories that we can verify for Hacktoberfest based on our [Repository Checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist).
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Special Tasks
 

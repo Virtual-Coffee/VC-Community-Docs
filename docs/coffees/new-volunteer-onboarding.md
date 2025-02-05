@@ -80,8 +80,11 @@ As for the practicals of volunteering, every Monday a post is made in the `#room
 whether they're available for room leading, note-taking, both, or neither. On Monday and Wednesday afternoon the first draft of the roster will be posted. This
 gives folks a few hours in case we need to make adjustments. You can always change your mind by replying in the thread for a particular day.
 
-**note**: If you notice one of the maintainers has put you in a role you didn't sign up for, or one you no longer feel comfortable with, again just let them know
-in the thread.
+:::note
+
+If you notice one of the maintainers has put you in a role you didn't sign up for, or one you no longer feel comfortable with, again, just let them know in the thread.
+
+:::
 
 ## Your first note taking
 
@@ -90,7 +93,7 @@ The [Notetaker page](./notetakers/README.md) should have all the information you
 feel nervous, feel free to reach out to whoever you've been paired with. You should be assigned to someone who's had a lot of experience leading a room, and you can
 always ask them for advice or feedback. Just be aware that not everyone has a lot of time before coffees begin to chat due to other responsibilities.
 
-# Your first room lead
+## Your first room lead
 
 Your first room lead will always have you paired with another experienced member, typically a maintainer. They'll chat with you beforehand to decide the way the two
 of you will handle the room, and what responsibilities you'll handle or share. You will probably start off doing mainly observation and monitoring and responding to the

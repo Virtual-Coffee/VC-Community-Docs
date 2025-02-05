@@ -33,8 +33,11 @@ tags:
 
 This month, we are encouraging our members to take some time away from their screens and get out of the house, then come back and share photographs in Slack. You can, of course, complete the challenge without going more than five feet from your car, but we encourage you to get the benefit of some fresh air and exercise.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

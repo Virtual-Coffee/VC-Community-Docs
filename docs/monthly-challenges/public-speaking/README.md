@@ -35,8 +35,11 @@ During this month, we'll be breaking down the art of public speaking into manage
 
 We close this challenge on Friday, the last week of the month, with the Lightning Talk. Check out [lightning-talks](/lightning-talks/README.md) for detailed information.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Times
 

@@ -33,8 +33,11 @@ tags:
 
 This challenge allows Virtual Coffee members to invite a friend to join our community. However, simply inviting someone is not enough! We encourage everyone to warmly welcome and support our new friends and demonstrate what Virtual Coffee is truly all about - a welcoming and supportive community!
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

@@ -35,8 +35,11 @@ A Community Challenge to hit a word count goal for all our tech blogs.
 
 Based off the [NaNoWriMo (National Novel Writing Month)](https://nanowrimo.org/) Challenge, this challenge is the tech take on writing and working together towards the goal while posting on our own blogs.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Special Tasks
 

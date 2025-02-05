@@ -51,11 +51,13 @@ Once the challenge has been finalized, write a blog post about it under the Virt
 
 After completing the post, reach out to the monthly challenge team for proofreading before publishing it. The blog post can be published two days before the challenge begins or on the first day of the month.
 
-> [!NOTE]
->
-> - Blog posts can be scheduled in advance.
-> - A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
-> - If you're interested in writing a blog post for Virtual Coffee, please read our [Community Writers docs](../../community-writers/README.md) and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
+:::note
+
+- Blog posts can be scheduled in advance.
+- A blog post is optional. However, introducing and promoting our challenges to the public and our members through blog posts is one good way to engage the public in doing the challenge with us.
+- If you're interested in writing a blog post for Virtual Coffee, please read our **[Community Writers page](../../procedures/community-writers/README.md)** and reach out to @BekahHW so you can be added to the Virtual Coffee organization on DEV.
+
+:::
 
 ### Updating the Challenge Pages on the Website
 
@@ -75,8 +77,11 @@ For the complete instructions, see the "[Updating the `#monthly-challenge` Chann
 
 Announce the challenge in the `#announcements` channel and crosspost it to the `#monthly-challenge` channel on Slack.
 
-> [!NOTE]
-> The README file for each challenge contains script templates of previous announcements. You can use them as a guide to create an announcement. If a template is unavailable, you must create one and add it to the challenge file accordingly.
+:::note
+
+The README file for each challenge contains script templates of previous announcements. You can use them as a guide to create an announcement. If a template is unavailable, you must create one and add it to the challenge file accordingly.
+
+:::
 
 ## During a Challenge
 
@@ -88,8 +93,11 @@ Post a challenge goal check-in on Mondays at 10 AM ET in the `#goals-and-wins` c
 
 Post a thread once a week in the `#monthly-challenge` channel (or any other dedicated channel(s) for the challenge) to check members' progress and whether they need help.
 
-> [!NOTE]
-> The README file for each challenge contains the day and time of check-ins and previous prompts.
+:::note
+
+The README file for each challenge contains the day and time of check-ins and previous prompts.
+
+:::
 
 Some challenges require daily check-in. You can automate it using the Slack bot. Learn more in the "[Setting Up a Slack Bot](./technical-guidelines.md#setting-up-a-slack-bot)" section in the Technical Guidelines.
 

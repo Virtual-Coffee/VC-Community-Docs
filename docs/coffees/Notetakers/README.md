@@ -31,7 +31,7 @@ tags:
 - 'coffees'
 ---
 
-_Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted._
+Thanks for being a notetaker! We know it can be challenging to take notes and participate, so we appreciate you volunteering. No one can possibly cover everything, so it's ok to miss things. Just think of it as an opportunity for other members in the room to contribute after the notes are posted.
 
 ## Special Note
 

@@ -35,8 +35,11 @@ This challenge is about nourishing our bodies, minds, and spirits to become heal
 
 The goal is to build a new habit that will make you a healthier developer. This can be mind- and body-centered (drink, move, read, meditate, rearrange your workstation), code-centered (review your README, clean your code, refresh your GitHub repo), or both. Set your goal this month and define what successfully completing the challenge looks like — for example, reviewing the README in five of your projects (one every week) or running 2k twice a week.
 
-> [!TIP]
-> Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+:::tip
+
+Read our [Monthly Challenge Facilitators Handbook](../facilitators-docs/README.md) to learn how to handle tasks before and after challenges, as well as the technical guidelines.
+
+:::
 
 ## Async Check-Ins Time
 

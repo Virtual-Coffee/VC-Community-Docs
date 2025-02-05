@@ -33,9 +33,17 @@ tags:
 
 There are two ways to do this: scheduling a stream ahead of time, or starting a stream instantly during a meeting.
 
-Note - although some Contributors have access to the youtube channel, only the Zoom host is able to start streaming from a zoom meeting.
+::::note
 
-Note - these instructions copied from [this link](https://it.umn.edu/services-technologies/how-tos/zoom-live-stream-youtube-or-custom), which has lots of screenshots and stuff too.
+Although some Contributors have access to the youtube channel, only the Zoom host is able to start streaming from a zoom meeting.
+
+:::info
+
+The instructions in this page are copied from [this website](https://it.umn.edu/services-technologies/how-tos/zoom-live-stream-youtube-or-custom), which has lots of screenshots and stuff too.
+
+:::
+
+::::
 
 ## Scheduled stream:
 
