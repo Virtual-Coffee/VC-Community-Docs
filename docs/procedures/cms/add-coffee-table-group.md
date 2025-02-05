@@ -1,7 +1,7 @@
 ---
-id: add-an-event-to-cms
-title: 'Adding an Event to CMS'
-sidebar_label: 'Adding an Event to CMS'
+id: add-coffee-table-group
+title: 'Adding a Coffee Table Group'
+sidebar_label: 'Adding a Coffee Table Group'
 keywords:
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

@@ -208,6 +208,7 @@ const sidebars = {
       label: 'Procedures',
       items: [
         'procedures/github-discussions/vc-discussion-boards',
+        'procedures/cms/add-coffee-table-group',
         'procedures/community-writers/README',
         {
           type: 'category',
