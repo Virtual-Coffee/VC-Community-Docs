@@ -108,10 +108,10 @@ This repository is organized into several key areas of community management:
 - [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
   - **Lead**: Abbey
 - [Procedures](./procedures/): Procedures for various Virtual Coffee tasks
-  - [YouTube](./procedures/youtube.md): Steps for posting to YouTube
-  - [Streaming](./procedures/streaming.md): Steps for streaming from Zoom to YouTube Live
-  - [Add a Coffee Table Group](./coffee-table-groups/guides/guide-to-add-a-coffee-table-group-to-cms.md): Steps for adding a new Coffee Table Group after receiving an application
-- [Documentation Team](./docs/roles-and-responsibilities/team-leads.md#documentation-team-lead)
+  - [YouTube](./procedures/av/youtube.md): Steps for posting to YouTube
+  - [Streaming](./procedures/av/streaming.md): Steps for streaming from Zoom to YouTube Live
+  - [Add a Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
+- [Documentation Team](./community-roles/team-leads-and-coordinators.md#documentation-team-lead)
   - **Lead**: Ayu
 
 ## How to Use This Repo
