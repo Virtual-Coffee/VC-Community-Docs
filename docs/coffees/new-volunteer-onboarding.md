@@ -39,17 +39,6 @@ While you are always welcome to ask a community maintainer or more experienced v
 we know folks get a lot of value from having an official source that they can refer to. So without further ado, here are our recommended steps for getting the most
 out of your onboarding experience.
 
-**Table of Contents**
-
-- [The Documentation](#the-documentation)
-  - [Important articles to read](#articles-to-get-you-started)
-  - [Suggesting Edits!](#reviews-and-changes)
-- [Choosing your roles](#choosing-your-roles)
-- [Your first note taking](#your-first-note-taking)
-- [Your first paired room lead](#your-first-room-lead)
-- [Your first solo room lead](#your-first-solo-room-lead)
-- [Final Notes](#final-notes)
-
 ## The Documentation
 
 Here at VC we're trying for documentation driven roles and processes. As such we _always_ recommend new volunteers start by **reading the current documentation.** Check out the virtual coffee [contributors

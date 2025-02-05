@@ -31,17 +31,6 @@ tags:
 - 'procedures'
 ---
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Why Github Discussions?](#why-github-discussions)
-3. [Finding and Creating Discussions](#finding-and-creating-discussions)
-4. [Best Practices](#best-practices)
-5. [Types of Discussions](#types-of-discussions)
-6. [Discussion Resolution](#discussion-resolution)
-7. [Notification Settings](#notification-settings)
-8. [Feedback](#feedback)
-
 ## Introduction
 
 Welcome to the Virtual Coffee contributors community! This guide will help you navigate our [**Github Discussions**](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions), the primary platform for our community communications.
