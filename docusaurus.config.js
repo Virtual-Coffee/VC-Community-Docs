@@ -62,22 +62,26 @@ const config = {
       },
     },
     navbar: {
-      title: 'Virtual Coffee',
+      title: 'Virtual Coffee Community Docs',
       logo: {
         alt: 'Virtual Coffee Logo',
-        src: 'img/virtual-coffee-mug.png',
+        src: 'img/virtual-coffee-mug-circle-bordered.png',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'sidebarPath',
+          href: 'https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md',
+          label: 'Contributing Guidelines',
           position: 'left',
-          label: 'Docs',
+        },
+        {
+          href: 'https://virtualcoffee.io',
+          label: 'Website',
+          position: 'right',
         },
         {
           href: 'https://dev.to/virtualcoffee',
           label: 'Blog',
-          position: 'left',
+          position: 'right',
         },
         {
           href: 'https://github.com/Virtual-Coffee/VC-Community-Docs',
@@ -87,37 +91,25 @@ const config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
+      logo: {
+        alt: 'Virtual Coffee Logo',
+        src: 'img/virtual-coffee-full-tagline.png',
+        href: 'https://virtualcoffee.io',
+        width: 250,
+      },
       links: [
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'X',
-              href: 'https://x.com/virtualcoffeeio',
-            },
-            {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/virtual-coffee/',
-            },
-            {
-              label: 'GitHub Discussion',
-              href: 'https://github.com/orgs/Virtual-Coffee/discussions',
-            },
-          ],
+          label: 'X',
+          href: 'https://x.com/virtualcoffeeio',
         },
         {
-          title: 'More',
-          items: [
-            {
-              label: 'Website',
-              href: 'https://virtualcoffee.io',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/Virtual-Coffee/VC-Community-Docs',
-            },
-          ],
+          label: 'LinkedIn',
+          href: 'https://www.linkedin.com/company/virtual-coffee/',
+        },
+        {
+          label: 'GitHub Discussion',
+          href: 'https://github.com/orgs/Virtual-Coffee/discussions',
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Virtual Coffee Community Documentation Built with Docusaurus.`,
@@ -129,4 +121,4 @@ const config = {
   },
 }
 
-export default config;
+export default config
