@@ -97,21 +97,21 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 
 This repository is organized into several key areas of community management:
 
-- [How to Use This Repo](#how-to-use-this-repo)
-- [Lunch & Learns](./lunch-and-learns/): Docs and reference for managing Lunch & Learn events
+- **[How to Use This Repo](#how-to-use-this-repo)**
+- **[Lunch & Learns](./lunch-and-learns/)**: Docs and reference for managing Lunch & Learn events
   - **Lead**: Shelley McHardy
-- [Coffees](./coffees): Docs and reference for managing weekly Coffees
+- **[Coffees](./coffees)**: Docs and reference for managing weekly Coffees
   - **Leads**: Community Maintainers
-- [Lightning Talks](./lightning-talks): Docs and reference for helping out with Lightning Talks
-- [Monthly Challenges](./monthly-challenges): Docs and reference for managing Monthly Challenges
+- **[Lightning Talks](./lightning-talks)**: Docs and reference for helping out with Lightning Talks
+- **[Monthly Challenges](./monthly-challenges)**: Docs and reference for managing Monthly Challenges
   - **Leads**: Ayu Adiati and Dominic Duffin
-- [Coffee Table Groups](./coffee-table-groups): Docs and reference for managing Coffee Table Groups
+- **[Coffee Table Groups](./coffee-table-groups)**: Docs and reference for managing Coffee Table Groups
   - **Lead**: Abbey
-- [Procedures](./procedures/): Procedures for various Virtual Coffee tasks
-  - [YouTube](./procedures/av/youtube.md): Steps for posting to YouTube
-  - [Streaming](./procedures/av/streaming.md): Steps for streaming from Zoom to YouTube Live
-  - [Add a Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md): Steps for adding a new Coffee Table Group after receiving an application
-- [Documentation Team](./community-roles/team-leads-and-coordinators.md#documentation-team-lead)
+- **Procedures**: Procedures for various Virtual Coffee tasks
+  - **[YouTube](./procedures/av/youtube.md)**: Steps for posting to YouTube
+  - **[Streaming](./procedures/av/streaming.md)**: Steps for streaming from Zoom to YouTube Live
+  - **[Add a Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md)**: Steps for adding a new Coffee Table Group after receiving an application
+- **[Documentation Team](./community-roles/team-leads-and-coordinators.md#documentation-team-lead)**
   - **Lead**: Ayu
 
 ## How to Use This Repo

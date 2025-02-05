@@ -66,11 +66,11 @@ const sidebars = {
         'coffees/mcs/README',
         'coffees/processes/scheduling',
         'coffees/new-volunteer-onboarding',
-        {
-          type: 'category',
-          label: 'Topics',
-          items: ['coffees/topic-suggestions', 'coffees/icebreaker-topics'],
-        },
+        // {
+        //   type: 'category',
+        //   label: 'Topics',
+        //   items: ['coffees/topic-suggestions', 'coffees/icebreaker-topics'],
+        // },
       ],
     },
     // -------- MONTHLY CHALLENGES --------
@@ -110,81 +110,81 @@ const sidebars = {
         'monthly-challenges/preptember/README',
         'monthly-challenges/public-speaking/README',
         'monthly-challenges/welcoming-community/README',
-        {
-          type: 'category',
-          label: 'Archive',
-          items: [
-            {
-              type: 'category',
-              label: 'Build in Public',
-              items: [
-                'monthly-challenges/build-in-public/archive/june-2021',
-                'monthly-challenges/build-in-public/archive/standup',
-                {
-                  type: 'category',
-                  label: 'Demo Days',
-                  items: [
-                    'monthly-challenges/build-in-public/archive/demo-days/demo-day',
-                    'monthly-challenges/build-in-public/archive/demo-days/demo-days-script',
-                    'monthly-challenges/build-in-public/archive/demo-days/demo-challenge',
-                    'monthly-challenges/build-in-public/archive/demo-days/facilitator-docs',
-                  ],
-                },
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Create AV Content',
-              items: [
-                'monthly-challenges/create-av-content/archive/description',
-                'monthly-challenges/create-av-content/archive/schedule',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Healthy Habits for Healthy Devs',
-              items: [
-                'monthly-challenges/healthy-habits/archive/healthy-habits',
-                'monthly-challenges/healthy-habits/archive/checkin-script',
-                'monthly-challenges/healthy-habits/archive/august-2021/end-of-challenge',
-                'monthly-challenges/healthy-habits/archive/august-2021/feedback',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Month of Learning',
-              items: [
-                'monthly-challenges/month-of-learning/archive/month-of-learning',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Preptember',
-              items: [
-                'monthly-challenges/preptember/archive/maintainer-checklist',
-                'monthly-challenges/preptember/archive/how-to-write-issue',
-                'monthly-challenges/preptember/archive/checkin-script',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Hacktoberfest Initiative',
-              items: [
-                'VCHI/roles',
-                'VCHI/messages',
-                'VCHI/notes-for-2022',
-                'monthly-challenges/vc-hacktoberfest-initiative/archive/help-divers',
-                'VCHI/checklist',
-              ],
-            },
-          ],
-        },
+        // {
+        //   type: 'category',
+        //   label: 'Archive',
+        //   items: [
+        //     {
+        //       type: 'category',
+        //       label: 'Build in Public',
+        //       items: [
+        //         'monthly-challenges/build-in-public/archive/june-2021',
+        //         'monthly-challenges/build-in-public/archive/standup',
+        //         {
+        //           type: 'category',
+        //           label: 'Demo Days',
+        //           items: [
+        //             'monthly-challenges/build-in-public/archive/demo-days/demo-day',
+        //             'monthly-challenges/build-in-public/archive/demo-days/demo-days-script',
+        //             'monthly-challenges/build-in-public/archive/demo-days/demo-challenge',
+        //             'monthly-challenges/build-in-public/archive/demo-days/facilitator-docs',
+        //           ],
+        //         },
+        //       ],
+        //     },
+        //     {
+        //       type: 'category',
+        //       label: 'Create AV Content',
+        //       items: [
+        //         'monthly-challenges/create-av-content/archive/description',
+        //         'monthly-challenges/create-av-content/archive/schedule',
+        //       ],
+        //     },
+        //     {
+        //       type: 'category',
+        //       label: 'Healthy Habits for Healthy Devs',
+        //       items: [
+        //         'monthly-challenges/healthy-habits/archive/healthy-habits',
+        //         'monthly-challenges/healthy-habits/archive/checkin-script',
+        //         'monthly-challenges/healthy-habits/archive/august-2021/end-of-challenge',
+        //         'monthly-challenges/healthy-habits/archive/august-2021/feedback',
+        //       ],
+        //     },
+        //     {
+        //       type: 'category',
+        //       label: 'Month of Learning',
+        //       items: [
+        //         'monthly-challenges/month-of-learning/archive/month-of-learning',
+        //       ],
+        //     },
+        //     {
+        //       type: 'category',
+        //       label: 'Preptember',
+        //       items: [
+        //         'monthly-challenges/preptember/archive/maintainer-checklist',
+        //         'monthly-challenges/preptember/archive/how-to-write-issue',
+        //         'monthly-challenges/preptember/archive/checkin-script',
+        //       ],
+        //     },
+        //     {
+        //       type: 'category',
+        //       label: 'Hacktoberfest Initiative',
+        //       items: [
+        //         'VCHI/roles',
+        //         'VCHI/messages',
+        //         'VCHI/notes-for-2022',
+        //         'monthly-challenges/vc-hacktoberfest-initiative/archive/help-divers',
+        //         'VCHI/checklist',
+        //       ],
+        //     },
+        //   ],
+        // },
       ],
     },
     // -------- LUNCH & LEARNS --------
     {
       type: 'category',
-      label: 'Lunch and Learns',
+      label: 'Lunch & Learns',
       link: {
         type: 'doc',
         id: 'lunch-and-learns/README',
@@ -192,30 +192,14 @@ const sidebars = {
       items: [
         'lunch-and-learns/process-docs',
         'lunch-and-learns/event-script-template',
-        {
-          type: 'category',
-          label: 'Archive',
-          items: [
-            'lunch-and-learns/05-21-2021-meryl/script',
-            'lunch-and-learns/2021-04-09-Bekah/script',
-          ],
-        },
-      ],
-    },
-    // -------- PROCEDURES --------
-    {
-      type: 'category',
-      label: 'Procedures',
-      items: [
-        'procedures/github-discussions/vc-discussion-boards',
-        'procedures/new-coffee-table-group/add-coffee-table-group',
-        'procedures/community-writers/README',
-        {
-          type: 'category',
-          label: 'Community Streaming and YouTube',
-          items: ['procedures/av/streaming', 'procedures/av/youtube'],
-        },
-        'procedures/x/friday-chat-template',
+        // {
+        //   type: 'category',
+        //   label: 'Archive',
+        //   items: [
+        //     'lunch-and-learns/05-21-2021-meryl/script',
+        //     'lunch-and-learns/2021-04-09-Bekah/script',
+        //   ],
+        // },
       ],
     },
     // ------- LIGHTNING TALKS -------
@@ -227,7 +211,7 @@ const sidebars = {
         id: 'lightning-talks/README',
       },
       items: [
-        'lightning-talks/processes/logistics',
+        // 'lightning-talks/processes/logistics',
         {
           type: 'category',
           label: 'Facilitator Guidelines',
@@ -238,16 +222,16 @@ const sidebars = {
           items: [
             {
               type: 'category',
+              label: 'Participant Guidelines Templates',
+              items: [
+                'lightning-talks/guides/speaker-guide',
+                'lightning-talks/guides/mentor-guide',
+              ],
+            },
+            {
+              type: 'category',
               label: 'Message Templates',
               items: [
-                {
-                  type: 'category',
-                  label: 'Participants Guide',
-                  items: [
-                    'lightning-talks/guides/speaker-guide',
-                    'lightning-talks/guides/mentor-guide',
-                  ],
-                },
                 {
                   type: 'category',
                   label: 'Gathering Information from Speaker',
@@ -307,6 +291,22 @@ const sidebars = {
             },
           ],
         },
+      ],
+    },
+    // -------- PROCEDURES --------
+    {
+      type: 'category',
+      label: 'Procedures',
+      items: [
+        'procedures/github-discussions/vc-discussion-boards',
+        'procedures/new-coffee-table-group/add-coffee-table-group',
+        'procedures/community-writers/README',
+        {
+          type: 'category',
+          label: 'Community Streaming and YouTube',
+          items: ['procedures/av/streaming', 'procedures/av/youtube'],
+        },
+        'procedures/x/friday-chat-template',
       ],
     },
   ],
