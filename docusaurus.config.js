@@ -54,7 +54,7 @@ const config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/virtual-coffee-mug-square.png',
+    image: 'img/vc-social-card.png',
     docs: {
       sidebar: {
         autoCollapseCategories: true,
@@ -64,8 +64,8 @@ const config = {
     navbar: {
       title: 'Virtual Coffee Community Docs',
       logo: {
-        alt: 'Virtual Coffee Logo',
-        src: 'img/virtual-coffee-mug-circle-bordered.png',
+        alt: 'Virtual Coffee',
+        src: 'img/virtual-coffee-mug-circle-bordered.svg',
       },
       items: [
         {
@@ -93,8 +93,8 @@ const config = {
     footer: {
       style: 'light',
       logo: {
-        alt: 'Virtual Coffee Logo',
-        src: 'img/virtual-coffee-full-tagline.png',
+        alt: 'Virtual Coffee',
+        src: 'img/virtual-coffee-full.svg',
         href: 'https://virtualcoffee.io',
         width: 250,
       },
