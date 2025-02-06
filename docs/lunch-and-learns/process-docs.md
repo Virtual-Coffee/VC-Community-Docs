@@ -150,7 +150,7 @@ _**NOTE:** The Moderator and the Host can be the same person._
 
 - The Moderator posts a thank you message to the Speaker in Slack's `#vc-events` channel.
 - Marketing posts the same thank you message to X.
-- The Post-Production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](../procedures/youtube.md).
+- The Post-Production Team starts processing the video footage (if applicable) following [the YouTube video procedures doc](../procedures/av/youtube.md).
 
 ## Cancelling a Lunch & Learn
 
