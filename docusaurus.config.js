@@ -41,9 +41,10 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
+          // Make editUrl dynamic
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/Virtual-Coffee/VC-Community-Docs/',
+          editUrl: ({ versionDocsDirPath, docPath }) =>
+            `https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/${versionDocsDirPath}/${docPath}`,
         },
         theme: {
           customCss: './src/css/custom.css',
