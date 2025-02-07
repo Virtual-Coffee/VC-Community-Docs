@@ -70,7 +70,11 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 
 - Pair each co-host with their notetaker.
 
-- _Note_: Sometimes, if the room leader is a VC Maintainer/zoom account owner, you may not see them on the list of attendees to be assigned. This is fine. So long as they're in the meeting, they can join their breakout room themselves.
+  :::note
+  
+  Sometimes, if the room leader is a VC Maintainer/zoom account owner, you may not see them on the list of attendees to be assigned. This is fine. So long as they're in the meeting, they can join their breakout room themselves.
+
+  :::
 
 - Change the name of the breakout room to the co-host/notetaker pair
 

@@ -56,7 +56,7 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 - Track attendance and engagement patterns to guide future planning.
 - Provide onboarding support to new members participating in events.
 
-## Special Events Maintainer - BekahHW
+### Special Events Maintainer - BekahHW
 
 **Description**: The Special Events Maintainer focuses on creating opportunities for learning, sharing, and celebrating through one-off events and monthly initiatives.
 
@@ -69,7 +69,7 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 - Plan and execute special community initiatives.
 - Coordinate with guest speakers and presenters for events.
 
-## Community Health Maintainer - Kirk
+### Community Health Maintainer - Kirk
 
 **Description**: The Community Health Maintainer is dedicated to cultivating a positive, inclusive, and supportive environment for all community members. This role ensures the emotional and relational well-being of the community.
 
@@ -81,7 +81,7 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 - Work with moderators to resolve community-related issues.
 - Design and refine onboarding plans to welcome new members effectively.
 
-## Technology Support Maintainer - Dan Ott
+### Technology Support Maintainer - Dan Ott
 
 **Description**: The Technology Support Maintainer ensures that the community’s digital platforms and tools function smoothly and securely, providing the technological backbone for our operations.
 
