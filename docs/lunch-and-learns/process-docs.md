@@ -1,7 +1,7 @@
 ---
 id: process-docs
-title: "Process Docs"
-sidebar_label: "Process Docs"
+title: "Lunch & Learn Guidelines"
+sidebar_label: "Lunch & Learn Guidelines"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'
