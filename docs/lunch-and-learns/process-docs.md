@@ -1,34 +1,34 @@
 ---
 id: process-docs
-title: "Lunch & Learn Guidelines"
-sidebar_label: "Lunch & Learn Guidelines"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'lunch and learns'
+title: 'Lunch & Learn Guidelines'
+sidebar_label: 'Lunch & Learn Guidelines'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'lunch and learns'
 ---
 
 Below is the entire lifecycle of a Virtual Coffee Lunch & Learn session.
