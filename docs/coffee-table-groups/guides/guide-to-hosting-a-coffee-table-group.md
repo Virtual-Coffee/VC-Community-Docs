@@ -114,8 +114,11 @@ Once your Coffee Table event has finished, click the 'End' button. This will tri
 
 ![Zoom's options for ending a meeting](../../_assets/images/end-options.png)
 
-> [!CAUTION]
-> Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
+:::warning[Caution]
+
+Normally, it's okay if your Coffee Table meeting runs past your scheduled time – just make sure there isn't another VC event directly following yours. If that's the case, you can always ask the group to move to the `#co-working-room` to free up the Zoom for the next event.
+
+:::
 
 ## Automated Event Messages
 
