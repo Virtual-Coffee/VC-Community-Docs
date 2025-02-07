@@ -38,8 +38,6 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-Store: https://store.virtualcoffee.io/
-
 Newsletter: https://virtualcoffee.io/newsletter/
 
 Podcast: https://virtualcoffee.io/podcast/
@@ -71,8 +69,6 @@ Just some quick reminders, be considerate of everyone in the group, we’re all 
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
-
-Store: https://store.virtualcoffee.io/
 
 Newsletter: https://virtualcoffee.io/newsletter/
 
