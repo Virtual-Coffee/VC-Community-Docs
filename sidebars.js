@@ -312,4 +312,4 @@ const sidebars = {
   ],
 }
 
-export default sidebars
+export default sidebars;
