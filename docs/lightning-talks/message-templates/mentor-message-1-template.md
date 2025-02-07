@@ -1,7 +1,7 @@
 ---
 id: mentor-message-1-template
 title: "Mentor Message 1 Template"
-sidebar_label: "Mentor Message 1 Template"
+sidebar_label: "Sharing Information to Mentors"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

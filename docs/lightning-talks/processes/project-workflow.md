@@ -1,7 +1,7 @@
 ---
 id: project-workflow
 title: "Lightning Talk Project Workflow"
-sidebar_label: "Lightning Talk Project Workflow"
+sidebar_label: "Facilitator Guidelines"
 keywords: 
 - 'coffee table groups'
 - 'virtual coffee coffee table groups'

@@ -212,13 +212,10 @@ const sidebars = {
       },
       items: [
         // 'lightning-talks/processes/logistics',
+        'lightning-talks/processes/project-workflow',
         {
           type: 'category',
-          label: 'Facilitator Guidelines',
-          link: {
-            type: 'doc',
-            id: 'lightning-talks/processes/project-workflow',
-          },
+          label: 'Templates',
           items: [
             {
               type: 'category',
@@ -234,7 +231,7 @@ const sidebars = {
               items: [
                 {
                   type: 'category',
-                  label: 'Gathering Information from Speaker',
+                  label: 'Gathering Information from Speakers',
                   items: [
                     'lightning-talks/message-templates/speaker-info-message-1-template',
                     'lightning-talks/message-templates/speaker-info-message-2-template',
@@ -252,10 +249,10 @@ const sidebars = {
                   ],
                 },
                 'lightning-talks/message-templates/mentor-message-1-template',
-                'lightning-talks/processes/mc-script-template',
-                'lightning-talks/processes/speaker-info-template',
               ],
             },
+            'lightning-talks/processes/mc-script-template',
+            'lightning-talks/processes/speaker-info-template',
           ],
         },
         {
