@@ -137,5 +137,5 @@ Slack channels that we use for the challenge:
 
 ## Past Blog Posts
 
-- **2024**: [Join Virtual Coffee in New Year, New Goals!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goals-241m)
 - **2025**: [Join Virtual Coffee in New Year, New Goal: Setting One Big Goal and Achieving It!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goal-setting-one-big-goal-and-achieving-it-30c5)
+- **2024**: [Join Virtual Coffee in New Year, New Goals!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goals-241m)
