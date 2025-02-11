@@ -110,6 +110,26 @@ This month’s challenge will take place in `#monthly-challenge`. Watch out for 
   Can't wait to hear about your progress, challenges, and victories! Keep pushing forward, friends! :rocket::sparkles:
   ```
 
+- **Week 5**
+
+  ```text
+  Hey everyone! :wave: Happy Friday and last day of January!
+
+  What a journey this month has been with our "New Year, New Goal" challenge! As we wrap up January and look ahead to February, let's take a moment to reflect:
+
+  - Looking back at your January milestones, what are you most proud of accomplishing?
+  - What key lessons are you taking with you into February?
+  - For our future conference speakers, how has this month's goal-setting helped shape your presentation plans?
+
+  And here's something exciting to think about: We're one month closer to our first-ever Virtual Coffee Community Conference! February's challenge will build on what we've started, so stay tuned for the announcement!
+
+  Remember, while January may be ending, your 2025 journey is just beginning. Keep sharing your progress in #monthly-challenge - your updates inspire others and help build our supportive community.
+
+  Let's celebrate our January progress together! What wins (big or small) would you like to share? :tada:
+
+  Looking forward to kicking off a new challenge with you all next week! :dizzy:
+  ```
+
 ### Async Check-Ins 2024
 
 - **Week 1-4**
