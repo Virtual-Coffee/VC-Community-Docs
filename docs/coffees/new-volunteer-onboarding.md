@@ -48,7 +48,7 @@ repository](https://github.com/Virtual-Coffee/VC-Community-Docs) for information
 ### Articles to get you started
 
 If you're part of the coffee room leading and note taking team, we suggest getting started with reviewing the docs in the [Coffees](../coffees/)
-and focusing on the [Room Leaders](./room-leaders/) and [Notetakers](./notetakers/README.md)
+and focusing on the [Room Leaders](./room-leaders/) and [Notetakers](./notetakers/)
 documentation especially. That should provide a decent start to understanding your role, as well as suggested tips and techniques for having a successful session.
 
 ### Reviews and Changes

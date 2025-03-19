@@ -61,9 +61,9 @@ const sidebars = {
           },
           items: ['coffees/room-leaders/tips-for-facilitating'],
         },
-        'coffees/Notetakers/README',
-        'coffees/Hosts/README',
-        'coffees/MCs/README',
+        'coffees/notetakers/README',
+        'coffees/hosts/README',
+        'coffees/mcs/README',
         'coffees/processes/scheduling',
         'coffees/new-volunteer-onboarding',
         // {
