@@ -15,7 +15,7 @@ const config = {
   url: 'https://virtualcoffee.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -39,7 +39,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: '/docs',
           sidebarPath: './sidebars.js',
           // Make editUrl dynamic
           // Remove this to remove the "edit this page" links.
@@ -67,6 +67,7 @@ const config = {
       logo: {
         alt: 'Virtual Coffee',
         src: 'img/virtual-coffee-mug-circle-bordered.svg',
+        href: 'https://virtualcoffee.io/docs',
       },
       items: [
         {
@@ -122,4 +123,4 @@ const config = {
   },
 }
 
-export default config;
+export default config
