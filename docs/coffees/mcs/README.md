@@ -53,12 +53,12 @@ HANDRAISE SHORTCUT: Opt/Alt+Y
 
 Welcome all new faces via chat and let them know we will get started and will be generally chatting for about 5 minutes to let everyone get settled.
 
-Pre-chat chaos.
+**_Pre-chat chaos commences._**
 
 ### Welcome Announcements Script
 
 > [!NOTE]
-> While the welcome is happening, the Zoom host of the day creates the breakout rooms.
+> While the welcome is happening, the Zoom host of the day creates the breakout rooms. Signal to the host to open the rooms once you've finished reading the welcome announcements.
 
 Hello, and welcome to Virtual Coffee!
 
@@ -88,9 +88,11 @@ We take our Code of Conduct seriously. We expect everyone to abide by the COC, w
 
 We also have a COC violation submission form, which I dropped with the links. This is another option that allows you to stay anonymous when you report any violations.
 
-We'll be moving into breakout rooms in a minute, for more intimate conversation. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, what you do/if you're looking for work, and answer today's random question. Please only share what you're comfortable with.
+We'll be moving into breakout rooms in a minute, for more intimate conversation. When you get in the room, your room leader will start the introductions and explain the handraise function. You'll say your name, where you're from, your pronouns, what you do, if you're looking for work, and answer today's random question. Please only share what you're comfortable with.
 
 We want to welcome all of our new friends! If you would like to join our Slack, please indicate in your introduction that this is your first Coffee Chat. You will then be asked to privately message your full name and email address to your breakout room's assigned notetaker. Later on today, you should receive a Slack invite from us.
+
+Lastly, we're so grateful to our room leaders and notetakers, who are community members who volunteer their time. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
 ## During Breakout Rooms
 
@@ -105,9 +107,7 @@ The welcome announcements normally take us to around 10 minutes after the hour a
 
 We want to be respectful of everyone's time, so we've got a couple of announcements before we leave. We just wrapped up [whatever event], and now we have some great things coming up: [list events].
 
-If you have questions or comments, please feel free to reach out to us at <hello@virtualcoffee.io> and follow us on Twitter [@VirtualCoffeeIO](https://x.com/VirtualCoffeeIO). We're always here to support you and to answer any questions.
-
-For other announcements check out our newsletter page: [newsletter.virtualcoffee.io](https://www.newsletter.virtualcoffee.io/) and if you want to hear more about our awesome community members, listen to the [podcast](https://virtualcoffee.io/podcast)!
+If you have questions, please post them in the `#questions-about-vc` Slack channel. In addition, feel free to reach out to us at <hello@virtualcoffee.io> and follow us on Twitter [@VirtualCoffeeIO](https://x.com/VirtualCoffeeIO) and [LinkedIn](https://www.linkedin.com/company/virtual-coffee/). We're always here to support you!
 
 Thank you all for being here and welcome to our new friends! Your breakout rooms notes will be posted in the Slack `#general` channel soon!
 
