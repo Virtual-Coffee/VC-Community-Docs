@@ -107,7 +107,7 @@ The welcome announcements normally take us to around 10 minutes after the hour a
 
 We want to be respectful of everyone's time, so we've got a couple of announcements before we leave. We just wrapped up [whatever event], and now we have some great things coming up: [list events].
 
-If you have questions, please post them in the `#questions-about-vc` Slack channel. In addition, feel free to reach out to us at <hello@virtualcoffee.io> and follow us on Twitter [@VirtualCoffeeIO](https://x.com/VirtualCoffeeIO) and [LinkedIn](https://www.linkedin.com/company/virtual-coffee/). We're always here to support you!
+If you have questions, please post them in the `#questions-about-vc` Slack channel. In addition, feel free to reach out to us at hello@virtualcoffee.io and follow us on Twitter [@VirtualCoffeeIO](https://x.com/VirtualCoffeeIO) and [LinkedIn](https://www.linkedin.com/company/virtual-coffee/). We're always here to support you!
 
 Thank you all for being here and welcome to our new friends! Your breakout rooms notes will be posted in the Slack `#general` channel soon!
 
