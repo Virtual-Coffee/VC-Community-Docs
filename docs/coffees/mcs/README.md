@@ -38,7 +38,7 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-Newsletter: https://virtualcoffee.io/newsletter/
+Newsletter: https://www.newsletter.virtualcoffee.io/
 
 Podcast: https://virtualcoffee.io/podcast/
 
