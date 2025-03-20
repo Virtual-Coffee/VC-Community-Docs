@@ -92,7 +92,9 @@ We'll be moving into breakout rooms in a minute, for more intimate conversation.
 
 We want to welcome all of our new friends! If you would like to join our Slack, please indicate in your introduction that this is your first Coffee Chat. You will then be asked to privately message your full name and email address to your breakout room's assigned notetaker. Later on today, you should receive a Slack invite from us.
 
-Lastly, we're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
+## During Breakout Rooms
+
+The welcome announcements normally take us to around 10 minutes after the hour and we come back at 5 minutes to the hour, so the main session usually lasts for about 45 minutes.
 
 ## After Breakout Rooms
 
