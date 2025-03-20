@@ -55,7 +55,7 @@ Welcome all new faces via chat and let them know we will get started and will be
 
 Pre-chat chaos.
 
-### Welcome
+### Welcome Announcements Script
 
 > [!NOTE]
 > While the welcome is happening, the Zoom host of the day creates the breakout rooms.
@@ -94,7 +94,9 @@ We want to welcome all of our new friends! If you would like to join our Slack, 
 
 Lastly, we're so grateful to our room leaders and notetakers, who are community members who have been around for a while. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
-## Outro/Closing
+## After Breakout Rooms
+
+### Closing Announcements Script
 
 > [!NOTE]
 > Details for these announcements can be found on the [website's events calendar](https://virtualcoffee.io/events).
