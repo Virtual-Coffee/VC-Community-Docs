@@ -1,34 +1,34 @@
 ---
 id: speaker-guide
-title: "Speaker Guide"
-sidebar_label: "Speaker Guide"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'lightning talks'
+title: 'Speaker Guide'
+sidebar_label: 'Speaker Guide'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'lightning talks'
 ---
 
 ## Description
@@ -43,7 +43,7 @@ A `README` style guide for speakers
 
 Variables are wrapped in curly brackets (`{{ }}`).
 
-````md
+```md
 # :speech_balloon: Virtual Coffee Lightning Talks Speaker Guide
 
 Thank you for volunteering to share your time, knowledge, and experience with our community!
@@ -91,4 +91,4 @@ We will post periodic messages as we get closer to the date with more details.
 Thank you again for stepping forward to speak at our Lightning Talks event! We can't wait to hear your talk!
 
 :star: _P.S. You're awesome!_ :star:
-````
+```

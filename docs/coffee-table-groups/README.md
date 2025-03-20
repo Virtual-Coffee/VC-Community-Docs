@@ -1,34 +1,34 @@
 ---
 id: README
-title: "Coffee Table Groups"
-sidebar_label: "Coffee Table Groups"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'coffee table groups'
+title: 'Coffee Table Groups'
+sidebar_label: 'Coffee Table Groups'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'coffee table groups'
 ---
 
 Our Coffee Table Groups have been one of the most popular and valuable features for members of our community. Coffee Table Groups are small, special interest groups created and run by members. They can involve Zoom meetings, async Slack hangouts, or anything else that the members would like to do.

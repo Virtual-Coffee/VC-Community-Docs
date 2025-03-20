@@ -1,34 +1,34 @@
 ---
 id: speaker-message-1-template
-title: "Speaker Message 1 Template"
-sidebar_label: "Speaker Message 1 Template"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'lightning talks'
+title: 'Speaker Message 1 Template'
+sidebar_label: 'Speaker Message 1 Template'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'lightning talks'
 ---
 
 ## Description
@@ -47,7 +47,7 @@ Two weeks prior to event
 
 Variables are wrapped in curly brackets (`{{ }}`).
 
-````md
+```md
 Welcome speakers!!
 
 Thank you for volunteering to share your time, knowledge, and experience with our community!
@@ -61,4 +61,4 @@ Lastly, check out the Speaker Guide located in this channel's canvas. You can ac
 If you have any questions or comments, please reply in a thread on this post or DM @Meg. As always, we want to support you in whatever way best suits your needs.
 
 {{ signoff }}
-````
+```

@@ -1,34 +1,34 @@
 ---
 id: README
-title: "Hosts"
-sidebar_label: "Hosts"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
+title: 'Hosts'
+sidebar_label: 'Hosts'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
 tags:
-- 'coffees'
+  - 'coffees'
 ---
 
 Welcome! Thank you for your interesting in being a host for our Virtual Coffee zoom sessions. Like most roles here, while the concept is straightforward, there can be a lot of nuance, so we've tried as best as we can to provide clear cut instructions where we're able.
@@ -71,7 +71,7 @@ A Virtual Coffee Zoom session can largely be split into Three (3) Phases:
 - Pair each co-host with their notetaker.
 
   :::note
-  
+
   Sometimes, if the room leader is a VC Maintainer/zoom account owner, you may not see them on the list of attendees to be assigned. This is fine. So long as they're in the meeting, they can join their breakout room themselves.
 
   :::

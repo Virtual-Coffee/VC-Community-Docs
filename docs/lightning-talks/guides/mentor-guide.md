@@ -1,34 +1,34 @@
 ---
 id: mentor-guide
-title: "Mentor Guide"
-sidebar_label: "Mentor Guide"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'lightning talks'
+title: 'Mentor Guide'
+sidebar_label: 'Mentor Guide'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'lightning talks'
 ---
 
 ## Description
@@ -43,7 +43,7 @@ A `README` style guide for mentors
 
 Variables are wrapped in curly brackets (`{{ }}`).
 
-````md
+```md
 # :busts_in_silhouette: Virtual Coffee Lightning Talks Mentor Guide
 
 Thank you all so much for volunteering to support this year's Lightning Talk speakers through mentorship!
@@ -90,4 +90,4 @@ All of the aforementioned activities can be done both synchronously or asynchron
 - You have support too! Reach out to other mentors or @Meg in the `#lightning-talk-mentors` channel.
 - Please don't speak negatively about the speakers. If you're having an issue, speak with @Meg.
 - Life happens and sometimes we need to back out of volunteer opportunities. That's okay. Just let @Meg know ASAP, and don't feel obligated to give a reason.
-````
+```

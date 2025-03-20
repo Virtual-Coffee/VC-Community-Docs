@@ -3,32 +3,32 @@ id: README
 title: 'Community Writers'
 sidebar_label: 'Community Writers'
 keywords:
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
 tags:
-- 'procedures'
+  - 'procedures'
 ---
 
 We're so excited to have you as a volunteer community writer! Our goal is to cultivate our relationships with our community writers while amplifying their work through the publication and promotion of their work through our Dev org and social media. As part of this experience, we want to provide you with feedback, help you to grow, and support your writing.
@@ -99,62 +99,62 @@ Crafting a well-structured blog post helps to engage our readers and convey your
 
 1. Clarity and Simplicity
 
-    - Tone, Voice, and Style: Maintain a casual and engaging tone. Let your personality shine through while staying professional.
-    - Use language that's accessible to a broad audience.
-    - If the concepts are complex or for folks with experience using the technology, mention that early in the blog post or consider creating a section with expectations. For example, if you’re writing a Tutorial on using Next.js, you might have a section like this:
+   - Tone, Voice, and Style: Maintain a casual and engaging tone. Let your personality shine through while staying professional.
+   - Use language that's accessible to a broad audience.
+   - If the concepts are complex or for folks with experience using the technology, mention that early in the blog post or consider creating a section with expectations. For example, if you’re writing a Tutorial on using Next.js, you might have a section like this:
 
-      ```md
-      ## Expectations
+     ```md
+     ## Expectations
 
-      - Basic understanding of Next.js
-      - In-depth understanding of React Hooks
-      - Familiarity with Cypress
-      ```
+     - Basic understanding of Next.js
+     - In-depth understanding of React Hooks
+     - Familiarity with Cypress
+     ```
 
-      Explain technical terms and concepts in simple terms, offering context for those new to the topic.
+     Explain technical terms and concepts in simple terms, offering context for those new to the topic.
 
 2. Concise Sentences
 
-    - Opt for shorter sentences over complex ones to enhance readability and comprehension.
-    - Keep sentences focused on a single idea to avoid confusion.
+   - Opt for shorter sentences over complex ones to enhance readability and comprehension.
+   - Keep sentences focused on a single idea to avoid confusion.
 
 3. Paragraph Length
 
-    - Break down paragraphs into shorter segments (1-3 sentences). This prevents overwhelming readers with large blocks of text.
-    - Each paragraph should address a single point or idea.
+   - Break down paragraphs into shorter segments (1-3 sentences). This prevents overwhelming readers with large blocks of text.
+   - Each paragraph should address a single point or idea.
 
 4. Grammar and Spelling
 
-    - Proofread your content for grammar, spelling, and punctuation errors.
-    - Use Grammarly or similar tools to catch mistakes and enhance the overall quality.
+   - Proofread your content for grammar, spelling, and punctuation errors.
+   - Use Grammarly or similar tools to catch mistakes and enhance the overall quality.
 
 5. Formatting Guidelines
 
-    - Use subheadings to organize content hierarchically. Utilize markdown syntax ( ## for H2, ### for H3) to create headings. Remember not to skip levels in headings. For example, don’t go from an H1 to an H3.
-    - Use bullet points or numbered lists to simplify instructions or to break down complex ideas.
-    - Incorporating Code Snippets: When discussing code-related topics, use formatted code snippets to enhance readability.
+   - Use subheadings to organize content hierarchically. Utilize markdown syntax ( ## for H2, ### for H3) to create headings. Remember not to skip levels in headings. For example, don’t go from an H1 to an H3.
+   - Use bullet points or numbered lists to simplify instructions or to break down complex ideas.
+   - Incorporating Code Snippets: When discussing code-related topics, use formatted code snippets to enhance readability.
 
-      - To use code snippets, use three backticks followed by the abbreviation for the language of the code you’re including. For example, if you’re highlighting a JavaScript snippet, it would look like this: " `js`" After the code is completed, close the syntax highlighting with another three backticks.
+     - To use code snippets, use three backticks followed by the abbreviation for the language of the code you’re including. For example, if you’re highlighting a JavaScript snippet, it would look like this: " `js`" After the code is completed, close the syntax highlighting with another three backticks.
 
 6. Visual Elements
 
-    - Include relevant images, diagrams, code snippets, or screenshots to illustrate concepts.
-    - Ensure images are clear, appropriately sized, have alt text, and have proper attributions if required.
-    - Image Attribution: If using images from sources like Unsplash, provide appropriate attribution.
+   - Include relevant images, diagrams, code snippets, or screenshots to illustrate concepts.
+   - Ensure images are clear, appropriately sized, have alt text, and have proper attributions if required.
+   - Image Attribution: If using images from sources like Unsplash, provide appropriate attribution.
 
 7. Introduction and Conclusion
 
-    - Begin with an attention-grabbing introduction that highlights the importance of the topic. Personalizing the introduction with a story often helps to create a rapport with your readers.
-    - Summarize key points and provide a clear takeaway in the conclusion.
+   - Begin with an attention-grabbing introduction that highlights the importance of the topic. Personalizing the introduction with a story often helps to create a rapport with your readers.
+   - Summarize key points and provide a clear takeaway in the conclusion.
 
 8. Effective Linking
 
-    Insert hyperlinks to relevant sources, previous blog posts from other members of the Virtual Coffee Team, and external references.
+   Insert hyperlinks to relevant sources, previous blog posts from other members of the Virtual Coffee Team, and external references.
 
 9. Call to Action
 
-    - Encourage engagement by including a call to action at the end of the post. This might be asking readers to check out a repository, follow Virtual Coffee on Dev, etc.
-    - Invite readers to share their thoughts, ask questions, or explore related content.
+   - Encourage engagement by including a call to action at the end of the post. This might be asking readers to check out a repository, follow Virtual Coffee on Dev, etc.
+   - Invite readers to share their thoughts, ask questions, or explore related content.
 
 10. SEO-Friendly Writing
 

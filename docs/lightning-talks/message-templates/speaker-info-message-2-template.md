@@ -1,34 +1,34 @@
 ---
 id: speaker-info-message-2-template
-title: "Speaker Info Message 2 Template"
-sidebar_label: "Speaker Info Message 2 Template"
-keywords: 
-- 'coffee table groups'
-- 'virtual coffee coffee table groups'
-- 'volunteer roles and responsibilities'
-- 'virtual coffee community'
-- 'community guides'
-- 'community documentation'
-- 'tech community'
-- 'online tech community'
-- 'community management'
-- 'community building'
-- 'monthly challenges'
-- 'virtual coffee monthly challenges'
-- 'lightning talk'
-- 'virtual coffee writers'
-- 'community writers'
-- 'volunteer roles in online community'
-- 'responsibilities of online community volunteers'
-- 'building a strong community'
-- 'guidelines for online community'
-- 'writing community documentation'
-- 'online community building strategies'
-- 'effective community management techniques'
-- 'monthly challenges for online communities'
-- 'planning online community events'
-tags: 
-- 'lightning talks'
+title: 'Speaker Info Message 2 Template'
+sidebar_label: 'Speaker Info Message 2 Template'
+keywords:
+  - 'coffee table groups'
+  - 'virtual coffee coffee table groups'
+  - 'volunteer roles and responsibilities'
+  - 'virtual coffee community'
+  - 'community guides'
+  - 'community documentation'
+  - 'tech community'
+  - 'online tech community'
+  - 'community management'
+  - 'community building'
+  - 'monthly challenges'
+  - 'virtual coffee monthly challenges'
+  - 'lightning talk'
+  - 'virtual coffee writers'
+  - 'community writers'
+  - 'volunteer roles in online community'
+  - 'responsibilities of online community volunteers'
+  - 'building a strong community'
+  - 'guidelines for online community'
+  - 'writing community documentation'
+  - 'online community building strategies'
+  - 'effective community management techniques'
+  - 'monthly challenges for online communities'
+  - 'planning online community events'
+tags:
+  - 'lightning talks'
 ---
 
 ## Description
@@ -47,7 +47,7 @@ One week prior to event
 
 Variables are wrapped in curly brackets (`{{ }}`).
 
-````md
+```md
 Hey {{ speaker name }}!
 
 This is a friendly reminder to send me the following items as soon as possible:
@@ -72,4 +72,4 @@ You can send this info via Slack or email at {{ email address }}. The sooner you
 However, you can send this info to me as well if you have it ready now. As always, please let me or @Meg know if you have any questions or comments.
 
 {{ signoff }}
-````
+```
