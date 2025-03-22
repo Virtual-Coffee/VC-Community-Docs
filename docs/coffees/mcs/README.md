@@ -57,8 +57,11 @@ Welcome all new faces via chat and let them know we will get started and will be
 
 ### Welcome Announcements Script
 
-> [!NOTE]
-> While the welcome is happening, the Zoom host of the day creates the breakout rooms. Signal to the host to open the rooms once you've finished reading the welcome announcements.
+:::info
+
+While the welcome is happening, the Zoom host of the day creates the breakout rooms. Signal to the host to open the rooms once you've finished reading the welcome announcements.
+
+:::
 
 Hello, and welcome to Virtual Coffee!
 
@@ -102,8 +105,11 @@ The welcome announcements normally take us to around 10 minutes after the hour a
 
 ### Closing Announcements Script
 
-> [!NOTE]
-> Details for these announcements can be found on the [website's events calendar](https://virtualcoffee.io/events).
+:::tip
+
+Details for these announcements can be found on the [website's events calendar](https://virtualcoffee.io/events).
+
+:::
 
 We want to be respectful of everyone's time, so we've got a couple of announcements before we leave. We just wrapped up [whatever event], and now we have some great things coming up: [list events].
 
