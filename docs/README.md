@@ -93,20 +93,20 @@ The Virtual Coffee maintainers work collaboratively to support the community, en
 - Provide technical support to community members and maintainers.
 - Collaborate with other maintainers to integrate technology into community initiatives.
 
-## Quick Links & Team Leads
+## Quick Links & Team Leads/Coordinators
 
 This repository is organized into several key areas of community management:
 
 - **[How to Use This Repo](#how-to-use-this-repo)**
 - **[Lunch & Learns](./lunch-and-learns/)**: Docs and reference for managing Lunch & Learn events
-  - **Lead**: Shelley McHardy
+  - **Coordinator**: Shelley McHardy
 - **[Coffees](./coffees)**: Docs and reference for managing weekly Coffees
   - **Leads**: Community Maintainers
 - **[Lightning Talks](./lightning-talks)**: Docs and reference for helping out with Lightning Talks
 - **[Monthly Challenges](./monthly-challenges)**: Docs and reference for managing Monthly Challenges
   - **Leads**: Ayu Adiati and Dominic Duffin
 - **[Coffee Table Groups](./coffee-table-groups)**: Docs and reference for managing Coffee Table Groups
-  - **Lead**: Abbey
+  - **Coordinator**: **Currently Open!**
 - **Procedures**: Procedures for various Virtual Coffee tasks
   - **[YouTube](./procedures/av/youtube.md)**: Steps for posting to YouTube
   - **[Streaming](./procedures/av/streaming.md)**: Steps for streaming from Zoom to YouTube Live
