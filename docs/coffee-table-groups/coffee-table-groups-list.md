@@ -34,19 +34,19 @@ tags:
 <!-- markdownlint-disable MD024 -->
 <!-- markdownlint-disable MD026 -->
 
-:::warning[Important]
+:::warning[For the latest events schedule...]
 
-These are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
+Below are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
 
 :::
 
 ## Active Groups
 
-:::note
+:::note[Volunteer Opportunities!]
 
-We're continually accepting volunteer applications for co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups.
+We're accepting volunteer applications for Co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups on a continual basis.
 
-Please reach out to Meg if you have any questions.
+Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
 
 :::
 
@@ -54,7 +54,7 @@ Please reach out to Meg if you have any questions.
 
 #### When:
 
-- Mondays, 4:00–5:00 PM ET
+- Mondays, 4:00–4:30 PM ET
 
 #### Lead & Host:
 
@@ -88,15 +88,11 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 
 #### When:
 
-- **Original Recipe** – Wednesdays, 10:00 AM – NOON ET
+- Wednesdays, 10:00 AM – NOON ET
 
-#### Lead:
+#### Lead & Host:
 
 - Rad Turkin
-
-#### Hosts:
-
-- **Original Recipe** – Rad Turkin & Derek Johnston
 
 Job hunting as a collective: An accountability session exclusively for job hunting. Support each other by being present and sharing your goals, target roles, and resources. Let's collaborate as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack! Arwoooo...!!!"
 
@@ -104,7 +100,7 @@ Job hunting as a collective: An accountability session exclusively for job hunti
 
 #### When:
 
-- Wednesdays, 4:00-5:00 PM ET
+- Wednesdays, 4:00-4:30 PM ET
 
 #### Lead & Host:
 
