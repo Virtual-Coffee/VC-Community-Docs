@@ -35,7 +35,7 @@ We recognize that each Virtual Coffee Learning Cohort is unique and we encourage
 
 :::info[More Details Coming Soon!]
 
-In the meantime, check out previous Learning Cohorts below.
+In the meantime, check out our previous Learning Cohorts below.
 
 :::
 
