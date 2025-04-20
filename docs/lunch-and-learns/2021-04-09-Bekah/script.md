@@ -67,6 +67,6 @@ In a second, I'll (OPTION: hit record and) introduce the speaker. Please mute yo
   - hosting the next [whatever in our series]
 - If you have questions or comments, please feel free to reach out to the Community Maintainers. We're always here to support you and to answer any question.
 
-- We're looking forward to [whatever project/ brownbags /events] that are happening next. For descriptions of those, feel free to check out our events page or [latest newsletter](https://www.newsletter.virtualcoffee.io/), which can be found on our site.
+- We're looking forward to [whatever project/ brownbags /events] that are happening next. For descriptions of those, feel free to check out our events page or [latest newsletter](https://virtualcoffee.io/newsletter/), which can be found on our site.
 
 - Have a great day, everyone!
