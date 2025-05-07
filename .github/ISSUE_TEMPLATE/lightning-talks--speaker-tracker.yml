@@ -1,7 +1,7 @@
-name: "Lightning Talks: Speaker Tracker"
+name: 'Lightning Talks: Speaker Tracker'
 description: Track what information has been collected from each speaker and where they are in the process of preparing for Lightning Talks
-title: "Speaker: "
-labels: ["Lightning Talks"]
+title: 'Speaker: '
+labels: ['Lightning Talks']
 assignees:
   - meg-gutshall
   - shelleymcq
@@ -14,7 +14,7 @@ body:
         Check off/fill in the items below as they are received/updated. Any notes or attachments should be added as comments on the issue. This issue will live in the Lightning Talks project and help us work toward organizing everyone for presentation day.
   - type: markdown
     attributes:
-      value: "### Lightning Talk Idea Form Info"
+      value: '### Lightning Talk Idea Form Info'
   - type: input
     attributes:
       label: Slack Username
@@ -46,22 +46,22 @@ body:
       description: This speaker requested to be paired with a mentor
       multiple: false
       options:
-        - "No"
-        - "Yes"
+        - 'No'
+        - 'Yes'
       default: 0
     validations:
       required: true
   - type: markdown
     attributes:
-      value: "### Additional Info"
+      value: '### Additional Info'
   - type: dropdown
     attributes:
       label: Speaker Bio on File
       description: This speaker has a bio on file with Virtual Coffee
       multiple: false
       options:
-        - "No"
-        - "Yes"
+        - 'No'
+        - 'Yes'
       default: 0
     validations:
       required: true
@@ -85,8 +85,8 @@ body:
       description: This speaker will be pre-recording their Lightning Talk
       multiple: false
       options:
-        - "No"
-        - "Yes"
+        - 'No'
+        - 'Yes'
       default: 0
     validations:
       required: true
@@ -97,7 +97,7 @@ body:
         - label: Video recording confirmed
   - type: markdown
     attributes:
-      value: "### Communications & Setup"
+      value: '### Communications & Setup'
   - type: checkboxes
     attributes:
       label: Mentorship
