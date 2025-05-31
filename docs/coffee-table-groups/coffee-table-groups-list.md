@@ -40,11 +40,13 @@ Below are the currently scheduled times and information for the events at the po
 
 :::
 
-## Active Groups
+:::info[Volunteer Opportunities!]
 
-:::note[Volunteer Opportunities!]
+We're accepting volunteer applications for:
 
-We're accepting volunteer applications for Co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups on a continual basis.
+- **Lead for the Tech Interview Study Group**
+- Co-hosts for current Coffee Table Groups
+- Leads for new and inactive Coffee Table Groups
 
 Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
 
