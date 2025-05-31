@@ -69,25 +69,23 @@ Be sure to arrive to the meeting on time. If you can't make a meeting, or you'll
 
 Each Accountabilibuddies group has different regulars and a different vibe. When deciding an itinerary for Accountabilibuddies, we've found it's best to feel out the group and structure it around what works for the natural flow of that particular group.
 
-### The Quad (Tuesday Meeting)
+### Jump Start (Monday Meeting)
 
-The Hosts should be sure to get into the Zoom room a minute or two early so they have enough time to set up the breakout rooms before the event begins. For this iteration of Accountabilibuddies, having a dedicated Pomodoro breakout room is a must.
+#### 2:00-2:05 PM ET - Check-in & Social Time
 
-#### 7:00–7:30 PM ET
+Start with casual conversation and community building
 
-First Pomodoro session – 25 minutes, 5 minute break
+#### 2:05-2:30 PM ET - Weekly Goal Review
 
-#### 7:30–8:00 PM ET
+Share your progress from the previous week, outline plans for the upcoming week, and set specific goals
 
-Second Pomodoro session – 25 minutes, 5 minute break
+#### 2:30-3:00 PM ET - Focused Work & Support
 
-#### 8:00–8:30 PM ET
+Choose your path:
 
-Third Pomodoro session – 25 minutes, 5 minute break
-
-#### 8:30–9:00 PM ET
-
-Last Pomodoro session – 25 minutes, 5 minute break
+- Join optional Pomodoro sessions in breakout rooms for focused work time
+- Participate in discussion-based sessions for advice and problem-solving
+- Access breakout rooms for mock interviewing, resume review, or other collaborative work
 
 ### The Breakfast Club (Thursday Meeting)
 
