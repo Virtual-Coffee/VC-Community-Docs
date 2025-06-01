@@ -132,9 +132,11 @@ Feelings Friday was started at the Flatiron School coding bootcamp by its founde
 
 ### Tech Interview Study Group
 
-#### Previous Lead & Host:
+#### Previous Leads & Hosts:
 
+- Marie Antons
 - Eddie Banner
+- Julia Seidman
 
 A weekly discussion of job search and interview-related topics, including mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, and more! We are always looking for ideas to help meet your needs. All stages of career and job search are welcome!
 
