@@ -31,7 +31,7 @@ tags:
   - 'monthly challenge'
 ---
 
-In this challenge, we encourage members to set their goals for the year and break them into achievable goals for each month. Our Coffee Table Groups — Accountabilibuddies, Tech Interview Study Group, and The Pack Hunt — are participating in and supporting this challenge!
+In this challenge, we encourage members to set their goals for the year and break them into achievable goals for each month. Our Coffee Table Groups can participate in and support this challenge — check in with Meg, our Weekly Events Maintainer, to find out how!
 
 :::tip
 
