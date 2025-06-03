@@ -14,7 +14,7 @@ We prioritize supporting one another and believe in the power of learning and te
 
 ## How to Use This Repo
 
-1. **Explore**: Browse through the different folders in the `docs` folder to find areas of interest.
+1. **Explore**: Browse through the different folders in the [`docs`](./docs/) folder to find areas of interest.
 2. **Learn**: Each section contains documentation on how we approach different aspects of community building.
 3. **Adapt**: Feel free to use these resources as inspiration or templates for your own community initiatives, according to our license.
 4. **Contribute**: If you have suggestions or improvements, please open [an issue](https://github.com/Virtual-Coffee/VC-Community-Docs/issues/new/choose) or [a discussion board post](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions).
