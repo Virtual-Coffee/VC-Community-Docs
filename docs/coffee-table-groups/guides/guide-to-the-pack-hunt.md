@@ -33,7 +33,7 @@ tags:
 
 ## Pack Hunt Activities
 
-In general, material building (cover letters, portfolios, resumes, etc.) and related intensive job hunt support should be directed toward the #tech-interview-study-group and #job-hunt Slack channels, but short reviews, questions, and support will always be allowed in The Pack Hunt if other attendees have the bandwidth to help.
+In general, material building (cover letters, portfolios, resumes, etc.) and related intensive job hunt support should be directed toward the `#tech-interview-study-group` and `#job-hunt` Slack channels, but short reviews, questions, and support will always be allowed in The Pack Hunt if other attendees have the bandwidth to help.
 
 ## Host Duties
 
