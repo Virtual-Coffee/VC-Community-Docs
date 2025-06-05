@@ -16,7 +16,7 @@ We prioritize supporting one another and believe in the power of learning and te
 
 1. **Explore**: Browse through the different folders in the [`docs`](./docs/) folder to find areas of interest.
 2. **Learn**: Each section contains documentation on how we approach different aspects of community building.
-3. **Adapt**: Feel free to use these resources as inspiration or templates for your own community initiatives, according to our license.
+3. **Adapt**: Feel free to use these resources as inspiration or templates for your own community initiatives, according to our [license](LICENSE.md).
 4. **Contribute**: If you have suggestions or improvements, please open [an issue](https://github.com/Virtual-Coffee/VC-Community-Docs/issues/new/choose) or [a discussion board post](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions).
 
 ---
@@ -26,7 +26,7 @@ We prioritize supporting one another and believe in the power of learning and te
 >
 > Any changes to this repo need to be made via a pull request (PR).
 >
-> **Read our [Contributors' Guide](./CONTRIBUTING.md) for more info about creating issues and PRs**.
+> **Read our [Contributors' Guide](CONTRIBUTING.md) for more info about creating issues and PRs**.
 
 ---
 
