@@ -34,41 +34,31 @@ tags:
 <!-- markdownlint-disable MD024 -->
 <!-- markdownlint-disable MD026 -->
 
+:::info[Volunteer Opportunities!]
+
+We're accepting volunteer applications for:
+
+- **Lead for the Tech Interview Study Group**
+- Co-hosts for current Coffee Table Groups
+- Leads for new and inactive Coffee Table Groups
+
+Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
+
+:::
+
+## Active Groups
+
 :::warning[For the latest events schedule...]
 
 Below are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
 
 :::
 
-## Active Groups
-
-:::note[Volunteer Opportunities!]
-
-We're accepting volunteer applications for Co-hosts for current Coffee Table Groups and Leads for new Coffee Table Groups on a continual basis.
-
-Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
-
-:::
-
-### Tech Interview Study Group
-
-#### When:
-
-- Mondays, 4:00–4:30 PM ET
-
-#### Lead & Host:
-
-- Eddie Banner
-
-A weekly discussion of job search and interview-related topics, including mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, and more! We are always looking for ideas to help meet your needs. All stages of career and job search are welcome!
-
-Interested? Join the `#tech-interview-study-group` Slack channel!
-
 ### Accountabilibuddies
 
 #### When:
 
-- **The Quad** – Tuesdays, 7:00–9:00 PM ET
+- **Jump Start** – Mondays, 2:00–3:00 PM ET
 - **The Breakfast Club** – Thursdays, 9:00–11:40 AM ET
 
 #### Lead:
@@ -77,7 +67,7 @@ Interested? Join the `#tech-interview-study-group` Slack channel!
 
 #### Hosts:
 
-- **The Quad** – Rad Turkin & David Akim
+- **Jump Start** – Rad Turkin & Eddie Banner
 - **The Breakfast Club** – Meg Gutshall & Joe Karow
 
 You want to learn that new tool, finish up that blog post, or send that job application, but you’re so busy that the day is over before you know it. Join us and add some fun and friendly accountability to your schedule!
@@ -121,6 +111,7 @@ DSA Office Hours is an opportunity to come and ask questions about anywhere you 
 #### Hosts:
 
 - Jörn Bernhardt
+- Meg Gutshall
 - Micha Rodriguez
 
 On Fridays, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We meet in the `#co-working-room` for this Coffee Table Group, and can move our meeting to a breakout room so as not to disturb any co-working VC members. Feel free to join us and learn more about CSS! If you can't make it, be sure to play along on your own and post your answers in [Virtual Coffee's CSS Battles Discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/css-battles)!
@@ -138,6 +129,18 @@ On Fridays, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We
 Feelings Friday was started at the Flatiron School coding bootcamp by its founders, Avi Flombaum & Adam Enbar, after they noticed burnout among their first cohorts. Join a supportive group where everyone has the opportunity to share what’s on their mind in a safe environment. It's a great way to unwind at the end of the week!
 
 ## Inactive Groups
+
+### Tech Interview Study Group
+
+#### Previous Leads & Hosts:
+
+- Marie Antons
+- Eddie Banner
+- Julia Seidman
+
+A weekly discussion of job search and interview-related topics, including mini mock interviews, technical topic discussions, job search tips, occasional guest speakers, and more! We are always looking for ideas to help meet your needs. All stages of career and job search are welcome!
+
+Interested? Join the `#tech-interview-study-group` Slack channel!
 
 ### Virtual Coffee Book Club
 
