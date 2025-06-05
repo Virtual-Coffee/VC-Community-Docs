@@ -89,3 +89,11 @@ Running the project locally is essential to see your changes in real time and te
 If you have questions about our processes or want to discuss community building, feel free to open an issue or start a [discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) in this repository. We're always happy to connect!
 
 We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
+
+## Support and Services
+
+We offer professional support, customization, and consulting services for this project. If you're interested in these services, please reach out to <hello@virtualcoffee.io> for more information.
+
+## Donations and Sponsorship
+
+If you find this project useful and would like to support its development, consider becoming a sponsor through [GitHub Sponsors](https://github.com/sponsors/Virtual-Coffee).

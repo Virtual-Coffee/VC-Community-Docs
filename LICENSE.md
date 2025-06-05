@@ -23,11 +23,3 @@ You do not have to comply with the license for elements of the material in the p
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as [publicity, privacy, or moral rights](https://creativecommons.org/licenses/by/4.0/#ref-publicity-privacy-or-moral-rights) may limit how you use the material.
 
 For commercial use or to obtain a proprietary license, please contact us at <hello@virtualcoffee.io>.
-
-## Support and Services
-
-We offer professional support, customization, and consulting services for this project. If you're interested in these services, please reach out to <hello@virtualcoffee.io> for more information.
-
-## Donations and Sponsorship
-
-If you find this project useful and would like to support its development, consider becoming a sponsor through [GitHub Sponsors](https://github.com/sponsors/Virtual-Coffee).
