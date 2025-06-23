@@ -36,26 +36,57 @@ Throughout this repository, you'll find insights into:
 - Maintaining community documentation
 - Balancing growth with community intimacy
 
-## Quick Links & Team Leads/Coordinators
+## Resources Overview
 
-This repository is organized into several key areas of community management:
+These resources are organized into several key areas of community management:
 
-- **[How to Use This Repo](#how-to-use-this-repo)**
-- **[Lunch & Learns](./lunch-and-learns/)**: Docs and reference for managing Lunch & Learn events
-  - **Coordinator**: Shelley McHardy
-- **[Coffees](./coffees)**: Docs and reference for managing weekly Coffees
-  - **Leads**: Community Maintainers
-- **[Lightning Talks](./lightning-talks)**: Docs and reference for helping out with Lightning Talks
-- **[Monthly Challenges](./monthly-challenges)**: Docs and reference for managing Monthly Challenges
-  - **Leads**: Ayu Adiati and Dominic Duffin
-- **[Coffee Table Groups](./coffee-table-groups)**: Docs and reference for managing Coffee Table Groups
-  - **Coordinator**: **Currently Open!**
-- **Procedures**: Procedures for various Virtual Coffee tasks
-  - **[YouTube](./procedures/av/youtube.md)**: Steps for posting to YouTube
-  - **[Streaming](./procedures/av/streaming.md)**: Steps for streaming from Zoom to YouTube Live
-  - **[Add a Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md)**: Steps for adding a new Coffee Table Group after receiving an application
-- **[Documentation Team](./community-roles/team-leads-and-coordinators.md#documentation-team-lead)**
-  - **Lead**: Ayu
+### [Coffees](./coffees/README.md)
+
+Documentation and references for managing Virtual Coffee's weekly [Coffees](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/what-to-expect-in-virtual-coffee#coffees-virtual-coffee-weekly-zoom-chats).
+
+### [Coffee Table Groups](./coffee-table-groups/README.md)
+
+Documentation and references for managing Virtual Coffee's [Coffee Table Groups](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/coffee-table-groups).
+
+### [Monthly Challenges](./monthly-challenges/README.md)
+
+Documentation and references for managing Virtual Coffee's [Monthly Challenges](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/monthly-challenges).
+
+### [Lunch & Learns](./lunch-and-learns/README.md)
+
+Documentation and references for managing Virtual Coffee's [Lunch & Learn](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/lunch-and-learns) events.
+
+### [Lightning Talks](./lightning-talks/README.md)
+
+Documentation and references for managing Virtual Coffee's [Lightning Talks](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/lightning-talk) event.
+
+### Procedures
+
+Procedures and step-by-step guides for navigating various initiatives and tasks within the Virtual Coffee community.
+
+#### [GitHub Discussions](./procedures/github-discussions/vc-discussion-boards.md)
+
+Guide to using Virtual Coffee's GitHub discussion.
+
+#### [Adding a New Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md)
+
+Guide to setting up a new Coffee Table Group.
+
+#### [Community Writer](./procedures/community-writers/README.md)
+
+Guide for writing and publishing blog posts for Virtual Coffee.
+
+#### [Friday Chats](./procedures/x/friday-chat-template.md)
+
+Guide for posting Friday Chats on Virtual Coffee's X account.
+
+#### [YouTube Live Streaming](./procedures/av/streaming.md)
+
+Guide for live streaming on Virtual Coffee's YouTube channel.
+
+#### [Posting Videos on YouTube](./procedures/av/youtube.md)
+
+Guide for posting videos on Virtual Coffee's YouTube channel.
 
 ## Get Involved with Virtual Coffee
 
