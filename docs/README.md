@@ -78,15 +78,15 @@ Guide to setting up a new Coffee Table Group.
 
 #### [Community Writer](./procedures/community-writers/README.md)
 
-Guide for writing and publishing blog posts for Virtual Coffee on [DEV](https://dev.to/virtualcoffee) platform.
+Guide for writing and publishing blog posts for Virtual Coffee on [DEV platform](https://dev.to/virtualcoffee).
 
 #### [Friday Chats](./procedures/x/friday-chat-template.md)
 
-Guide for posting Friday Chats on Virtual Coffee's X account.
+Guide for posting Friday Chats on Virtual Coffee's [X account](https://x.com/VirtualCoffeeIO).
 
 #### [YouTube Live Streaming](./procedures/av/streaming.md)
 
-Guide for live streaming on Virtual Coffee's YouTube channel.
+Guide for live streaming on Virtual Coffee's [YouTube channel](https://www.youtube.com/@VirtualCoffeeIO).
 
 #### [Posting Videos on YouTube](./procedures/av/youtube.md)
 
