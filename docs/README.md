@@ -18,17 +18,21 @@ tags:
   - 'introduction'
 ---
 
-Welcome to Virtual Coffee's community building resources! This repository contains documentation, procedures, and insights into how we manage various aspects of our tech community. Whether you're looking to understand how we do things at Virtual Coffee, volunteer at Virtual Coffee, start your own community or improve an existing one, we hope these resources will be valuable to you.
+Welcome to Virtual Coffee's Community Building Resources!
+
+This documentation, along with procedures and insights, helps you understand how Virtual Coffee manages various aspects of the tech community.
+
+You can use these resources to learn about the operations and volunteering at Virtual Coffee, start your own community, or improve an existing one. These resources aim to be valuable to you.
 
 ## About Virtual Coffee
 
 Virtual Coffee's mission is to be a welcoming tech community that allows room for growth and mentorship at all levels and to create meaningful opportunities for learning, leadership, and contribution for everyone.
 
-We prioritize supporting one another and believe in the power of learning and teaching at every level. To learn more about who we are, visit our [website](https://virtualcoffee.io/about).
+Virtual Coffee prioritizes supporting one another and believes in the power of learning and teaching at every level. To learn more about the community, visit Virtual Coffee [website](https://virtualcoffee.io/about).
 
 ## Community Building Insights
 
-Throughout this repository, you'll find insights into:
+Throughout these resources, you'll find insights into:
 
 - Creating welcoming spaces for developers of all levels
 - Organizing and managing regular community events
@@ -74,7 +78,7 @@ Guide to setting up a new Coffee Table Group.
 
 #### [Community Writer](./procedures/community-writers/README.md)
 
-Guide for writing and publishing blog posts for Virtual Coffee.
+Guide for writing and publishing blog posts for Virtual Coffee on [DEV](https://dev.to/virtualcoffee) platform.
 
 #### [Friday Chats](./procedures/x/friday-chat-template.md)
 
@@ -90,26 +94,14 @@ Guide for posting videos on Virtual Coffee's YouTube channel.
 
 ## Get Involved with Virtual Coffee
 
-If you're interested in joining Virtual Coffee or learning more about our community:
+If you're interested in joining Virtual Coffee or learning more about the community:
 
-- Visit our [website](https://virtualcoffee.io)
-- Check out our [membership information](https://virtualcoffee.io/join)
-- Explore our [public resources for developers](https://virtualcoffee.io/resources)
+- Visit Virtual Coffee [website](https://virtualcoffee.io)
+- Check out Virtual Coffee [membership information](https://virtualcoffee.io/join)
+- Explore Virtual Coffee [public resources for developers](https://virtualcoffee.io/resources)
 
 ## Questions or Feedback?
 
-If you have questions about our processes or want to discuss community building, feel free to open an issue or start a [discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) in this repository. We're always happy to connect!
+If you have questions about Virtual Coffee processes, want to discuss community building, or have an idea to improve these resources, feel free to [open an issue](https://github.com/Virtual-Coffee/VC-Community-Docs/issues/new/choose) or start a [discussion](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions) in the repository. Always happy to connect!
 
-We hope these resources are helpful. Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
-
-::::note
-
-Any changes to this repo need to be via a Pull Request (you can do this on your machine or through the GitHub web interface).
-
-:::danger[Heads up!]
-
-If you'd like to make a change to this repo's docs, please make sure you've started with an issue (or a discussion board post) first, and that you've been assigned to the issue. This allows the maintainer team to provide guidance and prioritize tasks - otherwise you may run the risk of spending time on something that doesn't end up getting accepted for various reasons. Read our [Contributors' Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md) for more info.
-
-:::
-
-::::
+Remember, every community is unique, so adapt these ideas to fit your specific needs and values. Happy community building!
