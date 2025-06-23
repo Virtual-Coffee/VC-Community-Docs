@@ -26,6 +26,16 @@ Virtual Coffee's mission is to be a welcoming tech community that allows room fo
 
 We prioritize supporting one another and believe in the power of learning and teaching at every level. To learn more about who we are, visit our [website](https://virtualcoffee.io/about).
 
+## Community Building Insights
+
+Throughout this repository, you'll find insights into:
+
+- Creating welcoming spaces for developers of all levels
+- Organizing and managing regular community events
+- Creating leadership and volunteer opportunities
+- Maintaining community documentation
+- Balancing growth with community intimacy
+
 ## Quick Links & Team Leads/Coordinators
 
 This repository is organized into several key areas of community management:
@@ -46,25 +56,6 @@ This repository is organized into several key areas of community management:
   - **[Add a Coffee Table Group](./procedures/new-coffee-table-group/add-coffee-table-group.md)**: Steps for adding a new Coffee Table Group after receiving an application
 - **[Documentation Team](./community-roles/team-leads-and-coordinators.md#documentation-team-lead)**
   - **Lead**: Ayu
-
-## How to Use This Repo
-
-This repo is meant to help facilitate communication and coordination for Virtual Coffee Contributors.
-
-1. **Explore**: Browse through the different folders to find areas of interest.
-2. **Learn**: Each section contains documentation on how we approach different aspects of community building.
-3. **Adapt**: Feel free to use these resources according to our license as inspiration or templates for your own community initiatives.
-4. **Contribute**: If you have suggestions or improvements, please see our [Contributing Guide](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md).
-
-## Community Building Insights
-
-Throughout this repository, you'll find insights into:
-
-- Creating welcoming spaces for developers of all levels
-- Organizing and managing regular community events
-- Creating leadership and volunteer opportunities
-- Maintaining community documentation
-- Balancing growth with community intimacy
 
 ## Get Involved with Virtual Coffee
 
