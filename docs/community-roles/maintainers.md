@@ -86,3 +86,9 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 - Research, recommend, and implement new technologies or features to enhance community engagement.
 - Provide technical support to community members and maintainers.
 - Collaborate with other maintainers to integrate technology into community initiatives.
+
+:::note
+
+Virtual Coffee aims to create a healthy environment for the entire community, including the Community Maintainers. It’s perfectly acceptable to take a leave of absence or step down from the position, as life circumstances can change, and this role is volunteer-based. Virtual Coffee encourages open communication with administrators and promotes thoughtful self-evaluation.
+
+:::
