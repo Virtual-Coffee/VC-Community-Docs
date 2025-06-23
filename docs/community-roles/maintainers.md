@@ -23,13 +23,15 @@ tags:
   - 'maintainers'
 ---
 
-Virtual Coffee is an open-source community supported by community maintainers.
+Virtual Coffee is an open-source community supported by the Maintainers.
 
 The Virtual Coffee Maintainers work collaboratively to support the community, ensure its smooth operation, and create a positive and engaging environment. Each maintainer brings unique expertise to their role, with responsibilities tailored to meet the diverse needs of the community. Together, the Maintainers ensure Virtual Coffee thrives as a space for connection, learning, and growth.
 
 ## Organizational Maintainers
 
-Organizational (Org) Maintainers are partners of VirtualCoffeeIO, LTD, dedicated to providing overall guidance, structure, and support for the entire community. They are responsible for upholding standards, making organization-wide decisions, and ensuring alignment with Virtual Coffee’s long-term mission and vision. By empowering Community Maintainers with the necessary tools, resources, and mentorship, Org Maintainers help ensure the community's success and growth.
+Organizational (Org) Maintainers are partners of VirtualCoffeeIO, LTD, dedicated to providing overall guidance, structure, and support for the entire community.
+
+They are responsible for maintaining community and documentation standards, making organization-wide decisions, and ensuring alignment with Virtual Coffee’s long-term mission and vision. By empowering [Community Maintainers](#community-maintainers) with the necessary tools, resources, and mentorship, Org Maintainers help ensure the community's success and growth.
 
 ## Community Maintainers
 
@@ -39,12 +41,12 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 
 ### Weekly Events Maintainer - Meg Gutshall
 
-**Description**: The Weekly Events Maintainer is responsible for organizing and managing the rhythm of our bi-weekly coffee sessions and other regular events, keeping the community connected and engaged.
+The Weekly Events Maintainer organizes and manages the rhythm of Virtual Coffee's bi-weekly Coffee sessions and other regular events, keeping the community connected and engaged.
 
 **Responsibilities**:
 
-- Coordinate and facilitate bi-weekly coffee sessions.
-- Manage logistics for coffee sessions, such as scheduling and communication.
+- Coordinate and facilitate bi-weekly Coffee sessions.
+- Manage logistics for Coffee sessions, such as scheduling and communication.
 - Monitor and support Coffee Table Groups to foster small-group interactions.
 - Ensure consistent community engagement through regular events.
 - Track attendance and engagement patterns to guide future planning.
@@ -52,7 +54,7 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 
 ### Special Events Maintainer - BekahHW
 
-**Description**: The Special Events Maintainer focuses on creating opportunities for learning, sharing, and celebrating through one-off events and monthly initiatives.
+The Special Events Maintainer focuses on creating opportunities for learning, sharing, and celebrating through one-off events and monthly initiatives.
 
 **Responsibilities**:
 
@@ -63,9 +65,9 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 - Plan and execute special community initiatives.
 - Coordinate with guest speakers and presenters for events.
 
-### Community Health Maintainer - Kirk
+### Community Health Maintainer - Kirk Shillingford
 
-**Description**: The Community Health Maintainer cultivates a positive, inclusive, and supportive environment for all community members. This role ensures the emotional and relational well-being of the community.
+The Community Health Maintainer cultivates a positive, inclusive, and supportive environment for all community members. This role ensures the emotional and relational well-being of the community.
 
 **Responsibilities**:
 
@@ -73,11 +75,11 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 - Develop and enforce community guidelines and the code of conduct.
 - Collect feedback from members to continuously improve the community experience.
 - Work with moderators to resolve community-related issues.
-- Design and refine onboarding plans to effectively welcome new members.
+- Design and refine onboarding plans to welcome new members effectively.
 
 ### Technology Support Maintainer - Dan Ott
 
-**Description**: The Technology Support Maintainer ensures that the community’s digital platforms and tools function smoothly and securely, providing the technological backbone for our operations.
+The Technology Support Maintainer ensures that the community’s digital platforms and tools function smoothly and securely, providing the technological backbone for our operations.
 
 **Responsibilities**:
 
@@ -85,7 +87,7 @@ The following describes each Community Maintainer at Virtual Coffee and outlines
 - Ensure the security and stability of technology resources.
 - Research, recommend, and implement new technologies or features to enhance community engagement.
 - Provide technical support to community members and maintainers.
-- Collaborate with other maintainers to integrate technology into community initiatives.
+- Collaborate with other maintainers to integrate technology into community initiatives and projects.
 
 :::note
 
