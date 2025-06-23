@@ -23,8 +23,6 @@ tags:
   - 'maintainers'
 ---
 
-Virtual Coffee is an open-source community supported by the Maintainers.
-
 The Virtual Coffee Maintainers work collaboratively to support the community, ensure its smooth operation, and create a positive and engaging environment. Each maintainer brings unique expertise to their role, with responsibilities tailored to meet the diverse needs of the community. Together, the Maintainers ensure Virtual Coffee thrives as a space for connection, learning, and growth.
 
 ## Organizational Maintainers
