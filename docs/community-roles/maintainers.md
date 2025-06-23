@@ -31,7 +31,11 @@ The Virtual Coffee Maintainers work collaboratively to support the community, en
 
 Organizational (Org) Maintainers are partners of VirtualCoffeeIO, LTD, dedicated to providing overall guidance, structure, and support for the entire community.
 
-They are responsible for maintaining community and documentation standards, making organization-wide decisions, and ensuring alignment with Virtual Coffee’s long-term mission and vision. By empowering [Community Maintainers](#community-maintainers) with the necessary tools, resources, and mentorship, Org Maintainers help ensure the community's success and growth.
+**Responsibilities**:
+
+- Maintain community and documentation standards.
+- Make organization-wide decisions and ensure alignment with Virtual Coffee’s long-term mission and vision.
+- Empower Community Maintainers with the necessary tools, resources, and mentorship to help ensure the community's success and growth.
 
 ## Community Maintainers
 
