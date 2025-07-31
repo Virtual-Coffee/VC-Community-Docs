@@ -83,9 +83,8 @@ Share your progress from the previous week, outline plans for the upcoming week,
 
 Choose your path:
 
-- Join optional Pomodoro sessions in breakout rooms for focused work time
-- Participate in discussion-based sessions for advice and problem-solving
-- Access breakout rooms for mock interviewing, resume review, or other collaborative work
+- Join Pomodoro session for focused work time
+- Access breakout rooms for advice, problem-solving, and other collaborative work
 
 ### The Breakfast Club (Thursday Meeting)
 
