@@ -48,11 +48,7 @@ Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if
 
 ## Active Groups
 
-:::warning[For the latest events schedule...]
-
-Below are the currently scheduled times and information for the events at the point of publication. Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
-
-:::
+Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
 
 ### Accountabilibuddies
 
