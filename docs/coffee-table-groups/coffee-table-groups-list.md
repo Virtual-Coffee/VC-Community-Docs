@@ -56,11 +56,6 @@ Below are the currently scheduled times and information for the events at the po
 
 ### Accountabilibuddies
 
-#### When:
-
-- **Jump Start** – Mondays, 2:00–3:00 PM ET
-- **The Breakfast Club** – Thursdays, 9:00–11:40 AM ET
-
 #### Lead:
 
 - Meg Gutshall
@@ -76,10 +71,6 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 
 ### The Pack Hunt
 
-#### When:
-
-- Wednesdays, 10:00 AM – NOON ET
-
 #### Lead & Host:
 
 - Rad Turkin
@@ -87,10 +78,6 @@ Drop into our sessions whenever and for however long your schedule allows. No ma
 Job hunting as a collective: An accountability session exclusively for job hunting. Support each other by being present and sharing your goals, target roles, and resources. Let's collaborate as we apply for jobs, reach out to recruiters, and scroll LinkedIn for leads. "Hunt with the pack! Arwoooo...!!!"
 
 ### Frontend Friday Folks Fighting CSSBattle.dev
-
-#### When:
-
-- Fridays, 11:00 AM – NOON ET
 
 #### Lead:
 
@@ -105,10 +92,6 @@ Job hunting as a collective: An accountability session exclusively for job hunti
 On Fridays, we solve a new puzzle at [CSSBattle.dev](https://cssbattle.dev/). We meet in the `#co-working-room` for this Coffee Table Group, and can move our meeting to a breakout room so as not to disturb any co-working VC members. Feel free to join us and learn more about CSS! If you can't make it, be sure to play along on your own and post your answers in [Virtual Coffee's CSS Battles Discussion board](https://github.com/orgs/Virtual-Coffee/discussions/categories/css-battles)!
 
 ### Feelings Friday
-
-#### When:
-
-- Fridays, 8:00–9:00 PM ET
 
 #### Lead & Host:
 
