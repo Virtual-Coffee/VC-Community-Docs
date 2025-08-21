@@ -38,9 +38,9 @@ tags:
 
 We're accepting volunteer applications for:
 
-- **Lead for the Tech Interview Study Group**
-- Co-hosts for current Coffee Table Groups
-- Leads for new and inactive Coffee Table Groups
+- [Coffee Table Groups Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator)
+- Leads & Hosts for all Coffee Table Groups
+  - **Lead for the Tech Interview Study Group**
 
 Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
 
