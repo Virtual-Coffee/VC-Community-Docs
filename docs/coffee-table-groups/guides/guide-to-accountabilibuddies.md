@@ -69,23 +69,6 @@ Be sure to arrive to the meeting on time. If you can't make a meeting, or you'll
 
 Each Accountabilibuddies group has different regulars and a different vibe. When deciding an itinerary for Accountabilibuddies, we've found it's best to feel out the group and structure it around what works for the natural flow of that particular group.
 
-### Jump Start (Monday Meeting)
-
-#### 2:00-2:05 PM ET - Check-in & Social Time
-
-Start with casual conversation and community building
-
-#### 2:05-2:30 PM ET - Weekly Goal Review
-
-Share your progress from the previous week, outline plans for the upcoming week, and set specific goals
-
-#### 2:30-3:00 PM ET - Focused Work & Support
-
-Choose your path:
-
-- Join Pomodoro session for focused work time
-- Access breakout rooms for advice, problem-solving, and other collaborative work
-
 ### The Breakfast Club (Thursday Meeting)
 
 #### 9:00-9:45/10:00 AM ET
