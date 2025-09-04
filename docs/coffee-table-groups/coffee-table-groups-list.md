@@ -34,18 +34,6 @@ tags:
 <!-- markdownlint-disable MD024 -->
 <!-- markdownlint-disable MD026 -->
 
-:::info[Volunteer Opportunities!]
-
-We're accepting volunteer applications for:
-
-- [Coffee Table Groups Coordinator](https://virtualcoffee.io/resources/virtual-coffee-handbook/get-involved/paths-to-leadership#coffee-table-groups-coordinator)
-- Leads & Hosts for all Coffee Table Groups
-  - **Lead for the Tech Interview Study Group**
-
-Please reach out to [Meg](/README.md#weekly-events-maintainer---meg-gutshall) if you have any questions.
-
-:::
-
 ## Active Groups
 
 Please check our [online events page](https://virtualcoffee.io/events) as well as the `#announcements` and `#vc-events` channels on Virtual Coffee's Slack for the latest updates and links to event rooms.
