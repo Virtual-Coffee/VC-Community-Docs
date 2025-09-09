@@ -69,31 +69,14 @@ Be sure to arrive to the meeting on time. If you can't make a meeting, or you'll
 
 Each Accountabilibuddies group has different regulars and a different vibe. When deciding an itinerary for Accountabilibuddies, we've found it's best to feel out the group and structure it around what works for the natural flow of that particular group.
 
-### Jump Start (Monday Meeting)
-
-#### 2:00-2:05 PM ET - Check-in & Social Time
-
-Start with casual conversation and community building
-
-#### 2:05-2:30 PM ET - Weekly Goal Review
-
-Share your progress from the previous week, outline plans for the upcoming week, and set specific goals
-
-#### 2:30-3:00 PM ET - Focused Work & Support
-
-Choose your path:
-
-- Join Pomodoro session for focused work time
-- Access breakout rooms for advice, problem-solving, and other collaborative work
-
 ### The Breakfast Club (Thursday Meeting)
 
-#### 9:00-9:45/10:00 AM ET
+#### Wakey Wakey Time (~60 min)
 
 This time is akin to our random chatter before Virtual Coffee announcements. People (read: Meg) are still waking up and getting to their computers. By the first half hour, we usually have a good group online so we get some chit-chat in before settling down.
 
-#### 10:00–11:40 AM ET
+#### Accountabilibuddies Time (~100 min)
 
-We've decided that 10:00 AM is our "buckle down" time and any chatter after that should be focused on helping each other with the tasks at hand. This period is treated much like the `#co-working-room` atmosphere. We're all mainly concentrated on our various tasks. Someone will break the silence occasionally and we chat for a few minutes, but then we get back into the workflow.
+We've decided that the top of the first hour is our "buckle down" time and any chatter after that should be focused on helping each other with the tasks at hand. This period is treated much like the `#co-working-room` atmosphere. We're all mainly concentrated on our various tasks. Someone will break the silence occasionally and we chat for a few minutes, but then we get back into the workflow.
 
-At 11:40 AM, we shut down the Zoom room to allow attendees ample time for a break before Virtual Coffee begins at noon.
+Twenty minutes before Virtual Coffee, we shut down the session to allow attendees ample time for a break between Zoom meetings.
