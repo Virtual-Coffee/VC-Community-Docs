@@ -107,7 +107,7 @@ This gives the Hosts time to plan the rooms and assign volunteers to roles for e
 
 Once we have volunteered for a slot it will look something like this in slack:
 
-![Example volunteer poll](../_assets/images/example-volunteer-poll.png)
+![Slack volunteer poll for notetaker and room leader roles](../_assets/images/example-volunteer-poll.png)
 
 Later that day the MC or Host for the week will post a list of Room Leader / Notetaker pairings.
 
