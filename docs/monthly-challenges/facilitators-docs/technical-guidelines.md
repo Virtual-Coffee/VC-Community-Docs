@@ -37,7 +37,7 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
 1. Click the down arrow next to the channel's name.
 
-   ![Tab showing channel name](../../_assets/images/get-channel-details.png)
+   ![An open Slack channel with a dropdown menu next to the name to get channel details](../../_assets/images/get-channel-details.png)
 
 2. Click the "Edit" button in the topic section. Fill it in with the name of the challenge and the link to the challenge page on the website.
 3. Click the "Edit" button in the description section. Fill it in with a brief description of the challenge.
