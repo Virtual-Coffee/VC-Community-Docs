@@ -104,7 +104,7 @@ Then, select the number of breakout rooms you want to create.
 
 Don't forget to click on 'Open all rooms' when you're finished creating them!
 
-![Zoom's Breakout room modal showing options: 'Recreate', 'Add room', and 'Open all rooms'](../../_assets/images/breakout-room-options.png)
+![Zoom's breakout room settings modal shows selected options for 'Allow participants to choose room', 'Allow participants to return to the main session at any time', 'Countdown after closing breakout rooms', and an 'Open all rooms' button.](../../_assets/images/breakout-room-options.png)
 
 ### Ending a Meeting
 
