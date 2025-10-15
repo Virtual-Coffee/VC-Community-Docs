@@ -73,7 +73,7 @@ You may enter the Zoom up to 10 minutes before the start of the event. Do so by 
 
 When you arrive in the Zoom, enter the Host Code to claim Host privileges. To do this, navigate to the `#vc-events-admin` channel in Slack and copy the Host Code from the posted Coffee Table group event.
 
-![Post to the `#vc-events-admin` channel in Slack showing the host code and Zoom URL](../../_assets/images/host-code.png)
+![Post to the `#vc-events-admin` channel in Slack showing an event's name, time and date, location of the event, a host code, and a channel to post the announcement](../../_assets/images/host-code.png)
 
 Back in Zoom, open the Participants tab and click on the 'Claim host' button to input the code.
 
