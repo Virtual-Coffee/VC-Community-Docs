@@ -79,7 +79,7 @@ Back in Zoom, open the Participants tab and click on the 'Claim host' button to 
 
 ![A state of Zoom meeting with no Host. The 'Participants' tab shows options: 'Invite', 'Unmute me', and 'Claim host'](../../_assets/images/hostless-zoom.png)
 
-![Zoom's 'Claim host' modal to type the host key](../../_assets/images/claim-host.png)
+![Zoom's 'Claim host' modal with input says 'Enter host key'](../../_assets/images/claim-host.png)
 
 Once your Co-host enters the Zoom, hover over their name in the Participants tab and click the 'More ▿' button. Select the 'Make co-host' option to grant them Co-host privileges.
 
