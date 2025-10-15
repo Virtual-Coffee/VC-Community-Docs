@@ -83,7 +83,7 @@ Back in Zoom, open the Participants tab and click on the 'Claim host' button to 
 
 Once your Co-host enters the Zoom, hover over their name in the Participants tab and click the 'More ▿' button. Select the 'Make co-host' option to grant them Co-host privileges.
 
-![More button dropdown with 'Make co-host option'](../../_assets/images/assign-co-host.png)
+![The 'More' button dropdown with 'Make co-host option on Zoom'](../../_assets/images/assign-co-host.png)
 
 :::warning
 
