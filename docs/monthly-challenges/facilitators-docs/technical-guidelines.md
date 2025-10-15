@@ -65,7 +65,7 @@ Sometimes, you want to write a customized thread directly from your account, suc
 4. Select the "Custom time".
 5. Set the day and time. This day and time default to your timezone.
 
-   ![Slack text box with day and time options](../../_assets/images/slack-schedule-message.png)
+   !['Schedule message' options in a message input on Slack to set the day and time of publishing. The available options are 'Later today at 13:00', 'Monday at 09:00', and 'Custom time'](../../_assets/images/slack-schedule-message.png)
 
 ## Updating the Monthly Challenge Pages on the Website
 
