@@ -138,7 +138,7 @@ All Virtual Coffee events have automated messages attached to them:
   - In addition, this message is always posted to `#vc-events-admin`. The content of this message includes the event name, time, location (Zoom URL), host code, and in which Slack channel the join link is posted. It also displays a 'Join Event' button for the Coffee Table Hosts and Leader to use.
   - The 'Join Event' buttons in both messages are identical, so a Coffee Table Host or Leader can use either one.
 
-![Post to the `#vc-events` channel in Slack announcing an event](../../_assets/images/starting-soon-post.png)
+![A post on the `#vc-events` channel in Slack announcing an event that is starting soon](../../_assets/images/starting-soon-post.png)
 
 ## Important Contacts
 
