@@ -1018,15 +1018,6 @@ packages:
       }
     engines: { node: '>=6.9.0' }
 
-
-  '@babel/runtime@7.28.4':
-    resolution:
-      {
-        integrity: sha512-Q/N6JNWvIvPnLDvjlE1OUBLPQHH6l3CltCEsHIujp45zQUSSh8K+gHnaEX45yAT1nyngnINhvWtzN+Nb9D8RAQ==,
-      }
-    engines: { node: '>=6.9.0' }
-
-
   '@babel/template@7.25.9':
     resolution:
       {
@@ -2858,17 +2849,10 @@ packages:
         integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==,
       }
 
-
   caniuse-lite@1.0.30001696:
     resolution:
       {
         integrity: sha512-pDCPkvzfa39ehJtJ+OwGT/2yvT2SbjfHhiIW2LWOAcMQ7BzwxT/XuyUp4OTOd0XFWA6BKw0JalnBHgSi5DGJBQ==,
-
-  caniuse-lite@1.0.30001750:
-    resolution:
-      {
-        integrity: sha512-cuom0g5sdX6rw00qOoLNSFCJ9/mYIsuSOA+yzpDw8eopiFqcVwQvZHqov0vmEighRxX++cfC0Vg1G+1Iy/mSpQ==,
-
       }
 
   ccount@2.0.1:
