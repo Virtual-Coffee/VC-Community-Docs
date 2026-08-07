@@ -31,31 +31,31 @@ tags:
   - 'coffees'
 ---
 
-## Quick Link Reference
+## Quick link reference
 
 ```md
 Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-Newsletter: https://www.newsletter.virtualcoffee.io/
+Newsletter Archive: https://www.newsletter.virtualcoffee.io/
 
-Podcast: https://virtualcoffee.io/podcast/
+Podcast Archive: https://virtualcoffee.io/podcast/
 
 Get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
 
 HANDRAISE SHORTCUT: Opt/Alt+Y
 ```
 
-## Before Breakout Rooms
+## Before breakout rooms
 
-### Pre-Chat
+### Pre-coffee chat
 
 Welcome all new faces via chat and let them know we will get started and will be generally chatting for about 5 minutes to let everyone get settled.
 
 **_Pre-chat chaos commences._**
 
-### Welcome Announcements Script
+### Welcome announcements script
 
 :::info
 
@@ -74,9 +74,9 @@ Code of Conduct: https://virtualcoffee.io/code-of-conduct/
 
 COC Violation Form: https://virtualcoffee.io/report-coc-violation/
 
-Newsletter: https://www.newsletter.virtualcoffee.io/
+Newsletter Archive: https://www.newsletter.virtualcoffee.io/
 
-Podcast: https://virtualcoffee.io/podcast/
+Podcast Archive: https://virtualcoffee.io/podcast/
 
 Get Involved: https://virtualcoffee.io/resources/virtual-coffee/get-involved
 
@@ -97,13 +97,13 @@ We want to welcome all of our new friends! If you would like to join our Slack, 
 
 Lastly, we're so grateful to our room leaders and notetakers, who are community members who volunteer their time. One of the things we love about this community is how we support each other in the ways we can. At about five minutes to the hour, we'll come back together as a big group for some closing announcements.
 
-## During Breakout Rooms
+## During breakout rooms
 
 The welcome announcements normally take us to around 10 minutes after the hour and we come back at 5 minutes to the hour, so the main session usually lasts for about 45 minutes.
 
-## After Breakout Rooms
+## After breakout rooms
 
-### Closing Announcements Script
+### Closing announcements script
 
 :::tip
 
@@ -119,7 +119,7 @@ Thank you all for being here and welcome to our new friends! Your breakout rooms
 
 Have a great day, everyone!
 
-## Extra Resources
+## Extra resources
 
 These are not said/posted during live events.
 
