@@ -29,3 +29,33 @@
   --ifm-footer-background-color: #3a3c3d;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Mermaid diagram styles: center diagrams and scroll horizontally when needed.
+   Colors and fonts are controlled by the site-wide `mermaid` config in
+   docusaurus.config.js. */
+.mermaid {
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  text-align: center;
+}
+
+/* Consistent Section Styling */
+#planning-section,
+#cfp-section,
+#specifics-section,
+#timeline-section,
+#communication-section {
+  margin: 2rem 0;
+}
+
+#planning-section h3,
+#cfp-section h3,
+#specifics-section h3,
+#timeline-section h3,
+#communication-section h3 {
+  color: #2e8555;
+  border-bottom: 2px solid #e6f3ed;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.3em;
+}

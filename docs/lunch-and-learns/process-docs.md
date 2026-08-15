@@ -31,8 +31,6 @@ tags:
   - 'lunch and learns'
 ---
 
-Below is the entire lifecycle of a Virtual Coffee Lunch & Learn session.
-
 ## Roles
 
 There are several moving parts to making a successful Lunch & Learn. These docs are organized as to not assume one person is doing multiple roles (they could but they don't have to). It will also make it easy to assign roles as needed as our volunteer groups expand and contract.
@@ -73,6 +71,36 @@ Includes Editors and Graphics Coordinator (GC) who handle post-event cleanup of 
 
 ## Scheduling a Lunch & Learn
 
+### Overview of the Scheduling Process
+
+Here's a visual overview of the scheduling workflow that will be explained in detail below:
+
+<details>
+  <summary>📊 View Workflow Diagram for Scheduling a Lunch & Learn</summary>
+  <div style={{marginTop: '1rem'}}>
+
+```mermaid
+flowchart LR
+  subgraph A["📬 Request Review"]
+    direction TB
+    A1["📅 Speaker submits request form"] --> A2["📋 LC and DW review topic"] --> A3["✅ Topic approved"]
+  end
+
+  subgraph B["📅 Scheduling"]
+    direction TB
+    B1["🗓 LC checks calendar for dates"] --> B2["🗣️ Confirm Host/Moderator"] --> B3{"Time slots available?"}
+    B3 -- Yes --> B4["Finalize date with Speaker"] --> B5["Add to Google Calendar"] --> B6["Send invites to team"]
+    B3 -- No --> B7["Request more dates if needed"] --> B1
+  end
+
+  A3 --> B1
+```
+
+  </div>
+</details>
+
+## Detailed Scheduling Process
+
 ### Lunch & Learn Session Request Is Submitted
 
 - **KICK-OFF ACTION:** The Speaker fills out a Lunch & Learn request form.
@@ -83,7 +111,11 @@ Includes Editors and Graphics Coordinator (GC) who handle post-event cleanup of 
 
 - The LC and DW receive the form submission.
 
-#### Scheduling Workflow
+### Scheduling Workflow
+
+Once a request is received, the following workflow is initiated to schedule the Lunch & Learn session. This section provides the detailed steps that follow the overview shown above.
+
+Here's the step-by-step process for scheduling a Lunch & Learn session:
 
 1. The LC checks the calendar for availability in order of the Speaker's preferred dates.
 

@@ -52,7 +52,11 @@ const config = {
       }),
     ],
   ],
-
+  // These lines enable Mermaid support ✅
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     // Replace with your project's social card
     image: 'img/vc-social-card.png',
@@ -60,6 +64,32 @@ const config = {
       sidebar: {
         autoCollapseCategories: true,
         hideable: true,
+      },
+    },
+    // Site-wide Mermaid defaults for consistent sizing
+    mermaid: {
+      theme: { light: 'neutral', dark: 'neutral' },
+      options: {
+        themeVariables: {
+          fontSize: '20px',
+          fontFamily:
+            "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji'",
+          lineColor: '#6B7280',
+          primaryColor: '#FFF7D6',
+          primaryTextColor: '#1F2937',
+          primaryBorderColor: '#F59E0B',
+          tertiaryColor: '#E5F3FF',
+          clusterBkg: '#F9FAFB',
+          edgeLabelBackground: '#FFFFFF',
+          nodeBorderRadius: 8,
+        },
+        flowchart: {
+          nodeSpacing: 50,
+          rankSpacing: 70,
+          padding: 10,
+          htmlLabels: true,
+          curve: 'basis',
+        },
       },
     },
     navbar: {

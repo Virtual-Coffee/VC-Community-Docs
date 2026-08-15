@@ -37,6 +37,49 @@ Let us know your availability for the challenge in the reminder thread that drop
 
 If you have ideas for a new challenge(s), you can propose and discuss them in the `#vc-monthly-challenge-team` channel on Slack or open a new [discussion on GitHub](https://github.com/Virtual-Coffee/VC-Community-Docs/discussions).
 
+Below are diagrams of the Monthly Challenge workflow. Click to expand each section to view the detailed workflow.
+
+<details>
+  <summary>📊 View Workflow Diagrams</summary>
+  <div style={{marginTop: '1rem'}}>
+
+#### Planning + Promoting
+
+```mermaid
+flowchart LR
+  subgraph A["🛠 Planning"]
+    direction TB
+    A1["📢 Team leads receive ideas from members"] --> A2["👥 Team leads pick an idea"] --> A3["☕ Team leads and Coffee Table Group hosts discuss challenge details"]
+  end
+
+  subgraph B["📬 Promoting"]
+    direction TB
+    B1["💬 Update #monthly-challenge channel topic a week before launch"] --> B2["📣 Publish post about the challenge on VC's blog"] --> B3["🧾 Post challenge announcement in #monthly-challenge Slack channel"] --> B4["👩‍💻 Crosspost announcement to other community channels"]
+  end
+
+  A3 --> B1
+```
+
+#### Check-Ins + Post-Challenge
+
+```mermaid
+flowchart LR
+  subgraph A["🧭 Check-ins"]
+    direction TB
+    A1["🗂 Participants set personal goals Mondays at 10 AM"] --> A2["✅ Post thread for async progress updates"] --> A3["🤖 Automate check-ins for certain challenges"]
+  end
+
+  subgraph B["🌟 Post-Challenge"]
+    direction TB
+    B1["🗒️ Collect feedback and takeaways from participants"] --> B2["📰 Publish challenge recap in newsletter or blog"] --> B3["🔄 Plan improvements for future challenges"]
+  end
+
+  A3 --> B1
+```
+
+  </div>
+</details>
+
 ## Before the Challenge
 
 ### Coordinating with the Coffee Table Groups
@@ -105,7 +148,6 @@ Some challenges require daily check-in. You can automate it using the Slack bot.
 
 - Provide feedback in the `#vc-monthly-challenge-team` channel, like what went well and what could've gone better for the challenge. Let us know what support you need and what things you think would be nice to do next time.
 - Update the README file in the challenge's folder with:
-
   - new script templates and things we did for the challenge,
   - the month and year of the challenge,
   - the blog post(s) for the challenge, if any.
