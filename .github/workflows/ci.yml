@@ -36,5 +36,8 @@ jobs:
       - name: Check formatting
         run: pnpm check
 
+      - name: Lint Markdown
+        run: pnpm lint:md
+
       - name: Build site
         run: pnpm build

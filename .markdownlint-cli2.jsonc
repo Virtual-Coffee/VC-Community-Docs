@@ -1,0 +1,18 @@
+{
+  "gitignore": true,
+  "config": {
+    // Prettier owns formatting; drop rules that conflict with it
+    "extends": "markdownlint/style/prettier",
+    // Docusaurus MDX allows inline HTML/JSX
+    "MD033": false,
+    // Frontmatter `title` stands in for the top-level heading
+    "MD041": false,
+    "MD024": { "siblings_only": true },
+    // Bare URLs autolink, and chat scripts are meant to be pasted as-is
+    "MD034": false,
+    // Form-style headings ("Name:") are common in speaker and event docs
+    "MD026": { "punctuation": ".,;!" },
+    // Bold labels inside scripts and checklists are intentional
+    "MD036": false
+  }
+}
