@@ -10,7 +10,7 @@ const config: Config = {
   tagline: 'Community Building Resources by Virtual Coffee Community',
   favicon: 'img/favicon-32x32.png',
 
-  url: 'https://vc-community-docs.netlify.app',
+  url: 'https://docs.virtualcoffee.io',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
