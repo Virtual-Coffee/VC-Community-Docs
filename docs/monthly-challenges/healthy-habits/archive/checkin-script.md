@@ -1,5 +1,6 @@
 ---
 id: checkin-script
+unlisted: true
 title: 'Check-In'
 sidebar_label: 'Check-In'
 keywords:

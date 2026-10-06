@@ -1,5 +1,6 @@
 ---
 id: maintainer-checklist
+unlisted: true
 title: 'Maintainer Checklist'
 sidebar_label: 'Maintainer Checklist'
 keywords:

@@ -1,5 +1,6 @@
 ---
 id: script
+unlisted: true
 title: 'MC Script'
 sidebar_label: 'MC Script'
 keywords:

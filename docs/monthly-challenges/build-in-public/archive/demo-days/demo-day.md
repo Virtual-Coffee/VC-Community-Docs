@@ -1,5 +1,6 @@
 ---
 id: demo-day
+unlisted: true
 title: 'Demo Day Goals'
 sidebar_label: 'Demo Day Goals'
 keywords:

@@ -4,7 +4,7 @@ Welcome to Virtual Coffee's Community Building Resources repository!
 
 This repository contains documentation, procedures, and insights into how we manage various aspects of our tech community. Whether you're looking to understand how we operate and volunteer at Virtual Coffee, start your own community, or improve an existing one, we hope these resources will be valuable to you.
 
-Visit the [Virtual Coffee Community Building Resources website](https://vc-community-docs.netlify.app/) to start exploring!
+Visit the [Virtual Coffee Community Building Resources website](https://docs.virtualcoffee.io/) to start exploring!
 
 ## About Virtual Coffee
 

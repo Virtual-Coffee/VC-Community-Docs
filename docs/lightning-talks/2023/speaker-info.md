@@ -31,7 +31,7 @@ tags:
   <dd>Fearless and Fabulous: Conquering Your Stage One Laugh at a Time</dd>
 
   <dt>Description</dt>
-  
+
   <dt>Bio</dt>
   <dd>Gant Laborde is an owner of Infinite Red, mentor, adjunct professor, published author, and award-winning speaker. For 20 years, he has been involved in software development and continues strong today. He is recognized as a Google Developer Expert in Web and Machine Learning, but informally he is an “open sourcerer” and aspires to one day become a mad scientist. He blogs, videos, and maintains popular repositories for the community. Follow Gant’s adventures at https://gantlaborde.com/</dd>
 </dl>
@@ -41,7 +41,7 @@ tags:
 <dl>
   <dt>Talk Title</dt>
   <dd>Self-Assessment: A Growth Pointer</dd>
-  
+
   <dt>Description</dt>
   <dd>Self-Assessment: A Growth Pointer" is a talk that focuses on the importance of self-assessment in the tech industry. The talk explores how self-assessment can be used as a powerful tool for personal and professional growth and provides practical tips and strategies for implementing it effectively.</dd>
 
@@ -56,7 +56,7 @@ tags:
 <dl>
   <dt>Talk</dt>
   <dd>ChatGPT for Developers</dd>
-  
+
   <dt>Description </dt>
   <dd>
 
@@ -112,7 +112,7 @@ tags:
   <dd>Look for the Holes: Surviving Survivor Bias</dd>
 
   <dt>Description</dt>
-  
+
   <dt>Bio</dt>
   <dd>Independent front-end designer and developer, father, #ADHD person, and Clevelander. He/himIndependent front-end designer and developer, father, #ADHD person, and Clevelander. He/Him</dd>
 </dl>

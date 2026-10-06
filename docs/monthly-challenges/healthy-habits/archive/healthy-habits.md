@@ -1,5 +1,6 @@
 ---
 id: healthy-habits
+unlisted: true
 title: 'Monthly Challenge August 2021'
 sidebar_label: 'Monthly Challenge August 2021'
 keywords:

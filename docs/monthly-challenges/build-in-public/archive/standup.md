@@ -1,5 +1,6 @@
 ---
 id: standup
+unlisted: true
 title: 'Stand Up'
 sidebar_label: 'Stand Up'
 keywords:

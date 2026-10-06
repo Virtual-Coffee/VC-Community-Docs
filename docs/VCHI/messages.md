@@ -1,5 +1,6 @@
 ---
 id: messages
+unlisted: true
 title: 'Mentor-Mentees Pairing Message Template'
 sidebar_label: 'Pairing Message Template'
 keywords:

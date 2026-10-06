@@ -1,5 +1,6 @@
 ---
 id: month-of-learning
+unlisted: true
 title: 'Monthly Challenge for January, 2022: Month of Learning!'
 sidebar_label: 'January, 2022: Month of Learning'
 keywords:

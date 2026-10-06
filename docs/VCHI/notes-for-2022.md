@@ -1,5 +1,6 @@
 ---
 id: notes-for-2022
+unlisted: true
 title: 'New VCHI Website'
 sidebar_label: 'New VCHI Website'
 keywords:

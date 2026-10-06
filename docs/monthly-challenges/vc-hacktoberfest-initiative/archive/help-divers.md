@@ -1,5 +1,6 @@
 ---
 id: help-divers
+unlisted: true
 title: 'Information for New Contributors'
 sidebar_label: 'Information for New Contributors'
 keywords:

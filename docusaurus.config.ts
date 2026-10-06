@@ -1,33 +1,25 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
+import type * as Preset from '@docusaurus/preset-classic'
+import type { Config } from '@docusaurus/types'
+import type { PluginOptions as SearchLocalOptions } from '@easyops-cn/docusaurus-search-local'
 import { themes as prismThemes } from 'prism-react-renderer'
 
-const config = {
+const config: Config = {
   title: 'Virtual Coffee Community Docs',
   tagline: 'Community Building Resources by Virtual Coffee Community',
   favicon: 'img/favicon-32x32.png',
 
-  // Set the production url of your site here
-  url: 'https://vc-community-docs.netlify.app',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://docs.virtualcoffee.io',
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Virtual-Coffee', // Usually your GitHub org/user name.
-  projectName: 'VC-Community-Docs', // Usually your repo name.
-
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -36,25 +28,36 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           routeBasePath: '/',
-          sidebarPath: './sidebars.js',
-          // Make editUrl dynamic
-          // Remove this to remove the "edit this page" links.
-          editUrl: ({ versionDocsDirPath, docPath }) =>
-            `https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/${versionDocsDirPath}/${docPath}`,
+          sidebarPath: './sidebars.ts',
+          editUrl:
+            'https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
+        blog: false,
+        pages: false,
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        docsRouteBasePath: '/',
+        indexBlog: false,
+      } satisfies SearchLocalOptions,
     ],
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/vc-social-card.png',
     docs: {
       sidebar: {
@@ -63,16 +66,15 @@ const config = {
       },
     },
     navbar: {
-      title: 'Virtual Coffee Community Docs',
+      title: 'VC Community Docs',
       logo: {
         alt: 'Virtual Coffee',
         src: 'img/virtual-coffee-mug-circle-bordered.svg',
-        href: 'https://virtualcoffee.io/docs',
       },
       items: [
         {
           href: 'https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md',
-          label: 'Contributing Guidelines',
+          label: 'Contributing',
           position: 'left',
         },
         {
@@ -120,7 +122,7 @@ const config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  },
+  } satisfies Preset.ThemeConfig,
 }
 
 export default config

@@ -1,5 +1,6 @@
 ---
 id: schedule
+unlisted: true
 title: 'Schedule'
 sidebar_label: 'Schedule'
 keywords:

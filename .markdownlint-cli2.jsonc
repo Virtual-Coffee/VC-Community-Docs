@@ -13,6 +13,6 @@
     // Form-style headings ("Name:") are common in speaker and event docs
     "MD026": { "punctuation": ".,;!" },
     // Bold labels inside scripts and checklists are intentional
-    "MD036": false
-  }
+    "MD036": false,
+  },
 }

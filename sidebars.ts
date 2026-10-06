@@ -1,7 +1,7 @@
-// @ts-check
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs'
 
-const sidebars = {
-  sidebarPath: [
+const sidebars: SidebarsConfig = {
+  docs: [
     'README',
     {
       type: 'category',
@@ -97,6 +97,7 @@ const sidebars = {
         'monthly-challenges/blogging-challenge/README',
         'monthly-challenges/build-in-public/README',
         'monthly-challenges/community-kindness/README',
+        'monthly-challenges/creative-community/README',
         'monthly-challenges/create-av-content/README',
         'monthly-challenges/get-job-ready/README',
         'monthly-challenges/vc-hacktoberfest-initiative/README',

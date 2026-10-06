@@ -1,5 +1,6 @@
 ---
 id: feedback
+unlisted: true
 title: 'Feedback'
 sidebar_label: 'Feedback'
 keywords:
