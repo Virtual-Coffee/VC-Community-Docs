@@ -2,6 +2,13 @@
   publish = "build"
   command = "pnpm build"
 
+# Netlify doesn't redirect the netlify.app subdomain to the primary domain on its own
+[[redirects]]
+  from = "https://vc-community-docs.netlify.app/*"
+  to = "https://docs.virtualcoffee.io/:splat"
+  status = 301
+  force = true
+
 # Docs used to live under /docs; keep old links working
 [[redirects]]
   from = "/docs/*"
