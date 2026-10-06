@@ -4,7 +4,7 @@ Welcome to Virtual Coffee's Community Building Resources repository!
 
 This repository contains documentation, procedures, and insights into how we manage various aspects of our tech community. Whether you're looking to understand how we operate and volunteer at Virtual Coffee, start your own community, or improve an existing one, we hope these resources will be valuable to you.
 
-Visit the [Virtual Coffee Community Building Resources website](https://vc-community-docs.netlify.app/docs/) to start exploring!
+Visit the [Virtual Coffee Community Building Resources website](https://vc-community-docs.netlify.app/) to start exploring!
 
 ## About Virtual Coffee
 
@@ -74,7 +74,7 @@ Running the project locally is essential to see your changes in real time and te
    pnpm start
    ```
 
-2. Open the project at `http://localhost:3000/docs` on your browser after the local development server is ready
+2. Open the project at `http://localhost:3000/` on your browser after the local development server is ready
 
 3. Make and test changes
 

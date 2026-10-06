@@ -92,4 +92,4 @@ Interested? Join the `#indie-startup-hackers` Slack channel!
 
 If you'd like to start a new Coffee Table Group or resurrect an inactive group, read the [Guide to Leading a Coffee Table Group](./guides/guide-to-leading-a-coffee-table-group.md) for more information.
 
-If you want to help a particular Coffee Table Group, feel free to reach out to the group's Lead or Meg, our [Weekly Events Maintainer](/README.md#weekly-events-maintainer---meg-gutshall).
+If you want to help a particular Coffee Table Group, feel free to reach out to the group's Lead or Meg, our [Weekly Events Maintainer](../community-roles/maintainers.md#weekly-events-maintainer---meg-gutshall).
