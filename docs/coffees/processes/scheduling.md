@@ -44,7 +44,7 @@ tags:
 Around 12pm et on Monday post in slack for Tuesday. Anytime after Tuesday post for Thursday.
 
 - [Intro question](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/coffees/icebreaker-topics.md)
-- Backpocket Topic (we have some [here](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/coffees/topic-suggestions.md))
+- Backpocket Topic (see our [topic suggestions](https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/coffees/topic-suggestions.md))
 - Assign MC, host, room leaders - notetakers
 
 ### Notes

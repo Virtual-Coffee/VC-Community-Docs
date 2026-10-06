@@ -35,7 +35,7 @@ tags:
 
 ## Speaker: @BekahHW
 
-### Topic Title: The Joy of Dev Life: A Bob Ross Approach
+### Topic title: The Joy of Dev Life: A Bob Ross Approach
 
 ### Bio:
 
@@ -47,11 +47,11 @@ Bekah graduated from the Flatiron School Software Engineering program in May of 
 - Website: https://bekahhw.github.io
 - Virtual Coffee: https://virtualcoffee.io
 
-### Talk Description:
+### Talk description:
 
 Bob Ross once said "[Coders] are a different breed of people. We’re a happy bunch.” Ok, well that's not what he said. He really said, “We artists are a different breed of people. We’re a happy bunch.” But it would be nice if we all were a happy bunch, right? So let's take some of that Bob Ross wisdom and apply it to dev life. And then maybe we, too, can be a happy bunch.
 
-### Slides Link: \{Add slides link\}
+### Slides link: \{Add slides link\}
 
 https://docs.google.com/presentation/d/1APdg8PRbMOek5mNto5vO6tEZVxaxc2tmNh77UfUnhYs/edit#slide=id.gaf319132fd_0_9
 
@@ -77,13 +77,13 @@ I’m a developer who works mostly in Javascript. I build things, talk tech and 
 
 ![signal-2021-02-22-192851](https://user-images.githubusercontent.com/12350042/108725437-61684e00-74f4-11eb-9bea-88fe5e8beb06.jpg)
 
-## Slides Link: [ipfs.pdf](https://github.com/Virtual-Coffee/VC-Community-Docs/files/6030602/ipfs.pdf)
+## Slides link: [ipfs.pdf](https://github.com/Virtual-Coffee/VC-Community-Docs/files/6030602/ipfs.pdf)
 
 ## Time: 11:35 - 11:45
 
 ## Speaker: @Vic
 
-### Topic Title:
+### Topic title:
 
 ### Bio:
 
@@ -94,9 +94,9 @@ Vic is a principal software engineer at Research Square, a preprint platform. Wh
 - VicVijayakumar.com
 - http://twitter.com/vicvijayakumar
 
-### Talk Description:
+### Talk description:
 
-### Slides Link: None.
+### Slides link: none
 
 ### Photo
 
@@ -106,7 +106,7 @@ Vic is a principal software engineer at Research Square, a preprint platform. Wh
 
 ## Speaker: @Barbara
 
-### Topic Title: Coding Challenges - not just for whiteboarding
+### Topic title: Coding Challenges - not just for whiteboarding
 
 ### Bio:
 
@@ -118,11 +118,11 @@ Barbara is currently transitioning into a new career as a full-stack developer f
 - https://barbaralaw.me/
 - https://www.linkedin.com/in/lawbarbara/
 
-### Talk Description:
+### Talk description:
 
 I'm a beginner and want to share how participating in coding challenges like Advent of Code, Scrimba weekly challenges, and Codewars have increased my confidence, opened up communities and conversations for me, and brought focus to my study.
 
-### Slides Link:
+### Slides link:
 
 https://slides.com/blawblawlaw/deck
 
@@ -134,7 +134,7 @@ https://slides.com/blawblawlaw/deck
 
 ## Speaker: @Mike Rogers
 
-### Topic Title: Docker For Developer Happiness
+### Topic title: Docker For Developer Happiness
 
 ### Bio:
 
@@ -146,11 +146,11 @@ Independent Founder & YouTuber from in the UK, who primarily works with Ruby on 
 - https://twitter.com/mikerogers0
 - https://www.youtube.com/c/MikeRogers0
 
-### Talk Description:
+### Talk description:
 
 Docker allowed me to extract lots of my apps complexity by reducing the amount of dependencies I had to install. I want to share information about how to get up & going, with enough working knowledge to have fun :D
 
-### Slides Link:
+### Slides link:
 
 https://talks.mikerogers.io/docker-for-developer-happiness/
 
@@ -162,7 +162,7 @@ https://talks.mikerogers.io/docker-for-developer-happiness/
 
 ## Speaker: Chris Demars
 
-### Topic Title: A11Y
+### Topic title: A11Y
 
 ### Bio:
 
@@ -173,21 +173,21 @@ Chris DeMars is a Developer Advocate at Rocket Mortgage, the nation’s largest 
 Twitter: @saltnburnem
 Twitch: https://www.twitch.tv/saltnburnem313
 
-### Talk Description:
+### Talk description:
 
-### Slides Link: \{Add slides link\}
+### Slides link: \{Add slides link\}
 
 ### Headshot
 
 ![New-Headshot](https://user-images.githubusercontent.com/12350042/108100207-9e939280-7053-11eb-8278-9007df8480c9.png)
 
-## INTERMISSION
+## Intermission
 
 ## Time 12:20-12:35
 
 ### Speaker: @Kirk
 
-### Topic Title: Fuzz-Testing in Typescript
+### Topic title: Fuzz-Testing in Typescript
 
 ### Bio
 
@@ -197,11 +197,11 @@ Twitch: https://www.twitch.tv/saltnburnem313
 
 - @KirkCodes on Twitter
 
-### Talk Description:
+### Talk description:
 
 This talk is a brief introduction to property-based testing by showing examples of the fast-check testing framework in JavaScript. We cover introducing both general and property based tests to a small react application.
 
-### Slides Link:
+### Slides link:
 
 ![Slides](https://github.com/Virtual-Coffee/VC-Community-Docs/files/6047397/property-based-tests.pdf)
 
@@ -213,7 +213,7 @@ This talk is a brief introduction to property-based testing by showing examples 
 
 ## Speaker: Courtney Landau
 
-### Topic Title: Breaking down coding problems in interviews
+### Topic title: Breaking down coding problems in interviews
 
 ### Bio:
 
@@ -224,13 +224,13 @@ Courtney is a software engineer currently working at an early-stage startup in t
 - Twitter: https://twitter.com/sosuperc
 - Website: https://celandau.com
 
-### Talk Description:
+### Talk description:
 
 Courtney will discuss the steps she uses to break down a coding problem during an interview.
 
-### Slides Link: https://docs.google.com/presentation/d/1rYkA9jQvsStPP4Ht9Gw4fVMD4rBBLW6r941QDs7dYIY/edit?usp=sharing
+### Slides link: https://docs.google.com/presentation/d/1rYkA9jQvsStPP4Ht9Gw4fVMD4rBBLW6r941QDs7dYIY/edit?usp=sharing
 
-### headshot
+### Headshot
 
 ## Time 12:45 - 12:55
 
@@ -271,11 +271,11 @@ Marie Antons, from Cedar Rapids Iowa. I changed careers from the culinary indust
 
 ### Speaker: @Nerando
 
-### BIO :
+### Bio :
 
 This is Nerando, he enjoys using programming to solve problems. Nerando has been a community organizer for freeCodeCamp Atlanta for over the last two - three years. Most recently, he recently completed the Flatiron School's FullStack Software Engineering Immersive (completed Sept 2019) and has been a QA/ Jnr Software Engineer at WarnerMedia. He like to cook and collect Legoes.
 
-### Contact Links :
+### Contact links :
 
 Twitter : https://twitter.com/nerajno
 Email: Iamnerandojohnson@gmail.com
@@ -292,7 +292,7 @@ Link: ![Slides](https://docs.google.com/presentation/d/1KIRZr4dLWEAvhisi_wMdhjrW
 
 ### Speaker: @Todd Libby
 
-### Topic Title
+### Topic title
 
 Start your A11y Journey: How to Become an Accessibility Advocate
 
@@ -315,9 +315,9 @@ https://linkedin.com/in/todd-libby - LinkedIn
 https://open.spotify.com/user/six03?si=h_wUqMMBToCc90h8HSBteQ - Spotify
 and the Front End Nerdery Discord - https://discord.gg/JpdV2Srvs7
 
-### Talk Description
+### Talk description
 
-### Slides Link
+### Slides link
 
 https://drive.google.com/file/d/1llbuL__Gu9uworXXSTdyKw1LMrctIblg/view?usp=sharing
 
@@ -329,7 +329,7 @@ https://drive.google.com/file/d/1llbuL__Gu9uworXXSTdyKw1LMrctIblg/view?usp=shari
 
 ## Speaker: @DanOtt
 
-### Topic Title: Graceful Solutions to Tricky Layouts w/ CSS Grid
+### Topic title: Graceful Solutions to Tricky Layouts w/ CSS Grid
 
 ### Bio:
 
@@ -339,10 +339,10 @@ Dan Ott has been an independent front-end designer and developer for over 15 yea
 
 Web: https://dtott.com Twitter: https://twitter.com/danieltott
 
-### Talk Description:
+### Talk description:
 
 Layout on web pages has always been a bit of a hack. The first web pages were simply documents, and so HTML (and later, CSS) had tools simply for enhancing the look and feel of a document, as opposed to placing elements in certain areas on a page. At some point designers started trying to make web pages that looked more like magazine articles or computer applications, but had to work with document-related tools to do so. Table layouts, CSS positioning, floats, even flexbox - none of these technologies were initially meant for page layout. CSS Grid is that tool. CSS Grid is powerful and complex, and introduces syntax and concepts to CSS that have not been seen before. This can make getting started with it seem overwhelming even for an experienced developer! In this Lightning Talk, I'm going to concentrate on a small chunk of the CSS Grid spec, and show some examples of how CSS Grid can solve some common-but-annoying layouts with just a few lines of CSS, and if we have time, maybe look at some cool tricks along the way.
 
-### Slides Link: n/a
+### Slides link: n/a
 
 ### Photo ![dan 2021 s](https://user-images.githubusercontent.com/360261/108754534-0b0b0780-7514-11eb-8916-e9fbd2c988b2.jpg)

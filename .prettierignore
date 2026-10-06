@@ -1,6 +1,7 @@
 .git/
 node_modules/
 *.lock
+pnpm-lock.yaml
 .husky/
 .docusaurus
 build

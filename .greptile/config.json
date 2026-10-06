@@ -1,0 +1,35 @@
+{
+  "strictness": 2,
+  "commentTypes": ["logic", "syntax", "style"],
+  "autoReview": ["open", "push"],
+  "triggerOnDrafts": false,
+  "excludeAuthors": ["dependabot[bot]", "renovate[bot]"],
+  "ignorePatterns": "pnpm-lock.yaml\nbuild/**\n.docusaurus/**\nnode_modules/**",
+  "instructions": "Docusaurus 3 site holding Virtual Coffee's community-building docs. Nearly every PR is Markdown under docs/, often from first-time contributors, so keep feedback kind, specific and actionable. Prettier and markdownlint run in CI, so do not comment on formatting.",
+  "rules": [
+    {
+      "id": "sidebar-sync",
+      "rule": "A doc added, renamed, moved or deleted under docs/ must have a matching entry change in sidebars.js. Doc IDs are the path relative to docs/ without the file extension; README.md stays as <dir>/README.",
+      "scope": ["docs/**", "sidebars.js"],
+      "severity": "high"
+    },
+    {
+      "id": "links-resolve",
+      "rule": "Relative links and image paths must point to files that exist in the repo. The site build fails on broken links (onBrokenLinks: 'throw').",
+      "scope": ["docs/**"],
+      "severity": "high"
+    },
+    {
+      "id": "sentence-case-headings",
+      "rule": "Headings use sentence case: capitalize only the first word and proper nouns (e.g. Virtual Coffee, GitHub, Lightning Talks).",
+      "scope": ["docs/**", "*.md"],
+      "severity": "low"
+    },
+    {
+      "id": "image-alt-text",
+      "rule": "Every image must have descriptive alt text that conveys what the image shows; empty or filename-style alt text is not allowed.",
+      "scope": ["docs/**", "*.md"],
+      "severity": "medium"
+    }
+  ]
+}
