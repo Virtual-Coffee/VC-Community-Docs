@@ -55,7 +55,6 @@ const config: Config = {
       logo: {
         alt: 'Virtual Coffee',
         src: 'img/virtual-coffee-mug-circle-bordered.svg',
-        href: 'https://virtualcoffee.io/docs',
       },
       items: [
         {
