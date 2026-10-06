@@ -49,7 +49,8 @@ We appreciate everyone’s efforts, and want to ensure that our communication is
 
 - You can propose changes using GitHub's web interface, or by forking this repository and cloning it locally.
   - Follow [these steps](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) to create a fork (a copy for your own GitHub account) of this repository and clone it to your local machine.
-  - After cloning, install the dependencies by navigating to the working directory and running the command `yarn`.
+  - After cloning, install the dependencies by navigating to the working directory and running the command `pnpm install`.
+  - Before you push, run `pnpm format` to format your changes and `pnpm lint:md` to check your Markdown. Pull requests run both checks plus a full site build.
 - Try to keep the pull requests small. A pull request should try its very best to address only a single concern.
   - Do the same for your commit messages. It is good practice to commit your work often. If your commit message contains the word "and", the changes should be broken into two commits.
 - For work in progress pull requests, please use [the Draft PR feature](https://github.blog/2019-02-14-introducing-draft-pull-requests/). You may even want to add "WIP" to the beginning of your pull request title, just don't forget to remove it before you submit your PR!
