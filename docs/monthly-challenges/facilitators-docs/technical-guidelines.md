@@ -33,7 +33,7 @@ tags:
 
 Monthly Challenge team communication and facilitation mostly takes place in Slack and GitHub. In this page, you will find a guide on how to work with Slack and update the website for the monthly challenge.
 
-## Updating the `#monthly-challenge` Channel's Topic and Description on Slack
+## Updating the `#monthly-challenge` channel's topic and description on Slack
 
 1. Click the down arrow next to the channel's name.
 
@@ -44,15 +44,15 @@ Monthly Challenge team communication and facilitation mostly takes place in Slac
 
    ![Topic and Description sections under the channel name's About Tab](../../_assets/images/edit-channel-topic-and-description.png)
 
-## Setting Up a Slack Bot
+## Setting up a Slack bot
 
 You can set up a Slack bot to drop a reminder and schedule a thread from your personal account.
 
-### Creating a Slack Reminder
+### Creating a Slack reminder
 
 Some challenges require regular reminders during the challenge that drops daily or weekly. You can read the guide on how to set a reminder on the official [Slack help center](https://slack.com/help/articles/208423427-Set-a-reminder).
 
-### Scheduling a Thread
+### Scheduling a thread
 
 Sometimes, you want to write a customized thread directly from your account, such as weekly check-ins. If you need to post the thread in a particular hour, you can schedule it by following the below instructions on your desktop:
 
@@ -67,7 +67,7 @@ Sometimes, you want to write a customized thread directly from your account, suc
 
    !['Schedule message' options in a message input on Slack to set the day and time of publishing. The available options are 'Later today at 13:00', 'Monday at 09:00', and 'Custom time'](../../_assets/images/slack-schedule-message.png)
 
-## Updating the Monthly Challenge Pages on the Website
+## Updating the monthly challenge pages on the website
 
 Even though most of our challenges remain the same as in previous years, we also create new challenges whenever there's a demand or when we feel it benefits our community. We make this information available on our Monthly Challenge pages.
 
