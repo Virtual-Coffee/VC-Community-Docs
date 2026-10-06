@@ -1,3 +1,9 @@
 [build]
   publish = "build"
   command = "pnpm build"
+
+# Docs used to live under /docs; keep old links working
+[[redirects]]
+  from = "/docs/*"
+  to = "/:splat"
+  status = 301
