@@ -66,7 +66,7 @@ const config: Config = {
       },
     },
     navbar: {
-      title: 'Virtual Coffee Community Docs',
+      title: 'VC Community Docs',
       logo: {
         alt: 'Virtual Coffee',
         src: 'img/virtual-coffee-mug-circle-bordered.svg',
