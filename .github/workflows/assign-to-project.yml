@@ -14,42 +14,42 @@ jobs:
     name: Assign to One Project
     steps:
       - name: 'Assign issues with `Lightning Talks: TODO` label to TODO project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.issue.labels.*.name, 'Lightning Talks: TODO')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Community-Docs/projects/1'
           column_name: 'To do'
       - name: 'Assign issues with `Lightning Talk: Individual Talk` label to planning project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.issue.labels.*.name, 'Lightning Talk: Individual Talk')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Community-Docs/projects/2'
           column_name: 'Unassigned'
       - name: 'Assign issues with `Lightning Talks: Post-production` label to post production project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.issue.labels.*.name, 'Lightning Talks: Post-production')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Community-Docs/projects/6'
           column_name: 'Inbox'
       - name: 'Assign issues with `Lunch & Learn: Event` label to Lunch & Learn planning project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.issue.labels.*.name, 'Lunch & Learn: Event')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Community-Docs/projects/5'
           column_name: 'Inbox'
       - name: 'Assign issues with `Lunch & Learn: Post-production` label to post-production project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.issue.labels.*.name, 'Lunch & Learn: Post-production')
         with:
           project: 'https://github.com/Virtual-Coffee/VC-Community-Docs/projects/6'
           column_name: 'Inbox'
       - name: 'Assign pull requests with `Lunch & Learn: Post-production` label to post-production project'
-        uses: srggrs/assign-one-project-github-action@1.2.0
+        uses: srggrs/assign-one-project-github-action@65a8ddab497df42ef268001e67bbf976f8fd39e1 # 1.3.1
         if: |
           contains(github.event.pull_request.labels.*.name, 'Lunch & Learn: Post-production')
         with:
