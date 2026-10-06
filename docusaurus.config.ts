@@ -31,8 +31,8 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          editUrl: ({ versionDocsDirPath, docPath }) =>
-            `https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/${versionDocsDirPath}/${docPath}`,
+          editUrl:
+            'https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/',
         },
         blog: false,
         theme: {
