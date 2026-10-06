@@ -2,6 +2,7 @@
 
 import type * as Preset from '@docusaurus/preset-classic'
 import type { Config } from '@docusaurus/types'
+import type { PluginOptions as SearchLocalOptions } from '@easyops-cn/docusaurus-search-local'
 import { themes as prismThemes } from 'prism-react-renderer'
 
 const config: Config = {
@@ -41,6 +42,17 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        docsRouteBasePath: '/',
+        indexBlog: false,
+      } satisfies SearchLocalOptions,
     ],
   ],
 
