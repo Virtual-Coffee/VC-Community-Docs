@@ -74,7 +74,7 @@ const config: Config = {
       items: [
         {
           href: 'https://github.com/Virtual-Coffee/VC-Community-Docs/blob/main/CONTRIBUTING.md',
-          label: 'Contributing Guidelines',
+          label: 'Contributing',
           position: 'left',
         },
         {
