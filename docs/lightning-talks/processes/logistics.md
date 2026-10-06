@@ -1,5 +1,6 @@
 ---
 id: logistics
+unlisted: true
 title: 'Roles and Timeline (WIP)'
 sidebar_label: 'Roles and Timeline (WIP)'
 keywords:

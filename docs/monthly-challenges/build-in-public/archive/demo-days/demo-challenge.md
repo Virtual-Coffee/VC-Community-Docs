@@ -1,5 +1,6 @@
 ---
 id: demo-challenge
+unlisted: true
 title: 'Monthly Challenge July 2021'
 sidebar_label: 'Monthly Challenge July 2021'
 keywords:

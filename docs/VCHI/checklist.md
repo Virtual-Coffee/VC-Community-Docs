@@ -1,5 +1,6 @@
 ---
 id: checklist
+unlisted: true
 title: 'Hacktoberfest Checklist'
 sidebar_label: 'Hacktoberfest Checklist'
 keywords:

@@ -1,5 +1,6 @@
 ---
 id: end-of-challenge
+unlisted: true
 title: 'End of Challenge'
 sidebar_label: 'End of Challenge'
 keywords:

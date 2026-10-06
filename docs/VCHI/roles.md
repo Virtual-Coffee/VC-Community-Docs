@@ -1,5 +1,6 @@
 ---
 id: roles
+unlisted: true
 title: 'Hacktoberfest Initiative Roles'
 sidebar_label: 'Hacktoberfest Initiative Roles'
 keywords:

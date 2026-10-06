@@ -1,5 +1,6 @@
 ---
 id: demo-days-script
+unlisted: true
 title: 'Demo Day Script'
 sidebar_label: 'Demo Day Script'
 keywords:

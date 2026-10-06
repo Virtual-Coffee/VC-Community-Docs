@@ -1,5 +1,6 @@
 ---
 id: facilitator-docs
+unlisted: true
 title: 'What to do to complete the challenge'
 sidebar_label: 'Completing the Challenge'
 keywords:

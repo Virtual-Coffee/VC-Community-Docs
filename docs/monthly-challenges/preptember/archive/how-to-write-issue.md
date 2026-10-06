@@ -1,5 +1,6 @@
 ---
 id: how-to-write-issue
+unlisted: true
 title: 'How to Write a Good Issue'
 sidebar_label: 'How to Write a Good Issue'
 keywords:
