@@ -189,7 +189,7 @@ What motivated you to pursue a career in technology? Is it the same thing that k
 What are the most painful barriers to entry for being "in tech"? What should we do to reduce these blockers?
 Does having close family or friends in tech help or hinder you in your tech journey?
 
-### User experiences.
+### User experiences
 
 - As developers, we create technologies, but in our daily lives, we're consumers like everyone else. What user experiences online frustrate/baffle you, and how do those inform your decisions as a developer? Conversely, have you ever experience a UI/UX that brought joy or relief?
 

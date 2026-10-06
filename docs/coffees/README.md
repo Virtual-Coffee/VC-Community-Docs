@@ -78,7 +78,7 @@ If you have any questions, feel free to ask in the slack channel or on the [disc
 
 Each week on Monday morning at 6am PT / 7am MT / 8am CT / 9am ET / 2pm UTC a slackbot makes an `@channel` announcement in the `#vc-room-leaders-notetakers` Slack channel (times below are in North American Central Time):
 
-```
+```text
 Slackbot  8:00 AM
 Reminder: @channel Hey friends,  who's available this week and is up for leading or taking notes? Both days posted below. Click :memo: for notetaker, a :speech_balloon: for room leader--feel free to click both--or an :x: if you aren't available or up for it.
 

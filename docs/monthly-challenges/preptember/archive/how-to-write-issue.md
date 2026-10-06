@@ -33,7 +33,7 @@ tags:
 
 ## What are issues?
 
-![](https://media.giphy.com/media/l0Hlxr9SGCcw4wHS0/giphy.gif?cid=ecf05e479vadpfiew88x5p9xexl54sgthscqw7c1ejf47hvb&rid=giphy.gif&ct=g)
+![Cartoon teacher at a chalkboard saying "I would like to turn the class's attention to current issues."](https://media.giphy.com/media/l0Hlxr9SGCcw4wHS0/giphy.gif?cid=ecf05e479vadpfiew88x5p9xexl54sgthscqw7c1ejf47hvb&rid=giphy.gif&ct=g)
 
 Issues are a way to list and keep track all the tasks that need to be done in a GitHub repository.
 Whether they identify a bug, or announce a project of feature, issues can be created by anybody.

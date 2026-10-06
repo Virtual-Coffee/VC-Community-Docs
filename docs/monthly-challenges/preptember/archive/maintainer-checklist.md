@@ -49,7 +49,7 @@ You may find this trivial, but these are first and most straightforward way gith
 
 ![A good open source description](https://user-images.githubusercontent.com/13292886/132138464-242c7d64-8b64-4595-b045-8bf028638b43.png)
 
-## Docs, Docs, Docs,
+## Docs, Docs, Docs
 
 At the end of the day, all we know of a project before we start it is what we say, and what the maintainer tells us. Having good documentation is the best indicator that a project is well maintained, well supported, and has a healthy and active community. There are a plethora of materials a repo can utilize to provide context to potential contributors, but the docs that matters most are:
 

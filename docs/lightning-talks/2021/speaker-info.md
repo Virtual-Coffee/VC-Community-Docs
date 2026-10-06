@@ -96,7 +96,7 @@ Vic is a principal software engineer at Research Square, a preprint platform. Wh
 
 ### Talk Description:
 
-### Slides Link: None.
+### Slides Link: None
 
 ### Photo
 
