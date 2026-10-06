@@ -97,6 +97,7 @@ const sidebars: SidebarsConfig = {
         'monthly-challenges/blogging-challenge/README',
         'monthly-challenges/build-in-public/README',
         'monthly-challenges/community-kindness/README',
+        'monthly-challenges/creative-community/README',
         'monthly-challenges/create-av-content/README',
         'monthly-challenges/get-job-ready/README',
         'monthly-challenges/vc-hacktoberfest-initiative/README',
