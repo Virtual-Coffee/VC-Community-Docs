@@ -38,6 +38,7 @@ const config: Config = {
           showLastUpdateAuthor: true,
         },
         blog: false,
+        pages: false,
         theme: {
           customCss: './src/css/custom.css',
         },
