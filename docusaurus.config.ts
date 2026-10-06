@@ -34,6 +34,7 @@ const config: Config = {
           editUrl: ({ versionDocsDirPath, docPath }) =>
             `https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/${versionDocsDirPath}/${docPath}`,
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
