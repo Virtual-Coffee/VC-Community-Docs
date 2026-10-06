@@ -9,10 +9,7 @@ const config: Config = {
   tagline: 'Community Building Resources by Virtual Coffee Community',
   favicon: 'img/favicon-32x32.png',
 
-  // Set the production url of your site here
   url: 'https://vc-community-docs.netlify.app',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
@@ -22,9 +19,6 @@ const config: Config = {
     },
   },
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -37,8 +31,6 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Make editUrl dynamic
-          // Remove this to remove the "edit this page" links.
           editUrl: ({ versionDocsDirPath, docPath }) =>
             `https://github.com/Virtual-Coffee/VC-Community-Docs/edit/main/${versionDocsDirPath}/${docPath}`,
         },
@@ -50,7 +42,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/vc-social-card.png',
     docs: {
       sidebar: {
