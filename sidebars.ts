@@ -1,6 +1,6 @@
-// @ts-check
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs'
 
-const sidebars = {
+const sidebars: SidebarsConfig = {
   sidebarPath: [
     'README',
     {

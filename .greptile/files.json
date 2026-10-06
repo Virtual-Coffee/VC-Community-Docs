@@ -1,11 +1,11 @@
 {
   "files": [
     {
-      "path": "sidebars.js",
+      "path": "sidebars.ts",
       "description": "Docusaurus sidebar: every doc under docs/ must be listed here by doc ID"
     },
     {
-      "path": "docusaurus.config.js",
+      "path": "docusaurus.config.ts",
       "description": "Site config: docs route base, sidebar path and broken-link behavior"
     }
   ]

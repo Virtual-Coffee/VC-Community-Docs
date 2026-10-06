@@ -9,8 +9,8 @@
   "rules": [
     {
       "id": "sidebar-sync",
-      "rule": "A doc added, renamed, moved or deleted under docs/ must have a matching entry change in sidebars.js. Doc IDs are the path relative to docs/ without the file extension; README.md stays as <dir>/README.",
-      "scope": ["docs/**", "sidebars.js"],
+      "rule": "A doc added, renamed, moved or deleted under docs/ must have a matching entry change in sidebars.ts. Doc IDs are the path relative to docs/ without the file extension; README.md stays as <dir>/README.",
+      "scope": ["docs/**", "sidebars.ts"],
       "severity": "high"
     },
     {
