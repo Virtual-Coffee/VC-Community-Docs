@@ -14,7 +14,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "format": "prettier --ignore-unknown --list-different --write .",
-    "check": "prettier --ignore-unknown --list-different --check ."
+    "check": "prettier --ignore-unknown --check ."
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
