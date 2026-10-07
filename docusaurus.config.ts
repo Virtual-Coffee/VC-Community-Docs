@@ -59,6 +59,25 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/vc-social-card.png',
+    // Site-wide default; a doc's `keywords` front matter replaces it.
+    metadata: [
+      {
+        name: 'keywords',
+        content: [
+          'virtual coffee community',
+          'community guides',
+          'community documentation',
+          'tech community',
+          'online tech community',
+          'community management',
+          'community building',
+          'building a strong community',
+          'guidelines for online community',
+          'online community building strategies',
+          'effective community management techniques',
+        ].join(', '),
+      },
+    ],
     docs: {
       sidebar: {
         autoCollapseCategories: true,
