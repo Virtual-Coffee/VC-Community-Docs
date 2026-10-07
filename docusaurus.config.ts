@@ -5,6 +5,21 @@ import type { Config } from '@docusaurus/types'
 import type { PluginOptions as SearchLocalOptions } from '@easyops-cn/docusaurus-search-local'
 import { themes as prismThemes } from 'prism-react-renderer'
 
+// A doc's `keywords` front matter is added to these, not swapped for them.
+const siteKeywords = [
+  'virtual coffee community',
+  'community guides',
+  'community documentation',
+  'tech community',
+  'online tech community',
+  'community management',
+  'community building',
+  'building a strong community',
+  'guidelines for online community',
+  'online community building strategies',
+  'effective community management techniques',
+]
+
 const config: Config = {
   title: 'Virtual Coffee Community Docs',
   tagline: 'Community Building Resources by Virtual Coffee Community',
@@ -17,6 +32,16 @@ const config: Config = {
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'throw',
+    },
+    parseFrontMatter: async (params) => {
+      const result = await params.defaultParseFrontMatter(params)
+      const { keywords } = result.frontMatter
+      if (Array.isArray(keywords)) {
+        result.frontMatter.keywords = [
+          ...new Set([...siteKeywords, ...keywords]),
+        ]
+      }
+      return result
     },
   },
 
@@ -59,25 +84,8 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/vc-social-card.png',
-    // Site-wide default; a doc's `keywords` front matter replaces it.
-    metadata: [
-      {
-        name: 'keywords',
-        content: [
-          'virtual coffee community',
-          'community guides',
-          'community documentation',
-          'tech community',
-          'online tech community',
-          'community management',
-          'community building',
-          'building a strong community',
-          'guidelines for online community',
-          'online community building strategies',
-          'effective community management techniques',
-        ].join(', '),
-      },
-    ],
+    // For pages without `keywords` front matter (most docs, search, 404).
+    metadata: [{ name: 'keywords', content: siteKeywords.join(', ') }],
     docs: {
       sidebar: {
         autoCollapseCategories: true,
