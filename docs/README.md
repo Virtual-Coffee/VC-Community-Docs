@@ -2,18 +2,6 @@
 id: README
 title: 'Virtual Coffee Community Building Resources'
 sidebar_label: 'Introduction'
-keywords:
-  - 'virtual coffee community'
-  - 'community guides'
-  - 'community documentation'
-  - 'tech community'
-  - 'online tech community'
-  - 'community management'
-  - 'community building'
-  - 'building a strong community'
-  - 'guidelines for online community'
-  - 'online community building strategies'
-  - 'effective community management techniques'
 tags:
   - 'introduction'
 ---
