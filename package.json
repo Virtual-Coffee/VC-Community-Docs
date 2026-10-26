@@ -30,7 +30,7 @@
     "@docusaurus/plugin-content-docs": "3.10.2",
     "@docusaurus/tsconfig": "3.10.2",
     "@docusaurus/types": "3.10.2",
-    "markdownlint-cli2": "^0.23.3",
+    "markdownlint-cli2": "^0.24.0",
     "prettier": "^3.0.0",
     "typescript": "^7.0.2"
   },
